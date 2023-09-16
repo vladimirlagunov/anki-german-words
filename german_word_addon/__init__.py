@@ -1,4 +1,5 @@
 # import the main window object (mw) from aqt
+from anki.notes import Note
 from aqt import mw
 # import all of the Qt GUI library
 from aqt.qt import *
@@ -58,6 +59,14 @@ from aqt.editor import Editor
 def my_custom_function(editor: Editor):
     print("Button clicked!")
     # Your custom code here
+    from pprint import pprint
+    pprint(editor.__dict__)
+    # pprint(editor.note.__dict__)
+    note: Note = editor.note
+    note['Word'] = 'foobar'
+    editor.loadNote()
+
+    #editor.web.eval()
 
 
 def add_my_button(buttons, editor):
