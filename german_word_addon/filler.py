@@ -1,3 +1,4 @@
+from PyQt6 import QtGui
 from PyQt6.QtCore import QObject, pyqtSignal
 
 import json
@@ -5,8 +6,20 @@ import pprint
 import re
 import urllib.parse
 import urllib.request
+from aqt import qconnect, dialogs
+from aqt.addcards import AddCards
+from aqt.browser import Browser
 from aqt.utils import showWarning
-from typing import Callable, Iterator
+from typing import Callable, Iterator, Optional
+
+_universal_german_word_template_name = 'Universal German word template'
+
+
+def get_universal_german_word_note_type(mw) -> Optional['anki.models.NotetypeDict']:
+    if (expected_note_type := mw.col.models.by_name(_universal_german_word_template_name)) is None:
+        showWarning(
+            f'There must be a note template called `{_universal_german_word_template_name}`. It is used for generating cards.')
+    return expected_note_type
 
 
 def fill_german_word_fields(editor: 'aqt.editor.Editor'):
@@ -14,16 +27,13 @@ def fill_german_word_fields(editor: 'aqt.editor.Editor'):
     # pprint(editor.__dict__)
     # pprint(editor.note.__dict__)
 
-    expected_note_type: 'anki.models.NotetypeDict'
-    template_name = 'Universal German word template'
-    if (expected_note_type := editor.mw.col.models.by_name(template_name)) is None:
-        showWarning(f'There must be a note template called `{template_name}`. It is used for generating cards.')
+    if not (expected_note_type := get_universal_german_word_note_type(editor.mw)):
         return
 
     note: 'anki.notes.Note' = editor.note
     if note.note_type() is None or note.note_type()['name'] != expected_note_type['name']:
         actual_name = note.note_type()['name'] if note.note_type() else None
-        showWarning(f'The note type must be `{template_name}`, but it is `{actual_name}`.')
+        showWarning(f'The note type must be `{_universal_german_word_template_name}`, but it is `{actual_name}`.')
         return
 
     _fill_card(editor)
@@ -88,9 +98,16 @@ def _fill_card(editor: 'aqt.editor.Editor'):
     note['Word'] = word
     print("Checking word:", word)
 
+    _fill_note_from_wiktionary(note)
+
+    editor.loadNote()
+    print("done")
+
+
+def _fill_note_from_wiktionary(note):
+    word = note['Word']
     wiktionary = _wiktionary_entry(word)
     pprint.pprint(wiktionary)
-
     # categories = [
     #     'Adjektiv',
     #     'Adverb',
@@ -102,9 +119,7 @@ def _fill_card(editor: 'aqt.editor.Editor'):
     #     'Substantiv',
     #     'Verb',
     # ]
-
     lines = iter(wiktionary.split('\n'))
-
     for line in lines:
         if line.startswith('{{Deutsch Substantiv Übersicht'):
             _fill_substantiv(note, lines)
@@ -112,9 +127,6 @@ def _fill_card(editor: 'aqt.editor.Editor'):
             _fill_verb(note, lines)
         elif line.startswith('*{{ru}}: {{Ü'):
             note['WordTranslation'] = note['WordTranslation'] or line.split('|')[-1].split('}')[0]
-
-    editor.loadNote()
-    print("done")
 
 
 def _fill_substantiv(note: 'anki.notes.Note', lines: Iterator[str]) -> None:
@@ -963,3 +975,55 @@ def add_my_button(buttons, editor):
 def on_setup_webview(editor):
     # editor._links['myButton'] = fill_german_word_fields
     pass
+
+
+def on_browser_setup_menus(browser: Browser):
+    browser.form.menu_Notes.addSeparator()
+
+    action = QtGui.QAction(parent=browser)
+    action.setText("Make Universal German Card")
+    action.setShortcut("Meta+G")
+    qconnect(action.triggered, lambda: on_make_universal_german_card(browser))
+
+    browser.form.menu_Notes.addAction(action)
+
+
+def on_make_universal_german_card(browser: Browser):
+    if not (card := browser.card):
+        return
+
+    mw = browser.mw
+    if not (note_type := get_universal_german_word_note_type(mw)):
+        return
+
+    old_note = card.note()
+    if old_note.note_type() == note_type:
+        new_note = old_note
+    else:
+        new_note = mw.col.new_note(note_type)
+
+    add_cards_dialog: AddCards = dialogs.open("AddCards", mw)
+    add_cards_dialog.set_note(new_note, None)
+
+    from . import converter
+
+    german_note = converter.convert(dict(old_note.items()))
+    if not german_note:
+        return
+
+    new_note['Word'] = new_note['Word'] or german_note.word
+    new_note['WordTranslation'] = new_note['WordTranslation'] or german_note.translation
+    new_note['Explanation'] = new_note['Explanation'] or german_note.explanation
+
+    for de, ru in german_note.examples:
+        for suffix in ['', '2', '3']:
+            if not new_note[f'FrontExample{suffix}'] and not new_note[f'BackExample{suffix}']:
+                new_note[f'FrontExample{suffix}'] = de
+                new_note[f'BackExample{suffix}'] = ru
+                break
+        else:
+            break
+
+    _fill_note_from_wiktionary(new_note)
+
+    add_cards_dialog.editor.loadNote()
