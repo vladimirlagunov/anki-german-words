@@ -108,6 +108,10 @@ def _fill_note_from_wiktionary(note):
     word = note['Word'].replace("sich", "").strip()
     wiktionary = _wiktionary_entry(word)
     pprint.pprint(wiktionary)
+
+    if not wiktionary:
+        return
+
     # categories = [
     #     'Adjektiv',
     #     'Adverb',

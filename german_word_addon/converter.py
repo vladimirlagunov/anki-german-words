@@ -20,12 +20,14 @@ def convert(source_note: Dict[str, str]) -> GermanNote:
             source_note.get('Слово')
             or source_note.get('Infinitiv')
             or source_note.get('Front')
+            or source_note.get('Вопрос')
             or ''
     )
 
     back_raw: str = (
             source_note.get('Перевод')
             or source_note.get('Back')
+            or source_note.get('Ответ')
             or ''
     )
 
@@ -56,6 +58,8 @@ def convert(source_note: Dict[str, str]) -> GermanNote:
         )
         word = word.split('-', 1)[0]
         word = word.split(',', 1)[0]
+        word = word.split('(', 1)[0]
+        word = word.strip()
 
         translation = next(back_iter)
 

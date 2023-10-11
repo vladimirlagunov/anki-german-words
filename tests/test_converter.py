@@ -50,6 +50,9 @@ from german_word_addon.converter import convert, GermanNote
                      'Если вы не знаете, куда идете, вы будете удивлены, что оказались в другом месте.')
                 ])),
 
+    ({'Вопрос': 'der Frosch -:e', 'Ответ': 'лягушка'},
+     GermanNote(word='Frosch', translation='лягушка'))
+
     # ({'Back': 'оборот, товарооборот',
     #   'BackExample': 'Я хочу 10% от оборота.\n',
     #   'BackExample2': 'Их оборот составляет 14 миллионов долларов в год.',
