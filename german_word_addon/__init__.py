@@ -1,5 +1,6 @@
-import os
 import sys
+
+import os
 from . import filler
 
 if os.environ.get('ANKIDEV'):

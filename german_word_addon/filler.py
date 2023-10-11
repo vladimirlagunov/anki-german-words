@@ -10,7 +10,7 @@ from aqt import qconnect, dialogs
 from aqt.addcards import AddCards
 from aqt.browser import Browser
 from aqt.utils import showWarning
-from typing import Callable, Iterator, Optional
+from typing import Callable, Iterator, Optional, Tuple
 
 _universal_german_word_template_name = 'Universal German word template'
 
@@ -93,7 +93,7 @@ def _fill_card(editor: 'aqt.editor.Editor'):
         .removeprefix('das ')
         .rstrip()
     )
-    word = re.sub('-.*', '', word)
+    word = re.sub('[-(].*', '', word)
 
     note['Word'] = word
     print("Checking word:", word)
@@ -105,7 +105,7 @@ def _fill_card(editor: 'aqt.editor.Editor'):
 
 
 def _fill_note_from_wiktionary(note):
-    word = note['Word']
+    word = note['Word'].replace("sich", "").strip()
     wiktionary = _wiktionary_entry(word)
     pprint.pprint(wiktionary)
     # categories = [
@@ -1001,13 +1001,18 @@ def on_make_universal_german_card(browser: Browser):
         new_note = old_note
     else:
         new_note = mw.col.new_note(note_type)
+        old_note.tags.append("delete")
+        old_note.col.update_note(old_note)
 
     add_cards_dialog: AddCards = dialogs.open("AddCards", mw)
     add_cards_dialog.set_note(new_note, None)
 
     from . import converter
 
-    german_note = converter.convert(dict(old_note.items()))
+    old_note_dict = dict(old_note.items())
+    pprint.pprint(old_note_dict)
+    german_note = converter.convert(old_note_dict)
+    pprint.pprint(german_note)
     if not german_note:
         return
 
