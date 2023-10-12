@@ -23,6 +23,6 @@ if os.environ.get('ANKIDEV'):
 if "pytest" not in sys.modules:
     from anki.hooks import addHook
 
-    addHook("setupEditorButtons", lambda *a, **kw: filler.add_my_button(*a, **kw))
+    addHook("setupEditorButtons", lambda *a, **kw: filler.add_my_buttons(*a, **kw))
     addHook("setupEditorWebView", lambda *a, **kw: filler.on_setup_webview(*a, **kw))
     addHook("browser.setupMenus", lambda *a, **kw: filler.on_browser_setup_menus(*a, **kw))

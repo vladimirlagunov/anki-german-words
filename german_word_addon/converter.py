@@ -38,7 +38,7 @@ def convert(source_note: Dict[str, str]) -> GermanNote:
     front_iter, back_iter = [
         iter(filter(None, (
             re.sub(r'\s+', ' ', l).strip()
-            for l in html_to_text(r).split('\n')
+            for l in html_to_text(re.sub(r'\s+', ' ', r, re.MULTILINE | re.DOTALL).strip()).split('\n')
         )))
         for r in [front_raw, back_raw]
     ]
@@ -138,13 +138,13 @@ def parse_note_from_wiktionary(wiktionary: str) -> Dict[str, Set[str]]:
 
 
 def _fill_substantiv(note: Dict[str, str], lines: Iterator[str]) -> None:
-    plural = []
+    plural = set()
     for line in lines:
         line = line.strip()
         if line == '}}':
             break
         elif m := re.match('^[|]Nominativ Plural[^=]*=(.*)$', line):
-            plural.append(m.group(1))
+            plural.add(m.group(1))
         elif line == '|Genus=m':
             note['DerDieDas'].add('der')
         elif line == '|Genus=f':
@@ -153,8 +153,8 @@ def _fill_substantiv(note: Dict[str, str], lines: Iterator[str]) -> None:
             note['DerDieDas'].add('das')
         elif line == '|Genus=0':
             note['DerDieDas'].add('Pl.')
-            plural = []
-    note['Plural'].add(plural)
+            plural = set()
+    note['Plural'] = note['Plural'].union(plural)
 
 
 def _fill_verb(note: Dict[str, str], lines: Iterator[str]) -> None:

@@ -51,7 +51,32 @@ from german_word_addon.converter import convert, GermanNote, parse_note_from_wik
                 ])),
 
     ({'Вопрос': 'der Frosch -:e', 'Ответ': 'лягушка'},
-     GermanNote(word='Frosch', translation='лягушка'))
+     GermanNote(word='Frosch', translation='лягушка')),
+
+    ({'Add Reverse': '',
+      'Back': 'претензия,&nbsp;иск<br><br>Отель расположен в центре города. Вот '
+              'почему вы не имеете права на проездные деньги.',
+      'Front': '<div>\n'
+               '<div>\n'
+               '<div>\n'
+               '<div>\n'
+               '<div>der Anspruch&nbsp;<br><br><div>\n'
+               '<div>\n'
+               '<div>\n'
+               '<div>\n'
+               '<div>Sie wohnen im Stadtzentrum. Deshalb\n'
+               'haben Sie keinen Anspruch auf\n'
+               'Fahrgeld.&nbsp;</div>\n'
+               '</div>\n'
+               '</div>\n'
+               '</div></div></div>\n'
+               '</div>\n'
+               '</div>\n'
+               '</div></div>'},
+     GermanNote(word='Anspruch', translation='претензия, иск', examples=[
+         ('Sie wohnen im Stadtzentrum. Deshalb haben Sie keinen Anspruch auf Fahrgeld.',
+          'Отель расположен в центре города. Вот почему вы не имеете права на проездные деньги.')
+     ]))
 
     # ({'Back': 'оборот, товарооборот',
     #   'BackExample': 'Я хочу 10% от оборота.\n',

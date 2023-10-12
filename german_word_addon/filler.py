@@ -6,6 +6,7 @@ import pprint
 import re
 import urllib.parse
 import urllib.request
+import webbrowser
 from aqt import qconnect, dialogs
 from aqt.addcards import AddCards
 from aqt.browser import Browser
@@ -919,14 +920,35 @@ def _wiktionary_entry(word: str) -> str:
 # {{Grundformverweis Konj|nehmen}}
 
 
-def add_my_button(buttons, editor):
-    btn = editor.addButton(
+def add_my_buttons(buttons, editor):
+    buttons.append(editor.addButton(
         icon=None,
         cmd="myButton",
         func=lambda s=editor: fill_german_word_fields(s),
-        label="Fill German word fields"
-    )
-    buttons.append(btn)
+        label="Fill German word fields from Wiktionary"
+    ))
+
+    buttons.append(editor.addButton(
+        icon=None,
+        cmd="wiktionary",
+        func=lambda s=editor: webbrowser.open("https://de.wiktionary.org/wiki/" + urllib.parse.quote(s.note['Word'])),
+        label="Wiktionary",
+    ))
+
+    buttons.append(editor.addButton(
+        icon=None,
+        cmd="dwds",
+        func=lambda s=editor: webbrowser.open("https://www.dwds.de/wb/" + urllib.parse.quote(s.note['Word'])),
+        label="DWDS",
+    ))
+
+    buttons.append(editor.addButton(
+        icon=None,
+        cmd="reverso",
+        func=lambda s=editor: webbrowser.open("https://context.reverso.net/translation/german-russian/" + urllib.parse.quote(s.note['Word'])),
+        label="Reverso",
+    ))
+
     return buttons
 
 
