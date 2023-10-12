@@ -1,10 +1,12 @@
+from collections import defaultdict
 from itertools import zip_longest
 
 import bs4
 
+import pprint
 import re
 from dataclasses import dataclass, field
-from typing import Dict, List, Tuple, Iterator
+from typing import Dict, List, Tuple, Iterator, Set
 
 
 @dataclass
@@ -109,3 +111,65 @@ def html_to_text(markup, preserve_new_lines=True, strip_tags=('style', 'script',
             if element.name not in NON_BREAKING_ELEMENTS:
                 element.append('\n') if element.name == 'br' else element.append('\n\n')
     return soup.get_text(" ")
+
+
+def parse_note_from_wiktionary(wiktionary: str) -> Dict[str, Set[str]]:
+    # categories = [
+    #     'Adjektiv',
+    #     'Adverb',
+    #     'Eigenname',
+    #     'Partizip I',
+    #     'Partizip II',
+    #     'Präposition',
+    #     'Redewendung',
+    #     'Substantiv',
+    #     'Verb',
+    # ]
+    note = defaultdict(set)
+    lines = iter(wiktionary.split('\n'))
+    for line in lines:
+        if line.startswith('{{Deutsch Substantiv Übersicht'):
+            _fill_substantiv(note, lines)
+        elif line.startswith('{{Deutsch Verb Übersicht'):
+            _fill_verb(note, lines)
+        elif line.startswith('*{{ru}}: {{Ü'):
+            note['WordTranslation'].add(line.split('|')[-1].split('}')[0])
+    return dict(note)
+
+
+def _fill_substantiv(note: Dict[str, str], lines: Iterator[str]) -> None:
+    plural = []
+    for line in lines:
+        line = line.strip()
+        if line == '}}':
+            break
+        elif m := re.match('^[|]Nominativ Plural[^=]*=(.*)$', line):
+            plural.append(m.group(1))
+        elif line == '|Genus=m':
+            note['DerDieDas'].add('der')
+        elif line == '|Genus=f':
+            note['DerDieDas'].add('die')
+        elif line == '|Genus=n':
+            note['DerDieDas'].add('das')
+        elif line == '|Genus=0':
+            note['DerDieDas'].add('Pl.')
+            plural = []
+    note['Plural'].add(plural)
+
+
+def _fill_verb(note: Dict[str, str], lines: Iterator[str]) -> None:
+    partizip2 = ''
+    hilfsverb = ''
+    for line in lines:
+        if line == '}}':
+            break
+        elif line.startswith('|Präsens_er, sie, es='):
+            note['DrittenPerson'].add(line.split('=', 1)[1].strip())
+        elif line.startswith('|Präteritum_ich='):
+            note['Präteritum'].add(line.split('=', 1)[1].strip())
+        elif line.startswith('|Partizip II='):
+            partizip2 = line.split('=', 1)[1]
+        elif line.startswith('|Hilfsverb='):
+            hilfsverb = line.split('=', 1)[1]
+    if partizip2 and hilfsverb:
+        note['Perfekt'].add(f'{hilfsverb} {partizip2}')

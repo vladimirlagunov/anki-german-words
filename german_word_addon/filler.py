@@ -10,7 +10,8 @@ from aqt import qconnect, dialogs
 from aqt.addcards import AddCards
 from aqt.browser import Browser
 from aqt.utils import showWarning
-from typing import Callable, Iterator, Optional, Tuple
+from german_word_addon import converter
+from typing import Callable, Iterator, Optional
 
 _universal_german_word_template_name = 'Universal German word template'
 
@@ -112,63 +113,17 @@ def _fill_note_from_wiktionary(note):
     if not wiktionary:
         return
 
-    # categories = [
-    #     'Adjektiv',
-    #     'Adverb',
-    #     'Eigenname',
-    #     'Partizip I',
-    #     'Partizip II',
-    #     'Präposition',
-    #     'Redewendung',
-    #     'Substantiv',
-    #     'Verb',
-    # ]
-    lines = iter(wiktionary.split('\n'))
-    for line in lines:
-        if line.startswith('{{Deutsch Substantiv Übersicht'):
-            _fill_substantiv(note, lines)
-        elif line.startswith('{{Deutsch Verb Übersicht'):
-            _fill_verb(note, lines)
-        elif line.startswith('*{{ru}}: {{Ü'):
-            note['WordTranslation'] = note['WordTranslation'] or line.split('|')[-1].split('}')[0]
-
-
-def _fill_substantiv(note: 'anki.notes.Note', lines: Iterator[str]) -> None:
-    plural = []
-    for line in lines:
-        line = line.strip()
-        if line == '}}':
-            break
-        elif m := re.match('^[|]Nominativ Plural[^=]*=(.*)$', line):
-            plural.append(m.group(1))
-        elif line == '|Genus=m':
-            note['DerDieDas'] = note['DerDieDas'] or 'der'
-        elif line == '|Genus=f':
-            note['DerDieDas'] = note['DerDieDas'] or 'die'
-        elif line == '|Genus=n':
-            note['DerDieDas'] = note['DerDieDas'] or 'das'
-        elif line == '|Genus=0':
-            note['DerDieDas'] = note['DerDieDas'] or 'Pl.'
-            plural = ''
-    note['Plural'] = note['Plural'] or ', '.join(plural)
-
-
-def _fill_verb(note: 'anki.notes.Note', lines: Iterator[str]) -> None:
-    partizip2 = ''
-    hilfsverb = ''
-    for line in lines:
-        if line == '}}':
-            break
-        elif line.startswith('|Präsens_er, sie, es='):
-            note['DrittenPerson'] = note['DrittenPerson'] or line.split('=', 1)[1].strip()
-        elif line.startswith('|Präteritum_ich='):
-            note['Präteritum'] = note['Präteritum'] or line.split('=', 1)[1].strip()
-        elif line.startswith('|Partizip II='):
-            partizip2 = line.split('=', 1)[1]
-        elif line.startswith('|Hilfsverb='):
-            hilfsverb = line.split('=', 1)[1]
-    if partizip2 and hilfsverb:
-        note['Perfekt'] = note['Perfekt'] or f'{hilfsverb} {partizip2}'
+    new_dict = converter.parse_note_from_wiktionary(wiktionary)
+    for k, v in new_dict.items():
+        if note[k]:
+            v.add(note[k])
+        if len(v) == 0:
+            continue
+        elif len(v) == 1:
+            note[k] = next(iter(v))
+        else:
+            v_str = "<ul>\n<li>" + "</li>\n<li>".join(v) + "</li>\n</ul>"
+            note[k] = v_str
 
 
 def _wiktionary_entry(word: str) -> str:
@@ -1010,8 +965,6 @@ def on_make_universal_german_card(browser: Browser):
 
     add_cards_dialog: AddCards = dialogs.open("AddCards", mw)
     add_cards_dialog.set_note(new_note, None)
-
-    from . import converter
 
     old_note_dict = dict(old_note.items())
     pprint.pprint(old_note_dict)
