@@ -83,6 +83,13 @@ def convert(source_note: Dict[str, str]) -> GermanNote:
     except StopIteration:
         pass
 
+    for suffix in ['', '2', '3']:
+        if front := source_note.get(f'FrontExample{suffix}'):
+            examples.append((
+                front,
+                source_note.get(f'BackExample{suffix}', '')
+            ))
+
     return GermanNote(
         word=word,
         translation=translation,
