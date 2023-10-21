@@ -1011,7 +1011,7 @@ def chagpt_examples(editor: 'aqt.editor.Editor', gpt_model: str):
             showWarning("No word")
 
     if 'chatgpt' not in note.tags:
-        note.tags += 'chatgpt'
+        note.tags.append('chatgpt')
     editor.loadNote()
 
 
