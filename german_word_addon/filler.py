@@ -2,6 +2,7 @@ from PyQt6 import QtGui
 from PyQt6.QtCore import QObject, pyqtSignal
 
 import json
+import os.path
 import pprint
 import re
 import urllib.parse
@@ -12,7 +13,8 @@ from aqt.addcards import AddCards
 from aqt.browser import Browser
 from aqt.utils import showWarning
 from german_word_addon import converter
-from typing import Callable, Iterator, Optional
+from german_word_addon.converter import html_to_text
+from typing import Callable, Iterator, Optional, List, Dict, Tuple
 
 _universal_german_word_template_name = 'Universal German word template'
 
@@ -930,6 +932,20 @@ def add_my_buttons(buttons, editor):
 
     buttons.append(editor.addButton(
         icon=None,
+        cmd="googleTranslate",
+        func=lambda s=editor: chagpt_examples(s, "gpt-3.5-turbo"),
+        label="ChatGPT examples",
+    ))
+
+    buttons.append(editor.addButton(
+        icon=None,
+        cmd="googleTranslate",
+        func=lambda s=editor: chagpt_examples(s, "gpt-4"),
+        label="GPT-4 examples",
+    ))
+
+    buttons.append(editor.addButton(
+        icon=None,
         cmd="wiktionary",
         func=lambda s=editor: webbrowser.open("https://de.wiktionary.org/wiki/" + urllib.parse.quote(s.note['Word'])),
         label="Wiktionary",
@@ -945,11 +961,92 @@ def add_my_buttons(buttons, editor):
     buttons.append(editor.addButton(
         icon=None,
         cmd="reverso",
-        func=lambda s=editor: webbrowser.open("https://context.reverso.net/translation/german-russian/" + urllib.parse.quote(s.note['Word'])),
+        func=lambda s=editor: webbrowser.open(
+            "https://context.reverso.net/translation/german-russian/" + urllib.parse.quote(s.note['Word'])),
         label="Reverso",
     ))
 
     return buttons
+
+
+def chagpt_examples(editor: 'aqt.editor.Editor', gpt_model: str):
+    note = editor.note
+
+    suffixes_to_fill = []
+
+    for suffix in ['', '2', '3']:
+        front_example = html_to_text(note[f'FrontExample{suffix}'] or '').strip()
+        back_example = html_to_text(note[f'BackExample{suffix}'] or '').strip()
+        if front_example and not back_example:
+            # TODO
+            pass
+            # response = _chatgpt_request(
+            #     f"Переведи следующее предложение с немецкого на русский язык или наоборот."
+            #     f" Только перевод, никаких вводных текстов до и после.\n"
+            #     f"{front_example}",
+            #     gpt_model,
+            # )
+            # if not response:
+            #     return
+            # note[f'BackExample{suffix}'] = response.strip()
+        elif not front_example and not back_example:
+            suffixes_to_fill.append(suffix)
+
+    if suffixes_to_fill:
+        if word := note['Word']:
+            response = _chatgpt_request(
+                f"Приведи {len(suffixes_to_fill)} пример(а) использования немецкого слова \"{word}\""
+                " и переводы примеров на русский язык. Только примеры с переводами, без вводных текстов.",
+                gpt_model,
+            )
+
+            if response:
+                for de_example, ru_example in converter.examples_from_chatgpt_responses(response):
+                    if not suffixes_to_fill:
+                        break
+                    suffix, suffixes_to_fill = suffixes_to_fill[0], suffixes_to_fill[1:]
+                    note[f'FrontExample{suffix}'] = de_example
+                    note[f'BackExample{suffix}'] = ru_example
+        else:
+            showWarning("No word")
+
+    if 'chatgpt' not in note.tags:
+        note.tags += 'chatgpt'
+    editor.loadNote()
+
+
+def _chatgpt_request(text: str, gpt_model: str) -> Optional[Dict]:
+    token_file_name = os.path.expanduser("~/.anki-german-words-chatgpt-token.txt")
+    try:
+        with open(token_file_name) as f:
+            token = f.read().strip()
+    except Exception:
+        showWarning("Get the token there: https://platform.openai.com/account/api-keys\n"
+                    f"and put the token there: {token_file_name}")
+        return
+
+    params = {
+        "model": gpt_model,
+        "messages": [
+            {
+                "role": "user",
+                "content": text,
+            }
+        ]
+    }
+
+    req = urllib.request.Request(
+        'https://api.openai.com/v1/chat/completions',
+        headers={
+            "Content-Type": "application/json",
+            "Authorization": "Bearer " + token,
+        },
+        data=json.dumps(params).encode('utf-8')
+    )
+    with urllib.request.urlopen(req) as response:
+        response = json.load(response)
+        pprint.pprint(response)
+        return response
 
 
 # TODO Delete me.

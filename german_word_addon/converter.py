@@ -6,7 +6,7 @@ import bs4
 import pprint
 import re
 from dataclasses import dataclass, field
-from typing import Dict, List, Tuple, Iterator, Set
+from typing import Dict, List, Tuple, Iterator, Set, Generator, Iterable
 
 
 @dataclass
@@ -180,3 +180,27 @@ def _fill_verb(note: Dict[str, str], lines: Iterator[str]) -> None:
             hilfsverb = line.split('=', 1)[1]
     if partizip2 and hilfsverb:
         note['Perfekt'].add(f'{hilfsverb} {partizip2}')
+
+
+def examples_from_chatgpt_responses(responses: Dict) -> Iterable[Tuple[str, str]]:
+    for choice in responses.get('choices', [])[::-1]:
+        if not isinstance(message := choice.get('message'), dict):
+            continue
+        if message.get('role') != 'assistant':
+            continue
+        if not isinstance(content := message.get('content'), str):
+            continue
+        for groups in re.findall(
+                r'([a-züöäß][^а-я]*)([а-я][^\na-züöäß]*)',
+                content,
+                re.UNICODE | re.IGNORECASE | re.MULTILINE | re.DOTALL,
+        ):
+            yield tuple(
+                re.sub(
+                    r'''["']?\s*-?\s*["']?\s*$''',
+                    '',
+                    g,
+                    re.UNICODE | re.IGNORECASE | re.MULTILINE | re.DOTALL,
+                ).strip()
+                for g in groups
+            )
