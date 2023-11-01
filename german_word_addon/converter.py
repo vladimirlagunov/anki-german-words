@@ -120,7 +120,7 @@ def html_to_text(markup, preserve_new_lines=True, strip_tags=('style', 'script',
     return soup.get_text(" ")
 
 
-def parse_note_from_wiktionary(wiktionary: str) -> Dict[str, Set[str]]:
+def parse_note_from_wiktionary(wiktionary: str) -> Dict[str, List[str]]:
     # categories = [
     #     'Adjektiv',
     #     'Adverb',
@@ -132,16 +132,38 @@ def parse_note_from_wiktionary(wiktionary: str) -> Dict[str, Set[str]]:
     #     'Substantiv',
     #     'Verb',
     # ]
-    note = defaultdict(set)
+    notes = []
     lines = iter(wiktionary.split('\n'))
     for line in lines:
         if line.startswith('{{Deutsch Substantiv Übersicht'):
-            _fill_substantiv(note, lines)
+            notes.append(defaultdict(set))
+            _fill_substantiv(notes[-1], lines)
         elif line.startswith('{{Deutsch Verb Übersicht'):
-            _fill_verb(note, lines)
-        elif line.startswith('*{{ru}}: {{Ü'):
-            note['WordTranslation'].add(line.split('|')[-1].split('}')[0])
-    return dict(note)
+            notes.append(defaultdict(set))
+            _fill_verb(notes[-1], lines)
+        elif line.startswith('*{{ru}}: {{Ü') and notes:
+            notes[-1]['WordTranslation'].add(line.split('|')[-1].split('}')[0])
+
+    for key in {k for n in notes for k in n.keys()}:
+        for note in notes:
+            note.setdefault(key, {'???'})
+
+    result_variants: Dict[str, Dict[str, str]] = {}
+    for note in notes:
+        short_translation = ', '.join(sorted(note.get('WordTranslation', {'???'})))
+        for key, value in note.items():
+            dct = result_variants.setdefault(key, {})
+            for v in value:
+                dct[v] = ', '.join(sorted(filter(None, [dct.get(v), short_translation])))
+
+    result_note = {}
+    for key, value in result_variants.items():
+        if len(value) == 1 or key == 'WordTranslation':
+            result_note[key] = sorted(value.keys() - {'???'})
+        else:
+            result_note[key] = [f'{k} – {v}' for k, v in value.items()]
+
+    return result_note
 
 
 def _fill_substantiv(note: Dict[str, str], lines: Iterator[str]) -> None:

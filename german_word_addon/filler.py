@@ -118,12 +118,12 @@ def _fill_note_from_wiktionary(note):
 
     new_dict = converter.parse_note_from_wiktionary(wiktionary)
     for k, v in new_dict.items():
-        if note[k]:
-            v.add(note[k])
+        if note[k] and note[k] not in v:
+            v.append(note[k])
         if len(v) == 0:
             continue
         elif len(v) == 1:
-            note[k] = next(iter(v))
+            note[k] = v[0]
         else:
             v_str = "<ul>\n<li>" + "</li>\n<li>".join(v) + "</li>\n</ul>"
             note[k] = v_str
