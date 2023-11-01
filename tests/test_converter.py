@@ -1151,16 +1151,108 @@ def test_wiktionary_verb_omonyms():
             {
                 'DrittenPerson': ['hängt ab'],
                 'Perfekt': [
-                    'haben abgehangen – зависеть, тусить',
-                    'haben abgehängt – накрывать, оторваться, перегораживать, снять',
+                    'haben abgehangen – зависать, зависеть, тусить',
+                    'haben abgehängt – накрывать, оторваться, перегораживать, снимать, снять',
                 ],
                 'Präteritum': [
-                    'hing ab – зависеть, тусить',
-                    'hängte ab – накрывать, оторваться, перегораживать, снять',
+                    'hing ab – зависать, зависеть, тусить',
+                    'hängte ab – накрывать, оторваться, перегораживать, снимать, снять',
                 ],
-                'WordTranslation': ['зависеть', 'накрывать', 'оторваться', 'перегораживать', 'снять', 'тусить'],
+                'WordTranslation': [
+                    'зависать', 'зависеть', 'накрывать', 'оторваться', 'перегораживать', 'снимать', 'снять', 'тусить'
+                ],
             }
-    )
+    ),
+
+    (
+            ('== Aktentasche ({{Sprache|Deutsch}}) ==\n'
+             '=== {{Wortart|Substantiv|Deutsch}}, {{f}} ===\n'
+             '\n'
+             '{{Deutsch Substantiv Übersicht\n'
+             '|Genus=f\n'
+             '|Nominativ Singular=Aktentasche\n'
+             '|Nominativ Plural=Aktentaschen\n'
+             '|Genitiv Singular=Aktentasche\n'
+             '|Genitiv Plural=Aktentaschen\n'
+             '|Dativ Singular=Aktentasche\n'
+             '|Dativ Plural=Aktentaschen\n'
+             '|Akkusativ Singular=Aktentasche\n'
+             '|Akkusativ Plural=Aktentaschen\n'
+             '}}\n'
+             '\n'
+             '{{Worttrennung}}\n'
+             ':Ak·ten·ta·sche, {{Pl.}} Ak·ten·ta·schen\n'
+             '\n'
+             '{{Aussprache}}\n'
+             ':{{IPA}} {{Lautschrift|ˈaktn̩ˌtaʃə}}\n'
+             ':{{Hörbeispiele}} {{Audio|De-Aktentasche.ogg}}\n'
+             '\n'
+             '{{Bedeutungen}}\n'
+             ':[1] Tasche für den Transport von Akten, Büchern und sonstigen '
+             'Büromaterialien\n'
+             '\n'
+             '{{Herkunft}}\n'
+             ":[[Determinativkompositum]] aus ''[[Akte]],'' [[Fugenelement]] ''[[-n]]'' "
+             "und ''[[Tasche]]''\n"
+             '\n'
+             '{{Sinnverwandte Wörter}}\n'
+             ':[1] [[Aktenkoffer]]\n'
+             '\n'
+             '{{Oberbegriffe}}\n'
+             ':[1] [[Tasche]]\n'
+             '\n'
+             '{{Unterbegriffe}}\n'
+             ':[1] [[Diplomatenaktentasche]]\n'
+             '\n'
+             '{{Beispiele}}\n'
+             ':[1] „Während er sprach, schaufelten seine Hände geschäftig Papierbündel aus '
+             "seiner ''Aktentasche'' und ordneten sie auf dem Tisch scheinbar automatisch "
+             'zu einem exakt abgezirkelten Muster.“<ref>{{Literatur | Autor= Arthur '
+             'Koestler | Titel= Die Herren Call-Girls | TitelErg= Ein satirischer Roman '
+             '|Verlag= Fischer Taschenbuch Verlag| Ort=  Frankfurt/M. |Jahr= 1985| Seiten= '
+             '57.|ISBN= 3-596-28168-7|}} Copyright des englischen Originals 1971.</ref>\n'
+             ":[1] „Er stellt seine ''Aktentasche'' auf den Boden, nimmt mir den Besen aus "
+             'der Hand und beginnt mit vorsichtigen Bewegungen – er trägt Lederschuhe – '
+             'den Schnee von der Markise zu schütteln.“<ref>{{Literatur|Autor= Petra '
+             'Hartlieb |Titel= Meine wundervolle Buchhandlung | Verlag= DuMont Buchverlag '
+             '|Ort= Köln |Jahr= 2014 | ISBN= 978-3-8321-9743-8}}, Seite 175. </ref>\n'
+             ":[1] „Jonas zog die Collegemappe aus seiner ''Aktentasche'' und überreichte "
+             'sie seinem Gegenüber.“<ref>{{Literatur | Autor= Uwe Schwartzer| Titel= Das '
+             'Konzept | Verlag= BLITZ| Jahr=2014 | Online=Zitiert nach '
+             '{{GBS|0RgkDwAAQBAJ|PT119|Hervorhebung="Jonas zog die Collegemappe aus seiner '
+             'Aktentasche und überreichte sie seinem Gegenüber."}}}}.</ref>\n'
+             ':[1] „Sie stellte sich hinter einen großen Schwarzen, der sich eine braune '
+             "''Aktentasche'' an die Brust drückte.“<ref>{{Literatur | Autor= Chika Unigwe "
+             '| Titel= Schwarze Schwestern |TitelErg= Roman| Auflage= |Verlag= Tropen| '
+             'Ort= Stuttgart| Jahr= 2010 | ISBN= 978-3-608-50109-4 | Seiten=163&nbsp;f.}} '
+             'Originalausgabe: Niederländisch 2007.</ref>\n'
+             '\n'
+             '==== {{Übersetzungen}} ====\n'
+             '{{Ü-Tabelle|1|G=Tasche für den Transport von Akten, Büchern und sonstigen '
+             'Büromaterialien|Ü-Liste=\n'
+             '*{{en}}: {{Ü|en|briefcase}}\n'
+             '*{{eo}}: {{Ü|eo|teko}}\n'
+             '*{{fr}}: {{Ü|fr|porte-documents}} {{m}}, {{Ü|fr|serviette}} {{f}}\n'
+             '*{{ru}}: {{Üt|ru}}\n'
+             '*{{sv}}: {{Ü|sv|portfölj}} {{u}}\n'
+             '*{{es}}: {{Ü|es|}}\n'
+             '*{{uk}}: {{Üt|uk|портфель|}}\n'
+             '}}\n'
+             '\n'
+             '{{Referenzen}}\n'
+             ':[1] {{Wikipedia|Aktentasche}}\n'
+             ':[*] {{Ref-DWDS|Aktentasche}}\n'
+             ':[*] {{Ref-UniLeipzig|Aktentasche}}\n'
+             ':[1] {{Ref-FreeDictionary|Aktentasche}}\n'
+             ':[1] {{Ref-Duden|Aktentasche}}\n'
+             '\n'
+             '{{Quellen}}'),
+
+            {
+                'DerDieDas': ['die'],
+                'Plural': ['Aktentaschen'],
+            },
+    ),
 ])
 def test_wiktionary(raw_text: str, expected: Dict[str, Set[str]]):
     result = parse_note_from_wiktionary(raw_text)

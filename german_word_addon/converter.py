@@ -142,7 +142,8 @@ def parse_note_from_wiktionary(wiktionary: str) -> Dict[str, List[str]]:
             notes.append(defaultdict(set))
             _fill_verb(notes[-1], lines)
         elif line.startswith('*{{ru}}: {{Ü') and notes:
-            notes[-1]['WordTranslation'].add(line.split('|')[-1].split('}')[0])
+            for m in re.finditer(r'\{\{Üt\|ru\|([^}]+)}}', line):
+                notes[-1]['WordTranslation'].add(m.groups()[0])
 
     for key in {k for n in notes for k in n.keys()}:
         for note in notes:
