@@ -69,6 +69,66 @@ from typing import List, Dict, Tuple
               'Твой опыт может быть очень полезен.'),
              ('Ich habe keine Erfahrung mit solchen Situationen.',
               'У меня нет опыта в подобных ситуациях.')]
+    ),
+
+    (
+            {'choices': [{'finish_reason': 'stop',
+                          'index': 0,
+                          'message': {'content': '1. "Das Wasser dieser Quelle ist sehr '
+                                                 'klar."\n'
+                                                 '   Перевод: "Вода этого источника очень '
+                                                 'чистая."\n'
+                                                 '\n'
+                                                 '2. "Ich habe verschiedene Quellen für '
+                                                 'meine Forschungsarbeit benutzt."\n'
+                                                 '   Перевод: "Я использовал различные '
+                                                 'источники для моей исследовательской '
+                                                 'работы."\n'
+                                                 '\n'
+                                                 '3. "Die Quelle des Problems wurde noch '
+                                                 'nicht identifiziert."\n'
+                                                 '   Перевод: "Источник проблемы еще не '
+                                                 'был идентифицирован."',
+                                      'role': 'assistant'}}],
+             'created': 1700906098,
+             'id': 'chatcmpl-8OjfGvRWYRSxejEi5RFhkkdKxF1sq',
+             'model': 'gpt-4-1106-preview',
+             'object': 'chat.completion',
+             'system_fingerprint': 'fp_a24b4d720c',
+             'usage': {'completion_tokens': 128, 'prompt_tokens': 68, 'total_tokens': 196}},
+        [
+            ('Das Wasser dieser Quelle ist sehr klar.',
+             'Вода этого источника очень чистая.'),
+            ('Ich habe verschiedene Quellen für meine Forschungsarbeit benutzt.',
+             'Я использовал различные источники для моей исследовательской работы.'),
+            ('Die Quelle des Problems wurde noch nicht identifiziert.',
+             'Источник проблемы еще не был идентифицирован.')
+        ],
+    ),
+
+    (
+            {'choices': [{'finish_reason': 'stop',
+                          'index': 0,
+                          'message': {'content': 'Пример использования:\n'
+                                                 '\n'
+                                                 '- Sie müssen Ihre Steuererklärung bis '
+                                                 'zum 31. Juli einreichen.\n'
+                                                 '\n'
+                                                 'Перевод:\n'
+                                                 '\n'
+                                                 '- Вы должны подать свою налоговую '
+                                                 'декларацию до 31 июля.',
+                                      'role': 'assistant'}}],
+             'created': 1700910165,
+             'id': 'chatcmpl-8OkirB4S6q80DKtEW9zCCa0Z3cwtk',
+             'model': 'gpt-4-1106-preview',
+             'object': 'chat.completion',
+             'system_fingerprint': 'fp_a24b4d720c',
+             'usage': {'completion_tokens': 55, 'prompt_tokens': 69, 'total_tokens': 124}},
+        [
+            ('Sie müssen Ihre Steuererklärung bis zum 31. Juli einreichen.',
+             'Вы должны подать свою налоговую декларацию до 31 июля.'),
+        ],
     )
 ])
 def test_examples_from_chatgpt_responses(response: Dict, expected: List[Tuple[str, str]]):

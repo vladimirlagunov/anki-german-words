@@ -940,7 +940,7 @@ def add_my_buttons(buttons, editor):
     buttons.append(editor.addButton(
         icon=None,
         cmd="googleTranslate",
-        func=lambda s=editor: chagpt_examples(s, "gpt-4"),
+        func=lambda s=editor: chagpt_examples(s, "gpt-4-1106-preview"), #"gpt-4"),
         label="GPT-4 examples",
     ))
 

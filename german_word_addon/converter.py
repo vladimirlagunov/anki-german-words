@@ -213,17 +213,12 @@ def examples_from_chatgpt_responses(responses: Dict) -> Iterable[Tuple[str, str]
             continue
         if not isinstance(content := message.get('content'), str):
             continue
-        for groups in re.findall(
-                r'([a-züöäß][^а-я]*)([а-я][^\na-züöäß]*)',
-                content,
-                re.UNICODE | re.IGNORECASE | re.MULTILINE | re.DOTALL,
-        ):
-            yield tuple(
-                re.sub(
-                    r'''["']?\s*-?\s*["']?\s*$''',
-                    '',
-                    g,
-                    re.UNICODE | re.IGNORECASE | re.MULTILINE | re.DOTALL,
-                ).strip()
-                for g in groups
-            )
+        flags = re.UNICODE | re.IGNORECASE | re.MULTILINE | re.DOTALL
+        for groups in re.findall(r'([a-züöäß][^а-я]*)(?:\s*перевод:\s*[-"\']*\s*)?([а-я][^\na-züöäß]*)', content, flags):
+            l = []
+            for g in groups:
+                if m := re.match(r'''^\s*["']?\s*(.*?)\s*["']?\s*-?\s*["']?\s*$''', g, flags):
+                    l.append(m.group(1))
+                else:
+                    l.append(g)
+            yield tuple(l)
