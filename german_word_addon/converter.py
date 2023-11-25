@@ -214,7 +214,7 @@ def examples_from_chatgpt_responses(responses: Dict) -> Iterable[Tuple[str, str]
         if not isinstance(content := message.get('content'), str):
             continue
         flags = re.UNICODE | re.IGNORECASE | re.MULTILINE | re.DOTALL
-        for groups in re.findall(r'([a-züöäß][^а-я]*)(?:\s*перевод:\s*[-"\']*\s*)?([а-я][^\na-züöäß]*)', content, flags):
+        for groups in re.findall(r'(?:\s*beispiel:\s*[-"\']*\s*)?([a-züöäß][^а-я]*)(?:\s*перевод:\s*[-"\']*\s*)?([а-я][^\na-züöäß]*)', content, flags):
             l = []
             for g in groups:
                 if m := re.match(r'''^\s*["']?\s*(.*?)\s*["']?\s*-?\s*["']?\s*$''', g, flags):

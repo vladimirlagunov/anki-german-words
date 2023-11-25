@@ -129,6 +129,34 @@ from typing import List, Dict, Tuple
             ('Sie müssen Ihre Steuererklärung bis zum 31. Juli einreichen.',
              'Вы должны подать свою налоговую декларацию до 31 июля.'),
         ],
+    ),
+
+    (
+            {'choices': [{'finish_reason': 'stop',
+                          'index': 0,
+                          'message': {'content': '1. Beispiel: Eltern sollten ihre Kinder '
+                                                 'nicht zu sehr verwöhnen, sonst könnten '
+                                                 'sie verzogen werden.\n'
+                                                 'Перевод: Родители не должны слишком '
+                                                 'баловать своих детей, иначе они могут '
+                                                 'стать избалованными.\n'
+                                                 '\n'
+                                                 '2. Beispiel: Am Wochenende möchte ich '
+                                                 'mich einfach nur verwöhnen lassen und '
+                                                 'ins Spa gehen.\n'
+                                                 'Перевод: В выходные я просто хочу '
+                                                 'побаловать себя и сходить в спа.',
+                                      'role': 'assistant'}}],
+             'created': 1700912752,
+             'id': 'chatcmpl-8OlOaaOYQVqoKLphFfVBdfWSWHUuu',
+             'model': 'gpt-4-1106-preview',
+             'object': 'chat.completion',
+             'system_fingerprint': 'fp_a24b4d720c',
+             'usage': {'completion_tokens': 120, 'prompt_tokens': 70, 'total_tokens': 190}},
+        [('Eltern sollten ihre Kinder nicht zu sehr verwöhnen, sonst könnten sie verzogen werden.',
+          'Родители не должны слишком баловать своих детей, иначе они могут стать избалованными.'),
+         ('Am Wochenende möchte ich mich einfach nur verwöhnen lassen und ins Spa gehen.',
+          'В выходные я просто хочу побаловать себя и сходить в спа.')]
     )
 ])
 def test_examples_from_chatgpt_responses(response: Dict, expected: List[Tuple[str, str]]):
