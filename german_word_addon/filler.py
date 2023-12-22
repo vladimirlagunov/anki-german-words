@@ -13,7 +13,7 @@ from aqt.addcards import AddCards
 from aqt.browser import Browser
 from aqt.utils import showWarning
 from german_word_addon import converter
-from german_word_addon.converter import html_to_text
+from german_word_addon.converter import html_to_text, get_chatgpt_responses_texts
 from typing import Callable, Iterator, Optional, List, Dict, Tuple
 
 _universal_german_word_template_name = 'Universal German word template'
@@ -933,14 +933,14 @@ def add_my_buttons(buttons, editor):
     buttons.append(editor.addButton(
         icon=None,
         cmd="googleTranslate",
-        func=lambda s=editor: chagpt_examples(s, "gpt-3.5-turbo"),
+        func=lambda s=editor: fill_card_with_chatgpt(s, "gpt-3.5-turbo"),
         label="ChatGPT examples",
     ))
 
     buttons.append(editor.addButton(
         icon=None,
         cmd="googleTranslate",
-        func=lambda s=editor: chagpt_examples(s, "gpt-4-1106-preview"),  # "gpt-4"),
+        func=lambda s=editor: fill_card_with_chatgpt(s, "gpt-4-1106-preview"),  # "gpt-4"),
         label="GPT-4 examples",
     ))
 
@@ -969,8 +969,18 @@ def add_my_buttons(buttons, editor):
     return buttons
 
 
-def chagpt_examples(editor: 'aqt.editor.Editor', gpt_model: str):
+def fill_card_with_chatgpt(editor: 'aqt.editor.Editor', gpt_model: str):
     note = editor.note
+
+    if note["Word"] and not note['WordTranslation']:
+        request = (f'Опиши краткий перевод немецкого слова {note["Word"]} на русский язык.'
+                   f' Только перевод слова, никаких дополнительных текстов. Если слово имеет много значений,'
+                   f' то перечисли переводы через запятую.')
+        response = list(get_chatgpt_responses_texts(_chatgpt_request(request, gpt_model)))
+        if response:
+            note['WordTranslation'] = response[0]
+        del request
+        del response
 
     suffixes_to_fill = []
     suffixes_to_translate = []

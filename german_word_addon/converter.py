@@ -200,7 +200,7 @@ def _fill_verb(note: Dict[str, str], lines: Iterator[str]) -> None:
         note['Perfekt'].add(f'{hilfsverb} {partizip2}')
 
 
-def examples_from_chatgpt_responses(responses: Dict) -> Iterable[Tuple[str, str]]:
+def get_chatgpt_responses_texts(responses: Dict) -> Iterable[str]:
     for choice in responses.get('choices', [])[::-1]:
         if not isinstance(message := choice.get('message'), dict):
             continue
@@ -208,6 +208,11 @@ def examples_from_chatgpt_responses(responses: Dict) -> Iterable[Tuple[str, str]
             continue
         if not isinstance(content := message.get('content'), str):
             continue
+        yield content
+
+
+def examples_from_chatgpt_responses(responses: Dict) -> Iterable[Tuple[str, str]]:
+    for content in get_chatgpt_responses_texts(responses):
         flags = re.UNICODE | re.IGNORECASE | re.MULTILINE | re.DOTALL
         for groups in re.findall(r'(?:\s*beispiel:\s*[-"\']*\s*)?([a-züöäß][^а-я]*)(?:\s*перевод:\s*[-"\']*\s*)?([а-я][^\na-züöäß]*)', content, flags):
             l = []
