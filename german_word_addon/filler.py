@@ -973,42 +973,57 @@ def chagpt_examples(editor: 'aqt.editor.Editor', gpt_model: str):
     note = editor.note
 
     suffixes_to_fill = []
+    suffixes_to_translate = []
 
     for suffix in ['', '2', '3']:
         front_example = html_to_text(note[f'FrontExample{suffix}'] or '').strip()
         back_example = html_to_text(note[f'BackExample{suffix}'] or '').strip()
         if front_example and not back_example:
-            # TODO
-            pass
-            # response = _chatgpt_request(
-            #     f"Переведи следующее предложение с немецкого на русский язык или наоборот."
-            #     f" Только перевод, никаких вводных текстов до и после.\n"
-            #     f"{front_example}",
-            #     gpt_model,
-            # )
-            # if not response:
-            #     return
-            # note[f'BackExample{suffix}'] = response.strip()
+            suffixes_to_translate.append(suffix)
         elif not front_example and not back_example:
             suffixes_to_fill.append(suffix)
 
+    request = ''
     if suffixes_to_fill:
         if word := note['Word']:
-            response = _chatgpt_request(
-                f"Приведи {len(suffixes_to_fill)} пример(а) использования немецкого слова \"{word}\""
-                " и переводы примеров на русский язык. Только примеры с переводами, без вводных текстов.",
-                gpt_model,
-            )
+            request += f"Приведи {len(suffixes_to_fill)} пример(а) использования немецкого слова \"{word}\"" \
+                        " и переводы примеров на русский язык. Только примеры с переводами, без вводных текстов."
+            for level in ['A1', 'A2', 'B1', 'B2']:
+                if level in note.tags or level.lower() in note.tags:
+                    break
+            else:
+                level = None
+            if level:
+                request = f'{request} Примеры должны быть понятны ученикам на уровне {level}.'
+        else:
+            showWarning("No word")
+            return
 
-            if response:
-                for de_example, ru_example in converter.examples_from_chatgpt_responses(response):
-                    if not suffixes_to_fill:
+    if suffixes_to_translate:
+        if request:
+            request += '\n\nИ ещё: '
+        request += ('Переведи следующие предложения на русский язык. Формат должен быть следующий: исходное предложение'
+                    ' на немецком языке, затем перевод предложения на русский язык. Модифицировать исходные предложения'
+                    ' не следует.\n\nСписок предложений:\n')
+        for s in suffixes_to_translate:
+            request += '* ' + note[f'FrontExample{s}'] + '\n'
+
+    if request:
+        response = _chatgpt_request(request, gpt_model)
+
+        if response:
+            for de_example, ru_example in converter.examples_from_chatgpt_responses(response):
+                translated = False
+                for suffix in suffixes_to_translate:
+                    if de_example == note[f'FrontExample{suffix}']:
+                        note[f'BackExample{suffix}'] = ru_example
+                        translated = True
                         break
+
+                if not translated and suffixes_to_fill:
                     suffix, suffixes_to_fill = suffixes_to_fill[0], suffixes_to_fill[1:]
                     note[f'FrontExample{suffix}'] = de_example
                     note[f'BackExample{suffix}'] = ru_example
-        else:
-            showWarning("No word")
 
     if 'chatgpt' not in note.tags:
         note.tags.append('chatgpt')
