@@ -2,16 +2,19 @@ import sys
 
 import os
 from . import filler
+from . import exporter
 
 if os.environ.get('ANKIDEV'):
     import importlib
     import time
     from threading import Thread
 
+    from . import converter
 
     def refresher():
         while True:
-            importlib.reload(filler)
+            for lib in [filler, converter, exporter]:
+                importlib.reload(lib)
             time.sleep(2)
 
 
@@ -26,3 +29,6 @@ if "pytest" not in sys.modules:
     addHook("setupEditorButtons", lambda *a, **kw: filler.add_my_buttons(*a, **kw))
     addHook("setupEditorWebView", lambda *a, **kw: filler.on_setup_webview(*a, **kw))
     addHook("browser.setupMenus", lambda *a, **kw: filler.on_browser_setup_menus(*a, **kw))
+    addHook("browser.setupMenus", lambda *a, **kw: exporter.on_browser_setup_menus(*a, **kw))
+
+    exporter.init_export_actions()
