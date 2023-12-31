@@ -96,14 +96,14 @@ from typing import List, Dict, Tuple
              'object': 'chat.completion',
              'system_fingerprint': 'fp_a24b4d720c',
              'usage': {'completion_tokens': 128, 'prompt_tokens': 68, 'total_tokens': 196}},
-        [
-            ('Das Wasser dieser Quelle ist sehr klar.',
-             'Вода этого источника очень чистая.'),
-            ('Ich habe verschiedene Quellen für meine Forschungsarbeit benutzt.',
-             'Я использовал различные источники для моей исследовательской работы.'),
-            ('Die Quelle des Problems wurde noch nicht identifiziert.',
-             'Источник проблемы еще не был идентифицирован.')
-        ],
+            [
+                ('Das Wasser dieser Quelle ist sehr klar.',
+                 'Вода этого источника очень чистая.'),
+                ('Ich habe verschiedene Quellen für meine Forschungsarbeit benutzt.',
+                 'Я использовал различные источники для моей исследовательской работы.'),
+                ('Die Quelle des Problems wurde noch nicht identifiziert.',
+                 'Источник проблемы еще не был идентифицирован.')
+            ],
     ),
 
     (
@@ -125,10 +125,10 @@ from typing import List, Dict, Tuple
              'object': 'chat.completion',
              'system_fingerprint': 'fp_a24b4d720c',
              'usage': {'completion_tokens': 55, 'prompt_tokens': 69, 'total_tokens': 124}},
-        [
-            ('Sie müssen Ihre Steuererklärung bis zum 31. Juli einreichen.',
-             'Вы должны подать свою налоговую декларацию до 31 июля.'),
-        ],
+            [
+                ('Sie müssen Ihre Steuererklärung bis zum 31. Juli einreichen.',
+                 'Вы должны подать свою налоговую декларацию до 31 июля.'),
+            ],
     ),
 
     (
@@ -153,10 +153,49 @@ from typing import List, Dict, Tuple
              'object': 'chat.completion',
              'system_fingerprint': 'fp_a24b4d720c',
              'usage': {'completion_tokens': 120, 'prompt_tokens': 70, 'total_tokens': 190}},
-        [('Eltern sollten ihre Kinder nicht zu sehr verwöhnen, sonst könnten sie verzogen werden.',
-          'Родители не должны слишком баловать своих детей, иначе они могут стать избалованными.'),
-         ('Am Wochenende möchte ich mich einfach nur verwöhnen lassen und ins Spa gehen.',
-          'В выходные я просто хочу побаловать себя и сходить в спа.')]
+            [('Eltern sollten ihre Kinder nicht zu sehr verwöhnen, sonst könnten sie verzogen werden.',
+              'Родители не должны слишком баловать своих детей, иначе они могут стать избалованными.'),
+             ('Am Wochenende möchte ich mich einfach nur verwöhnen lassen und ins Spa gehen.',
+              'В выходные я просто хочу побаловать себя и сходить в спа.')]
+    ),
+
+    (
+            {'choices': [{'finish_reason': 'stop',
+                          'index': 0,
+                          'logprobs': None,
+                          'message': {'content': '1. **Weiterleitung Beispiel 1:**\n'
+                                                 '   - **Deutsch:** Die Weiterleitung '
+                                                 'Ihrer E-Mail hat nicht funktioniert.\n'
+                                                 '   - **Русский:** Переадресация вашего '
+                                                 'электронного письма не сработала.\n'
+                                                 '\n'
+                                                 '2. **Weiterleitung Beispiel 2:**\n'
+                                                 '   - **Deutsch:** Bitte überprüfen Sie '
+                                                 'die Konfiguration der Weiterleitung im '
+                                                 'Router.\n'
+                                                 '   - **Русский:** Пожалуйста, проверьте '
+                                                 'конфигурацию перенаправления в роутере.\n'
+                                                 '\n'
+                                                 '3. **Weiterleitung Beispiel 3:**\n'
+                                                 '   - **Deutsch:** Eine automatische '
+                                                 'Weiterleitung an die neue Webseite ist '
+                                                 'eingerichtet.\n'
+                                                 '   - **Русский:** Установлено '
+                                                 'автоматическое перенаправление на новую '
+                                                 'веб-страницу.',
+                                      'role': 'assistant'}}],
+             'created': 1703625185,
+             'id': 'chatcmpl-8a91V1P3u97DzGYlQ1S2gnNBhMDVv',
+             'model': 'gpt-4-1106-preview',
+             'object': 'chat.completion',
+             'system_fingerprint': 'fp_3905aa4f79',
+             'usage': {'completion_tokens': 193, 'prompt_tokens': 69, 'total_tokens': 262}},
+        [('Die Weiterleitung Ihrer E-Mail hat nicht funktioniert.',
+          'Переадресация вашего электронного письма не сработала.'),
+         ('Bitte überprüfen Sie die Konfiguration der Weiterleitung im Router.',
+          'Пожалуйста, проверьте конфигурацию перенаправления в роутере.'),
+         ('Eine automatische Weiterleitung an die neue Webseite ist eingerichtet.',
+          'Установлено автоматическое перенаправление на новую веб-страницу.')]
     )
 ])
 def test_examples_from_chatgpt_responses(response: Dict, expected: List[Tuple[str, str]]):

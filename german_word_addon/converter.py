@@ -213,8 +213,9 @@ def get_chatgpt_responses_texts(responses: Dict) -> Iterable[str]:
 
 def examples_from_chatgpt_responses(responses: Dict) -> Iterable[Tuple[str, str]]:
     for content in get_chatgpt_responses_texts(responses):
+        content = content.replace("**", "")
         flags = re.UNICODE | re.IGNORECASE | re.MULTILINE | re.DOTALL
-        for groups in re.findall(r'(?:\s*beispiel:\s*[-"\']*\s*)?([a-züöäß][^а-я]*)(?:\s*перевод:\s*[-"\']*\s*)?([а-я][^\na-züöäß]*)', content, flags):
+        for groups in re.findall(r'(?:\s*(?:deutsch|beispiel):\s*[-"\']*\s*)?([a-züöäß][^а-я]*)(?:\s*(?:русский|перевод):\s*[-"\']*\s*)?([а-я][^\na-züöäß]*)', content, flags):
             l = []
             for g in groups:
                 if m := re.match(r'''^\s*["']?\s*(.*?)\s*["']?\s*-?\s*["']?\s*$''', g, flags):

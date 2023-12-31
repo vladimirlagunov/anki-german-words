@@ -97,7 +97,7 @@ def _fill_card(editor: 'aqt.editor.Editor'):
         .removeprefix('das ')
         .rstrip()
     )
-    word = re.sub('[-(].*', '', word)
+    word = re.sub('[-(,].*', '', word)
 
     note['Word'] = word
     print("Checking word:", word)
@@ -1013,7 +1013,9 @@ def fill_card_with_chatgpt(editor: 'aqt.editor.Editor', gpt_model: str):
         if request:
             request += '\n\nИ ещё: '
         request += ('Переведи следующие предложения на русский язык. Формат должен быть следующий: исходное предложение'
-                    ' на немецком языке, затем перевод предложения на русский язык. Модифицировать исходные предложения'
+                    ' на немецком языке, затем перевод предложения на русский язык.'
+                    ' Добавлять подписи "русский", "немецкий", "deutsch", "пример" и т.п. перед предложениями не следует.'
+                    ' Модифицировать исходные предложения'
                     ' не следует.\n\nСписок предложений:\n')
         for s in suffixes_to_translate:
             request += '* ' + note[f'FrontExample{s}'] + '\n'

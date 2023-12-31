@@ -556,10 +556,10 @@ def test_wiktionary_verb_omonyms():
     note = parse_note_from_wiktionary(wiktionary)
 
     assert note == {
-        'DrittenPerson': {'hängt'},
-        'Perfekt': {'haben gehangen', 'haben gehängt'},
-        'Präteritum': {'hängte', 'hing'},
-        'WordTranslation': {'висеть', 'вешать'},
+        'DrittenPerson': ['hängt'],
+        'Perfekt': ['haben gehängt – вешать', 'haben gehangen – висеть'],
+        'Präteritum': ['hängte – вешать', 'hing – висеть'],
+        'WordTranslation': ['вешать', 'висеть'],
     }
 
 
