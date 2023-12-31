@@ -8,6 +8,7 @@ import re
 import urllib.parse
 import urllib.request
 import webbrowser
+from anki.models import NotetypeDict
 from aqt import qconnect, dialogs
 from aqt.addcards import AddCards
 from aqt.browser import Browser
@@ -19,7 +20,7 @@ from typing import Callable, Iterator, Optional, List, Dict, Tuple
 _universal_german_word_template_name = 'Universal German word template'
 
 
-def get_universal_german_word_note_type(mw) -> Optional['anki.models.NotetypeDict']:
+def get_universal_german_word_note_type(mw) -> NotetypeDict:
     if (expected_note_type := mw.col.models.by_name(_universal_german_word_template_name)) is None:
         showWarning(
             f'There must be a note template called `{_universal_german_word_template_name}`. It is used for generating cards.')
