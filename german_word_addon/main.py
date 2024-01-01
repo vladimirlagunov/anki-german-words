@@ -25,7 +25,7 @@ def main():
         col = Collection(pm.collectionPath())
 
         deck = col.decks.get(
-            col.decks.add_normal_deck_with_name("Export").id
+            col.decks.add_normal_deck_with_name("German Words").id
         )
 
         note_type_dir = os.path.join(args.path, "note_type")
@@ -61,6 +61,8 @@ def _import_notes(col, deck, note_type, path):
                 with open(os.path.join(path, dir, fname)) as f:
                     note_data_dict = dict(_read_note_data(f))
                     note = col.new_note(note_type)
+                    note.guid = note_data_dict.pop('guid')
+                    note.set_tags_from_str(note_data_dict.pop('Tags', ''))
                     note.fields = [
                         note_data_dict.get(field, '')
                         for field in field_names

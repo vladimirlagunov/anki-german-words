@@ -40,6 +40,14 @@ def export_collection(note_ids: Sequence[NoteId], path: str, delete_old: bool) -
                         txt.write(note[field])
                         txt.write('\n')
 
+                txt.write('Tags::: ')
+                txt.write(note.string_tags())
+                txt.write('\n')
+
+                txt.write('guid::: ')
+                txt.write(note.guid)
+                txt.write('\n')
+
     showInfo(f"Written {count} cards.")
 
 
