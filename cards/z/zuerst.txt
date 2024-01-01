@@ -1,0 +1,11 @@
+Word::: zuerst
+WordTranslation::: сначала; прежде всего, сперва<br><ul>
+</ul>
+FrontExample::: Zuerst wollte ich nicht gehen, aber dann habe ich es doch getan.
+BackExample::: Сначала я не хотел идти, но потом всё-таки пошел.
+FrontExample2::: Sie müssen zuerst die Anleitung lesen, bevor Sie das Gerät benutzen.
+BackExample2::: Вам нужно сначала прочитать инструкцию, прежде чем использовать устройство.
+FrontExample3::: Er kam zuerst an, gefolgt von den anderen.
+BackExample3::: Он пришел сначала, за ним последовали остальные.
+Tags:::  chatgpt 
+guid::: bnX`<)B!*p

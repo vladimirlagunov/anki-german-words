@@ -1,0 +1,7 @@
+Word::: unterrichten
+WordTranslation::: учить (преподавать)
+DrittenPerson::: unterrichtet
+Perfekt::: haben unterrichtet
+Präteritum::: unterrichtete
+Tags::: 
+guid::: kCa@>sO()2

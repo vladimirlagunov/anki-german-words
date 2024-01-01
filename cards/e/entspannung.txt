@@ -1,0 +1,8 @@
+Word::: Entspannung
+WordTranslation::: расслабление, отдых
+FrontExample::: Ich brauche Entspannung nach einem langen Arbeitstag.
+BackExample::: Мне нужно расслабиться после длинного дня работы.
+FrontExample2::: Yoga ist gut für die Entspannung des Körpers und des Geistes.
+BackExample2::: Йога хороша для расслабления тела и ума.
+Tags:::  chatgpt 
+guid::: fAL!EQ1su<

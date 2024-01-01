@@ -1,0 +1,17 @@
+Word::: werfen
+WordTranslation::: <ul>
+<li>бросать</li>
+<li>рожать</li>
+<li>кидать</li>
+</ul>
+DrittenPerson::: wirft
+Perfekt::: haben geworfen
+Präteritum::: warf
+FrontExample::: Sie werfen ihm vor, zu spät gekommen zu sein.
+BackExample::: Они упрекают его в том, что он пришел слишком поздно.
+FrontExample2::: Er hat einen Blick auf seine Uhr geworfen.
+BackExample2::: Он бросил взгляд на свои часы.
+FrontExample3::: Der Hund hat den Ball in den Fluss geworfen.
+BackExample3::: Собака бросила мяч в реку.
+Tags::: 
+guid::: p5d$[L9Vdr

@@ -1,0 +1,7 @@
+Word::: feucht
+WordTranslation::: влажный, мокрый, сырой
+Explanation::: Syn: naß
+FrontExample::: Oh, es ist schön und feucht und warm.
+BackExample::: О, здесь красиво, влажно и тепло.
+Tags::: 
+guid::: lel{%sTTwf

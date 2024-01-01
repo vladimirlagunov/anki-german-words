@@ -1,0 +1,14 @@
+Word::: warnen
+WordTranslation::: <ul>
+<li>предупредить</li>
+<li>предостерегать</li>
+</ul>
+DrittenPerson::: warnt
+Perfekt::: haben gewarnt
+Präteritum::: warnte
+FrontExample::: Ich habe versucht dich zu warnen.
+BackExample::: Я пытался тебя предупредить.
+FrontExample2::: Wissenschaftler warnen vor Mücken.
+BackExample2::: Ученые предупреждают о комарах.
+Tags::: 
+guid::: yxZ!K!?N/,

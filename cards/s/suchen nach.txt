@@ -1,0 +1,11 @@
+Word::: suchen nach
+WordTranslation::: искать что-то абстрактное, непонятное
+Explanation::: <ul><li>"Suchen" чаще всего используется, когда вы знаете, что именно вы ищете, и это что-то конкретное.</li><li>"Suchen nach" чаще всего используется, когда объект поиска менее конкретен, абстрактен или неизвестен. Эта фраза может также подразумевать продолжительный или менее целенаправленный поиск.</li></ul>
+FrontExample::: Ich suche nach einer Lösung.
+
+BackExample::: Я ищу решение.
+FrontExample2::: Die Polizei sucht nach dem Vermissten.
+
+BackExample2::: Полиция ищет пропавшего человека.
+Tags::: 
+guid::: Rdr5N?o<%J

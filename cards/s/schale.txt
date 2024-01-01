@@ -1,0 +1,9 @@
+Word::: Schale
+WordTranslation::: кожура, чаша
+Explanation::: Syn: der Teller, der Becher
+DerDieDas::: die
+Plural::: Schalen
+FrontExample::: Kannst du die Äpfel in die Schale dort legen?
+BackExample::: Вы можете положить яблоки в миску?
+Tags::: 
+guid::: ntt+j+H=+I

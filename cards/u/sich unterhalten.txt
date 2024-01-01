@@ -1,0 +1,9 @@
+Word::: sich unterhalten
+WordTranslation::: поговорить, поболтать, общаться, развлекаться
+DrittenPerson::: sich unterhält
+Perfekt::: hat sich unterhalten
+Präteritum::: unterhielt
+FrontExample::: Ich dachte, Sie wollen sich unterhalten.
+BackExample::: Я думал, вы хотите поговорить.
+Tags::: 
+guid::: g7sbV}o{3B

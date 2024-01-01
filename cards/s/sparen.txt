@@ -1,0 +1,11 @@
+Word::: sparen
+WordTranslation::: <ul><li>экономить</li><li>копить</li></ul>
+DrittenPerson::: spart
+Perfekt::: haben gespart
+Präteritum::: sparte
+FrontExample::: Lass uns mal Strom sparen, die Rechnung wird sonst zu hoch.
+BackExample::: Давайте экономить электроэнергию, иначе счет будет слишком высоким.
+FrontExample2::: Mein Neffe hat schon 100 Euro gespart.
+BackExample2::: Мой племянник уже накопил 100 евро.
+Tags::: 
+guid::: CPi6>5n4y4

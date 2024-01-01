@@ -1,0 +1,13 @@
+Word::: beurteilen
+WordTranslation::: оценивать, судить
+DrittenPerson::: beurteilt
+Perfekt::: haben beurteilt
+Präteritum::: beurteilte
+FrontExample::: Es ist nicht einfach, seine Leistung objektiv zu beurteilen.
+BackExample::: Не просто объективно оценить его работу.
+FrontExample2::: Bevor wir weitermachen, müssen wir die Situation richtig beurteilen.
+BackExample2::: Прежде чем продолжать, мы должны правильно оценить ситуацию.
+FrontExample3::: Der Lehrer muss die Klausuren seiner Studenten beurteilen.
+BackExample3::: Учитель должен оценить экзаменационные работы своих студентов.
+Tags:::  chatgpt 
+guid::: Dn(O]HJO!|

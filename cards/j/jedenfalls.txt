@@ -1,0 +1,7 @@
+Word::: jedenfalls
+WordTranslation::: в любом случае, по крайней мере<br><ul>
+</ul>
+FrontExample::: Jedenfalls lächelte sie und sagte: Kein Problem
+BackExample::: Во всяком случае, она улыбнулась и сказала: нет проблем
+Tags::: 
+guid::: t)UiN}os7v

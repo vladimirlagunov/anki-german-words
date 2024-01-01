@@ -1,0 +1,12 @@
+Word::: Pommes frites 
+WordTranslation::: картофель фри
+DerDieDas::: Pl.
+Plural::: Pommes frites
+FrontExample::: Die Kinder essen Hähnchen mit Pommes frites.
+BackExample::: Дети едят курицу с картофелем фри.
+FrontExample2::: Ich möchte eine Portion Pommes frites, bitte.
+BackExample2::: Я хочу порцию картофеля фри, пожалуйста.
+FrontExample3::: Hast du Ketchup zu den Pommes frites?
+BackExample3::: У тебя есть кетчуп к картофелю фри?
+Tags:::  A1 chatgpt 
+guid::: nF}-spDnpr

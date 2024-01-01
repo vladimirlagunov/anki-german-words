@@ -1,0 +1,16 @@
+Word::: Karte
+WordTranslation::: <ul>
+<li>билет</li>
+<li>карта</li>
+<li>меню</li>
+</ul>
+DerDieDas::: die
+Plural::: Karten
+FrontExample::: Ich schreibe meinen Bekannten eine Karte aus dem Urlaub.
+BackExample::: Я пишу своим знакомым открытку из отпуска.
+FrontExample2::: Wollen wir Karten spielen?&nbsp;
+BackExample2::: Мы хотим поиграть в карты?
+FrontExample3::: Ich möchte auch etwas essen. Bringen Sie mir die Karte, bitte.
+BackExample3::: Я тоже хотел бы что-нибудь поесть. Принесите мне, пожалуйста, меню.
+Tags:::  A1 chatgpt 
+guid::: Gf0M5$:DX%

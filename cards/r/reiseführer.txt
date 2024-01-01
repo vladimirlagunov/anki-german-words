@@ -1,0 +1,12 @@
+Word::: Reiseführer
+WordTranslation::: гид, путеводитель (книга, буклет)
+Explanation::: Отличие между <b>Reiseführer</b>&nbsp;и <b>Reiseleiter</b>&nbsp;заключается в том, что первое - это путеводитель в виде книги или приложения, а второе - это реальный человек, руководящий туристической группой.
+DerDieDas::: der
+Plural::: Reiseführer
+FrontExample::: Ich kaufe mir einen Reiseführer von Berlin. Unser Reiseführer heißt Peter.
+FrontExample2::: Beispiel 1: Ich lese den Reiseführer zu Italien.
+BackExample2::: Я читаю путеводитель по Италии.
+FrontExample3::: Beispiel 2: Hast du einen Reiseführer für Paris?
+BackExample3::: У тебя есть путеводитель по Парижу?
+Tags:::  A1 chatgpt 
+guid::: u,{59,sEnj

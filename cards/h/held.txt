@@ -1,0 +1,10 @@
+Word::: Held
+WordTranslation::: герой
+DerDieDas::: der
+Plural::: Helden
+FrontExample::: In jedem Buch gibt es einen Helden, mit dem sich die Leser identifizieren können.
+BackExample::: В каждой книге есть герой, с которым могут идентифицировать себя читатели.
+FrontExample2::: Er war der Held des Tages, nachdem er das Kind gerettet hatte.
+BackExample2::: Он был героем дня, после того как спас ребенка.
+Tags:::  chatgpt 
+guid::: CtGnhi88KK

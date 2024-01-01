@@ -1,0 +1,6 @@
+Word::: besichtigen
+WordTranslation::: осматривать
+FrontExample::: Während unseres Urlaubs haben wir viele historische Sehenswürdigkeiten besichtigt.
+BackExample::: Во время нашего отпуска мы посмотрели много исторических достопримечательностей.
+Tags:::  chatgpt 
+guid::: zybi.sO&#s

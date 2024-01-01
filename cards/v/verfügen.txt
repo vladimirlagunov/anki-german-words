@@ -1,0 +1,14 @@
+Word::: verfügen
+WordTranslation::: <ul><li>иметь в наличии</li><li>располагать, владеть, обладать</li><li>распоряжаться, предписывать</li></ul>
+Explanation::: verfügen über Akk
+DrittenPerson::: verfügt
+Perfekt::: haben verfügt
+Präteritum::: verfügte
+FrontExample::: Er verfügt über umfangreiche Kenntnisse in der Informatik.
+BackExample::: Он обладает обширными знаниями в области информатики.
+FrontExample2::: Sie verfügt nicht über genügend Mittel, um das Projekt zu finanzieren.
+BackExample2::: У неё недостаточно средств для финансирования проекта.
+FrontExample3::: Das Unternehmen kann nach Belieben über die neuen Ressourcen verfügen.
+BackExample3::: Компания может распоряжаться новыми ресурсами по своему усмотрению.
+Tags:::  chatgpt 
+guid::: on3Yb.,^4*

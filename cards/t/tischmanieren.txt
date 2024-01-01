@@ -1,0 +1,10 @@
+Word::: Tischmanieren
+WordTranslation::: этикет за столом, столовые манеры
+DerDieDas::: Pl.
+Plural::: Tischmanieren
+FrontExample::: Sie legte großen Wert auf Tischmanieren und benahm sich immer vorbildlich.
+BackExample::: Она придавала большое значение манерам за столом и всегда вела себя образцово.
+FrontExample2::: Bei dem Geschäftsessen waren seine schlechten Tischmanieren peinlich.
+BackExample2::: На деловом обеде его плохие манеры за столом были стыдны.
+Tags:::  chatgpt 
+guid::: r!TjVnT)}Z

@@ -1,0 +1,8 @@
+Word::: lieb-
+WordTranslation::: любезный, милый, дорогой, любимый
+FrontExample::: Liebe Susanne, lieber Hans,
+BackExample::: Дорогая Сюзанна, дорогой Ханс,
+FrontExample2::: Das ist mein Lieblingsbuch.
+BackExample2::: Это моя любимая книга.
+Tags:::  A1 chatgpt 
+guid::: HQjw7:(Lsr

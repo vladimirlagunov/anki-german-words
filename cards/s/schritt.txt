@@ -1,0 +1,11 @@
+Word::: Schritt
+WordTranslation::: шаг
+Explanation::: Обозначает действия или этапы в каком-либо процессе, а также буквально движения ногами при ходьбе.
+DerDieDas::: der
+Plural::: Schritte
+FrontExample::: Er erklärte die Schritte, um das Problem zu lösen.
+BackExample::: Он объяснил шаги для решения проблемы.
+FrontExample2::: Nach einigen Schritten erreichten sie den Gipfel des Berges.
+BackExample2::: После нескольких шагов они достигли вершины горы.
+Tags:::  chatgpt 
+guid::: H~#d[>8k$9

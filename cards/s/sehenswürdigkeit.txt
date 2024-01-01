@@ -1,0 +1,6 @@
+Word::: Sehenswürdigkeit
+WordTranslation::: достопримечательность
+DerDieDas::: die
+Plural::: Sehenswürdigkeiten
+Tags::: 
+guid::: mgWz|XBEZZ

@@ -1,0 +1,8 @@
+Word::: Glückwunsch
+WordTranslation::: поздравление
+DerDieDas::: der
+Plural::: Glückwünsche
+FrontExample::: Herzlichen Glückwunsch zum Geburtstag.
+BackExample::: Сердечные поздравления с днём рождения.
+Tags:::  A1 chatgpt 
+guid::: D<=ecskx6)

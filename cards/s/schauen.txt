@@ -1,0 +1,14 @@
+Word::: schauen
+WordTranslation::: (по)смотреть
+Explanation::: <ul><li><div>"<b>Sehen</b>" является более общим термином для обозначения зрительного восприятия и может использоваться в любом контексте, когда речь идет о физической способности видеть или о том, что кто-то видит или замечает что-либо. Например, "Ich kann dich nicht sehen" переводится как "Я не могу тебя видеть".</div></li><li><div>"<b>Schauen</b>" часто используется, когда речь идет о намеренном смотрении, например, когда вы смотрите на что-то конкретное или когда вы наблюдаете за чем-то. Это слово также может использоваться в более неформальном контексте. Пример: "Schau mal hier!" переводится как "Посмотри сюда!".</div></li></ul>
+DrittenPerson::: schaut
+Perfekt::: haben geschaut
+Präteritum::: schaute
+FrontExample::: Kannst du bitte auf meine Katze schauen, während ich weg bin?
+BackExample::: Можешь посмотреть за моей кошкой, пока меня нет?
+FrontExample2::: Er schaut aus dem Fenster.
+BackExample2::: Он смотрит в окно.
+FrontExample3::: Schau mal hier!
+BackExample3::: Посмотри сюда!
+Tags:::  chatgpt 
+guid::: JUp]y,Q47V

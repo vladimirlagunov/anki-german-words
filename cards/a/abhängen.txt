@@ -1,0 +1,23 @@
+Word::: abhängen
+WordTranslation::: <ul>
+<li>зависеть от<br></li><li>проводить время, расслабляться, отдыхать<br></li>
+</ul>
+DrittenPerson::: hängt ab
+Perfekt::: <ul>
+<li>haben abgehangen</li>
+<li>haben abgehängt</li>
+</ul>
+Präteritum::: <ul>
+<li>hing ab</li>
+<li>hängte ab</li>
+</ul>
+FrontExample::: Nach der Arbeit hängt er gerne mit seinen Freunden ab.
+
+BackExample::: После работы он любит тусоваться с друзьями.
+FrontExample2::: Ich möchte zu Hause abhängen und einen Film anschauen.
+
+BackExample2::: Я хочу отдохнуть дома и посмотреть фильм.
+FrontExample3::: Der Erfolg des Projekts hängt von der Zusammenarbeit des Teams ab.
+BackExample3::: Успех проекта зависит от сотрудничества команды.
+Tags:::  chatgpt 
+guid::: LQ7%pG*)b$

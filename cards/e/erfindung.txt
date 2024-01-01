@@ -1,0 +1,9 @@
+Word::: Erfindung
+WordTranslation::: изобретение
+Explanation::: Syn: die Verwirklichung, die Einrichtung, der Aufbau, die Herstellung
+DerDieDas::: die
+Plural::: Erfindungen
+FrontExample::: Und dann haben wir angefangen, nur noch über die Erfindung zu reden und nicht mehr über unsere Jobs zu meckern.
+BackExample::: А потом мы начали говорить об изобретении и больше не жаловаться на нашу работу.
+Tags::: 
+guid::: JrXmh+ILqO

@@ -1,0 +1,13 @@
+Word::: wundern sich
+WordTranslation::: удивлять(ся)<br><ul>
+</ul>
+Explanation::: Syn: wundern, staunen, überraschen, erstaunen
+DrittenPerson::: wundert
+Perfekt::: haben gewundert
+Präteritum::: wunderte
+FrontExample::: Er wird sich wundern, dass so viel Leute hier sind.
+BackExample::: Он будет удивлен, что здесь так много людей.
+FrontExample2::: Wer nicht weiß, wo er hin will, wird sich wundern, dass er ganz woanders ankommt.
+BackExample2::: Если вы не знаете, куда идете, вы будете удивлены, что оказались в другом месте.
+Tags::: 
+guid::: KQ56k#D=~=

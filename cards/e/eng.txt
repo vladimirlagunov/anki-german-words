@@ -1,0 +1,10 @@
+Word::: eng
+WordTranslation::: <ul><li>узкий, тесный</li><li>близкие (отношения)</li></ul>
+FrontExample::: Der Raum war eng und dunkel.
+BackExample::: Комната была узкой и темной.
+FrontExample2::: Sie haben ein enges Zeitlimit für die Fertigstellung des Projekts.
+BackExample2::: У них узкий срок на завершение проекта.
+FrontExample3::: Das Kleid ist mir zu eng.
+BackExample3::: Платье мне слишком узкое.
+Tags:::  chatgpt 
+guid::: P|!rZ}Xe;N

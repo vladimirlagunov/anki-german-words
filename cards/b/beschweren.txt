@@ -1,0 +1,13 @@
+Word::: beschweren
+WordTranslation::: пожаловаться<br><ul>
+</ul>
+Explanation::: sich beschweren bei + D<br><br><div><ul><li>Слово "beschweren" в немецком языке означает "жаловаться" или "выражать недовольство", это может быть связано с любыми обстоятельствами и не обязательно предполагает формальный процесс.</li><li>Слово "reklamieren" также переводится как "жаловаться", но имеет более узкое значение. Оно используется, когда человек выражает официальное несогласие или претензии, например, по поводу качества товара или услуги. Это слово чаще всего используется в контексте потребительских прав, когда покупатель предъявляет претензию в связи с дефектом товара.</li></ul></div>
+DrittenPerson::: beschwert
+Perfekt::: haben beschwert
+Präteritum::: beschwerte
+FrontExample::: Er beschwert sich ständig über die Arbeit.
+BackExample::: Он постоянно жалуется на работу.
+FrontExample2::: Die Nachbarn beschwerten sich über den Lärm.
+BackExample2::: Соседи жаловались на шум.
+Tags:::  chatgpt 
+guid::: QMB8JG[p]m

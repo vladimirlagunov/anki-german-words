@@ -1,0 +1,14 @@
+Word::: treffen
+WordTranslation::: встретить, встречать<br><ul>
+</ul>
+DrittenPerson::: trifft
+Perfekt::: haben getroffen
+Präteritum::: traf
+FrontExample::: Ich treffe in der Stadt einen Kollegen. Wir treffen uns immer freitags.
+BackExample::: Я встречаю коллегу в городе. Мы всегда встречаемся по пятницам.
+FrontExample2::: Wir treffen uns um acht Uhr.
+BackExample2::: Мы встречаемся в восемь часов.
+FrontExample3::: Ich treffe meine Freunde im Park.
+BackExample3::: Я встречаю моих друзей в парке.
+Tags:::  A1 chatgpt 
+guid::: ti&MKnN+WH

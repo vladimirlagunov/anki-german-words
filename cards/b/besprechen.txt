@@ -1,0 +1,7 @@
+Word::: besprechen
+WordTranslation::: обсуждать
+DrittenPerson::: bespricht
+Perfekt::: haben besprochen
+Präteritum::: besprach
+Tags::: 
+guid::: E!O39I9LUw

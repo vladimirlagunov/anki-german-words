@@ -1,0 +1,8 @@
+Word::: unverbindlich
+WordTranslation::: нестрого, необязательно, непринужденно, неформально
+FrontExample::: Du kannst dir unser Angebot unverbindlich anschauen.
+BackExample::: Ты можешь без обязательств посмотреть наше предложение.
+FrontExample2::: Die Teilnahme am Kurs ist unverbindlich und kostenlos.
+BackExample2::: Участие в курсе необязательно и бесплатно.
+Tags:::  chatgpt 
+guid::: efPF|En)R-

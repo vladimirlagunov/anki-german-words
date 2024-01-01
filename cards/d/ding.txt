@@ -1,0 +1,6 @@
+Word::: Ding
+WordTranslation::: дела; обстоятельства
+DerDieDas::: das
+Plural::: Dinge, Dinger
+Tags::: 
+guid::: r`Udd_-oRq

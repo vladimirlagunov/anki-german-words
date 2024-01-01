@@ -1,0 +1,9 @@
+Word::: jedoch
+WordTranslation::: однако, хотя, впрочем
+Explanation::: Syn: allerdings, dennoch, trotzdem<br><br><ol><li><div><strong>Jedoch</strong>: Обычно используется для введения противоположной информации или контраста. "Jedoch" обычно размещается в начале основного предложения после запятой. Пример: "Ich wollte ins Kino gehen, jedoch hatte ich keine Zeit."</div></li><li><div><strong>Allerdings</strong>: Это слово также используется для выражения противоположности или сдерживания утверждения. Оно может также выражать согласие с оговоркой и иногда используется для усиления утверждения (в значении "действительно"). Пример: "Das ist richtig, allerdings hatte ich es anders im Kopf."</div></li><li><div><strong>Dennoch</strong>: "Dennoch" также может использоваться для введения контрастной информации и часто можно встретить в более формальном контексте. Пример: "Er hatte wenig Zeit. Dennoch hat er das Projekt erfolgreich abgeschlossen."</div></li><li><div><strong>Trotzdem</strong>: "Trotzdem" обычно используется в более разговорной речи и имеет близкое значение к "dennoch", выражая противоречие предыдущему утверждению. Пример: "Es regnete. Trotzdem sind wir spazieren gegangen."</div></li></ol>
+FrontExample::: Gegenüber anderen Gänsen und Schwänen verhalten sie sich jedoch aggressiv.
+BackExample::: Однако по отношению к другим гусям и лебедям они ведут себя агрессивно.
+FrontExample2::: Das Essen war teuer, jedoch hat es sehr gut geschmeckt.
+BackExample2::: Еда была дорогой, однако она была очень вкусной.
+Tags::: 
+guid::: E*kUY2LyuB

@@ -1,0 +1,8 @@
+Word::: Aufenthalt
+WordTranslation::: пребывание, нахождение, проживание
+DerDieDas::: der
+Plural::: Aufenthalte
+FrontExample::: Wie viel kostet der Aufenthalt hier?
+BackExample::: И что вы платите за пребывание здесь?
+Tags::: 
+guid::: gTkv~AP8oz

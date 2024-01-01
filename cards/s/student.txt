@@ -1,0 +1,10 @@
+Word::: Student
+WordTranslation::: студент
+DerDieDas::: der
+Plural::: Studenten
+FrontExample::: Ich bin Studentin.
+BackExample::: Я студентка.
+FrontExample2::: Der Student liest ein Buch.
+BackExample2::: Студент читает книгу.
+Tags:::  A1 chatgpt 
+guid::: yEx96HH._:

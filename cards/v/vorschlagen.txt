@@ -1,0 +1,13 @@
+Word::: vorschlagen
+WordTranslation::: предлагать
+DrittenPerson::: schlägt vor
+Perfekt::: haben vorgeschlagen
+Präteritum::: schlug vor
+FrontExample::: Er wird sicherlich eine Lösung vorschlagen.
+BackExample::: Он, наверное, предложит решение.
+FrontExample2::: Ich möchte vorschlagen, dass wir früher gehen.
+BackExample2::: Я хочу предложить, чтобы мы ушли пораньше.
+FrontExample3::: Können Sie mir ein gutes Restaurant vorschlagen?
+BackExample3::: Можете ли вы мне предложить хороший ресторан?
+Tags:::  chatgpt 
+guid::: n9cj#xN-z*

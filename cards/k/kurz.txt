@@ -1,0 +1,10 @@
+Word::: kurz
+WordTranslation::: короткий, краткий, недолгий, сжатый
+FrontExample::: Ricardo hat kurzes Haar.
+BackExample::: У Рикардо короткие волосы.
+FrontExample2::: Das Kleid ist zu kurz.
+BackExample2::: Платье слишком короткое.
+FrontExample3::: Ich bleibe nur kurz.
+BackExample3::: Я останусь всего на короткое время.
+Tags:::  A1 chatgpt 
+guid::: B/#q0+sf8h

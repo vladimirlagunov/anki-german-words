@@ -1,0 +1,8 @@
+Word::: Alltag
+WordTranslation::: будни
+DerDieDas::: der
+Plural::: Alltage
+FrontExample::: Das ist mein Alltag: putzen, waschen, kochen.
+BackExample::: Это моя повседневная жизнь: уборка, стирка, приготовление пищи.
+Tags::: 
+guid::: t)<)]1]B4?

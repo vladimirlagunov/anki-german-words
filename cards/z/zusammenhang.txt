@@ -1,0 +1,13 @@
+Word::: Zusammenhang
+WordTranslation::: связь, контекст, взаимосвязь<br><ul>
+</ul>
+DerDieDas::: der
+Plural::: Zusammenhänge
+FrontExample::: Es gibt einen klaren Zusammenhang zwischen Ernährung und Gesundheit.
+BackExample::: Существует ясная связь между питанием и здоровьем.
+FrontExample2::: Der Autor erklärt den historischen Zusammenhang der Ereignisse sehr detailliert.
+BackExample2::: Автор очень подробно объясняет историческую взаимосвязь событий.
+FrontExample3::: Ich verstehe den Zusammenhang dieser Theorien noch nicht ganz.
+BackExample3::: Я еще не полностью понимаю связь этих теорий.
+Tags:::  chatgpt 
+guid::: c-U0BH=_)x

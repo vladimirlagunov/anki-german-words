@@ -1,0 +1,10 @@
+Word::: Spur
+WordTranslation::: <ul>
+<li>полоса движения</li>
+<li>след</li>
+<li>трек</li>
+</ul>
+DerDieDas::: die
+Plural::: Spuren
+Tags::: 
+guid::: l&bM`Ui8h/

@@ -1,0 +1,8 @@
+Word::: Gemeinde
+WordTranslation::: муниципалитет, община, коммуна
+DerDieDas::: die
+Plural::: Gemeinden
+FrontExample::: Eine Gemeinde mit toller Lebensart.
+BackExample::: Община с отличным образом жизни.
+Tags::: 
+guid::: lQzEDO7-(7

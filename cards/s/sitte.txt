@@ -1,0 +1,12 @@
+Word::: Sitte
+WordTranslation::: нрав, обычай, традиция
+DerDieDas::: die
+Plural::: Sitten
+FrontExample::: Die Sitte, sich zur Begrüßung die Hand zu geben, ist in vielen Kulturen verbreitet.
+BackExample::: Традиция пожимать руку в качестве приветствия распространена во многих культурах.
+FrontExample2::: In der Region ist es Sitte, dass die Hochzeit drei Tage und drei Nächte gefeiert wird.
+BackExample2::: В этом регионе принято, что свадьбу празднуют три дня и три ночи.
+FrontExample3::: Es ist eine alte Sitte, dass die Kinder ihren Großeltern zu Neujahr etwas vorsingen.
+BackExample3::: Существует старинный обычай, согласно которому дети поют что-нибудь своим бабушкам и дедушкам на Новый год.
+Tags:::  chatgpt 
+guid::: Qjd,QjyDfn

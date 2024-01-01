@@ -1,0 +1,6 @@
+Word::: entlang
+WordTranslation::: вдоль
+FrontExample::: Gehen Sie diese Straße entlang. Dann
+BackExample::: Пройдитесь по этой улице. Затем вы приедете прямо на станцию.
+Tags::: 
+guid::: re8T**7LWE

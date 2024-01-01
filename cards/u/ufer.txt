@@ -1,0 +1,8 @@
+Word::: Ufer
+WordTranslation::: берег
+DerDieDas::: das
+Plural::: Ufer
+FrontExample::: Ich erreichte das Ufer und fing an zu laufen.
+BackExample::: Я добрался до берега и побежал.
+Tags::: 
+guid::: ru,(zD:6*.

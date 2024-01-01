@@ -1,0 +1,14 @@
+Word::: schreien
+WordTranslation::: кричать<br><ul>
+</ul>
+DrittenPerson::: schreit
+Perfekt::: haben geschrien
+Präteritum::: schrie
+FrontExample::: Das Baby schreit die ganze Nacht.
+BackExample::: Младенец кричит всю ночь.
+FrontExample2::: Er schrie vor Schmerz.
+BackExample2::: Он закричал от боли.
+FrontExample3::: Sie schrien vor Freude, als sie die gute Nachricht hörten.
+BackExample3::: Они закричали от радости, услышав хорошую новость.
+Tags:::  chatgpt 
+guid::: Ew8UZQNZRL

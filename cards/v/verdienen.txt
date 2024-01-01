@@ -1,0 +1,7 @@
+Word::: verdienen
+WordTranslation::: 
+зарабатывать, заслуживать
+FrontExample::: Он усердно работает и зарабатывает много денег.
+BackExample::: Er arbeitet hart und verdient viel Geld.
+Tags::: 
+guid::: LcdZ<7+sD%

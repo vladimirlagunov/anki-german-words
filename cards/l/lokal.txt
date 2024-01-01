@@ -1,0 +1,12 @@
+Word::: Lokal
+WordTranslation::: бар
+DerDieDas::: das
+Plural::: Lokale
+FrontExample::: In unserer Straße gibt es ein neues Lokal.
+BackExample::: На нашей улице открылось новый бар.
+FrontExample2::: Wir treffen uns um acht im Lokal.
+BackExample2::: Мы встретимся в восемь в баре.
+FrontExample3::: Das Lokal ist heute geschlossen.
+BackExample3::: Бар сегодня закрыт.
+Tags:::  A1 chatgpt 
+guid::: H-(7Pk|BZg

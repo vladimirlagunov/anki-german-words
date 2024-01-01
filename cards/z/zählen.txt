@@ -1,0 +1,20 @@
+Word::: zählen
+WordTranslation::: <ul>
+<li>насчитываться</li>
+<li>считаться</li>
+<li>причислять</li>
+<li>считать</li>
+</ul>
+Explanation::: "zählen" относится к простому перечислению или подсчету чисел или объектов, а "rechnen" касается более сложных математических операций и вычислений. 
+DrittenPerson::: zählt
+Perfekt::: haben gezählt<br><ul>
+</ul>
+Präteritum::: zählte
+FrontExample::: Kinder lernen das Zählen in der Schule.
+BackExample::: Дети учат счёт в школе.
+FrontExample2::: Jede Meinung zählt.
+BackExample2::: Каждое мнение имеет значение. (считается)
+FrontExample3::: Die Kinder lernen, bis zehn zu zählen.
+BackExample3::: Дети учатся считать до десяти.
+Tags::: 
+guid::: mFM{S_~Q#_

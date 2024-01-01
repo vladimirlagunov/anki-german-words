@@ -1,0 +1,10 @@
+Word::: anwesend
+WordTranslation::: присутствующий
+FrontExample::: Sind alle Schüler anwesend?
+BackExample::: Все ли ученики присутствуют?
+FrontExample2::: Der Direktor ist heute nicht anwesend.
+BackExample2::: Директор сегодня не присутствует.
+FrontExample3::: Bitte tragen Sie sich in die Liste ein, wenn Sie anwesend sind.
+BackExample3::: Пожалуйста, занесите себя в список, если вы присутствуете.
+Tags:::  chatgpt 
+guid::: rY;i3bgN,V

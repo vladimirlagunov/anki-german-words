@@ -1,0 +1,8 @@
+Word::: Hopfen
+WordTranslation::: хмель
+DerDieDas::: der
+Plural::: Hopfen
+FrontExample::: Der Hopfen, den wir für unser Bier verwenden, kommt aus Deutschland.
+BackExample::: Хмель, который мы используем для нашего пива, произрастает в Германии.
+Tags:::  chatgpt 
+guid::: Fx>AJgJk3:

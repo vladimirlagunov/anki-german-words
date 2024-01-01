@@ -1,0 +1,12 @@
+Word::: einrichten
+WordTranslation::: устраивать, оборудовать
+Explanation::: Syn: errichten, aufbauen, erstellen, aufstellen
+DrittenPerson::: richtet ein
+Perfekt::: haben eingerichtet
+Präteritum::: richtete ein
+FrontExample::: Ich glaube, das kann ich einrichten.
+BackExample::: Я думаю, что могу это устроить.
+FrontExample2::: Ich muss das Haus mit weißen Möbeln einrichten.
+BackExample2::: Мне нужно обставить дом белой мебелью.
+Tags::: 
+guid::: z|}d50mQ8?

@@ -1,0 +1,8 @@
+Word::: besonders
+WordTranslation::: особенно, отдельно, специально
+FrontExample::: Ich habe besonders viel Arbeit diese Woche.
+BackExample::: У меня особенно много работы на этой неделе.
+FrontExample2::: Dieses Restaurant ist für seine Pasta besonders bekannt.
+BackExample2::: Этот ресторан особенно известен своей пастой.
+Tags:::  chatgpt 
+guid::: f]X7RhQ`ll

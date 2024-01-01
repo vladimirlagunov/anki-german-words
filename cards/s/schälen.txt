@@ -1,0 +1,11 @@
+Word::: schälen
+WordTranslation::: чистить (овощ или фрукт), очищать
+DrittenPerson::: schält
+Perfekt::: hat geschält
+Präteritum::: schälte
+FrontExample::: Ich schäle gerade Kartoffeln für das Abendessen.
+BackExample::: Я сейчас чищу картофель для ужина.
+FrontExample2::: Ich habe gelernt, wie man Zwiebeln schnell und effizient schält.
+BackExample2::: Я научился быстро и эффективно чистить лук.
+Tags:::  chatgpt 
+guid::: N/}9gP!amD

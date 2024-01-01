@@ -1,0 +1,9 @@
+Word::: abnehmen
+WordTranslation::: худеть, терять в весе, убавляться, снижаться
+DrittenPerson::: nimmt ab
+Perfekt::: haben abgenommen
+Präteritum::: nahm ab
+FrontExample::: Wer sagt, dass ich abnehmen muss?
+BackExample::: Кто сказал, что мне нужно похудеть?
+Tags::: 
+guid::: CB[P@HzO,E

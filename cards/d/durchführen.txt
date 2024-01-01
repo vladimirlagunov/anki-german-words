@@ -1,0 +1,12 @@
+Word::: durchführen
+WordTranslation::: провести, выполнить, осуществить
+Explanation::: Syn: ausführen, vornehmen, führen, vollziehen
+DrittenPerson::: führt durch
+Perfekt::: haben durchgeführt
+Präteritum::: führte durch
+FrontExample::: Damit wir uns richtig verstehen, ich werde diese Mission durchführen.
+BackExample::: Давайте начистоту, я выполню эту миссию.
+FrontExample2::: Wir können die Prozedur ohne Risiko für andere durchführen.
+BackExample2::: Мы можем проводить процедуру без риска для окружающих.
+Tags::: 
+guid::: mM{YAB:A+`

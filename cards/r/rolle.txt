@@ -1,0 +1,12 @@
+Word::: Rolle
+WordTranslation::: <ul><li>роль</li><li>ролик, катушка</li></ul>
+DerDieDas::: <div>die</div>
+Plural::: <div>Rollen</div>
+FrontExample::: Er spielte die Hauptrolle in dem neuen Theaterstück.
+BackExample::: Он играл главную роль в новой пьесе.
+FrontExample2::: Die Rolle des Lehrers in der Gesellschaft ist sehr wichtig.
+BackExample2::: Роль учителя в обществе очень важна.
+FrontExample3::: Könntest du mir bitte eine neue Rolle Toilettenpapier geben?
+BackExample3::: Не мог бы ты, пожалуйста, передать мне новый рулон туалетной бумаги?
+Tags:::  chatgpt 
+guid::: MI=T:_aOZ}

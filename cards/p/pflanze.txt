@@ -1,0 +1,6 @@
+Word::: Pflanze
+WordTranslation::: растение
+DerDieDas::: die
+Plural::: Pflanzen
+Tags::: 
+guid::: KYE22k;/E~

@@ -1,0 +1,9 @@
+Word::: ansehen
+WordTranslation::: видеть, (по)смотреть
+Explanation::: Отличие между "ansehen" и "sehen" в том, что "ansehen" обозначает активное и внимательное рассмотрение или изучение чего-либо, в то время как "sehen" просто указывает на восприятие зрением или присутствие видимости.
+FrontExample::: Hast du dir die Fotos von der Party angesehen?
+BackExample::: Ты посмотрел фотографии с вечеринки?
+FrontExample2::: Sie können sich die Dokumentation online ansehen.
+BackExample2::: Вы можете посмотреть документацию онлайн.
+Tags:::  chatgpt 
+guid::: sD+;&`hrMk

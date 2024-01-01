@@ -1,0 +1,6 @@
+Word::: Tante
+WordTranslation::: тетя
+DerDieDas::: die
+Plural::: Tanten
+Tags::: 
+guid::: Q,oI(O.+8f

@@ -1,0 +1,15 @@
+Word::: verwenden
+WordTranslation::: использовать, воспользоваться, применять
+Explanation::: <ul><li><div><strong>Nutzen</strong> — обычно употребляется в контексте пользы или выгоды, которую что-то или кто-то приносит.</div><div>Пример:</div><ul><li>Er nutzt die Gelegenheit, um mehr zu lernen.<ul><li>Он использует возможность, чтобы узнать больше.</li></ul></li></ul></li><li><div><strong>Benutzen</strong> — чаще всего говорит о физическом использовании объекта или инструмента.</div><div>Пример:</div><ul><li>Kann ich deinen Stift benutzen?<ul><li>Могу я воспользоваться твоей ручкой?</li></ul></li></ul></li><li><div><strong>Verwenden</strong> — это более формальный вариант, и он часто используется, когда речь идет о применении в более абстрактном или широком смысле.</div><div>Пример:</div></li><ul><li>Wir verwenden erneuerbare Energien.</li><ul><li>Мы используем возобновляемые источники энергии.</li></ul></ul><li><div><strong>Gebrauchen</strong> — еще один синоним, который тоже может быть использован в схожих контекстах, хотя он несколько менее распространен.</div><div>Пример:</div><ul><li>Kann ich das Fahrrad gebrauchen?<ul><li>Могу я воспользоваться этим велосипедом?</li></ul></li></ul></li><li><div><strong>Anwenden</strong> — обычно используется для методов, правил или навыков, которые применяются в конкретной ситуации.</div><div>Пример:</div><ul><li>Diese Regel kann man auch hier anwenden.<ul><li>Это правило можно применить и здесь.</li></ul></li></ul></li></ul>
+Perfekt::: <ul>
+  <li>haben verwendet -- Эта форма обычно используется, когда речь идет о конкретном использовании чего-либо</li>
+  <li>haben verwandt -- Эта форма реже используется и часто встречается в более старой или поэтической литературе. Она также может использоваться в более формальных или академических контекстах.</li>
+</ul>
+	
+Präteritum::: <ul>
+  <li>verwendete</li><li>verwandte<br></li>
+</ul>
+FrontExample::: Zusätzlich kann man Schmerzmittel verwenden.
+BackExample::: Кроме того, можно использовать болеутоляющие средства.
+Tags:::  сложно 
+guid::: BHEf6/O;]Z

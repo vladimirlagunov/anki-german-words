@@ -1,0 +1,14 @@
+Word::: derselbe, dieselbe, dasselbe
+WordTranslation::: тот же самый, та же самая, то же самое
+Explanation::: <ol><li><div>"Derselbe":</div><ul><li>"Derselbe" - это местоимение, которое означает "тот же самый" или "та же самая". Оно употребляется для указания на то, что предмет, личность или ситуация идентична или не изменилась в сравнении с предыдущим контекстом.</li><li>Пример: Das ist dasselbe Buch, das ich gestern gelesen habe. (Это та же самая книга, которую я читал вчера.)</li></ul></li><li><div>"Gleich":</div><ul><li>"Gleich" - это прилагательное или наречие, которое означает "одинаковый", "равный" или "тот же самый". Оно используется для указания на сходство, одинаковость или равенство между двумя или несколькими объектами или ситуациями.</li><li>Пример: Die beiden Schwestern sehen sich sehr ähnlich, sie sind fast gleich groß. (Обе сестры очень похожи, они почти одинакового роста.)</li></ul></li></ol><div>В обоих случаях употребление слова "derselbe" и "gleich" указывает на сходство или одинаковость, но "derselbe" акцентирует, что это идентичность с предыдущим контекстом или сравниваемым объектом, в то время как "gleich" может быть использовано для описания общего сходства или равенства без привязки к предыдущему контексту.</div>
+Plural::: dieselben
+FrontExample::: Er trägt immer noch denselben Hut wie gestern.
+
+BackExample::: Он все еще носит ту же самую шляпу, что и вчера.
+FrontExample2::: Wir haben dieselben Interessen und Hobbys.
+
+BackExample2::: У нас одни и те же интересы и хобби.
+FrontExample3::: Derselbe Lehrer, der uns in der Grundschule unterrichtet hat, unterrichtet jetzt auch unsere Kinder.
+BackExample3::: Тот же самый учитель, который преподавал нам в начальной школе, сейчас также преподает нашим детям.
+Tags:::  chatgpt 
+guid::: Dt+vIWb~IV

@@ -1,0 +1,10 @@
+Word::: möglich
+WordTranslation::: возможный, допустимый
+FrontExample::: Mit dieser Fahrkarte ist die Fahrt ab 9 Uhr möglich.
+BackExample::: С этим билетом поездка возможна начиная с 9 утра.
+FrontExample2::: Ist es möglich, später zu kommen?
+BackExample2::: Возможно ли прийти позже?
+FrontExample3::: Ein Treffen am Montag ist nicht möglich.
+BackExample3::: Встреча в понедельник невозможна.
+Tags:::  A1 chatgpt 
+guid::: oAWHG:J*c7

@@ -1,0 +1,14 @@
+Word::: empfinden
+WordTranslation::: <ul>
+<li>воспринимать</li>
+<li>чувствовать</li>
+</ul>
+DrittenPerson::: empfindet
+Perfekt::: haben empfunden
+Präteritum::: empfand
+FrontExample::: Ich empfinde große Freude, dich zu sehen.
+BackExample::: Я испытываю большую радость, видя тебя.
+FrontExample2::: Sie empfand starken Schmerz in ihrem Arm.
+BackExample2::: Она почувствовала сильную боль в своей руке.
+Tags:::  chatgpt 
+guid::: xk1?zc{>1O

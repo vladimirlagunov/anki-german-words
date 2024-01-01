@@ -1,0 +1,13 @@
+Word::: anziehen
+WordTranslation::: надевать, одевать
+DrittenPerson::: zieht an
+Perfekt::: haben angezogen
+Präteritum::: zog an
+FrontExample::: Ich muss mich noch anziehen.
+BackExample::: Мне ещё нужно одеться.
+FrontExample2::: Ich ziehe meinen Mantel an, weil es kalt ist.
+BackExample2::: Я надеваю своё пальто, потому что холодно.
+FrontExample3::: Sie zieht das Kind an.
+BackExample3::: Она одевает ребёнка.
+Tags:::  A1 chatgpt 
+guid::: J?v*2aHqx1

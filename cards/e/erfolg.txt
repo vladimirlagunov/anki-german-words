@@ -1,0 +1,15 @@
+Word::: Erfolg
+WordTranslation::: <ul>
+<li>удача</li>
+<li>успех</li>
+</ul>
+DerDieDas::: der
+Plural::: Erfolge
+FrontExample::: Der Erfolg des Projekts hängt von der Zusammenarbeit des Teams ab.
+BackExample::: Успех проекта зависит от сотрудничества команды.
+FrontExample2::: Trotz aller Bemühungen hatte sie keinen Erfolg.
+BackExample2::: Несмотря на все усилия, ей так и не удалось добиться успеха.
+FrontExample3::: Sein Buch war ein großer Erfolg.
+BackExample3::: Его книга стала большим успехом.
+Tags:::  chatgpt 
+guid::: f0!uFZReB_

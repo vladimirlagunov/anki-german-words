@@ -1,0 +1,13 @@
+Word::: vereinbaren
+WordTranslation::: договариваться, согласовывать
+DrittenPerson::: vereinbart
+Perfekt::: haben vereinbart
+Präteritum::: vereinbarte
+FrontExample::: Wir müssen einen Termin vereinbaren.
+BackExample::: Мы должны договориться о встрече.
+FrontExample2::: Sie können Ihren Besuch telefonisch oder per E-Mail vereinbaren.
+BackExample2::: Вы можете согласовать свой визит по телефону или по электронной почте.
+FrontExample3::: Im Vertrag wurde vereinbart, dass die Lieferung binnen zwei Wochen erfolgt.
+BackExample3::: В контракте было оговорено, что доставка произойдет в течение двух недель.
+Tags:::  chatgpt 
+guid::: G[#uH/>s*

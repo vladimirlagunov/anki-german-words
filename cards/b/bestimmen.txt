@@ -1,0 +1,12 @@
+Word::: bestimmen
+WordTranslation::: определить, решать, установить
+Explanation::: Syn: festlegen, definieren
+DrittenPerson::: bestimmt
+Perfekt::: haben bestimmt
+Präteritum::: bestimmte
+FrontExample::: Unser Handeln wird bestimmen, was für Leben das sein werden.
+BackExample::: Наши действия определят, какой будет их жизнь.
+FrontExample2::: Der Benutzer kann bestimmen, ob veraltete Stile und Anzeigeeinstellungen aktualisiert oder ignoriert werden sollen.
+BackExample2::: Пользователь может решить, следует ли обновлять или игнорировать устаревшие стили и настройки отображения.
+Tags::: 
+guid::: P?23b;mQz9

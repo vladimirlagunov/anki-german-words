@@ -1,0 +1,11 @@
+Word::: Mühe
+WordTranslation::: старание, труд, усилие
+DerDieDas::: die
+FrontExample::: Vielen Dank für deine Mühen.
+
+BackExample::: Большое спасибо за твои усилия.
+
+FrontExample2::: Mit viel Mühe fanden sie den richtigen Weg.
+BackExample2::: С большим трудом они нашли правильный путь.
+Tags::: 
+guid::: c-Kh1X?u4L

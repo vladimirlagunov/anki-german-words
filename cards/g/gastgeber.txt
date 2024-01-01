@@ -1,0 +1,12 @@
+Word::: Gastgeber
+WordTranslation::: принимающая (гостя) сторона, хозяин
+DerDieDas::: der
+Plural::: Gastgeber
+FrontExample::: Der Gastgeber der Party hat für alles gesorgt.
+BackExample::: Хозяин вечеринки позаботился обо всем.
+FrontExample2::: Wir bedanken uns bei unseren Gastgebern für die herzliche Aufnahme.
+BackExample2::: Мы благодарим наших хозяев за теплый прием.
+FrontExample3::: Als Gastgeber der Konferenz wollen wir einen guten Eindruck hinterlassen.
+BackExample3::: Как организаторы конференции, мы хотим оставить хорошее впечатление.
+Tags:::  chatgpt 
+guid::: y[8Op|c7d0

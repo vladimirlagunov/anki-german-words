@@ -1,0 +1,17 @@
+Word::: verletzen
+WordTranslation::: <ul>
+<li>ранить</li>
+<li>навредить, обидеть, ранить</li>
+<li>нарушать</li>
+</ul>
+DrittenPerson::: verletzt
+Perfekt::: haben verletzt
+Präteritum::: verletzte
+FrontExample::: Ich musste ihn so verletzen, dass er mir fernbleibt.
+BackExample::: Мне пришлось причинить ему такую боль, чтобы он держался от меня подальше.
+FrontExample2::: Er wollte niemanden verletzen, aber seine Worte waren zu scharf.
+BackExample2::: Он не хотел никого обидеть, но его слова были слишком резкими.
+FrontExample3::: Nach dem Unfall konnte sie ihre Hand nicht bewegen, sie hatte sich verletzt.
+BackExample3::: После аварии она не могла двигать рукой, она получила травму.
+Tags:::  chatgpt 
+guid::: Hu*,sI/J|;

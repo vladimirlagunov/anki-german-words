@@ -1,0 +1,10 @@
+Word::: Hinweis
+WordTranslation::: указание, подсказка, замечание, намек
+DerDieDas::: der
+Plural::: Hinweise
+FrontExample::: Im Lehrbuch gibt es mehrere Hinweise, wie man die Übungen richtig löst.
+BackExample::: В учебнике есть несколько подсказок, как правильно выполнять упражнения.
+FrontExample2::: Der Detektiv fand einen entscheidenden Hinweis, der zum Täter führte.
+BackExample2::: Детектив нашел решающую улику, которая привела к преступнику.
+Tags:::  chatgpt 
+guid::: GYU:cQ>^*=

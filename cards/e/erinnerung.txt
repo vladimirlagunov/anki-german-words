@@ -1,0 +1,6 @@
+Word::: Erinnerung
+WordTranslation::: память
+FrontExample::: An diese Zeit habe ich viele schöne Erinnerungen.
+BackExample::: У меня много приятных воспоминаний о том времени.
+Tags::: 
+guid::: x8stx$0tg<

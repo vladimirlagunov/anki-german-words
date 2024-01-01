@@ -1,0 +1,9 @@
+Word::: verstecken
+WordTranslation::: прятаться, спрятать, скрыться
+Explanation::: Syn:&nbsp;<a>verbergen,&nbsp;</a><a>verdecken,&nbsp;</a><a>verschweigen,&nbsp;</a><a>verschleiern</a>
+Perfekt::: hat versteckt
+Präteritum::: versteckte
+FrontExample::: Ich kann mich hinter diesem Gebäude verstecken und auf eine Lücke warten.
+BackExample::: Я могу спрятаться за этим зданием и дождаться просвета.
+Tags::: 
+guid::: Ba~re4]aSJ

@@ -1,0 +1,8 @@
+Word::: Strand
+WordTranslation::: пляж
+DerDieDas::: der
+Plural::: Strände
+FrontExample::: Im Urlaub bin ich am liebsten am.
+BackExample::: Мое любимое место в отпуске - пляж.
+Tags::: 
+guid::: n{m?Fo:KLl

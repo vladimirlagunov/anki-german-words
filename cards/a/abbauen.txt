@@ -1,0 +1,13 @@
+Word::: abbauen
+WordTranslation::: деградировать,&nbsp;уменьшаться
+Explanation::: Syn:&nbsp;<a>verringern,&nbsp;</a><a>reduzieren,&nbsp;</a><a>senken</a><br><br>"Abbauen" имеет разнообразные значения, но общая идея заключается в уменьшении, сокращении, устранении или разборке чего-либо в физическом или абстрактном смысле.
+DrittenPerson::: baut ab
+Perfekt::: hat abgebaut
+FrontExample::: Die Reserven bauen sich zum April stark ab.
+BackExample::: Запасы резко сокращаются к апрелю.
+FrontExample2::: Die Arbeiter bauen die alten Gebäude ab, um Platz für das neue Einkaufszentrum zu schaffen.
+BackExample2::: Рабочие разбирают старые здания, чтобы освободить место для нового торгового центра.
+FrontExample3::: Im Mittelalter wurde hier Silber abgebaut.
+BackExample3::: В Средние века здесь добывалось серебро.
+Tags:::  chatgpt 
+guid::: ITDSsFtJ0X

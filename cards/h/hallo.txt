@@ -1,0 +1,6 @@
+Word::: hallo
+WordTranslation::: привет, здравствуй
+FrontExample::: Hallo, kannst du mir helfen?
+BackExample::: Привет, можешь мне помочь?
+Tags:::  A1 chatgpt 
+guid::: bdM9h#;vZk

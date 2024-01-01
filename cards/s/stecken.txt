@@ -1,0 +1,13 @@
+Word::: stecken
+WordTranslation::: застрять, засунуть, посадить, поместить, быть
+DrittenPerson::: steckt
+Perfekt::: haben gesteckt
+Präteritum::: steckte
+FrontExample::: Wo ist denn mein Pass? Ich hatte ihn doch in die Handtasche gesteckt.
+BackExample::: - А где мой паспорт? Я все же положила его в сумочку.
+FrontExample2::: Du kannst reingehen. Der Schlüssel steckt.
+BackExample2::: Ты можешь войти. Ключ застрял.
+FrontExample3::: Die Zeitung steckt im Briefkasten.
+BackExample3::: Газета лежит в почтовом ящике.
+Tags::: 
+guid::: f(tFX$$|Br

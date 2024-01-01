@@ -1,0 +1,16 @@
+Word::: ausziehen
+WordTranslation::: <ul>
+<li>раздевать(ся), снимать<br></li>
+<li>выезжать, съезжать</li>
+</ul>
+DrittenPerson::: zieht aus
+Perfekt::: sein ausgezogen
+Präteritum::: zog aus
+FrontExample::: Zieh die Schuhe aus, bitte!
+BackExample::: Пожалуйста, сними обувь!
+FrontExample2::: Ich muss meine Jacke ausziehen, es ist warm hier.
+BackExample2::: Мне нужно снять куртку, здесь тепло.
+FrontExample3::: Sie zieht aus ihrer Wohnung aus.
+BackExample3::: Она съезжает со своей квартиры.
+Tags:::  A1 chatgpt 
+guid::: tpSgyD(taG

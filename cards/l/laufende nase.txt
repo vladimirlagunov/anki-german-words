@@ -1,0 +1,6 @@
+Word::: laufende Nase
+WordTranslation::: насморк
+FrontExample::: Hast du ein Mittel gegen laufende Nase? Ich kann nachts kaum schlafen.
+BackExample::: У тебя есть средство от насморка? Я почти не могу спать ночью.
+Tags:::  chatgpt 
+guid::: HAxd;*DqM$

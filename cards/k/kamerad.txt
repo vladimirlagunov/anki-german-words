@@ -1,0 +1,6 @@
+Word::: Kamerad
+WordTranslation::: <ul><li>солдат</li><li>товарищ</li></ul>
+DerDieDas::: der
+Plural::: Kameraden
+Tags::: 
+guid::: iyy0a`Nyrf

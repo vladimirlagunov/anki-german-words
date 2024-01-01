@@ -1,0 +1,4 @@
+Word::: (ein)tausend
+WordTranslation::: (одна) тысяча
+Tags:::  A1 
+guid::: Fv7nMy/_21

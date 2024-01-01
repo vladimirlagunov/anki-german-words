@@ -1,0 +1,12 @@
+Word::: sich erinnern
+WordTranslation::: помнить, вспоминать
+DrittenPerson::: erinnert sich
+Perfekt::: haben sich erinnert
+FrontExample::: Meine Großmutter erinnert sich oft an ihre Kindheit.
+BackExample::: Моя бабушка часто вспоминает свое детство.
+FrontExample2::: Ich erinnere mich an meinen ersten Schultag.
+BackExample2::: Я помню свой первый школьный день.
+FrontExample3::: Erinnern Sie sich an unseren letzten Urlaub?
+BackExample3::: Вы помните наш последний отпуск?
+Tags:::  chatgpt 
+guid::: K?lDn73S_,

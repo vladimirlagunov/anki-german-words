@@ -1,0 +1,13 @@
+Word::: vereinfachen
+WordTranslation::: упростить, упрощать
+DrittenPerson::: vereinfacht
+Perfekt::: haben vereinfacht
+Präteritum::: vereinfachte
+FrontExample::: Wir sollten den Prozess vereinfachen, um Zeit zu sparen.
+BackExample::: Мы должны упростить процесс, чтобы сэкономить время.
+FrontExample2::: Diese Software kann komplexe Aufgaben erheblich vereinfachen.
+BackExample2::: Эта программа может значительно упростить выполнение сложных задач.
+FrontExample3::: Die neue Richtlinie wird die Verwaltungsverfahren vereinfachen.
+BackExample3::: Новый регламент упростит административные процедуры.
+Tags:::  chatgpt 
+guid::: lS[||TcUSN

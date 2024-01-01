@@ -1,0 +1,10 @@
+Word::: klein
+WordTranslation::: маленький
+FrontExample::: Eltville ist eine kleine Stadt am Rhein.
+BackExample::: Эльтвиль - маленький город на Рейне.
+FrontExample2::: Mein Bruder ist noch klein.
+BackExample2::: Мой брат ещё маленький.
+FrontExample3::: Das ist ein kleines Auto.
+BackExample3::: Это маленькая машина.
+Tags:::  A1 chatgpt 
+guid::: pg6tT!X4[M

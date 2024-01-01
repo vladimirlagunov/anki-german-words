@@ -1,0 +1,13 @@
+Word::: fernsehen
+WordTranslation::: смотреть телевизор
+DrittenPerson::: sieht fern
+Perfekt::: haben ferngesehen
+Präteritum::: sah fern
+FrontExample::: Wollen wir heute Abend mal fernsehen?
+BackExample::: Не хотите ли мы сегодня вечером посмотреть телевизор?
+FrontExample2::: Ich sehe gern fern, wenn ich müde bin.
+BackExample2::: Я люблю смотреть телевизор, когда устаю.
+FrontExample3::: Möchtest du mit mir zusammen fernsehen?
+BackExample3::: Хочешь посмотреть телевизор со мной?
+Tags:::  A1 chatgpt 
+guid::: N.41UVKc7J

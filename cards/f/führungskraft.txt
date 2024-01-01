@@ -1,0 +1,6 @@
+Word::: Führungskraft
+WordTranslation::: руководитель, директор, начальник
+DerDieDas::: die
+Plural::: Führungskräfte
+Tags:::  chatgpt 
+guid::: b&.mHd~{$U

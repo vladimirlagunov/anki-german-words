@@ -1,0 +1,11 @@
+Word::: Begeisterung
+WordTranslation::: <ul>
+<li>воодушевление</li>
+<li>восхищение</li>
+</ul>
+FrontExample::: Sie sprach mit großer Begeisterung über ihr neues Projekt.
+BackExample::: Она говорила с большим воодушевлением о своем новом проекте.
+FrontExample2::: Er spielt Fußball mit großer Begeisterung.
+BackExample2::: Он играет в футбол с большим энтузиазмом.
+Tags:::  chatgpt 
+guid::: Gy2}cs2u|r

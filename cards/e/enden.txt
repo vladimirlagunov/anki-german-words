@@ -1,0 +1,13 @@
+Word::: enden
+WordTranslation::: заканчиваться
+DrittenPerson::: endet
+Perfekt::: haben geendet
+Präteritum::: endete
+FrontExample::: Die Straße endet hier.
+BackExample::: Улица заканчивается здесь.
+FrontExample2::: Der Film endet um 22 Uhr.
+BackExample2::: Фильм заканчивается в 22:00.
+FrontExample3::: Das Buch endet mit einem Happy End.
+BackExample3::: Книга заканчивается счастливым концом.
+Tags:::  A1 chatgpt 
+guid::: uY$s-,~nmD

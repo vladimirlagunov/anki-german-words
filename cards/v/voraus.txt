@@ -1,0 +1,6 @@
+Word::: voraus
+WordTranslation::: заранее, наперёд
+FrontExample::: Ich gehe voraus und prüfe die Lage.
+BackExample::: Я иду вперед и проверяю ситуацию.
+Tags:::  chatgpt 
+guid::: MS[O#n+%Q%

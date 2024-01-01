@@ -1,0 +1,10 @@
+Word::: teuer
+WordTranslation::: дорогой (стоящий много денег)
+FrontExample::: Die Miete in der Stadt ist sehr teuer.
+BackExample::: Аренда жилья в городе очень дорогая.
+FrontExample2::: Dieses Auto ist zu teuer für mich.
+BackExample2::: Эта машина слишком дорога для меня.
+FrontExample3::: Gesundes Essen kann manchmal teuer sein.
+BackExample3::: Здоровое питание иногда может быть дорогим.
+Tags:::  chatgpt 
+guid::: mh4$.]tiKF

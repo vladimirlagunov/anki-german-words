@@ -1,0 +1,14 @@
+Word::: gehören
+WordTranslation::: принадлежать
+Explanation::: Управляющий предлог "zu" используется, когда речь идет о принадлежности к какой-либо группе или организации [к чему-то неодушевлённому?]. В таких случаях "gehören" комбинируется с "zu", чтобы выразить идею "быть частью чего-то".
+DrittenPerson::: gehört
+Perfekt::: haben gehört
+Präteritum::: ich	gehörte
+FrontExample::: Das Buch gehört mir.
+
+BackExample::: Эта книга принадлежит мне.
+FrontExample2::: Diese Inseln gehören zu Australien.
+
+BackExample2::: Эти острова принадлежат Австралии.
+Tags:::  chatgpt 
+guid::: uR6_e>[_(o

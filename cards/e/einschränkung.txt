@@ -1,0 +1,6 @@
+Word::: Einschränkung
+WordTranslation::: ограничение, урезание, сокращение
+FrontExample::: Wegen Bauarbeiten gibt es eine Einschränkung des Bahnverkehrs.
+BackExample::: Из-за строительных работ происходит ограничение железнодорожного движения.
+Tags:::  chatgpt 
+guid::: l#m&[E6kGs

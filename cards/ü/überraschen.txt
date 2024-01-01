@@ -1,0 +1,16 @@
+Word::: überraschen
+WordTranslation::: <ul>
+<li>удивлять, делать сюрприз<br></li>
+<li>ошеломлять</li>
+</ul>
+DrittenPerson::: überrascht
+Perfekt::: haben überrascht
+Präteritum::: überraschte
+FrontExample::: Es würde mich nicht überraschen, wenn er morgen seine Kündigung einreicht.
+BackExample::: Меня бы не удивило, если бы он завтра подал в отставку.
+FrontExample2::: Ihre Worte haben mich wirklich überrascht.
+BackExample2::: Ее слова действительно меня удивили.
+FrontExample3::: Wir wollten ihn mit einer Party überraschen.
+BackExample3::: Мы хотели удивить его вечеринкой.
+Tags:::  chatgpt 
+guid::: D~)U&%1!Ay

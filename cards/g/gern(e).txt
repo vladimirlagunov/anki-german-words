@@ -1,0 +1,10 @@
+Word::: gern(e)
+WordTranslation::: охотно, с удовольствием
+FrontExample::: Ich gehe gerne einkaufen.
+BackExample::: Я люблю ходить за покупками.
+FrontExample2::: Ich spiele gern Fußball.
+BackExample2::: Я люблю играть в футбол.
+FrontExample3::: Trinkst du gern Tee?
+BackExample3::: Ты любишь пить чай?
+Tags:::  A1 chatgpt 
+guid::: h%3ozlK5Gp

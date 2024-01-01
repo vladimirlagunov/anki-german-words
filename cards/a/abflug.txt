@@ -1,0 +1,13 @@
+Word::: Abflug
+WordTranslation::: <ul>
+<li>взлёт</li>
+<li>вылет</li>
+</ul>
+DerDieDas::: der
+Plural::: Abflüge
+FrontExample::: Der Abflug ist um 11.20 Uhr.
+BackExample::: Отлёт в 11:20.
+FrontExample2::: Mein Abflug ist morgen früh.
+BackExample2::: Мой отлёт завтра утром.
+Tags:::  A1 chatgpt 
+guid::: zDw*aCu0z@

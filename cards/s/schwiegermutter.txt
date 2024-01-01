@@ -1,0 +1,6 @@
+Word::: Schwiegermutter
+WordTranslation::: теща, свекровь
+DerDieDas::: die
+Plural::: Schwiegermütter
+Tags::: 
+guid::: d,$o]Ng{aV

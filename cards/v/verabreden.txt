@@ -1,0 +1,14 @@
+Word::: verabreden
+WordTranslation::: <ul>
+<li>устно договориться о встрече, месте встречи или совещании.</li><li>sich: принятие решения о совместной деятельности<br></li>
+</ul>
+Explanation::: Syn: vereinbaren, ausgehen
+DrittenPerson::: verabredet
+Perfekt::: haben verabredet
+Präteritum::: verabredete
+FrontExample::: Paula und Johann verabreden ein Treffen für die nächste Woche.
+BackExample::: Пола и Иоганн договариваются о встрече на следующей неделе.
+FrontExample2::: Die Kinder haben sich für den Nachmittag zum Spielen verabredet.
+BackExample2::: Дети договорились играть во второй половине дня.
+Tags::: 
+guid::: g[/[_Ybj{6

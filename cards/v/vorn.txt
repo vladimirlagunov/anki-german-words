@@ -1,0 +1,6 @@
+Word::: vorn
+WordTranslation::: впереди
+FrontExample::: Setz dich bitte vorn in den Bus, dort sind noch Plätze frei.
+BackExample::: Пожалуйста, сядь спереди в автобусе, там еще есть свободные места.
+Tags:::  chatgpt 
+guid::: k8.g.6O&%5

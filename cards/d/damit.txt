@@ -1,0 +1,6 @@
+Word::: damit
+WordTranslation::: с этим; чтобы; таким образом / тем самым
+FrontExample::: Wir haben eine Liste gemacht, damit wir nichts vergessen.
+BackExample::: Мы составили список, чтобы ничего не забыть.
+Tags::: 
+guid::: eqdkQ/13ml

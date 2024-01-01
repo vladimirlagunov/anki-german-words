@@ -1,0 +1,12 @@
+Word::: vervielfältigen
+WordTranslation::: размножаться, продублировать, размножать, тиражировать
+Explanation::: Syn: kopieren, duplizieren
+DrittenPerson::: vervielfältigt
+Perfekt::: haben vervielfältigt
+Präteritum::: vervielfältigte
+FrontExample::: Ich muss halt Dinge vervielfältigen.
+BackExample::: Мне нужно что-то дублировать.
+FrontExample2::: Die vervielfältigen sich wie Kaninchen.
+BackExample2::: Они размножаются как кролики.
+Tags::: 
+guid::: tl;c)p5q7%

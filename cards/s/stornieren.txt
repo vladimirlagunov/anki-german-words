@@ -1,0 +1,13 @@
+Word::: stornieren
+WordTranslation::: отменить, аннулировать<br><ul>
+</ul>
+Explanation::: Syn: absagen, annullieren, löschen, aufheben, widerrufen
+DrittenPerson::: storniert
+Perfekt::: haben storniert
+Präteritum::: stornierte
+FrontExample::: Es ist Ihnen auch möglich, einzelne Abrechnungspositionen zu stornieren.
+BackExample::: Вы также можете отменить отдельные пункты счета.
+FrontExample2::: Intel behält sich das Recht vor, unbefugte Aufträge zu stornieren.
+BackExample2::: Intel оставляет за собой право отменить несанкционированные заказы.
+Tags::: 
+guid::: gmuH13c}E=

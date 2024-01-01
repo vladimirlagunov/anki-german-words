@@ -1,0 +1,11 @@
+Word::: Anstrengung
+WordTranslation::: усилие, нагрузка, напряжение
+Explanation::: Syn: die Arbeit, der Aufwand, die Bestrebung
+DerDieDas::: die
+Plural::: Anstrengungen
+FrontExample::: Nur mit enormen Anstrengungen konnten die Städte nach dem Krieg wieder aufgebaut
+BackExample::: Только благодаря огромным усилиям удалось восстановить города после войны.
+FrontExample2::: werden.
+BackExample2::: Необходимо увеличить усилия.
+Tags::: 
+guid::: Lz{;h;tG-t

@@ -1,0 +1,12 @@
+Word::: Dummheit
+WordTranslation::: глупость, тупость
+DerDieDas::: die
+Plural::: Dummheiten
+FrontExample::: Ich kann nicht glauben, dass er so eine Dummheit gemacht hat.
+
+BackExample::: Я не могу поверить, что он совершил такую глупость.
+FrontExample2::: Es ist wichtig, aus unseren Fehlern zu lernen und Dummheiten in Zukunft zu vermeiden.
+
+BackExample2::: Важно учиться на своих ошибках и избегать глупостей в будущем.
+Tags:::  chatgpt 
+guid::: y~1q{O&gH{

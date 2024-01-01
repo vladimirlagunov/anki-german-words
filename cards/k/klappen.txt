@@ -1,0 +1,10 @@
+Word::: klappen
+WordTranslation::: сработать, получиться<br><ul>
+</ul>
+DrittenPerson::: klappt
+Perfekt::: haben geklappt
+Präteritum::: klappte
+FrontExample::: Wie war die Reise? – Gut. Es hat alles prima geklappt.
+BackExample::: Как прошла поездка? - хорошо. Все получилось отлично.
+Tags::: 
+guid::: NEe<`DjLQh

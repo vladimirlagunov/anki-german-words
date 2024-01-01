@@ -1,0 +1,13 @@
+Word::: betrachten
+WordTranslation::: <ul><li>рассматривать<br></li><li>расценивать</li><li>смотреть</li></ul>
+DrittenPerson::: betrachtet
+Perfekt::: haben betrachtet
+Präteritum::: betrachtete
+FrontExample::: Betrachten Sie das Gemälde aus der Nähe, um alle Details zu sehen.
+BackExample::: Приглядитесь к картине вблизи, чтобы увидеть все детали.
+FrontExample2::: Er betrachtet die Situation als Chance für Veränderungen.
+BackExample2::: Он рассматривает ситуацию как возможность для изменений.
+FrontExample3::: Wir sollten alle Aspekte gründlich betrachten, bevor wir eine Entscheidung treffen.
+BackExample3::: Мы должны тщательно изучить все аспекты, прежде чем принимать решение.
+Tags:::  chatgpt 
+guid::: Ng*RpI{kV(

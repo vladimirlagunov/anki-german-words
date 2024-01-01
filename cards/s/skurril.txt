@@ -1,0 +1,10 @@
+Word::: skurril
+WordTranslation::: странно, причудливо, курьезно
+FrontExample::: Die Skulptur im Park sieht ganz skurril aus, fast wie ein Wesen aus einer anderen Welt.
+BackExample::: Скульптура в парке выглядит весьма странно, почти как существо из другого мира.
+FrontExample2::: Seine skurrilen Ideen sorgen immer wieder für Überraschungen in unseren Meetings.
+BackExample2::: Его причудливые идеи постоянно вызывают удивление на наших собраниях.
+FrontExample3::: Ich habe einen Film gesehen, der war richtig skurril – eine Mischung aus Komödie und Horror.
+BackExample3::: Я посмотрел фильм, который был действительно эксцентричным – смесь комедии и ужасов.
+Tags:::  chatgpt 
+guid::: p>ZC6ylE@y

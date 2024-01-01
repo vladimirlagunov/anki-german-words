@@ -1,0 +1,12 @@
+Word::: ändern
+WordTranslation::: <ul>
+<li>поменять</li>
+<li>измениться</li>
+</ul>
+DrittenPerson::: ändert
+Perfekt::: haben geändert
+Präteritum::: änderte
+FrontExample::: Das Parlament ändert die Verfassung.
+BackExample::: Парламент меняет конституцию.
+Tags::: 
+guid::: jc^p4oW&.h

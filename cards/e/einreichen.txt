@@ -1,0 +1,13 @@
+Word::: einreichen
+WordTranslation::: <div>подать, представить, выдвинуть<br><ul><li>представить в орган власти, передать в офис для обработки.</li><li>первоначально: предлагать кого-то на должность, выдвигать на повышение</li></ul></div>
+Explanation::: Syn: unterbreiten, vorlegen, beantragen, präsentieren&nbsp;<div><br></div><div>Глагол "einreichen" используется для описания действия подачи или представления документов, заявлений, жалоб, проектов или других материалов в официальных организациях, учреждениях, университетах и т.д.</div>
+Perfekt::: hat eingereicht 
+FrontExample::: Sie müssen Ihre Steuererklärung bis zum 31. Juli einreichen.
+BackExample::: Вы должны подать свою налоговую декларацию до 31 июля.
+FrontExample2::: Bitte reichen Sie die Dokumente an der Rezeption ein.
+
+BackExample2::: Пожалуйста, сдайте документы в приёмной.
+FrontExample3::: Auch Künstler wurden zur Ordensverleihung eingereicht.
+BackExample3::: На церемонию награждения также были представлены художники.
+Tags:::  chatgpt wiktionary 
+guid::: rd_$l7qXn3

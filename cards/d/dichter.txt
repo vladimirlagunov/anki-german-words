@@ -1,0 +1,10 @@
+Word::: Dichter
+WordTranslation::: поэт
+DerDieDas::: der
+Plural::: Dichter
+FrontExample::: Johann Wolfgang von Goethe ist einer der bekanntesten deutschen Dichter.
+BackExample::: Иоганн Вольфганг фон Гёте - один из самых известных немецких поэтов.
+FrontExample2::: Als Dichter versucht er, seine Gefühle und Gedanken in Verse zu fassen.
+BackExample2::: Как поэт, он пытается выразить свои чувства и мысли в стихах.
+Tags:::  chatgpt 
+guid::: j)gI=$5IeH

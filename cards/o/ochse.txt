@@ -1,0 +1,6 @@
+Word::: Ochse
+WordTranslation::: бык
+DerDieDas::: der
+Plural::: Ochsen
+Tags::: 
+guid::: s~x$g@g[DC

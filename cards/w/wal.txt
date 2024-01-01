@@ -1,0 +1,6 @@
+Word::: Wal
+WordTranslation::: кит
+DerDieDas::: der
+Plural::: Wale
+Tags::: 
+guid::: mEan61eJ|D

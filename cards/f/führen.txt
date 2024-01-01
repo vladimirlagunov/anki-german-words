@@ -1,0 +1,13 @@
+Word::: führen
+WordTranslation::: <ul>
+<li>вести за собой</li>
+<li>возглавлять, управлять</li>
+</ul>
+DrittenPerson::: führt
+Perfekt::: haben geführt
+Präteritum::: führte
+FrontExample::: Der Bundeskanzler führt die Regierungsgeschäfte.
+
+BackExample::: Федеральный канцлер управляет делами правительства.
+Tags::: 
+guid::: y>;kd16U[6

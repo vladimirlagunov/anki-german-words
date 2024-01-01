@@ -1,0 +1,11 @@
+Word::: Vorstellung
+WordTranslation::: <ul><li>представление, презентация
+</li><li>впечатление</li></ul>
+FrontExample::: Die Vorstellung des neuen Produkts findet im Hauptsaal statt.
+BackExample::: Презентация нового продукта пройдет в главном зале.
+FrontExample2::: Ich hatte eine völlig andere Vorstellung von diesem Film.
+BackExample2::: У меня было совершенно иное представление об этом фильме.
+FrontExample3::: Wie war Ihre erste Vorstellung von der Stadt?
+BackExample3::: Какое было ваше первое впечатление от города?
+Tags:::  chatgpt 
+guid::: j`:o(o#O#(

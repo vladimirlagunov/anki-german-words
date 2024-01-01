@@ -1,0 +1,14 @@
+Word::: passen
+WordTranslation::: подходить, соответствовать
+Explanation::: Предлог "zu" используется, когда речь идет о соответствии или подходящей паре. В этом случае "zu" выступает как связующий элемент между двумя сущностями, которые хорошо сочетаются или подходят друг другу.<br><br>В случае, когда предлог "zu" не используется, глагол "passen" чаще всего описывает соответствие по размеру, форме или характеру без явного указания на то, к чему именно это соответствие относится.
+DrittenPerson::: passt
+Perfekt::: haben gepasst
+Präteritum::: ich	passte
+FrontExample::: Das Hemd passt dir gut.
+
+BackExample::: Эта рубашка тебе хорошо идет.
+FrontExample2::: Der Wein passt gut zum Essen.
+
+BackExample2::: Это вино хорошо подходит к еде.
+Tags:::  chatgpt 
+guid::: s[Tir}{chb

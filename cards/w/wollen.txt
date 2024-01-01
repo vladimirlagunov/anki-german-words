@@ -1,0 +1,14 @@
+Word::: wollen
+WordTranslation::: <div>хотеть</div>
+Explanation::: <ol><li><div><strong>Wollen</strong>: Этот глагол означает "хотеть" и используется для выражения сильного, конкретного желания или воли. Он указывает на более решительное и уверенное желание. Например, "Ich will ein Buch lesen" (Я хочу прочитать книгу) подразумевает более сильное намерение.</div></li><li><div><strong>Möchten</strong>: Этот глагол является формой вежливого выражения желания и часто переводится как "хотел бы" или "хотела бы". Он используется для выражения желания в более мягкой, вежливой или менее навязчивой форме. Например, "Ich möchte ein Glas Wasser" (Я бы хотел стакан воды) звучит более вежливо и менее настойчиво.</div></li></ol>
+DrittenPerson::: will
+Perfekt::: haben gewollt
+Präteritum::: wollte
+FrontExample::: Wollen Sie einen Kaffee trinken?
+BackExample::: Хотите выпить кофе?
+FrontExample2::: Ich will Deutsch lernen.
+BackExample2::: Я хочу учить немецкий.
+FrontExample3::: Willst du mit mir kommen?
+BackExample3::: Ты хочешь пойти со мной?
+Tags:::  A1 chatgpt 
+guid::: yk(iK0yOdo

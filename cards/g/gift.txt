@@ -1,0 +1,16 @@
+Word::: Gift
+WordTranslation::: яд
+DerDieDas::: <ul>
+<li>das – яд<br></li>
+<li>die – подарок</li>
+</ul>
+Plural::: <ul>
+<li>das Gift – Giften<br></li>
+<li>die Gift – Gifte</li>
+</ul>
+FrontExample::: Er starb durch das Gift einer Schlange.
+BackExample::: Он умер от яда змеи.
+FrontExample2::: Sie analysierten das Gift in einem speziellen Labor.
+BackExample2::: Они анализировали яд в специализированной лаборатории.
+Tags:::  chatgpt 
+guid::: hS|/eCB)i)

@@ -1,0 +1,10 @@
+Word::: vorsichtig
+WordTranslation::: осторожный, предусмотрительный
+FrontExample::: Sei vorsichtig, wenn du die Straße überquerst.
+BackExample::: Будь осторожен, когда переходишь улицу.
+FrontExample2::: Er hat das Glas vorsichtig auf den Tisch gestellt.
+BackExample2::: Он аккуратно поставил стакан на стол.
+FrontExample3::: Sie müssen vorsichtig sein, um keinen Fehler zu machen.
+BackExample3::: Вам нужно быть осторожными, чтобы не сделать ошибку.
+Tags:::  chatgpt 
+guid::: Mkg1UuQ}BS

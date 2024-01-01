@@ -1,0 +1,6 @@
+Word::: Rittertum
+WordTranslation::: рыцарство
+DerDieDas::: das
+Plural::: wird nur im Singular verwendet
+Tags::: 
+guid::: y$^>~E2HoW

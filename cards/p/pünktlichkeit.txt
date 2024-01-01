@@ -1,0 +1,8 @@
+Word::: Pünktlichkeit
+WordTranslation::: пунктуальность, точность
+DerDieDas::: die
+Plural::: —
+FrontExample::: Mein Chef legt großen Wert auf Pünktlichkeit bei Meetings.
+BackExample::: Мой начальник придает большое значение пунктуальности на совещаниях.
+Tags:::  chatgpt 
+guid::: cFu$MY>jZ<

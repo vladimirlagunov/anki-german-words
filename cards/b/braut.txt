@@ -1,0 +1,6 @@
+Word::: Braut
+WordTranslation::: невеста, новобрачная
+DerDieDas::: die
+Plural::: Bräute
+Tags::: 
+guid::: n/p0r:on9v

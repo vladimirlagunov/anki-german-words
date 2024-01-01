@@ -1,0 +1,10 @@
+Word::: wichtig
+WordTranslation::: важный
+FrontExample::: Dieses Formular ist sehr wichtig.
+BackExample::: Эта форма очень важна.
+FrontExample2::: Es ist wichtig, pünktlich zu sein.
+BackExample2::: Это важно быть пунктуальным.
+FrontExample3::: Trinken ist wichtig für die Gesundheit.
+BackExample3::: Питье важно для здоровья.
+Tags:::  A1 chatgpt 
+guid::: l@97>(=I>O

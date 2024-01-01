@@ -1,0 +1,12 @@
+Word::: Anspruch
+WordTranslation::: <ul>
+<li>претензия, иск</li>
+<li>право</li>
+<li>притязание</li>
+</ul>
+DerDieDas::: der
+Plural::: Ansprüche
+FrontExample::: Sie wohnen im Stadtzentrum. Deshalb haben Sie keinen Anspruch auf Fahrgeld.
+BackExample::: Отель расположен в центре города. Вот почему вы не имеете права на проездные деньги.
+Tags::: 
+guid::: uz~m_*>8ZH

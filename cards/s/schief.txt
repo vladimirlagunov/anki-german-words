@@ -1,0 +1,6 @@
+Word::: schief
+WordTranslation::: кривой, неправильный, ложный, неверный
+FrontExample::: Der Spiegel hängt ganz schief.
+BackExample::: Зеркало висит криво.
+Tags::: 
+guid::: Lmn`alu`Qw

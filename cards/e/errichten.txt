@@ -1,0 +1,10 @@
+Word::: errichten
+WordTranslation::: возводить, устанавливать
+Explanation::: Syn: aufbauen, einrichten
+DrittenPerson::: errichtet
+Perfekt::: haben errichtet
+Präteritum::: errichtete
+FrontExample::: Sie denken, sie beschützen sie, indem sie eine Wand um sie herum errichten.
+BackExample::: Они думают, что защищают их, возводя вокруг них стену.
+Tags::: 
+guid::: d2Ox0$7!S|

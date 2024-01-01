@@ -1,0 +1,15 @@
+Word::: Gewicht
+WordTranslation::: <ul>
+<li>вес</li>
+<li>гиря</li>
+</ul>
+DerDieDas::: das
+Plural::: Gewichte
+FrontExample::: Bei „Gewicht“ schreibst du: 62 Kilo.
+BackExample::: В графе "Вес" пишешь: 62 кило.
+FrontExample2::: Das Gewicht der Tomaten beträgt 500 Gramm.
+BackExample2::: Вес помидоров составляет 500 граммов.
+FrontExample3::: Mein Gewicht ist zu hoch.
+BackExample3::: Мой вес слишком велик.
+Tags:::  A1 chatgpt 
+guid::: y{)fU[w:<a

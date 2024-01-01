@@ -1,0 +1,11 @@
+Word::: Tasse
+WordTranslation::: чашка<br><br><img src="paste-d447b7387f96ddf2476c86acb59adef9e08ebb79.jpg">
+DerDieDas::: die
+Plural::: Tassen
+FrontExample::: Die Tasse ist aus Porzellan und hat ein schönes Blumenmuster.
+BackExample::: Чашка [сделана] из фарфора и имеет красивый цветочный узор.
+FrontExample2::: Die Tasse ist noch heiß, sei vorsichtig!
+
+BackExample2::: Чашка еще горячая, будь осторожен!
+Tags::: 
+guid::: QSC&eLu&[.

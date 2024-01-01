@@ -1,0 +1,8 @@
+Word::: Geschäftsleben
+WordTranslation::: деловая жизнь, бизнес-среда
+DerDieDas::: das
+Plural::: Geschäftsleben
+FrontExample::: Die Digitalisierung hat das Geschäftsleben in den letzten Jahren stark verändert.
+BackExample::: Цифровизация сильно изменила деловую жизнь в последние годы.
+Tags:::  chatgpt 
+guid::: AK&gof^zNS

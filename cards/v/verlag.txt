@@ -1,0 +1,9 @@
+Word::: Verlag
+WordTranslation::: издательство
+DerDieDas::: der
+Plural::: Verläge, Verlage<br><ul>
+</ul>
+FrontExample::: Ich habe mein Buch bei einem renommierten Verlag veröffentlicht.
+BackExample::: Я опубликовал свою книгу в известном издательстве.
+Tags:::  chatgpt 
+guid::: te%S1tMb<d

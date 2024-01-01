@@ -1,0 +1,7 @@
+Word::: umdrehen sich
+WordTranslation::: развернуться, повернуться, отвернуться
+Perfekt::: ist sich umgedreht
+FrontExample::: Und wenn Sie das nicht glauben wollen, dann können Sie sich umdrehen und sofort gehen.
+BackExample::: И если вы не хотите в это верить, то можете развернуться и немедленно уйти.
+Tags:::  сложно 
+guid::: LPuch%5Kgu

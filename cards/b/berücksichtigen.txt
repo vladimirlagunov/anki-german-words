@@ -1,0 +1,7 @@
+Word::: berücksichtigen
+WordTranslation::: принимать во внимание, учитывать
+Perfekt::: hat berücksichtigt
+FrontExample::: Bitte berücksichtigen Sie bei Ihrer Planung die Wetterbedingungen.
+BackExample::: Пожалуйста, учтите погодные условия при планировании.
+Tags:::  chatgpt 
+guid::: l|F%ndkBky

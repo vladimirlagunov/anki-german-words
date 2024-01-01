@@ -1,0 +1,12 @@
+Word::: Eiche
+WordTranslation::: дуб
+DerDieDas::: die
+Plural::: Eichen
+FrontExample::: Der Tisch wurde aus massiver Eiche gefertigt.
+
+BackExample::: Стол был изготовлен из массивного дуба.
+FrontExample2::: Im Herbst verfärben sich die Blätter der Eiche und nehmen eine goldene Farbe an.
+
+BackExample2::: Осенью листья дуба меняют цвет и становятся золотистыми.
+Tags:::  chatgpt 
+guid::: pZ-V#M)1#X

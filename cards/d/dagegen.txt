@@ -1,0 +1,8 @@
+Word::: dagegen
+WordTranslation::: против этого, в сравнении
+FrontExample::: Niemand kann etwas dagegen tun, es liegt außerhalb unserer Kontrolle.
+BackExample::: Никто ничего не может сделать против этого, это вне нашего контроля.
+FrontExample2::: Er ist für eine Erhöhung der Steuern, aber ich bin dagegen.
+BackExample2::: Он за повышение налогов, но я против.
+Tags:::  chatgpt 
+guid::: N(8JSFat[N

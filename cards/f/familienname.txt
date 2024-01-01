@@ -1,0 +1,10 @@
+Word::: Familienname
+WordTranslation::: фамилия
+DerDieDas::: der
+Plural::: Familiennamen
+FrontExample::: Meine Familiennamen sind García González.
+BackExample::: Мои фамилии Гарсия Гонсалес.
+FrontExample2::: Wie lautet dein Familienname?
+BackExample2::: Как твоя фамилия? [Чем является твоя фамилия?]
+Tags:::  A1 chatgpt 
+guid::: r3tvXh#@@6

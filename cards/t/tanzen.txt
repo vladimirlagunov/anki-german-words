@@ -1,0 +1,7 @@
+Word::: tanzen
+WordTranslation::: танцевать
+DrittenPerson::: tanzt
+Perfekt::: haben getanzt
+Präteritum::: tanzte
+Tags::: 
+guid::: QUcYo[Mglp

@@ -1,0 +1,10 @@
+Word::: quälen
+WordTranslation::: намеренно причинять боль, заставлять страдать
+Explanation::: Syn: plagen, foltern, peinigen
+DrittenPerson::: quält
+Perfekt::: haben gequält
+Präteritum::: quälte
+FrontExample::: Martina kann nicht verstehen, warum manche Menschen Tiere quälen.
+BackExample::: Мартина не может понять, почему некоторые люди мучают животных.
+Tags::: 
+guid::: DgY-9a0GoE

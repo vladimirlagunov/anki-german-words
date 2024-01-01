@@ -1,0 +1,12 @@
+Word::: Kreis
+WordTranslation::: <ul><li>круг</li><li>район, округ</li></ul>
+DerDieDas::: der
+Plural::: Kreise
+FrontExample::: Die Stadt liegt in diesem Kreis.
+BackExample::: Город находится в этом районе.
+FrontExample2::: Der Radfahrer drehte einen kleinen Kreis.
+BackExample2::: Велосипедист сделал маленький круг.
+FrontExample3::: Der Kreis unserer Freunde hat sich erweitert.
+BackExample3::: Круг наших друзей расширился.
+Tags:::  chatgpt 
+guid::: hVH`5&Imp]

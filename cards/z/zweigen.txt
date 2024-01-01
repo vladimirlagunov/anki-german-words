@@ -1,0 +1,11 @@
+Word::: zweigen
+WordTranslation::: ветвиться, разделяться, отклоняться
+DrittenPerson::: zweigt
+Perfekt::: haben gezweigt
+Präteritum::: zweigte
+FrontExample::: Die Pflanze begann zu zweigen.
+BackExample::: Растение начало ветвиться.
+FrontExample2::: Du kannst den Busch hier zweigen lassen, dann wächst er dichter.
+BackExample2::: Ты можешь здесь разветвить куст, тогда он вырастет более густым.
+Tags:::  chatgpt 
+guid::: pl+*6JB0>S

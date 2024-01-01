@@ -1,0 +1,12 @@
+Word::: Benehmen
+WordTranslation::: поведение, манеры
+DerDieDas::: das
+Plural::: —
+FrontExample::: Sein Benehmen beim Abendessen war tadellos.
+BackExample::: Его поведение за ужином было безупречным.
+FrontExample2::: Das Benehmen der Kinder in der Schule lässt zu wünschen übrig.
+BackExample2::: Поведение детей в школе оставляет желать лучшего.
+FrontExample3::: Sie sollten Ihr Benehmen gegenüber den älteren Kollegen überdenken.
+BackExample3::: Вам следует пересмотреть своё поведение по отношению к старшим коллегам.
+Tags:::  chatgpt 
+guid::: wPHLD0BD:K

@@ -1,0 +1,20 @@
+Word::: lassen
+WordTranslation::: <ul><li>позволить, разрешить</li><li>заставить кого-то что-то сделать</li><li>оставить что-то в каком-то состоянии</li></ul>
+Explanation::: <ul><li>lassen als Modalverb +Infinitiv = in Auftrag geben, veranlassen<br></li><ul><li>Mein Mantel war schmutzig. Ich habe ihn reinigen lassen.&nbsp;</li><li>Früher ließ der Chef seine Sekretärinden Kaffee kochen.<br></li></ul><li>lassen als Vollverb +Infinitiv = erlauben<br></li><ul><li>Er lässt seine Frau nicht mit dem neuen Auto fahren.<br></li></ul><li>lassen als Vollverb = den Zustand nichtändern<br></li><ul><li>Am besten lassen wir alles, wie es ist.<br></li></ul></ul>
+DrittenPerson::: lässt
+Perfekt::: hat gelassen
+Präteritum::: ließ
+FrontExample::: Kannst du mich bitte allein lassen?
+
+BackExample::: Можешь, пожалуйста, оставить меня одного?
+
+FrontExample2::: Ich lasse mein Auto reparieren.
+
+BackExample2::: Я отдам свою машину на ремонт (буквально: "я заставлю ремонтировать мою машину").
+
+FrontExample3::: Lass die Tür offen!
+
+BackExample3::: Оставь дверь открытой!
+
+Tags::: 
+guid::: Cschq`L7*G

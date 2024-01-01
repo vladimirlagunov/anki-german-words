@@ -1,0 +1,5 @@
+Word::: ausleichen
+WordTranslation::: взять в аренду
+Explanation::: "ausleihen" обычно подразумевает некоторую формальность или официальность процесса, по сравнению с leichen.
+Tags:::  chatgpt 
+guid::: L3<zZm43TB

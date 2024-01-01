@@ -1,0 +1,14 @@
+Word::: handeln
+WordTranslation::: <ul>
+<li>действовать</li>
+<li>повествовать</li><li>поступать</li>
+<li>торговать</li>
+</ul>
+Explanation::: <ol><li><div><strong>Handeln</strong></div><ul><li><strong>Буквальный перевод</strong>: действовать, торговать.</li><li><strong>Использование</strong>: Это слово может использоваться в различных контекстах, включая торговлю (z.B. "Er handelt mit Autos" — Он торгует автомобилями) и принятие мер (z.B. "Wir müssen schnell handeln" — Нам нужно действовать быстро).</li></ul></li><li><div><strong>Vorgehen</strong></div><ul><li><strong>Буквальный перевод</strong>: идти вперед, поступать.</li><li><strong>Использование</strong>: Слово чаще всего описывает способ, метод действия или подход к чему-либо (z.B. "Wie sollen wir vorgehen?" — Как нам следует поступить?). Оно также может относиться к последовательности действий или процессу.</li></ul></li><li><div><strong>Agieren</strong></div><ul><li><strong>Буквальный перевод</strong>: действовать.</li><li><strong>Использование</strong>: Это слово часто употребляется в контексте активных действий, иногда с намеком на уверенность или целеустремленность. Оно может также применяться в театральном или перформативном контексте (z.B. "Sie agiert sehr überzeugend auf der Bühne" — Она действует очень убедительно на сцене).</li></ul></li><li><div><strong>Reagieren</strong></div><ul><li><strong>Буквальный перевод</strong>: реагировать.</li><li><strong>Использование</strong>: Слово использовано для описания действия в ответ на что-то (z.B. "Wie hat er darauf reagiert?" — Как он на это реагировал?). В отличие от предыдущих терминов, "reagieren" всегда подразумевает ответное действие на какое-то событие или воздействие.</li></ul></li></ol>
+DrittenPerson::: handelt
+Perfekt::: haben gehandelt
+Präteritum::: handelte
+FrontExample::: Wenn er zurücktritt, müssen wir schnell handeln.
+BackExample::: Если он уйдет в отставку, мы должны действовать быстро.
+Tags:::  chatgpt 
+guid::: l0)08)lMFP

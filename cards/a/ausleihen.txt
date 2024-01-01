@@ -1,0 +1,11 @@
+Word::: ausleihen
+WordTranslation::: выдавать на время, одалживать
+DrittenPerson::: leiht aus
+Perfekt::: haben ausgeliehen
+Präteritum::: lieh aus
+FrontExample::: Ich werde mir von dir ein Buch ausleihen.
+BackExample::: Я возьму у тебя книгу на время.
+FrontExample2::: Darf ich mir dein Fahrrad für den Tag ausleihen?
+BackExample2::: Могу я взять твой велосипед на день?
+Tags:::  chatgpt 
+guid::: f9gcD1-YKU

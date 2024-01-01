@@ -1,0 +1,7 @@
+Word::: singen
+WordTranslation::: петь
+DrittenPerson::: singt
+Perfekt::: haben gesungen
+Präteritum::: sang
+Tags::: 
+guid::: rlzkxPrYTX

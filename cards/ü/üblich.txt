@@ -1,0 +1,7 @@
+Word::: üblich
+WordTranslation::: обычный, обыкновенный<br><ul>
+</ul>
+FrontExample::: Wie üblich kommt Merkel eine entscheidende Rolle zu
+BackExample::: Как обычно, Меркель отводится решающая роль
+Tags::: 
+guid::: vuK2{)/FH)

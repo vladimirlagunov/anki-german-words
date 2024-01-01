@@ -1,0 +1,10 @@
+Word::: mündlich
+WordTranslation::: устный
+FrontExample::: Die Prüfung findet mündlich statt.
+BackExample::: Экзамен будет проводиться в устной форме.
+FrontExample2::: Sie hat ihre Zusage nur mündlich gegeben.
+BackExample2::: Она дала своё согласие только устно.
+FrontExample3::: Können wir das nicht mündlich klären?
+BackExample3::: Нельзя ли это уладить устно?
+Tags:::  chatgpt 
+guid::: LBiDYy_]MZ

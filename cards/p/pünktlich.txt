@@ -1,0 +1,10 @@
+Word::: pünktlich
+WordTranslation::: пунктуальный, точный
+FrontExample::: Der Bus fährt pünktlich um acht Uhr.
+BackExample::: Автобус отходит ровно в восемь часов.
+FrontExample2::: Herr Müller ist immer pünktlich.
+BackExample2::: Господин Мюллер всегда пунктуален.
+FrontExample3::: Sie ist immer pünktlich zur Arbeit gekommen.
+BackExample3::: Она всегда приходила на работу вовремя.
+Tags:::  A1 chatgpt 
+guid::: PM..8vp)|%

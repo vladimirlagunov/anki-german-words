@@ -1,0 +1,11 @@
+Word::: Teilnehmer
+WordTranslation::: участник<br><ul>
+</ul>
+DerDieDas::: der
+Plural::: Teilnehmer
+FrontExample::: Alle Teilnehmer der Konferenz haben ein Geschenk erhalten.
+BackExample::: Все участники конференции получили подарок.
+FrontExample2::: Die Teilnehmer des Marathons bereiten sich das ganze Jahr vor.
+BackExample2::: Участники марафона готовятся к нему весь год.
+Tags:::  chatgpt 
+guid::: Lr_,8[2f+!

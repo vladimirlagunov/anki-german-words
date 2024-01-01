@@ -1,0 +1,8 @@
+Word::: Einzelheit
+WordTranslation::: деталь, подробность, элемент
+FrontExample::: Dieses Bild ist beeindruckend, schau&nbsp;dir nur all die Einzelheiten an!
+BackExample::: Эта картина впечатляет, только посмотри на все эти детали!
+FrontExample2::: Er erzählte die Geschichte bis ins&nbsp;kleinste Einzelheit.
+BackExample2::: Он рассказал историю до мельчайших подробностей.
+Tags:::  chatgpt 
+guid::: JkY2&Stdt&

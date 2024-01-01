@@ -1,0 +1,18 @@
+Word::: senden
+WordTranslation::: <ul>
+<li>посылать</li>
+<li>передавать</li>
+<li><ul>
+<li>посылать</li>
+<li>передавать</li>
+</ul></li>
+</ul>
+DrittenPerson::: sendet
+Perfekt::: haben gesendet
+Präteritum::: sendete
+FrontExample::: Er sendet eine Nachricht.
+BackExample::: Он отправляет сообщение.
+FrontExample2::: Am Wochenende senden wir unser Wunschkonzert aus Travemünde.
+BackExample2::: В эти выходные мы будем транслировать концерт нашей мечты из Травемюнде.
+Tags::: 
+guid::: A>$k*eFtN7

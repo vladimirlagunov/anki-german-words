@@ -1,0 +1,13 @@
+Word::: Strecke
+WordTranslation::: маршрут
+Explanation::: Syn: die Route, das Weg, der Fahrt, der Kurs
+DerDieDas::: die
+Plural::: Strecken
+FrontExample::: Sind Sie die ganze Strecke zu Fuß gegangen?
+BackExample::: Вы прошли всю дистанцию?
+FrontExample2::: Auf der Strecke München – Salzburg: 8 km Stau.
+BackExample2::: На трассе Мюнхен - Зальцбург: пробка длиной 8 км.
+FrontExample3::: Ich möchte nach Hamburg fahren. Können Sie mir sagen, welche Strecke
+BackExample3::: Я хотел бы доехать до Гамбурга. Подскажите, пожалуйста, какой маршрут лучше выбрать?
+Tags::: 
+guid::: txmJjFJmS9

@@ -1,0 +1,10 @@
+Word::: Eintritt
+WordTranslation::: вход
+DerDieDas::: der
+Plural::: Eintritte
+FrontExample::: Der Eintritt ist frei.
+BackExample::: Вход бесплатный.
+FrontExample2::: Ich habe eine Eintrittskarte für das Konzert gekauft.
+BackExample2::: Я купил билет на концерт.
+Tags:::  chatgpt 
+guid::: k<t9J!a*6P

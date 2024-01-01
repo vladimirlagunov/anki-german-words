@@ -1,0 +1,10 @@
+Word::: Himmel
+WordTranslation::: <ul>
+<li>космос<br></li>
+<li>небеса</li>
+<li>небо</li>
+</ul>
+DerDieDas::: der
+Plural::: Himmel
+Tags::: 
+guid::: c{P9i,RAfJ

@@ -1,0 +1,10 @@
+Word::: alt
+WordTranslation::: <ul><li>старый</li><li>древний</li></ul>
+FrontExample::: Wie alt sind Sie?
+BackExample::: Сколько Вам лет?
+FrontExample2::: Sie sehen aber nicht so alt aus.
+BackExample2::: Но Вы выглядите не так старо.
+FrontExample3::: Köln ist eine alte Stadt.
+BackExample3::: Кёльн - старый город.
+Tags:::  A1 chatgpt 
+guid::: ud>>(5fkR]

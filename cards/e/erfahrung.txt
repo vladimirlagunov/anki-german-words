@@ -1,0 +1,13 @@
+Word::: Erfahrung
+WordTranslation::: опыт<br><ul>
+</ul>
+DerDieDas::: die
+Plural::: Erfahrungen
+FrontExample::: Ich habe eine Menge Erfahrung in diesem Bereich.
+BackExample::: У меня большой опыт в этой области.
+FrontExample2::: Deine Erfahrung im Handel ist sehr wertvoll für unser Unternehmen.
+BackExample2::: Твой опыт в торговле очень ценен для нашей компании.
+FrontExample3::: Er teilte seine Erfahrung über das Reisen durch Südamerika.
+BackExample3::: Он поделился своим опытом путешествий по Южной Америке.
+Tags:::  chatgpt 
+guid::: u:]aSk1%ha

@@ -1,0 +1,11 @@
+Word::: hager
+WordTranslation::: худой, тощий
+Explanation::: Слово "hager" используется, чтобы описать кого-либо или что-либо худого, тощего или истощенного. Оно обычно относится к физической худобе или недостатку веса у человека.
+FrontExample::: Der alte Mann war hager und abgemagert.
+BackExample::: Старик был худым и истощенным.
+FrontExample2::: Er erschien sehr hager nach der langen Krankheit.
+BackExample2::: Он выглядел очень истощенным после долгой болезни.
+FrontExample3::: Die Bäume im Wald sind dürr und hager.
+BackExample3::: Деревья в лесу сухие и тощие.
+Tags:::  chatgpt 
+guid::: z;#$S6hpim

@@ -1,0 +1,14 @@
+Word::: legen
+WordTranslation::: класть<br><ul>
+</ul>
+DrittenPerson::: legt
+Perfekt::: haben gelegt
+Präteritum::: legte
+FrontExample::: Machen wir weiter und legen einen zentralen Zugang.
+BackExample::: Давайте продолжим и установим центральный доступ.
+FrontExample2::: Er legt das Buch auf den Tisch.
+BackExample2::: Он кладет книгу на стол.
+FrontExample3::: Sie legt die Kleidung in den Schrank.
+BackExample3::: Она кладет одежду в шкаф.
+Tags:::  chatgpt 
+guid::: qFcYcte/{Y

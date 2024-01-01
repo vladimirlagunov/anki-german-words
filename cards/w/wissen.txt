@@ -1,0 +1,14 @@
+Word::: wissen
+WordTranslation::: знать, уметь
+Explanation::: <h3>Wissen</h3><div>"Wissen" относится к знанию фактов, информации или навыков. Это слово требует использования подлежащего и сказуемого в виде придаточного предложения. Например:</div><ul><li>Ich weiß, dass du Recht hast. (Я знаю, что ты прав.)</li><li>Weißt du, wie spät es ist? (Ты знаешь, который сейчас час?)</li></ul><h3>Kennen</h3><div>"Kennen" используется, когда речь идёт о знакомстве с чем-либо или кем-либо. Это может быть человек, место, предмет или даже фильм. "Kennen" требует прямого объекта. Например:</div><ul><li>Ich kenne ihn gut. (Я хорошо его знаю.)</li><li>Kennst du diesen Film? (Ты знаешь этот фильм?)</li></ul><div><h3>Erkennen</h3></div>Может использоваться в смысле "признать" или "распознать".<br><h3>Verstehen</h3>"verstehen" ближе к "понимать", чем к "знать".<br><div></div>
+DrittenPerson::: weiß
+Perfekt::: haben gewusst
+Präteritum::: ich wusste
+FrontExample::: Ich weiß, wo du wohnst.
+BackExample::: Я знаю, где ты живешь.
+FrontExample2::: Weißt du, wie spät es ist?
+BackExample2::: Ты знаешь, который час?
+FrontExample3::: Sie weiß die Antwort nicht.
+BackExample3::: Она не знает ответа.
+Tags:::  A1 chatgpt 
+guid::: N7%E72,{.>

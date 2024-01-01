@@ -1,0 +1,6 @@
+Word::: selten
+WordTranslation::: редко
+FrontExample::: Ich gehe ganz selten ins Kino.
+BackExample::: Я очень редко хожу в кино.
+Tags::: 
+guid::: uC|^zJf>Zc

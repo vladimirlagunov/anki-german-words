@@ -1,0 +1,12 @@
+Word::: eigentlich
+WordTranslation::: на самом деле, собственно говоря<br><ul>
+</ul>
+Explanation::: Syn: tatsächlich, wirklich, überhaupt
+FrontExample::: Wir wollten eigentlich Freunde besuchen, aber dann sind wir doch zu Hause geblieben.
+BackExample::: Мы должны были навестить друзей, но потом остались дома.
+FrontExample2::: Die Sängerin nennt sich Arabella. Aber eigentlich heißt sie Uschi Müller.
+BackExample2::: Певица называет себя Арабелла. Но ее настоящее имя - Уши Мюллер.
+FrontExample3::: Was willst du eigentlich von mir?
+BackExample3::: Что ты на самом деле хочешь от меня?
+Tags::: 
+guid::: gbG>UU+=L?

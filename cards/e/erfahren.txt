@@ -1,0 +1,7 @@
+Word::: erfahren
+WordTranslation::: узнавать, получать информацию, понимать, получать опыт
+Explanation::: "erfahren" связано с получением информации, "erkennen" - с осознанием или распознаванием, а "kennenlernen" - с процессом знакомства с кем-либо или чем-либо лично.
+FrontExample::: In den Nachrichten habe ich erfahren, dass es morgen regnen wird.
+BackExample::: В новостях я узнал, что завтра будет дождь.
+Tags:::  chatgpt 
+guid::: xW}iHAL}{^

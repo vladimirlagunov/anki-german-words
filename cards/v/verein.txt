@@ -1,0 +1,12 @@
+Word::: Verein
+WordTranslation::: клуб, общество, объединение
+DerDieDas::: der
+Plural::: Vereine
+FrontExample::: Es gibt einen neuen Sportverein in der Stadt.
+BackExample::: В городе появился новый спортивный клуб.
+FrontExample2::: Ich bin Mitglied in einem Musikverein.
+BackExample2::: Я являюсь членом музыкального общества.
+FrontExample3::: Der Verein trifft sich jeden Freitag.
+BackExample3::: Общество собирается каждую пятницу.
+Tags:::  A1 chatgpt 
+guid::: DrDAV;gakh

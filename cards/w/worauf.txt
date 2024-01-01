@@ -1,0 +1,8 @@
+Word::: worauf
+WordTranslation::: на чем, на что, за что
+FrontExample::: Worauf hast du gestanden? Auf einer Brücke?
+BackExample::: На чем ты стоял? На мосту?
+FrontExample2::: Der Ast, worauf er saß, brach ab.
+BackExample2::: Ветка, на которой он сидел, сломалась.
+Tags::: 
+guid::: GK:BGLVC;]

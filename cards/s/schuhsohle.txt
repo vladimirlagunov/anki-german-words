@@ -1,0 +1,6 @@
+Word::: Schuhsohle
+WordTranslation::: подошва обуви
+DerDieDas::: die
+Plural::: Schuhsohlen
+Tags::: 
+guid::: ABJQP4ADaW

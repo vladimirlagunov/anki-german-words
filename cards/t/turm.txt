@@ -1,0 +1,5 @@
+Word::: Turm
+WordTranslation::: башня
+DerDieDas::: der
+Tags::: 
+guid::: ymEug1N118

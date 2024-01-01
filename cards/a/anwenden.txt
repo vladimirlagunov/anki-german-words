@@ -1,0 +1,10 @@
+Word::: anwenden
+WordTranslation::: применить, использовать, применять
+Explanation::: Syn: verwenden, benutzen
+DrittenPerson::: wendet an
+Perfekt::: haben angewandt
+Präteritum::: wandte an
+FrontExample::: Diese Salbe muss man dreimal am Tag.
+BackExample::: Эту мазь нужно применять три раза в день.
+Tags::: 
+guid::: LY}b[)TOiA

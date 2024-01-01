@@ -1,0 +1,8 @@
+Word::: Bewerbung
+WordTranslation::: <ul><li>заявление</li><li>резюме</li><li>собеседование</li><li>документы</li><li>обращение</li></ul>
+FrontExample::: Ich habe meine Bewerbung gestern abgeschickt.
+BackExample::: Я отправил(а) свою заявку вчера.
+FrontExample2::: Sie hat ihre Bewerbung um eine Stelle als Ingenieurin eingereicht.
+BackExample2::: Она подала заявку на вакансию инженера.
+Tags:::  chatgpt 
+guid::: vUQ56kE8?Q

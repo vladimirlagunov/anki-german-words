@@ -1,0 +1,10 @@
+Word::: Verbrechen
+WordTranslation::: преступление
+DerDieDas::: das
+Plural::: Verbrechen
+FrontExample::: Das Verbrechen wurde noch nicht aufgeklärt.
+BackExample::: Преступление еще не раскрыто.
+FrontExample2::: Sie wurde des Verbrechens angeklagt, aber später freigesprochen.
+BackExample2::: Ее обвинили в преступлении, но позже оправдали.
+Tags:::  chatgpt 
+guid::: m|c/9@!](e

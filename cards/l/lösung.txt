@@ -1,0 +1,6 @@
+Word::: Lösung
+WordTranslation::: решение, разрешение (вопроса, конфликта, проблемы)
+DerDieDas::: die
+Plural::: Lösungen
+Tags::: 
+guid::: vTV-b.DdN,

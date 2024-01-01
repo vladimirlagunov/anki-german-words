@@ -1,0 +1,8 @@
+Word::: mitmachen
+WordTranslation::: участвовать
+Explanation::: “Teilnehmen” чаще используется, когда речь идет о более формальном участии, как, например, в собраниях или мероприятиях. “Mitmachen” же часто означает более активное, непосредственное участие в какой-либо деятельности или игре.
+Perfekt::: hat mitgemacht
+FrontExample::: Darf ich mitmachen?
+BackExample::: Могу я присоединиться?
+Tags::: 
+guid::: tH:FtuLEl1

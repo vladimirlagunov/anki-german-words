@@ -1,0 +1,8 @@
+Word::: Leseratte
+WordTranslation::: книжный червь (неформально)
+DerDieDas::: die
+Plural::: Leseratten
+FrontExample::: Wenn man eine Leseratte ist, findet man immer Zeit zum Lesen.
+BackExample::: Если ты книжный червь, то всегда найдешь время для чтения.
+Tags:::  chatgpt 
+guid::: xh.UKFS|%>

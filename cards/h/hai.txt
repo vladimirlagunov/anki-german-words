@@ -1,0 +1,6 @@
+Word::: Hai
+WordTranslation::: акула
+DerDieDas::: der
+Plural::: Haie
+Tags::: 
+guid::: xGRkX>m#0:

@@ -1,0 +1,13 @@
+Word::: abfliegen
+WordTranslation::: взлетать, отлетать
+DrittenPerson::: fliegt ab
+Perfekt::: sein abgeflogen
+Präteritum::: flog ab
+FrontExample::: Wann fliegst du ab?
+BackExample::: Когда ты улетаешь?
+FrontExample2::: Unser Flugzeug fliegt um 10 Uhr ab.
+BackExample2::: Наш самолёт взлетает в 10 часов.
+FrontExample3::: Die Gäste mussten sehr früh zum Flughafen, weil ihr Flug um 6 Uhr morgens abflog.
+BackExample3::: Гостям пришлось очень рано ехать в аэропорт, потому что их рейс улетал в 6 утра.
+Tags:::  A1 chatgpt 
+guid::: zIZP1XwIvm

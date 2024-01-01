@@ -1,0 +1,12 @@
+Word::: Ehefrau
+WordTranslation::: жена, супруга
+DerDieDas::: die
+Plural::: Ehefrauen
+FrontExample::: Die Ehefrau kocht Kaffee.
+BackExample::: Жена варит кофе.
+FrontExample2::: Seine Ehefrau ist Lehrerin.
+BackExample2::: Его жена учительница.
+FrontExample3::: Meine Ehefrau und ich gehen spazieren.
+BackExample3::: Моя жена и я идем гулять.
+Tags:::  A1 chatgpt 
+guid::: RoS_?&Ah(

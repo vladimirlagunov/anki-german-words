@@ -1,0 +1,8 @@
+Word::: Leitung
+WordTranslation::: руководство, управление, лидерство
+FrontExample::: In dieser Firma gibt es klare Hierarchien in der Leitungsebene.
+BackExample::: В этой компании существуют четкие иерархии на уровне руководства.
+FrontExample2::: Die Leitung des Unternehmens traf eine wichtige Entscheidung.
+BackExample2::: Руководство компании приняло важное решение.
+Tags:::  chatgpt 
+guid::: o;oSnKqMX&

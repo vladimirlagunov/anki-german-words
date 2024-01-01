@@ -1,0 +1,6 @@
+Word::: Wissenschaft
+WordTranslation::: наука
+DerDieDas::: die
+Plural::: Wissenschaften
+Tags::: 
+guid::: mZ4<&Ly?RM

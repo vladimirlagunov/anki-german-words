@@ -1,0 +1,10 @@
+Word::: Börse
+WordTranslation::: фондовая биржа
+Explanation::: Syn: der&nbsp;<a>Geldbeutel, die&nbsp;</a><a>Brieftasche</a>
+DerDieDas::: die
+FrontExample::: Unter der Hamburger Börse gibt es ein kleines Parkhaus.
+BackExample::: Под зданием Гамбургской фондовой биржи есть небольшая многоэтажная парковка.
+FrontExample2::: Wertpapiere werden an der Börse gehandelt.
+BackExample2::: Ценные бумаги торгуются на фондовой бирже.
+Tags::: 
+guid::: QW_PbT5{C9

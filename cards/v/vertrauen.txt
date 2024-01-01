@@ -1,0 +1,10 @@
+Word::: vertrauen
+WordTranslation::: доверять, полагаться<br><ul>
+</ul>
+DrittenPerson::: vertraut
+Perfekt::: haben vertraut
+Präteritum::: vertraute
+FrontExample::: Finden Sie jemanden, dem Sie vertrauen können.
+BackExample::: Найди кого-нибудь, кому доверяешь.
+Tags::: 
+guid::: F,w!YS;F.d

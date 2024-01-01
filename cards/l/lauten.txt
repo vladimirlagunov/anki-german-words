@@ -1,0 +1,13 @@
+Word::: lauten
+WordTranslation::: гласить, звучать, высказываться
+DrittenPerson::: lautet
+Perfekt::: haben gelautet
+Präteritum::: lautete
+FrontExample::: Er gab keinen einzigen Laut von sich.
+BackExample::: Он не издал ни единого звука.
+FrontExample2::: Unser Nachname lautet wie eine exotische Frucht.
+BackExample2::: Наша фамилия звучит как экзотический фрукт.
+FrontExample3::: Die Antwort lautet "Ja".
+BackExample3::: Ответ звучит "Да".
+Tags:::  chatgpt 
+guid::: Le*&jD%ZO3

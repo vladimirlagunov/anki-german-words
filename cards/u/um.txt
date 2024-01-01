@@ -1,0 +1,10 @@
+Word::: um
+WordTranslation::: вокруг, около, у (предлог)
+FrontExample::: Er kommt um sieben Uhr.
+BackExample::: Он придёт в семь часов.
+FrontExample2::: Wir gehen um das Haus.
+BackExample2::: Мы идем вокруг дома.
+FrontExample3::: Ich gehe um 8 Uhr schlafen.
+BackExample3::: Я иду спать в 8 часов.
+Tags:::  A1 chatgpt 
+guid::: OM];k{C}ZF

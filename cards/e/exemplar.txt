@@ -1,0 +1,10 @@
+Word::: Exemplar
+WordTranslation::: экземпляр, копия
+DerDieDas::: das
+Plural::: Exemplare
+FrontExample::: Ich habe nur ein Exemplar dieses Buches.
+BackExample::: У меня есть только один экземпляр этой книги.
+FrontExample2::: Jedes Exemplar dieses Albums enthält ein Autogramm der Band.
+BackExample2::: Каждый экземпляр этого альбома содержит автограф группы.
+Tags:::  chatgpt 
+guid::: r!!L/vC*9U

@@ -1,0 +1,9 @@
+Word::: ziemlich
+WordTranslation::: довольно, весьма, достаточно; почти
+Explanation::: В отличие от "ziemlich", "fast" более ограничено в своем значении и чаще употребляется именно как "почти".
+FrontExample::: Er spricht ziemlich gut Deutsch, obwohl er erst seit einem Jahr hier ist.
+BackExample::: Он довольно хорошо говорит по-немецки, хотя он здесь всего год.
+FrontExample2::: Der Film war ziemlich langweilig und hat mich nicht beeindruckt.
+BackExample2::: Фильм был довольно скучным и меня не впечатлил.
+Tags:::  chatgpt 
+guid::: yb;d(9me.i

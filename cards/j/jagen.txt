@@ -1,0 +1,12 @@
+Word::: jagen
+WordTranslation::: охотиться, преследовать<br><ul>
+</ul>
+DrittenPerson::: jagt
+Perfekt::: haben gejagt
+Präteritum::: jagte
+FrontExample::: Die Polizei jagt den Verbrecher.
+BackExample::: Полиция гонится за преступником.
+FrontExample2::: Er wird den ganzen Tag jagen gehen.
+BackExample2::: Он пойдет охотиться весь день.
+Tags:::  chatgpt 
+guid::: r,2`g!d8n{

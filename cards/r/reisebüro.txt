@@ -1,0 +1,12 @@
+Word::: Reisebüro
+WordTranslation::: бюро путешествий
+DerDieDas::: das
+Plural::: Reisebüros
+FrontExample::: Mein Mann arbeitet im Reisebüro.
+BackExample::: Мой муж работает в туристическом агентстве.
+FrontExample2::: Ich buche meine Flüge immer im Reisebüro.
+BackExample2::: Я всегда бронирую свои авиабилеты в туристическом агентстве.
+FrontExample3::: Das Reisebüro hat viele interessante Reisen im Angebot.
+BackExample3::: Туристическое агентство предлагает много интересных путешествий.
+Tags:::  A1 chatgpt 
+guid::: yU*y2S+gtO

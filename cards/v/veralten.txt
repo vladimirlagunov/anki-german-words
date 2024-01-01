@@ -1,0 +1,12 @@
+Word::: veralten
+WordTranslation::: устареть, выйти из употребления<br><ul>
+</ul>
+DrittenPerson::: veraltet
+Perfekt::: sein veraltet
+Präteritum::: veraltete
+FrontExample::: Viele Industrieanlagen veralten schnell aufgrund des technologischen Fortschritts.
+BackExample::: Многие промышленные установки быстро устаревают из-за технологического прогресса.
+FrontExample2::: Die Daten in dem Bericht sind veraltet und müssen dringend überarbeitet werden.
+BackExample2::: Данные в отчёте устарели и должны быть срочно пересмотрены.
+Tags:::  chatgpt 
+guid::: H!^({>C*,?

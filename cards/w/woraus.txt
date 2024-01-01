@@ -1,0 +1,8 @@
+Word::: woraus
+WordTranslation::: из чего
+FrontExample::: Woraus besteht die Suppe?
+BackExample::: Из чего состоит суп?
+FrontExample2::: Sie konnte mir nicht sagen, woraus die Figur gemacht war.
+BackExample2::: Она не могла сказать мне, из чего была сделана фигура.
+Tags::: 
+guid::: B$H}zlM3`B

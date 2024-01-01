@@ -1,0 +1,10 @@
+Word::: immer
+WordTranslation::: всегда, постоянно, всё время
+FrontExample::: Frau Bast kommt immer zu spät.
+BackExample::: Госпожа Баст всегда приходит с опозданием.
+FrontExample2::: Ich gehe immer früh ins Bett.
+BackExample2::: Я всегда ложусь спать рано.
+FrontExample3::: Er liest immer das Buch.
+BackExample3::: Он всегда читает книгу.
+Tags:::  A1 chatgpt 
+guid::: t%&Dgc9nzv

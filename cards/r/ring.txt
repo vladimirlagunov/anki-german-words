@@ -1,0 +1,8 @@
+Word::: Ring
+WordTranslation::: кольцо
+DerDieDas::: der
+Plural::: Ringe
+FrontExample::: Ich habe meinen Ring verloren.
+BackExample::: Я потерял свое кольцо.
+Tags::: 
+guid::: edT8]qf<I9

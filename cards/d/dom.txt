@@ -1,0 +1,13 @@
+Word::: Dom
+WordTranslation::: кафедральный собор<br><ul>
+</ul>
+DerDieDas::: der
+Plural::: Dome
+FrontExample::: Der Dom in Köln ist sehr berühmt.
+BackExample::: Кафедральный собор в Кёльне очень известен.
+FrontExample2::: Ich habe eine Stunde gebraucht, um den Dom zu besichtigen.
+BackExample2::: Мне потребовался час, чтобы осмотреть кафедральный собор.
+FrontExample3::: Der Dom ist das Herz von jeder Stadt.
+BackExample3::: Собор является сердцем каждого города.
+Tags:::  chatgpt 
+guid::: oNYq7A*~#9

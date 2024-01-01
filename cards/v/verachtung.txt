@@ -1,0 +1,8 @@
+Word::: Verachtung
+WordTranslation::: презрение
+FrontExample::: Sein Blick war voller Verachtung.
+BackExample::: Его взгляд был полон презрения.
+FrontExample2::: Die Verachtung in ihrer Stimme war kaum zu überhören.
+BackExample2::: Презрение в ее голосе было трудно не заметить.
+Tags:::  chatgpt 
+guid::: p*;6Wdy|L@

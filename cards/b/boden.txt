@@ -1,0 +1,6 @@
+Word::: Boden
+WordTranslation::: грунт, пол
+DerDieDas::: der
+Plural::: Böden
+Tags::: 
+guid::: n$m8jbi%I+

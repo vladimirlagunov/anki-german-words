@@ -1,0 +1,13 @@
+Word::: besuchen
+WordTranslation::: посещать
+DrittenPerson::: besucht
+Perfekt::: haben besucht
+Präteritum::: besuchte
+FrontExample::: Gestern habe ich meine Großeltern besucht.
+BackExample::: Вчера я навестил своих бабушку и дедушку.
+FrontExample2::: Kann ich dich diesen Sommer besuchen?
+BackExample2::: Можно я навещу тебя этим летом?
+FrontExample3::: Sie besucht eine Musikschule.
+BackExample3::: Она посещает музыкальную школу.
+Tags:::  chatgpt 
+guid::: tN6=2yC(5a

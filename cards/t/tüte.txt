@@ -1,0 +1,11 @@
+Word::: Tüte
+WordTranslation::: пакет, кулёк<br><ul>
+</ul>
+DerDieDas::: die
+Plural::: Tüten
+FrontExample::: Er hat eine Tüte mit Süßigkeiten gekauft.
+BackExample::: Он купил пакет со сладостями.
+FrontExample2::: Bitte geben Sie das Obst in eine Tüte.
+BackExample2::: Пожалуйста, положите фрукты в пакет.
+Tags:::  chatgpt 
+guid::: s5(R[9jw_3

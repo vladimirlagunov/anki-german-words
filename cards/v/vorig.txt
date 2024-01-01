@@ -1,0 +1,9 @@
+Word::: vorig
+WordTranslation::: предыдущий, прежний, прошлый, прошедший
+Explanation::: Syn: letzt, vorherige, letztmalig, vergangen, frühere, endgültig
+FrontExample::: Sie hat ihn voriges Jahr geheiratet.
+BackExample::: Она вышла за него замуж в прошлом году.
+FrontExample2::: Das MRT sieht aus wie das vorige.
+BackExample2::: МРТ выглядит так же, как и предыдущая.
+Tags::: 
+guid::: px4:L)~~p^

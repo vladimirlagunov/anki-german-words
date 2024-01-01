@@ -1,0 +1,11 @@
+Word::: anzünden
+WordTranslation::: заставить что-то гореть; поджечь что-то
+Explanation::: Syn: zünden, entzünden, entflammen
+
+DrittenPerson::: zündet an
+Perfekt::: haben angezündet
+Präteritum::: zündete an
+FrontExample::: Er zündete das Streichholz an.
+BackExample::: Он поджег спичку.
+Tags::: 
+guid::: y6N4Wg9-:^

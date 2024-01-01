@@ -1,0 +1,8 @@
+Word::: раньше
+WordTranslation::: vorher
+FrontExample::: Если бы я только знал это заранее!
+BackExample::: Wenn ich das nur vorher gewusst hätte!
+FrontExample2::: Ему разрешается ходить на детскую площадку только в том случае, если он заранее сделал домашнее задание.
+BackExample2::: Er darf nur auf den Spielplatz gehen, wenn er vorher seine Hausaufgaben gemacht hat.
+Tags::: 
+guid::: Hi6LR-BUZ|

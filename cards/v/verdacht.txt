@@ -1,0 +1,13 @@
+Word::: Verdacht
+WordTranslation::: подозрение
+DerDieDas::: der
+Plural::: Verdachte, Verdächte<br><ul>
+</ul>
+FrontExample::: Er steht unter Verdacht, das Geld gestohlen zu haben.
+BackExample::: Он подозревается в краже денег.
+FrontExample2::: Ich hatte schon lange den Verdacht, dass sie lügt.
+BackExample2::: У меня уже давно было подозрение, что она лжет.
+FrontExample3::: Es besteht der Verdacht auf eine Lebensmittelvergiftung.
+BackExample3::: Есть подозрение на пищевое отравление.
+Tags:::  chatgpt 
+guid::: E7S8]64~Gt

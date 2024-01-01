@@ -1,0 +1,11 @@
+Word::: überreichen
+WordTranslation::: вручать
+DrittenPerson::: überreicht
+Perfekt::: haben überreicht
+Präteritum::: überreichte
+FrontExample::: Zum Geburtstag überreichte er seiner Mutter einen Blumenstrauß.
+BackExample::: На день рождения он вручил своей матери букет цветов.
+FrontExample2::: Bei der Preisverleihung überreichte der Direktor dem Gewinner einen Scheck.
+BackExample2::: На церемонии награждения директор вручил победителю чек.
+Tags:::  chatgpt 
+guid::: u!UJP.c::#

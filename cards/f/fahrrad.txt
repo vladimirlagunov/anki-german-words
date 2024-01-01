@@ -1,0 +1,12 @@
+Word::: Fahrrad
+WordTranslation::: велосипед
+DerDieDas::: das
+Plural::: Fahrräder
+FrontExample::: Fährst du mit dem Fahrrad oder mit dem Auto?
+BackExample::: Ты едешь на велосипеде или на машине?
+FrontExample2::: Ich habe ein neues Fahrrad gekauft.
+BackExample2::: Я купил новый велосипед.
+FrontExample3::: Das Fahrrad ist kaputt.
+BackExample3::: Велосипед сломан.
+Tags:::  A1 chatgpt 
+guid::: OzeG~*}#df

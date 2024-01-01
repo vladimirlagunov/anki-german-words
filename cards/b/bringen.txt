@@ -1,0 +1,13 @@
+Word::: bringen
+WordTranslation::: <ul>
+<li>приносить</li>
+<li>нести</li>
+</ul>
+DrittenPerson::: bringt
+Perfekt::: haben gebracht
+Präteritum::: brachte
+FrontExample::: Geld auf der Bank bringt keinen Gewinn.
+
+BackExample::: Деньги в банке не приносят прибыли.
+Tags:::  A1 unregelmäßige_Verben unregelmäßige_Verben::A1 Verben 
+guid::: bh&SC0_eky

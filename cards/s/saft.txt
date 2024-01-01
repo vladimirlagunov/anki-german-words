@@ -1,0 +1,12 @@
+Word::: Saft
+WordTranslation::: сок
+DerDieDas::: der
+Plural::: Säfte
+FrontExample::: Möchtest du einen Apfelsaft?
+BackExample::: Ты хочешь яблочный сок?
+FrontExample2::: Ich trinke gerne Orangensaft zum Frühstück.
+BackExample2::: Я люблю пить апельсиновый сок на завтрак.
+FrontExample3::: Hast du Saft im Kühlschrank?
+BackExample3::: У тебя есть сок в холодильнике?
+Tags:::  A1 chatgpt 
+guid::: fsHn;F?FL!

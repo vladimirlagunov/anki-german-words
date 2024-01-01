@@ -1,0 +1,11 @@
+Word::: betreffen
+WordTranslation::: <ul><li>касаться относиться (к , к )  поражать</li><li>отразиться (на )</li><li>задевать, затрагивать</li></ul>
+Explanation::: "Betreffen" может указывать на то, что что-то затрагивает, касается или влияет на кого-то или что-то. Оно также может использоваться для описания эмоционального воздействия, когда что-то сильно влияет на чувства или состояние человека.
+FrontExample::: Die aktuellen Ereignisse betreffen uns alle.
+BackExample::: Текущие события затрагивают всех нас.
+FrontExample2::: Seine Worte haben mich sehr betroffen gemacht.
+BackExample2::: Его слова сильно меня задели.
+FrontExample3::: Das Problem betrifft vor allem die Umwelt.
+BackExample3::: Проблема касается, прежде всего, окружающей среды.
+Tags:::  chatgpt 
+guid::: KrUJ9[(#1<

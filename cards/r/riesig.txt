@@ -1,0 +1,11 @@
+Word::: riesig
+WordTranslation::: огромный, гигантский<br><ul>
+</ul>
+FrontExample::: Er hatte einen riesigen Hunger.
+BackExample::: У него был огромный голод.
+FrontExample2::: Sie sahen ein riesiges Gebäude vor sich.
+BackExample2::: Они увидели перед собой огромное здание.
+FrontExample3::: Die Freude über den Sieg war riesig.
+BackExample3::: Радость от победы была огромной.
+Tags:::  chatgpt 
+guid::: r,VOe?2<I#

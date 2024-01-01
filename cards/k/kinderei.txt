@@ -1,0 +1,9 @@
+Word::: Kinderei
+WordTranslation::: детская забава, шалость
+DerDieDas::: die
+Plural::: Kindereien
+FrontExample::: Es ist nur eine Kinderei, das darfst du nicht ernst nehmen.
+
+BackExample::: Это всего лишь детская забава, ты не должен это воспринимать всерьез.
+Tags:::  chatgpt 
+guid::: kv;]JmAqg7

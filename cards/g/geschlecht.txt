@@ -1,0 +1,8 @@
+Word::: Geschlecht
+WordTranslation::: пол
+DerDieDas::: das
+Plural::: Geschlechter
+FrontExample::: Bitte kreuzen Sie an: „Geschlecht:
+BackExample::: Пожалуйста, отметьте: "Пол: женский/мужской".
+Tags::: 
+guid::: s=}CSoxklj

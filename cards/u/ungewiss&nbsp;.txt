@@ -1,0 +1,6 @@
+Word::: ungewiss&nbsp;
+WordTranslation::: неясно, неопределенно&nbsp;
+FrontExample::: Die Zukunft ist ungewiss, aber ich hoffe auf das Beste.
+BackExample::: Будущее неясно, но я надеюсь на лучшее.
+Tags::: 
+guid::: fTKyR#$|%;

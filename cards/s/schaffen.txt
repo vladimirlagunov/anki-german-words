@@ -1,0 +1,19 @@
+Word::: schaffen
+WordTranslation::: <ul>
+<li>справиться, суметь, сделать</li><li>создать, сотворить (объект искусства или ремесла)</li>
+</ul>
+DrittenPerson::: schafft
+Perfekt::: <ul>
+<li>haben geschafft – справиться, суметь, сделать<br></li><li>haben geschaffen – создать, сотворить (объект искусства или ремесла)</li>
+</ul>
+Präteritum::: <ul>
+<li>schaffte&nbsp;&nbsp;– справиться, суметь, сделать</li><li>schuf&nbsp;– создать, сотворить (объект искусства или ремесла)</li>
+</ul>
+FrontExample::: Sie schafft es immer pünktlich zur Arbeit zu kommen.
+BackExample::: Она всегда успевает приходить на работу вовремя.
+FrontExample2::: Die Künstlerin schafft wunderschöne Gemälde.
+BackExample2::: Художница создает прекрасные картины.
+FrontExample3::: Wir schaffen das!
+BackExample3::: Мы справимся с этим!
+Tags:::  B2 chatgpt unregelmäßige_Verben unregelmäßige_Verben::B2 Verben 
+guid::: HV.omU8HRU

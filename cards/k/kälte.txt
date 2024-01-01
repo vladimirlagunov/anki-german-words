@@ -1,0 +1,12 @@
+Word::: Kälte
+WordTranslation::: холод
+DerDieDas::: die
+Plural::: wird nur im Singular verwendet
+FrontExample::: Die Kälte draußen zwang uns, uns warm anzuziehen, bevor wir das Haus verließen.
+
+BackExample::: Холод на улице заставил нас надеть теплую одежду, прежде чем мы вышли из дома.
+FrontExample2::: Ihre Gleichgültigkeit und Kälte verletzten die Gefühle anderer Menschen.
+
+BackExample2::: Их равнодушие и холод ранили чувства других людей.
+Tags:::  chatgpt 
+guid::: m,S4gaqUHw

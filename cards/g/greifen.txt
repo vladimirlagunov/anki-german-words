@@ -1,0 +1,9 @@
+Word::: greifen
+WordTranslation::: хватать, держаться за что-то
+DrittenPerson::: greift
+Perfekt::: haben gegriffen
+Präteritum::: griff
+FrontExample::: Der Adler greift nach seiner Beute.
+BackExample::: Орел хватает свою добычу.
+Tags:::  chatgpt 
+guid::: tl6kI)]k:`

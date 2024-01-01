@@ -1,0 +1,6 @@
+Word::: Schildkröte
+WordTranslation::: черепаха
+DerDieDas::: die
+Plural::: Schildkröten
+Tags::: 
+guid::: Q|uJ?!:[3&

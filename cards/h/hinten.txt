@@ -1,0 +1,10 @@
+Word::: hinten
+WordTranslation::: сзади, назад, в задней части
+FrontExample::: Die Tür zum Aussteigen ist hinten.
+BackExample::: Дверь для выхода сзади.
+FrontExample2::: Das Auto vor uns ist rot, unser Auto ist hinten.
+BackExample2::: Автомобиль перед нами красный, наш автомобиль сзади.
+FrontExample3::: Mein Freund sitzt hinten im Klassenzimmer.
+BackExample3::: Мой друг сидит сзади в классе.
+Tags:::  A1 chatgpt 
+guid::: o-747PzhlB

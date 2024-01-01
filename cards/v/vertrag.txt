@@ -1,0 +1,14 @@
+Word::: Vertrag
+WordTranslation::: договор
+DerDieDas::: der
+Plural::: Verträge
+FrontExample::: Der Vertrag wurde unterschrieben.
+
+BackExample::: Договор был подписан.
+
+FrontExample2::: Im Vertrag steht, dass die Zahlung monatlich erfolgen muss.
+
+BackExample2::: В договоре указано, что платеж должен производиться ежемесячно.
+
+Tags:::  chatgpt 
+guid::: fhD}v,CB5f

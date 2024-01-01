@@ -1,0 +1,10 @@
+Word::: Wille
+WordTranslation::: воля, желание
+DerDieDas::: der
+Plural::: Willen
+FrontExample::: Sie hatte den Willen, ihre Fähigkeiten weiterzuentwickeln und sich zu verbessern.
+
+BackExample::: У нее было желание продолжить развивать свои способности и совершенствоваться.
+
+Tags:::  chatgpt 
+guid::: oDs%1a-IcD

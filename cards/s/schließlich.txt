@@ -1,0 +1,6 @@
+Word::: schließlich
+WordTranslation::: в конце концов, наконец, в итоге
+FrontExample::: Schließlich ist es wichtig, auf die Umwelt zu achten.
+BackExample::: В конечном счете важно заботиться об окружающей среде.
+Tags:::  chatgpt 
+guid::: he</VY(Tv%

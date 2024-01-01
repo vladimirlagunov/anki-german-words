@@ -1,0 +1,8 @@
+Word::: müde
+WordTranslation::: усталый, утомлённый
+FrontExample::: Ich bin müde. Ich gehe schlafen.
+BackExample::: Я устал(а). Я иду спать.
+FrontExample2::: Du siehst müde aus.
+BackExample2::: Ты выглядишь усталым(ой).
+Tags:::  A1 chatgpt 
+guid::: tA^SQ&@{<P

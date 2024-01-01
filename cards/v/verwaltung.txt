@@ -1,0 +1,7 @@
+Word::: Verwaltung
+WordTranslation::: администрация, управление<br><img src="quizlet-2542900058_317c74e7c5.jpg">
+DerDieDas::: die
+FrontExample::: Sprechen Sie bitte mit der Verwaltung. Die können Ihnen helfen.
+BackExample::: Пожалуйста, поговорите с администрацией. Они могут помочь вам.
+Tags::: 
+guid::: jv(f0J@6vS

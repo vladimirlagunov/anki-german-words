@@ -1,0 +1,10 @@
+Word::: letzt-
+WordTranslation::: последний, конечный, крайний
+FrontExample::: Morgen ist der letzte Kurstag.
+BackExample::: Завтра - последний день курса.
+FrontExample2::: Letztes Jahr war ich in Berlin.
+BackExample2::: В прошлом году я был в Берлине.
+FrontExample3::: Das ist der letzte Keks.
+BackExample3::: Это последнее печенье.
+Tags:::  A1 chatgpt 
+guid::: AGR-c4e()m

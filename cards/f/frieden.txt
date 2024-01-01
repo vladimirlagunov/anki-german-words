@@ -1,0 +1,6 @@
+Word::: Frieden
+WordTranslation::: мир (антоним войны)
+DerDieDas::: der
+Plural::: Frieden
+Tags::: 
+guid::: edegxC;pL%

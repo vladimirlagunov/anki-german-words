@@ -1,0 +1,15 @@
+Word::: beweisen
+WordTranslation::: <ul>
+<li>доказывать</li>
+<li>(sich) самоутверждаться; показать, что человек может что-то сделать</li>
+</ul>
+Explanation::: Syn: nachweisen, belegen, demonstrieren, zeigen, erweisen
+DrittenPerson::: beweist
+Perfekt::: haben bewiesen
+Präteritum::: bewies
+FrontExample::: Vor Gericht konnte der Verteidiger die Unschuld des Mandanten beweisen.
+BackExample::: В суде адвокат смог доказать невиновность клиента.
+FrontExample3::: Weil sie sich beweisen müssen, begeben sich Jugendliche gerne in potentiell gefährliche Situationen.
+BackExample3::: Поскольку им необходимо проявить себя, молодые люди любят ставить себя в потенциально опасные ситуации.
+Tags:::  chatgpt 
+guid::: GJx~Z^znr*

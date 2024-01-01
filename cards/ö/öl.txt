@@ -1,0 +1,12 @@
+Word::: Öl
+WordTranslation::: <ul><li>масло</li><li>нефть</li></ul>
+DerDieDas::: das
+Plural::: Öle
+FrontExample::: Den Salat machen wir ohne Öl.
+BackExample::: Салат мы делаем без масла.
+FrontExample2::: Ich kaufe im Supermarkt Öl.
+BackExample2::: Я покупаю в супермаркете масло.
+FrontExample3::: Geben Sie bitte etwas Öl in die Pfanne.
+BackExample3::: Пожалуйста, добавьте немного масла на сковороду.
+Tags:::  A1 chatgpt 
+guid::: wRf&C{5`Jw

@@ -1,0 +1,15 @@
+Word::: Schalter
+WordTranslation::: <ul>
+<li>выключатель</li>
+<li>касса, окошечко кассы (на почте, в банке, на вокзале)<br></li>
+</ul>
+DerDieDas::: der
+Plural::: Schalter
+FrontExample::: Der Schalter für das Licht befindet sich neben der Tür.
+BackExample::: Выключатель для света находится рядом с дверью.
+FrontExample2::: Am Bahnhof steht eine lange Schlange am Schalter.
+BackExample2::: На вокзале длинная очередь к кассе.
+FrontExample3::: Bitte ziehen Sie eine Nummer am Schalter.
+BackExample3::: Пожалуйста, возьмите номерок у стойки.
+Tags:::  chatgpt 
+guid::: wu+>ImVL`P

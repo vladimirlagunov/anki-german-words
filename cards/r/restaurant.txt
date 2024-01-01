@@ -1,0 +1,12 @@
+Word::: Restaurant
+WordTranslation::: ресторан
+DerDieDas::: das
+Plural::: Restaurants
+FrontExample::: Wir gehen heute Abend ins Restaurant.
+BackExample::: Сегодня вечером мы идем в ресторан.
+FrontExample2::: Das Restaurant ist neben dem Hotel.
+BackExample2::: Ресторан находится рядом с отелем.
+FrontExample3::: Das Essen im Restaurant schmeckt sehr gut.
+BackExample3::: Еда в ресторане очень вкусная.
+Tags:::  A1 chatgpt 
+guid::: wI)m91k9-C

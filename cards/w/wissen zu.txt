@@ -1,0 +1,19 @@
+Word::: wissen zu
+WordTranslation::: знать как [делать что-то]
+Explanation::: <div>
+  В немецком языке глагол "wissen" используется для выражения знания какого-либо факта или информации.
+</div>
+<div>
+  Фраза "wissen zu" чаще всего используется в более специфических контекстах и означает не просто знание, но и умение применять это знание правильно. Эта конструкция ближе к выражению "знать, как". 
+</div>
+DrittenPerson::: weiß zu
+Perfekt::: haben zu gewusst
+Präteritum::: wusste zu
+FrontExample::: Eine Frau weiß sich immer zu helfen.
+BackExample::: Женщина всегда знает, как себе помочь.
+FrontExample2::: Dieser Mann weiß gut zu leben.
+BackExample2::: Этот человек умеет жить хорошо.
+FrontExample3::: Er weiß seine Zeit gut zu nutzen.
+BackExample3::: Он знает, как хорошо использовать своё время.
+Tags::: 
+guid::: xVdJ_srt}s

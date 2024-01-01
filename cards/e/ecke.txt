@@ -1,0 +1,6 @@
+Word::: Ecke
+WordTranslation::: угол
+DerDieDas::: die
+Plural::: Ecken
+Tags::: 
+guid::: Q8d(3eylWa

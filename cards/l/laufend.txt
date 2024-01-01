@@ -1,0 +1,10 @@
+Word::: laufend
+WordTranslation::: текущий, бегущий, идущий, непрерывный, постоянный
+FrontExample::: Die laufenden Kosten für das Haus sind ziemlich hoch.
+BackExample::: Текущие расходы на содержание дома довольно высоки.
+FrontExample2::: Die Maschinen müssen laufend gewartet werden.
+BackExample2::: Машины требуют регулярного обслуживания.
+FrontExample3::: Der Vertrag wird laufend aktualisiert.
+BackExample3::: Договор регулярно обновляется.
+Tags:::  chatgpt 
+guid::: d8wj]`eT`h

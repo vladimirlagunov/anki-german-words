@@ -1,0 +1,12 @@
+Word::: Wort
+WordTranslation::: слово
+DerDieDas::: das
+Plural::: <ul><li><div>die Wörter — используется для обозначения конкретных, реальных слов, которые присутствуют в языке и используются в разговорной и письменной речи.</div></li><li><div>die Worte — употребляется для выражения абстрактных понятий, значений или фраз, которые не всегда являются конкретными словами. Она обозначает смысловое содержание, подразумевая несколько слов, объединенных общей идеей или концепцией</div></li></ul>
+FrontExample::: Ich kenne viele deutsche Wörter.
+BackExample::: Я знаю много немецких слов.
+FrontExample2::: Die Wörter in diesem Buch sind schwer zu verstehen.
+BackExample2::: Слова в этой книге трудно понять.
+FrontExample3::: Seine Worte hatten tiefgreifende Bedeutung.
+BackExample3::: Его слова имели глубокий смысл. (= Его речь имела глубокий смысл)
+Tags:::  chatgpt 
+guid::: y1|HT^NW6s

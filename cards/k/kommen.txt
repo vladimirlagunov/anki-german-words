@@ -1,0 +1,13 @@
+Word::: kommen
+WordTranslation::: <ul><li>приходить, приезжать</li><li>происходить, случаться</li><li>достигать, доходить, получать</li><li>подходить</li></ul>
+DrittenPerson::: kommt
+Perfekt::: sein gekommen
+Präteritum::: kam
+FrontExample::: Die Forscher kommen zu interessanten Ergebnissen.
+BackExample::: Исследователи пришли к интересным результатам.
+FrontExample2::: Das Kleid kommt dir gut.
+BackExample2::: Это платье тебе идет.
+FrontExample3::: Bis wohin kommt dieses Bus?
+BackExample3::: Докуда идет этот автобус?
+Tags:::  chatgpt 
+guid::: )QEShS64m

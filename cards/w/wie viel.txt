@@ -1,0 +1,10 @@
+Word::: wie viel
+WordTranslation::: сколько
+FrontExample::: Wie viel Milch nehmen Sie?
+BackExample::: Сколько молока Вы возьмете?
+FrontExample2::: Wie viel kostet das Brot?
+BackExample2::: Сколько стоит хлеб?
+FrontExample3::: Wie viel Uhr ist es?
+BackExample3::: Который час?
+Tags:::  A1 chatgpt 
+guid::: K2r;@Kzl`I

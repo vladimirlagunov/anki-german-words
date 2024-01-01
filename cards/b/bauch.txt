@@ -1,0 +1,10 @@
+Word::: Bauch
+WordTranslation::: живот, брюхо
+DerDieDas::: der
+Plural::: Bäuche
+FrontExample::: Ich habe Schmerzen in meinem Bauch.
+BackExample::: У меня боли в животе.
+FrontExample2::: Er schlug ihm mit der Faust in den Bauch.
+BackExample2::: Он ударил его кулаком в живот.
+Tags:::  chatgpt 
+guid::: JYK%Lp%?|0

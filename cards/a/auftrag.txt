@@ -1,0 +1,12 @@
+Word::: Auftrag
+WordTranslation::: заказ, поручение, задание
+DerDieDas::: der
+Plural::: Aufträge
+FrontExample::: Ich habe einen neuen Auftrag erhalten.
+BackExample::: Я получил новый заказ.
+FrontExample2::: Der Auftrag für das Bauprojekt wurde erteilt.
+BackExample2::: Заказ на строительный проект был выдан.
+FrontExample3::: Der Künstler arbeitet momentan an einem Auftrag für ein Gemälde.
+BackExample3::: Художник в настоящий момент работает над заказом на картину.
+Tags:::  chatgpt 
+guid::: EWezdKz?U-

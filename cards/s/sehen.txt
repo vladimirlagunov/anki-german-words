@@ -1,0 +1,14 @@
+Word::: sehen
+WordTranslation::: видеть<br><ul>
+</ul>
+DrittenPerson::: sieht
+Perfekt::: haben gesehen
+Präteritum::: sah
+FrontExample::: Ich kann dich nicht sehen.
+BackExample::: Я не могу тебя видеть.
+FrontExample2::: Wir sehen einen Film im Kino.
+BackExample2::: Мы смотрим фильм в кино.
+FrontExample3::: Sie sieht sehr müde aus.
+BackExample3::: Она выглядит очень уставшей.
+Tags:::  chatgpt 
+guid::: i+z!8S.^4u

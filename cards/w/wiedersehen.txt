@@ -1,0 +1,12 @@
+Word::: Wiedersehen
+WordTranslation::: <ul><li>встреча</li><li>до свидания</li></ul>
+DerDieDas::: das
+Plural::: Wiedersehen
+FrontExample::: Auf Wiedersehen!
+BackExample::: До свидания!
+FrontExample2::: Bis zum nächsten Mal und auf Wiedersehen!
+BackExample2::: До следующего раза и до свидания!
+FrontExample3::: Ich freue mich auf unser Wiedersehen morgen.
+BackExample3::: Я рад нашей встрече завтра.
+Tags:::  A1 chatgpt 
+guid::: dUg~gUX/Lc

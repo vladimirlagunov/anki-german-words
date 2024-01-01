@@ -1,0 +1,11 @@
+Word::: pur
+WordTranslation::: чистый
+Explanation::: Syn: rein, geläutert
+FrontExample::: Der Pokal war aus purem Silber.
+BackExample::: Чаша была из чистого серебра.
+FrontExample2::: Ihr Ring ist aus purem Gold.
+BackExample2::: Ее кольцо из чистого золота.
+FrontExample3::: Seine Rede war der pure Hohn.
+BackExample3::: Его речь была чистой насмешкой.
+Tags::: 
+guid::: fZ-hw{11:s

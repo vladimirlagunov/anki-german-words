@@ -1,0 +1,10 @@
+Word::: zu
+WordTranslation::: к, на, у (предлог)
+FrontExample::: Der Bus fährt zum Bahnhof.
+BackExample::: Автобус едет на вокзал.
+FrontExample2::: Ich gehe zum Supermarkt.
+BackExample2::: Я иду в супермаркет.
+FrontExample3::: Das Zimmer ist zu klein.
+BackExample3::: Комната слишком маленькая.
+Tags:::  A1 chatgpt 
+guid::: i4vWzE/T:J

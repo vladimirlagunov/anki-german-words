@@ -1,0 +1,12 @@
+Word::: Fach
+WordTranslation::: <ul><li>специальность, предмет</li><li>отрасль</li><li>кабинет, ячейка, отделение, отсек</li></ul>
+DerDieDas::: das
+Plural::: Fächer
+FrontExample::: Er ist Professor im Fach Mathematik.
+BackExample::: Он профессор по специальности математика.
+FrontExample2::: Bitte legen Sie die Unterlagen in das richtige Fach.
+BackExample2::: Пожалуйста, положите документы в соответствующую ячейку.
+FrontExample3::: Er spielt die Hauptrolle in einem Fach, das perfekt zu ihm passt.
+BackExample3::: Он играет главную роль в жанре, который ему идеально подходит.
+Tags:::  chatgpt 
+guid::: zyF^b|qQ{K

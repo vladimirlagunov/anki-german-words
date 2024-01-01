@@ -1,0 +1,8 @@
+Word::: bzw.; beziehungsweise
+WordTranslation::: соответственно, то есть, а именно, а точнее
+FrontExample::: Er arbeitet als Kellner bzw. Barkeeper in einem Restaurant.
+BackExample::: Он работает официантом, а точнее, барменом в ресторане.
+FrontExample2::: Du hast einen Bruder und eine Schwester, älter bzw. jünger.
+BackExample2::: У тебя есть брат и сестра, старшая и младшая соответственно.
+Tags:::  chatgpt 
+guid::: IN(6fO=hs2

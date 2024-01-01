@@ -1,0 +1,7 @@
+Word::: stehen
+WordTranslation::: стоять
+DrittenPerson::: steht
+Perfekt::: haben gestanden
+Präteritum::: stand
+Tags::: 
+guid::: Nw0Ys9JJ,V

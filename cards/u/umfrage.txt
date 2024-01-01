@@ -1,0 +1,12 @@
+Word::: Umfrage
+WordTranslation::: опрос, анкета
+DerDieDas::: die
+Plural::: Umfragen
+FrontExample::: Laut der jüngsten Umfrage sind 60% der Bevölkerung für die Gesetzesänderung.
+BackExample::: Согласно последнему опросу, 60% населения поддерживают изменение законодательства.
+FrontExample2::: Die Umfrage ergab, dass die meisten Jugendlichen ihr Smartphone über fünf Stunden am Tag nutzen.
+BackExample2::: Опрос показал, что большинство подростков используют свой смартфон более пяти часов в день.
+FrontExample3::: Wir führen eine Umfrage unter Kunden durch, um die Zufriedenheit mit unseren Produkten zu messen.
+BackExample3::: Мы проводим опрос среди клиентов, чтобы измерить удовлетворенность нашими продуктами.
+Tags:::  chatgpt 
+guid::: nD^F0w7s=F

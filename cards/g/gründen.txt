@@ -1,0 +1,11 @@
+Word::: gründen
+WordTranslation::: основывать, создавать
+DrittenPerson::: gründet
+Perfekt::: haben gegründet
+Präteritum::: gründete
+FrontExample::: Er hat eine Firma gegründet.
+BackExample::: Он основал компанию.
+FrontExample2::: Sie gründen ihre Meinung auf Fakten.
+BackExample2::: Они основывают свое мнение на фактах.
+Tags:::  chatgpt 
+guid::: b5v5#*UGs?

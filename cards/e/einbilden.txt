@@ -1,0 +1,12 @@
+Word::: einbilden
+WordTranslation::: думать, подумать, вообразить, притвориться
+Explanation::: Syn: glauben, denken, annehmen, vorstellen, vermuten, sich vorstellen
+DrittenPerson::: bildet ein
+Perfekt::: haben eingebildet
+Präteritum::: bildete ein
+FrontExample::: Wie könntest du dir einbilden, du wärst mein Vorgesetzter?
+BackExample::: Как ты мог представить себя моим начальником?
+FrontExample2::: Nein, aber mit diesem Autoduft kannst du es dir einbilden !
+BackExample2::: Нет, но с этим автомобильным ароматом вы можете себе это представить!
+Tags::: 
+guid::: w]v0%86a<9

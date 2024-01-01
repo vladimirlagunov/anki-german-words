@@ -1,0 +1,14 @@
+Word::: bedanken sich
+WordTranslation::: благодарить<br><ul>
+</ul>
+DrittenPerson::: bedankt
+Perfekt::: haben bedankt
+Präteritum::: bedankte
+FrontExample::: Sie sollte sich bei ihm bedanken.
+BackExample::: Она должна была поблагодарить его.
+FrontExample2::: Ich möchte mich bei Ihnen für Ihre Hilfe bedanken.
+BackExample2::: Я хочу поблагодарить Вас за Вашу помощь.
+FrontExample3::: Wir bedanken uns bei allen, die dazu beigetragen haben.
+BackExample3::: Мы благодарим всех, кто сделал свой вклад.
+Tags:::  chatgpt 
+guid::: xT$[p7y_z4

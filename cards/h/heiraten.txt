@@ -1,0 +1,7 @@
+Word::: heiraten
+WordTranslation::: сочетаться браком
+DrittenPerson::: heiratet
+Perfekt::: haben geheiratet
+Präteritum::: heiratete
+Tags::: 
+guid::: w6[_A),2HO

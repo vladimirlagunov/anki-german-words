@@ -1,0 +1,6 @@
+Word::: Apfelsine
+WordTranslation::: апельсин
+DerDieDas::: die
+Plural::: Apfelsinen
+Tags:::  chatgpt 
+guid::: FUz,}F<dr8

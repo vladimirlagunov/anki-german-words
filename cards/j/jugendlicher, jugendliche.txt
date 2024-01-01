@@ -1,0 +1,6 @@
+Word::: Jugendlicher, Jugendliche
+WordTranslation::: подросток
+DerDieDas::: der, die
+Plural::: Jugendlichen
+Tags::: 
+guid::: CX8A<zB,.p

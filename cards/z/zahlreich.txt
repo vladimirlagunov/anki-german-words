@@ -1,0 +1,8 @@
+Word::: zahlreich
+WordTranslation::: Многочисленные
+FrontExample::: Die Gäste sind zahlreich gekommen.
+BackExample::: Гости пришли в большом количестве.
+FrontExample2::: Es gibt zahlreiche Beispiele für gute Zusammenarbeit.
+BackExample2::: Существует множество примеров хорошего сотрудничества.
+Tags::: 
+guid::: L1[FaFvEk%

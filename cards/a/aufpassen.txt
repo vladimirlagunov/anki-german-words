@@ -1,0 +1,8 @@
+Word::: aufpassen
+WordTranslation::: следить, наблюдать, быть внимательным
+FrontExample::: Pass auf den Verkehr auf, wenn du die Straße überquerst.
+BackExample::: Будь внимателен к дорожному движению, когда переходишь улицу.
+FrontExample2::: Auf dem Campingplatz müssen wir auf die Umwelt aufpassen und Müll richtig entsorgen.
+BackExample2::: На кемпинге нам нужно заботиться о природе и правильно утилизировать мусор.
+Tags:::  chatgpt 
+guid::: ul#Cf{0NA$

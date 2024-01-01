@@ -1,0 +1,15 @@
+Word::: Geschäft
+WordTranslation::: <ul>
+<li>бизнес</li>
+<li>магазин</li>
+</ul>
+DerDieDas::: das
+Plural::: Geschäfte
+FrontExample::: Die Geschäfte schließen um 18.30 Uhr.
+BackExample::: Магазины закрываются в 18:30.
+FrontExample2::: Das Geschäft ist klein.
+BackExample2::: Магазин маленький.
+FrontExample3::: Ich gehe ins Geschäft.
+BackExample3::: Я иду в магазин.
+Tags:::  A1 chatgpt 
+guid::: udV[Q;P?V$

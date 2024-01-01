@@ -1,0 +1,14 @@
+Word::: Geheimnis
+WordTranslation::: тайна, секрет<br><ul>
+</ul>
+Explanation::: Syn: die Geheimhaltung, der Schlüssel, das Mysterium, der Hehl, die Vertraulichkeit
+DerDieDas::: das
+Plural::: Geheimnisse
+FrontExample::: Das kann ich dir nicht sagen. Das ist ein Geheimnis.
+BackExample::: Я не могу вам этого сказать. Это секрет.
+FrontExample2::: das Geheimnis verheimlichen.
+BackExample2::: хранить тайну
+FrontExample3::: Ich rede über das Geheimnis, das sie versucht zu verheimlichen.
+BackExample3::: Я говорю о секрете, который она пытается скрыть.
+Tags::: 
+guid::: O7NTlZyqH$

@@ -1,0 +1,12 @@
+Word::: sich erholen von + D
+WordTranslation::: отдыхать от, восстанавливаться от<br><ul>
+</ul>
+DrittenPerson::: erholt
+Perfekt::: haben erholt
+Präteritum::: erholte
+FrontExample::: Nach dem langen Arbeitstag möchte ich mich erholen von all dem Stress.
+BackExample::: После долгого рабочего дня я хочу отдохнуть от всего этого стресса.
+FrontExample2::: Sie muss sich erholen von der schweren Operation.
+BackExample2::: Ей нужно восстановиться после тяжёлой операции.
+Tags:::  chatgpt 
+guid::: eY1sw6rEAo

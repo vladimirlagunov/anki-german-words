@@ -1,0 +1,15 @@
+Word::: Großvater
+WordTranslation::: <ul>
+<li>дед, дедушка<br></li>
+<li>старичок</li>
+</ul>
+DerDieDas::: der
+Plural::: Großväter
+FrontExample::: Mein Großvater ist schon 80.
+BackExample::: Моему дедушке уже 80 лет.
+FrontExample2::: Mein Großvater liest gern Zeitung.
+BackExample2::: Мой дедушка любит читать газеты.
+FrontExample3::: Ich gehe heute Nachmittag zu meinem Großvater.
+BackExample3::: Сегодня днем я иду к своему дедушке.
+Tags:::  A1 chatgpt 
+guid::: wlI<V](b2O

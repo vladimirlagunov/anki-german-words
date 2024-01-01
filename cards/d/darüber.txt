@@ -1,0 +1,8 @@
+Word::: darüber
+WordTranslation::: об этом
+FrontExample::: Ich habe gestern mit Maria gesprochen. Sie erzählte mir viel darüber, wie sie ihren Urlaub verbringen möchte.
+BackExample::: Вчера я разговаривал с Марией. Она много рассказала мне о том, как она хочет провести свой отпуск.
+FrontExample2::: Wir haben lange diskutiert und kamen zu keiner Einigung darüber, wie das Projekt umgesetzt werden soll.
+BackExample2::: Мы долго обсуждали и не пришли к соглашению о том, как должен быть реализован проект.
+Tags:::  chatgpt 
+guid::: dHoq?:Z2bN

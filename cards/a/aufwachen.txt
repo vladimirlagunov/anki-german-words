@@ -1,0 +1,9 @@
+Word::: aufwachen
+WordTranslation::: просыпаться, проснуться, пробудиться
+DrittenPerson::: wacht auf
+Perfekt::: sein aufgewacht
+Präteritum::: wachte auf
+FrontExample::: Wie wenn man versucht, sich nach dem Aufwachen an einen Traum zu erinnern.
+BackExample::: Это как пытаться вспомнить сон после пробуждения.
+Tags::: 
+guid::: k)^Lul#:E:

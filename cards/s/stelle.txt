@@ -1,0 +1,16 @@
+Word::: Stelle
+WordTranslation::: <ul>
+<li>должность</li>
+<li>место</li>
+<li>рабочее место</li>
+</ul>
+DerDieDas::: die
+Plural::: Stellen
+FrontExample::: Ich habe an dieser Stelle schon einmal gearbeitet.
+BackExample::: Я уже работал на этом месте.
+FrontExample2::: An deiner Stelle würde ich eine Pause machen.
+BackExample2::: На твоём месте я бы сделал перерыв.
+FrontExample3::: Diese Stelle im Buch ist besonders interessant.
+BackExample3::: Это место в книге особенно интересно.
+Tags:::  chatgpt 
+guid::: z4Qs$:)+lL

@@ -1,0 +1,12 @@
+Word::: Stadt
+WordTranslation::: город
+DerDieDas::: die
+Plural::: Städte
+FrontExample::: Heidelberg ist eine alte Stadt.
+BackExample::: Гейдельберг - старый город.
+FrontExample2::: Ich wohne in einer kleinen Stadt.
+BackExample2::: Я живу в маленьком городе.
+FrontExample3::: Die Stadt hat viele Geschäfte.
+BackExample3::: В городе много магазинов.
+Tags:::  A1 chatgpt 
+guid::: b:yUZtY8R$

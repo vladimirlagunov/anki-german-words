@@ -1,0 +1,10 @@
+Word::: Quelle
+WordTranslation::: источник
+DerDieDas::: die
+Plural::: Quellen
+FrontExample::: Das Wasser dieser Quelle ist sehr klar.
+BackExample::: Вода этого источника очень чистая.
+FrontExample2::: Die Quelle des Problems wurde noch nicht identifiziert.
+BackExample2::: Источник проблемы еще не был идентифицирован.
+Tags:::  chatgpt 
+guid::: F-r!wps;M,

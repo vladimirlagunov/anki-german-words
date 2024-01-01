@@ -1,0 +1,8 @@
+Word::: Rind
+WordTranslation::: говядина
+DerDieDas::: das
+Plural::: Rinder
+FrontExample::: Ich esse nur Fleisch vom Rind.
+BackExample::: Я ем мясо только из говядины.
+Tags::: 
+guid::: g2PV)!=dD9

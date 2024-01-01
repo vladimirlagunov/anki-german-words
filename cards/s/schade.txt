@@ -1,0 +1,7 @@
+Word::: schade
+WordTranslation::: жаль
+Explanation::: Syn: traurig, bedauerlich, leid
+FrontExample::: Es ist so schade, dass Peter nicht zu meinem Geburtstag kommen kann.
+BackExample::: Очень жаль, что Питер не может приехать на мой день рождения.
+Tags::: 
+guid::: k4@Sq3;;]_

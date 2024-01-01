@@ -1,0 +1,18 @@
+Word::: laufen
+WordTranslation::: <ul>
+<li>бежать, идти</li>
+<li>работать<br></li>
+<li>течь (о реке)</li>
+</ul>
+Explanation::: <ol><li><div><strong>Бежать</strong>: Основное и наиболее буквальное значение - это "бежать". Это может означать бег как физическое упражнение или бег в каком-либо другом контексте.</div></li><li><div><strong>Идти</strong>: В некоторых регионах Германии, особенно в южной части, "laufen" также может означать просто идти.</div></li><li><div><strong>Работать (о механизмах)</strong>: "Laufen" также используется для обозначения работы машин или механизмов. Например, "Die Uhr läuft" означает "Часы работают".</div></li><li><div><strong>Происходить / развиваться</strong>: В переносном смысле слово может использоваться для описания процессов или событий, например, "Wie läuft das Projekt?" ("Как идет проект?").</div></li><li><div><strong>Течь (о жидкости)</strong>: В некоторых контекстах "laufen" может относиться к течению жидкости, например, "Das Wasser läuft" ("Вода течет").</div></li></ol>
+DrittenPerson::: läuft
+Perfekt::: sein gelaufen
+Präteritum::: lief
+FrontExample::: Ich möchte nicht Auto fahren, ich möchte laufen.
+BackExample::: Я не хочу ехать на машине, я хочу идти пешком.
+FrontExample2::: Ich laufe jeden Morgen im Park.
+BackExample2::: Я бегаю каждое утро в парке.
+FrontExample3::: Kannst du schnell laufen?
+BackExample3::: Ты умеешь быстро бегать?
+Tags:::  A1 chatgpt 
+guid::: J;Lzk1Jg:]

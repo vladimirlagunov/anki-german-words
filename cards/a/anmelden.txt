@@ -1,0 +1,17 @@
+Word::: anmelden
+WordTranslation::: <ul>
+<li>зарегистрироваться<br></li>
+<li>заявлять</li>
+<li>прописываться</li>
+</ul>
+DrittenPerson::: meldet an
+Perfekt::: haben angemeldet
+Präteritum::: meldete an
+FrontExample::: Wo kann ich mich anmelden?
+BackExample::: Где я могу зарегистрироваться?
+FrontExample2::: Ich möchte mich für einen Deutschkurs anmelden.
+BackExample2::: Я хочу записаться на курс немецкого языка.
+FrontExample3::: Du musst dich vorher online anmelden.
+BackExample3::: Тебе нужно зарегистрироваться онлайн заранее.
+Tags:::  A1 chatgpt 
+guid::: yxhrmgN9kC

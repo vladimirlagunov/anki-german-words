@@ -1,0 +1,32 @@
+.card {
+    font-family: arial;
+    font-size: 20px;
+    text-align: center;
+    color: black;
+    background:url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" opacity="50%"><polygon points="0,0 15,0 0,15" fill="%23f2bc0b" /><polygon points="0,0 10,0 0,10" fill="%23d90b1d" /><polygon points="0,0 5,0 0,5" fill="black" /></svg>');
+    background-color: white;
+    background-repeat: no-repeat;
+}
+
+table.artikel-small {
+		margin-left: auto;
+		margin-right: auto;
+		border-collapse: collapse;
+		
+}
+
+table.artikel-small td.artikel-small {
+		font-size: 8px;
+		margin: 0;
+		padding: 0;
+}
+
+.der {
+		color: royalblue;
+}
+.die {
+		color: red;
+}
+.das {
+		color: green;
+}

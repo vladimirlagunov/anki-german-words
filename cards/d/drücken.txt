@@ -1,0 +1,14 @@
+Word::: drücken
+WordTranslation::: нажимать, давить
+Explanation::: <ol><li><div><strong><strong>Drücken</strong><span style="font-weight: 400;">&nbsp;- Этот глагол переводится как "нажимать" или "давить". Он относится к физическому действию приложения силы или давления на что-либо. Например, "Ich drücke den Knopf" означает "Я нажимаю на кнопку".</span></strong></div></li><li><div><strong>Drucken</strong> - Этот глагол обычно переводится как "печатать". Он используется в контексте печати на бумаге или других материалах. Например, "Ich drucke ein Buch" означает "Я печатаю книгу".</div></li></ol>
+DrittenPerson::: drückt
+Perfekt::: haben gedrückt
+Präteritum::: drückte
+FrontExample::: Drück hier, dann geht der Computer an.
+BackExample::: Нажми здесь, тогда компьютер включится.
+FrontExample2::: Drück die Tür, wenn sie klemmt.
+BackExample2::: Нажми на дверь, если она заедает.
+FrontExample3::: Ich drücke den Knopf, um das Licht einzuschalten.
+BackExample3::: Я нажимаю кнопку, чтобы включить свет.
+Tags:::  A1 chatgpt 
+guid::: QdE*o4WV6<

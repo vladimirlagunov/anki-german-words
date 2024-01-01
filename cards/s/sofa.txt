@@ -1,0 +1,12 @@
+Word::: Sofa
+WordTranslation::: диван, софа
+DerDieDas::: das
+Plural::: Sofas
+FrontExample::: Das Sofa ist neu.
+BackExample::: Диван новый.
+FrontExample2::: Ich sitze gerne auf dem Sofa und lese ein Buch.
+BackExample2::: Я люблю сидеть на диване и читать книгу.
+FrontExample3::: Das Sofa ist sehr bequem.
+BackExample3::: Диван очень удобный.
+Tags:::  A1 chatgpt 
+guid::: da&MA9nBZ.

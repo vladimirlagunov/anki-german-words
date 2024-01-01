@@ -1,0 +1,9 @@
+Word::: verspäten
+WordTranslation::: опаздывать
+DrittenPerson::: verspätet
+Perfekt::: haben verspätet
+Präteritum::: verspätete
+FrontExample::: Mein Zug hat sich verspätet, und ich werde etwa 20 Minuten später ankommen.
+BackExample::: Мой поезд опаздывает, и я приеду примерно на 20 минут позже.
+Tags:::  chatgpt 
+guid::: gfl(w19C*M

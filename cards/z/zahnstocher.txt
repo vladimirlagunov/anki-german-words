@@ -1,0 +1,6 @@
+Word::: Zahnstocher
+WordTranslation::: зубочистка
+DerDieDas::: der
+Plural::: Zahnstocher
+Tags::: 
+guid::: J!8*Qa=ib:

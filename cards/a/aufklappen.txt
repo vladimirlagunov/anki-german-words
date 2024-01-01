@@ -1,0 +1,9 @@
+Word::: aufklappen
+WordTranslation::: откинуть, раскрывать
+Perfekt::: hat aufgeklappt
+FrontExample::: Die rückwärtigen Besätze des Oberteils an der Taillennaht aufklappen.
+BackExample::: Подогните заднюю отделку топа по шву талии.
+FrontExample2::: Gruppen mit ungelesenen oder wichtigen Nachrichten aufklappen.
+BackExample2::: Развернуть группы с непрочитанными или важными сообщениями
+Tags:::  Leech 
+guid::: hjW2.34;{.

@@ -1,0 +1,12 @@
+Word::: faszinieren
+WordTranslation::: увлечь, захватывать, очаровывать
+Explanation::: Syn: intrigieren
+DrittenPerson::: fasziniert
+Perfekt::: haben fasziniert
+Präteritum::: faszinierte
+FrontExample::: Das ist ein kindischer Trick, gemacht um Einfaltspinsel zu verwirren und zu faszinieren.
+BackExample::: Это детский трюк, созданный для того, чтобы запутать и заинтриговать простаков.
+FrontExample2::: Captain, obwohl mich Ihre Fähigkeiten faszinieren, sind Sie mir ehrlich gesagt unterlegen.
+BackExample2::: Капитан, хотя я восхищен вашими способностями, вы откровенно уступаете мне.
+Tags::: 
+guid::: A_I#56pBu8

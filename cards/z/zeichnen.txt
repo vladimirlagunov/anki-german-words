@@ -1,0 +1,13 @@
+Word::: zeichnen
+Explanation::: “Malen” обычно используется для описания процесса рисования с использованием красок, масел или других влажных средств. Результатом является картина.&nbsp;<div><br></div><div>“Zeichnen” же означает рисование с использованием сухих материалов, таких как карандаши, мел или уголь. Здесь акцент сделан на контурах, линиях и формах, а не на цвете или текстуре.</div>
+DrittenPerson::: zeichnet
+Perfekt::: haben gezeichnet
+Präteritum::: zeichnete
+FrontExample::: Er kann sehr gut zeichnen.
+BackExample::: Он очень хорошо рисует.
+FrontExample2::: Ich möchte ein Porträt von dir zeichnen.
+BackExample2::: Я хотел бы нарисовать твой портрет.
+FrontExample3::: Sie zeichnet den Plan auf ein Blatt Papier.
+BackExample3::: Она рисует план на листе бумаги.
+Tags:::  chatgpt 
+guid::: l$Jj?f)pNM

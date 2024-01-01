@@ -1,0 +1,17 @@
+Word::: Post
+WordTranslation::: <ul>
+<li>пост</li>
+<li>почта</li>
+</ul>
+DerDieDas::: <ul>
+<li>die – почта</li>
+<li>der – пост</li>
+</ul>
+Plural::: <ul>
+<li>Posten – почта</li>
+<li>Posts – пост</li>
+</ul>
+FrontExample::: Ich gehe zur Post, um ein Paket zu verschicken.
+BackExample::: Я иду на почту, чтобы отправить посылку.
+Tags:::  chatgpt 
+guid::: Deae`L{o*t

@@ -1,0 +1,17 @@
+Word::: wählen
+WordTranslation::: <ul>
+<li>голосовать<br></li>
+<li>набирать</li>
+<li>выбирать</li>
+</ul>
+DrittenPerson::: wählt
+Perfekt::: haben gewählt
+Präteritum::: wählte
+FrontExample::: Sie können wählen: Als Vorspeise gibt es Suppe oder Salat.
+BackExample::: Вы можете выбрать: В качестве закуски можно съесть суп или салат.
+FrontExample2::: Sie müssen erst eine Null wählen.
+BackExample2::: Сначала нужно выбрать ноль.
+FrontExample3::: Ich habe diese Partei nicht gewählt.
+BackExample3::: Я не голосовал за эту партию.
+Tags::: 
+guid::: yG>?BEh*+P

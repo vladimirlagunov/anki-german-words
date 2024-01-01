@@ -1,0 +1,9 @@
+Word::: Gebirge
+WordTranslation::: горы, горный массив
+DerDieDas::: das
+Plural::: Gebirge
+FrontExample::: Die Alpen sind ein beeindruckendes Gebirge, das sich über mehrere Länder erstreckt.
+
+BackExample::: Альпы - впечатляющий горный массив, простирающийся через несколько стран.
+Tags:::  chatgpt 
+guid::: zAxQ+^q?.T

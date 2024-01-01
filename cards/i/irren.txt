@@ -1,0 +1,11 @@
+Word::: irren
+WordTranslation::: блуждать, заблуждаться, ошибаться
+DrittenPerson::: irrt
+Perfekt::: haben geirrt
+Präteritum::: irrte
+FrontExample::: Er irrte durch die dunklen Straßen.
+BackExample::: Он блуждал по тёмным улицам.
+FrontExample2::: Du irrst dich, wenn du denkst, dass ich dir zustimme.
+BackExample2::: Ты ошибаешься, если думаешь, что я согласен с тобой.
+Tags:::  chatgpt 
+guid::: F:zF%D<Yjr

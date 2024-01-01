@@ -1,0 +1,10 @@
+Word::: wer
+WordTranslation::: кто
+FrontExample::: Wer ist das?
+BackExample::: Кто это?
+FrontExample2::: Wer geht mit mir ins Kino?
+BackExample2::: Кто пойдет со мной в кино?
+FrontExample3::: Wer lernt Deutsch?
+BackExample3::: Кто учит немецкий?
+Tags:::  A1 chatgpt 
+guid::: N{fn>A#n$v

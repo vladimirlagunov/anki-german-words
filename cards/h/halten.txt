@@ -1,0 +1,15 @@
+Word::: halten
+WordTranslation::: <ul>
+<li>остановить</li><li>держать</li>
+</ul>
+DrittenPerson::: hält
+Perfekt::: haben gehalten
+Präteritum::: hielt
+FrontExample::: Dieser Zug hält nicht in Rüdesheim.
+BackExample::: Этот поезд не останавливается в Рюдесхайме.
+FrontExample2::: Ich halte das Buch in der Hand.
+BackExample2::: Я держу книгу в руке.
+FrontExample3::: Wir halten an der nächsten Station.
+BackExample3::: Мы остановимся на следующей станции.
+Tags:::  A1 chatgpt 
+guid::: Lc}!/epQU`

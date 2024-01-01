@@ -1,0 +1,13 @@
+Word::: ausnehmen
+WordTranslation::: <ul><li>вынимать, потрошить</li><li>исключать</li><li>обыскивать</li><li>ограбить, вымогать</li></ul>
+DrittenPerson::: nimmt aus
+Perfekt::: haben ausgenommen
+Präteritum::: nahm aus
+FrontExample::: Die Wohnung sieht nach dem Umzug total ausgenommen aus.
+BackExample::: Квартира выглядит совершенно опустошенной после переезда.
+FrontExample2::: Er möchte die Fische ausnehmen.
+BackExample2::: Он хочет почистить рыбу.
+FrontExample3::: Er möchte bei dieser Regelung ausgenommen werden.
+BackExample3::: Он хочет быть исключенным из этого правила.
+Tags:::  chatgpt 
+guid::: ne*PD@|<)c

@@ -1,0 +1,10 @@
+Word::: noch
+WordTranslation::: ещё, всё ещё, до сих пор
+FrontExample::: Vielleicht kommt er noch.
+BackExample::: Возможно, он еще придет.
+FrontExample2::: Ich habe noch 20 Euro.
+BackExample2::: У меня еще есть 20 евро.
+FrontExample3::: Wir warten noch fünf Minuten.
+BackExample3::: Мы подождём ещё пять минут.
+Tags:::  A1 chatgpt 
+guid::: J`kT}e2*8.

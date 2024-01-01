@@ -1,0 +1,9 @@
+Word::: anstrengen sich
+WordTranslation::: стараться, напрягаться, делать усилие
+DrittenPerson::: strengt sich an
+Perfekt::: haben sich angestrengt
+Präteritum::: strengte sich an
+FrontExample::: Das nächste Mal werde ich mich mehr anstrengen.
+BackExample::: Я буду больше стараться в следующий раз.
+Tags::: 
+guid::: mOGv=>}*AI

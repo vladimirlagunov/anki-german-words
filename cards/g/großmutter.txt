@@ -1,0 +1,12 @@
+Word::: Großmutter
+WordTranslation::: бабушка
+DerDieDas::: die
+Plural::: Großmütter
+FrontExample::: Meine Großmutter heißt Eva.
+BackExample::: Мою бабушку зовут Ева.
+FrontExample2::: Meine Großmutter backt den besten Kuchen.
+BackExample2::: Моя бабушка печет самый вкусный пирог.
+FrontExample3::: Ich besuche meine Großmutter am Wochenende.
+BackExample3::: Я навещаю мою бабушку на выходных.
+Tags:::  A1 chatgpt 
+guid::: xa*O6hLm~C

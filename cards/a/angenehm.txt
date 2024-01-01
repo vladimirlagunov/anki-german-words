@@ -1,0 +1,10 @@
+Word::: angenehm
+WordTranslation::: приятный
+FrontExample::: Es ist sehr angenehm, dich kennen zu lernen.
+BackExample::: Очень приятно познакомиться с тобой.
+FrontExample2::: Die Temperatur im Zimmer ist angenehm.
+BackExample2::: Температура в комнате приятная.
+FrontExample3::: Ihre Gesellschaft ist immer angenehm.
+BackExample3::: Ваша компания всегда приятна.
+Tags:::  chatgpt 
+guid::: jB.jW}X*r3

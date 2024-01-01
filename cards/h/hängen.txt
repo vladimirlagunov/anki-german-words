@@ -1,0 +1,22 @@
+Word::: hängen
+WordTranslation::: <ul>
+<li>висеть</li>
+<li>вешать<br></li>
+</ul>
+DrittenPerson::: hängt
+Perfekt::: <ul>
+<li>haben gehangen – висеть</li>
+<li>haben gehängt – вешать</li>
+</ul>
+Präteritum::: <ul>
+<li>hing – висеть</li>
+<li>hängte – вешать</li>
+</ul>
+FrontExample::: Die Bilder hingen bereits an der Wand.
+BackExample::: Картины уже висели на стене.
+FrontExample2::: Ich habe das Bild an die Wand gehängt.
+BackExample2::: Я повесил картину на стену.
+FrontExample3::: Er lässt mich immer hängen.
+BackExample3::: Он всегда меня подводит (букв. оставляет висеть).
+Tags:::  chatgpt 
+guid::: qn/:iyusXj

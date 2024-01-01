@@ -1,0 +1,10 @@
+Word::: bis
+WordTranslation::: до, до тех пор пока (предлог)
+FrontExample::: Ich fahre nur bis Stuttgart.
+BackExample::: Я еду только до Штутгарта.
+FrontExample2::: Ich arbeite heute bis 18 Uhr.
+BackExample2::: Я работаю сегодня до 18 часов.
+FrontExample3::: Das Geschäft ist bis 20 Uhr geöffnet.
+BackExample3::: Магазин открыт до 20 часов.
+Tags:::  A1 chatgpt 
+guid::: lU~jXG!*8?

@@ -1,0 +1,10 @@
+Word::: Händler
+WordTranslation::: торговец, продавец, дилер
+DerDieDas::: der
+Plural::: Händler
+FrontExample::: Der Autohändler bietet verschiedene Modelle zu günstigen Preisen an.
+BackExample::: Автодилер предлагает различные модели по выгодным ценам.
+FrontExample2::: Die Händler der Stadt versammeln sich jeden Sonntag auf dem Markt.
+BackExample2::: Торговцы города собираются каждое воскресенье на рынке.
+Tags:::  chatgpt 
+guid::: iAm<Knrq=-

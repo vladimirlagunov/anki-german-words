@@ -1,0 +1,12 @@
+Word::: Eigenschaft
+WordTranslation::: свойство, характеристика, особенность<br><ul>
+</ul>
+Explanation::: Syn: das Merkmal, die Charakteristik, die Besonderheit, das Attribut
+DerDieDas::: die
+Plural::: Eigenschaften
+FrontExample::: Matthias hat viele gute Eigenschaften.
+BackExample::: У Матиаса много хороших качеств.
+FrontExample2::: Die wichtigste Eigenschaft einer Person ist ihre Ehrlichkeit.
+BackExample2::: Самой важной чертой человека является его честность.
+Tags:::  chatgpt 
+guid::: j8hw[Sjk&j

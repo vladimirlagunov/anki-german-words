@@ -1,0 +1,9 @@
+Word::: Gegenstand
+WordTranslation::: предмет, вещь
+Explanation::: Syn: das Objekt, das Subjekt
+DerDieDas::: der
+Plural::: Gegenstände
+FrontExample::: Der Gegenstand, den Sie bestellt haben.
+BackExample::: Предмет, который вы заказали.
+Tags::: 
+guid::: hZdJWa=P`$

@@ -1,0 +1,8 @@
+Word::: tot
+WordTranslation::: мертвый
+FrontExample::: Sein Vater ist schon lange tot.
+BackExample::: Его отец уже давно мертв.
+FrontExample2::: Die Blume ist tot.
+BackExample2::: Цветок увял (мертв).
+Tags:::  A1 chatgpt 
+guid::: M%?C799O=6

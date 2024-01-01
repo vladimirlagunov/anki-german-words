@@ -1,0 +1,15 @@
+Word::: verzeihen
+WordTranslation::: прощать<br><ul>
+</ul>
+DrittenPerson::: verzeiht
+Perfekt::: haben  verziehen<br><ul>
+</ul>
+Präteritum::: verzieh
+FrontExample::: Es war ein Fehler, aber ich hoffe, du kannst mir verzeihen.
+BackExample::: Это была ошибка, но я надеюсь, ты можешь меня простить.
+FrontExample2::: Sie hat ihm verziehen und eine zweite Chance gegeben.
+BackExample2::: Она простила его и дала ему второй шанс.
+FrontExample3::: Ich kann dir verzeihen und wir können von vorne anfangen.
+BackExample3::: Я могу простить тебя и мы можем начать сначала.
+Tags:::  B2 chatgpt unregelmäßige_Verben unregelmäßige_Verben::B2 Verben 
+guid::: qaaP60U1m8

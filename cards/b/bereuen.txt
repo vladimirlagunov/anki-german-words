@@ -1,0 +1,12 @@
+Word::: bereuen
+WordTranslation::: пожалеть об этом, раскаяться, сожалеть
+Explanation::: Syn: bedauern, beklagen, nachtrauern
+DrittenPerson::: bereut
+Perfekt::: haben bereut
+Präteritum::: bereute
+FrontExample::: Der Dieb bereut seine Tat.
+BackExample::: Вор сожалеет о своем поступке.
+FrontExample2::: Heute bereut sie den Schwangerschaftsabbruch.
+BackExample2::: Сегодня она сожалеет об аборте.
+Tags::: 
+guid::: CCP+0#@G^e

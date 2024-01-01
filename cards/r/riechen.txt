@@ -1,0 +1,13 @@
+Word::: riechen
+WordTranslation::: <ul><li>пахнуть<br></li><li>чувствовать запах, нюхать</li></ul>
+DrittenPerson::: riecht
+Perfekt::: haben gerochen
+Präteritum::: roch
+FrontExample::: Dieser Wein riecht gut.
+BackExample::: Это вино пахнет хорошо.
+FrontExample2::: Ich rieche Blumen.
+BackExample2::: Я чувствую запах цветов.
+FrontExample3::: Das Essen riecht schlecht.
+BackExample3::: Еда пахнет плохо.
+Tags:::  A1 chatgpt 
+guid::: v;Kj2V|?`K

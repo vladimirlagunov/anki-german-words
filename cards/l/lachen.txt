@@ -1,0 +1,7 @@
+Word::: lachen
+WordTranslation::: смеяться
+DrittenPerson::: lacht
+Perfekt::: haben gelacht
+Präteritum::: lachte
+Tags::: 
+guid::: QU~k|zt@kx

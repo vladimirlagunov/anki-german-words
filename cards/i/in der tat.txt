@@ -1,0 +1,7 @@
+Word::: in der Tat
+WordTranslation::: в действительности, фактически
+Explanation::: "tatsächlich" может быть немного более уверенным и утвердительным в тоне, чем "in der Tat".
+FrontExample::: In der Tat war das Experiment ein großer Erfolg.
+BackExample::: В действительности, эксперимент был большим успехом.
+Tags:::  chatgpt 
+guid::: e3kLcy++nK

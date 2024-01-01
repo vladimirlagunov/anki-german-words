@@ -1,0 +1,10 @@
+Word::: Abschluss
+WordTranslation::: завершение, итог, выпуск (из учебного заведения)
+DerDieDas::: der
+Plural::: Abschlüsse
+FrontExample::: Zum Abschluss des Meetings sollten wir die nächsten Schritte besprechen.
+BackExample::: В конце встречи мы должны обсудить следующие шаги.
+FrontExample2::: Nach dem Abschluss der Renovierungsarbeiten sieht das Haus fantastisch aus.
+BackExample2::: После завершения работ по ремонту дом выглядит фантастически.
+Tags:::  chatgpt 
+guid::: Nmw%13d2^2

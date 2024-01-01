@@ -1,0 +1,10 @@
+Word::: gesetzlich
+WordTranslation::: законный, легальный
+FrontExample::: einem Gesetz entsprechend
+BackExample::: в соответствии с законом
+FrontExample2::: durch Gesetze geregelt
+BackExample2::: регулируется законами
+FrontExample3::: Sie ist gesetzlich verpflichtet, ihre Steuern zu zahlen.
+BackExample3::: Она обязана по закону платить свои налоги.
+Tags:::  chatgpt 
+guid::: s*~5@Z7ySX

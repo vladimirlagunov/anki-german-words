@@ -1,0 +1,13 @@
+Word::: vorstellen
+WordTranslation::: представлять, воображать, знакомить
+DrittenPerson::: stellt vor
+Perfekt::: haben vorgestellt
+Präteritum::: stellte vor
+FrontExample::: Wir wollen uns kennenlernen. Können Sie sich bitte vorstellen?
+BackExample::: Мы хотим познакомиться поближе. Не могли бы вы представиться, пожалуйста?
+FrontExample2::: Ich möchte meinen Freund vorstellen.
+BackExample2::: Я хочу представить своего друга.
+FrontExample3::: Kannst du dir das vorstellen?
+BackExample3::: Ты можешь себе это представить?
+Tags:::  A1 chatgpt 
+guid::: m*rj/XRc2y

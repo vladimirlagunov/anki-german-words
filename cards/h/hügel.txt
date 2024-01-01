@@ -1,0 +1,6 @@
+Word::: Hügel
+WordTranslation::: холм
+DerDieDas::: der
+Plural::: Hügel
+Tags::: 
+guid::: P2VcY1B`|C

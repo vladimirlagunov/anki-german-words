@@ -1,0 +1,6 @@
+Word::: Säugetier
+WordTranslation::: млекопитающее
+DerDieDas::: das
+Plural::: Säugetiere
+Tags::: 
+guid::: o]2CR1y&76

@@ -1,0 +1,8 @@
+Word::: Fluss
+WordTranslation::: река
+DerDieDas::: der
+Plural::: Flüsse
+FrontExample::: Wie heißt dieser Fluss?
+BackExample::: Как называется эта река?
+Tags::: 
+guid::: ALtG3?dv^v

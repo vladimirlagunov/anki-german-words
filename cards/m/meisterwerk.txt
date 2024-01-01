@@ -1,0 +1,10 @@
+Word::: Meisterwerk
+WordTranslation::: шедевр
+DerDieDas::: das
+Plural::: Meisterwerke
+FrontExample::: Das Buch ist kein Meisterwerk, aber es ist durchaus lesenswert.
+
+BackExample::: Эта книга не шедевр, но вполне стоит прочтения.
+
+Tags::: 
+guid::: z@Vw[%.9@|

@@ -1,0 +1,10 @@
+Word::: Stimme
+WordTranslation::: <ul><li>голос (произношение звуков)</li><li>голосование, мнение</li></ul>
+DerDieDas::: die
+Plural::: Stimmen
+FrontExample::: Deine Stimme klingt heute etwas heiser.
+BackExample::: Твой голос сегодня звучит немного хрипло.
+FrontExample2::: Bei der Wahl gab ich meine Stimme einem lokalen Kandidaten.
+BackExample2::: На выборах я отдал свой голос местному кандидату.
+Tags:::  chatgpt 
+guid::: vzF/U;;z&s

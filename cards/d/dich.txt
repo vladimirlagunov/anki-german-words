@@ -1,0 +1,10 @@
+Word::: dich
+WordTranslation::: тебя, тебе (du Akkusativ)
+FrontExample::: Die Blumen sind für dich.
+BackExample::: Цветы для тебя.
+FrontExample2::: Ich vermisse dich.
+BackExample2::: Я скучаю по тебе.
+FrontExample3::: Ich sehe dich.
+BackExample3::: Я вижу тебя.
+Tags:::  A1 chatgpt 
+guid::: Aa=/t)dMfL

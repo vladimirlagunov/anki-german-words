@@ -1,0 +1,6 @@
+Word::: Geschichte
+WordTranslation::: история, рассказ, повесть
+DerDieDas::: die
+Plural::: Geschichten
+Tags::: 
+guid::: f^Y,/JFaP)

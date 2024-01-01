@@ -1,0 +1,18 @@
+Word::: stattfinden
+WordTranslation::: <ul>
+<li>иметь место</li>
+<li>состояться</li>
+</ul>
+DrittenPerson::: findet statt
+Perfekt::: haben stattgefunden
+Präteritum::: fand statt
+FrontExample::: Das Konzert findet im Park statt.
+
+BackExample::: Концерт будет проходить в парке.
+
+FrontExample2::: Der Protest wird vor dem Rathaus stattfinden.
+
+BackExample2::: Протест пройдет перед ратушей.
+
+Tags::: 
+guid::: j)c;F|pV];

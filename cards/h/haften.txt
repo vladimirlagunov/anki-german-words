@@ -1,0 +1,11 @@
+Word::: haften
+WordTranslation::: <ul><li>прилипать к чему-то, цепляться за что-то</li><li>закон: нести юридическую ответственность</li></ul>
+DrittenPerson::: haftet
+Perfekt::: haben gehaftet
+Präteritum::: haftete
+FrontExample::: Die Fußsohlen des Geckos haften auch an sehr glatten Oberflächen.
+BackExample::: Подошвы лап геккона также прилипают к очень гладким поверхностям.
+FrontExample2::: Wenn etwas kaputt geht, haften die Eltern für ihre Kinder.
+BackExample2::: Если что-то ломается, родители несут ответственность за своих детей.
+Tags::: 
+guid::: mSCc!wMzs6

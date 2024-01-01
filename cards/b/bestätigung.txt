@@ -1,0 +1,13 @@
+Word::: Bestätigung
+WordTranslation::: подтверждение, утверждение
+Explanation::: Syn: die Anerkennung, die Bescheinigung, der Nachweis, die Bekräftigung
+DerDieDas::: die
+Plural::: Bestätigungen
+FrontExample::: Ich brauche eine schriftliche
+BackExample::: Мне нужно письменное подтверждение для администрации.
+FrontExample2::: Bestätigung für das Amt.
+BackExample2::: Для получения оплаты необходимо визуальное подтверждение.
+FrontExample3::: Eine visuelle Bestätigung ist zum Erhalt der Zahlung erforderlich.
+BackExample3::: Мне нужно устное подтверждение, прежде чем мы сможем продолжить.
+Tags::: 
+guid::: z0[Ysie!:%

@@ -1,0 +1,13 @@
+Word::: helfen
+WordTranslation::: помогать
+DrittenPerson::: hilft
+Perfekt::: haben geholfen
+Präteritum::: half
+FrontExample::: Können Sie mir helfen, bitte?
+BackExample::: Вы можете мне помочь, пожалуйста?
+FrontExample2::: Ich helfe dir bei der Hausaufgabe.
+BackExample2::: Я помогу тебе с домашним заданием.
+FrontExample3::: Kannst du mir beim Umzug helfen?
+BackExample3::: Ты можешь помочь мне с переездом?
+Tags:::  A1 chatgpt 
+guid::: s:KA8q$YQ*

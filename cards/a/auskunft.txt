@@ -1,0 +1,12 @@
+Word::: Auskunft
+WordTranslation::: сведения, информация, разъяснение
+DerDieDas::: die
+Plural::: Auskünfte
+FrontExample::: Ruf einfach die Auskunft an.
+BackExample::: Просто позвони в справочную.
+FrontExample2::: Ich brauche eine Auskunft über die Zugabfahrtszeiten.
+BackExample2::: Мне нужна информация о времени отправления поездов.
+FrontExample3::: Die Auskunft am Flughafen kann Ihnen weiterhelfen.
+BackExample3::: Справочная служба в аэропорту сможет вам помочь.
+Tags:::  A1 chatgpt 
+guid::: Ne/%Q?>/&K

@@ -1,0 +1,8 @@
+Word::: eher
+WordTranslation::: скорее, раньше, лучше
+FrontExample::: Das Ergebnis ist eher enttäuschend.
+BackExample::: Результат скорее разочаровывающий.
+FrontExample2::: Er ist eher ein Denker als ein Macher.
+BackExample2::: Он скорее мыслитель, чем деятель.
+Tags:::  chatgpt 
+guid::: zAF+1m`q-a

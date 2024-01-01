@@ -1,0 +1,9 @@
+Word::: schnarchen
+WordTranslation::: храпеть
+DrittenPerson::: schnarcht
+Perfekt::: haben geschnarcht
+Präteritum::: schnarchte
+FrontExample::: Er schnarcht jede Nacht sehr laut.
+BackExample::: Он храпит каждую ночь очень громко.
+Tags:::  chatgpt 
+guid::: y28$>djVvv

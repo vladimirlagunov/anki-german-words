@@ -1,0 +1,8 @@
+Word::: Akte
+WordTranslation::: дело, папка, послужной список, документ
+DerDieDas::: die
+Plural::: Akten
+FrontExample::: Patienten hat ihre eigenen Akten, in denen die Informationen zu ihrer Krankheit
+BackExample::: Пациенты имеют собственные файлы, содержащие информацию об их болезни.
+Tags::: 
+guid::: BEZ{tDR63F

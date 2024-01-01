@@ -1,0 +1,17 @@
+Word::: abholen
+WordTranslation::: <ul>
+<li>встречать</li>
+<li>забирать</li>
+</ul>
+Explanation::: <ol><li><div><strong>Holen</strong>: Это общий термин, который означает "получать", "приносить" или "забирать". Он используется в более широком контексте, когда вы идёте куда-то, чтобы взять что-то и принести обратно. Например, "Ich gehe Brot holen" (Я иду покупать хлеб).</div></li><li><div><strong>Abholen</strong>: Этот глагол более специфичен и обычно означает "забирать кого-то или что-то из определённого места". Он часто используется, когда речь идёт о забирании людей из места, где они ожидают, например, из аэропорта, школы и т.д. Например, "Ich werde dich vom Flughafen abholen" (Я заберу тебя из аэропорта).</div></li></ol>
+DrittenPerson::: holt ab
+Perfekt::: haben abgeholt
+Präteritum::: holte ab
+FrontExample::: Ich werde dich morgen vom Bahnhof abholen.
+BackExample::: Я заберу тебя завтра с вокзала.
+FrontExample2::: Könntest du bitte die Kinder von der Schule abholen?
+BackExample2::: Не мог бы ты забрать детей из школы?
+FrontExample3::: Er muss seine Bestellung vom Geschäft abholen.
+BackExample3::: Он должен забрать свой заказ из магазина.
+Tags:::  A1 chatgpt 
+guid::: Q/MNnkT@A-

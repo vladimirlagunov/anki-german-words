@@ -1,0 +1,15 @@
+Word::: vertreten
+WordTranslation::: <ul><li>представлять, быть чьим-то представителем</li><li>замещать кого-то</li></ul>
+DrittenPerson::: vertritt
+Perfekt::: haben vertreten
+Präteritum::: vertrat
+FrontExample::: Er vertritt die Firma auf der Konferenz.
+
+BackExample::: Он представляет компанию на конференции.
+
+FrontExample2::: Sie ist krank, ich vertrete sie heute.
+
+BackExample2::: Она болеет, я сегодня её заменяю.
+
+Tags:::  chatgpt 
+guid::: jK~qYx$=:[

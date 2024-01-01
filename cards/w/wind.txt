@@ -1,0 +1,12 @@
+Word::: Wind
+WordTranslation::: ветер
+DerDieDas::: der
+Plural::: Winde
+FrontExample::: Der Wind kommt aus Osten.
+BackExample::: Ветер идёт с востока.
+FrontExample2::: Der Wind ist heute stark.
+BackExample2::: Сегодня ветер сильный.
+FrontExample3::: Der Wind weht von Norden.
+BackExample3::: Ветер дует с севера.
+Tags:::  A1 chatgpt 
+guid::: Ov~UA;rWnY

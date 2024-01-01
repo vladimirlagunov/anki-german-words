@@ -1,0 +1,10 @@
+Word::: Kuli
+WordTranslation::: <ul>
+<li>поденщик</li>
+<li>чернорабочий</li>
+<li>шариковая ручка</li>
+</ul>
+DerDieDas::: der
+Plural::: Kulis
+Tags::: 
+guid::: N*Ff%9V,#5

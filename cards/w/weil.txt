@@ -1,0 +1,6 @@
+Word::: weil
+WordTranslation::: потому что
+FrontExample::: Er will mir nur nichts sagen, weil meine Krankheit so schlimm ist.
+BackExample::: Он просто не хочет говорить мне, потому что моя болезнь так тяжела.
+Tags::: 
+guid::: s8v$(XQ1I*

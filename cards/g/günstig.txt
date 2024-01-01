@@ -1,0 +1,10 @@
+Word::: günstig
+WordTranslation::: выгодный, удобный, благоприятный, дешёвый
+FrontExample::: Dort gibt es günstige Angebote.
+BackExample::: Там есть выгодные предложения.
+FrontExample2::: Die Schuhe sind sehr günstig.
+BackExample2::: Обувь очень дешёвая.
+FrontExample3::: Das ist ein günstiger Moment zum Fotografieren.
+BackExample3::: Это подходящий момент для фотографирования.
+Tags:::  A1 chatgpt 
+guid::: h4cgB<*&^1

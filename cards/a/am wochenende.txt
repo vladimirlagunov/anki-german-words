@@ -1,0 +1,8 @@
+Word::: am Wochenende
+WordTranslation::: на выходных
+FrontExample::: Ich spiele am Wochenende Fußball.
+BackExample::: Я играю в футбол на выходных.
+FrontExample2::: Am Wochenende gehe ich ins Kino.
+BackExample2::: На выходных я хожу в кино.
+Tags:::  A1 chatgpt 
+guid::: r|Q.4m=<xg

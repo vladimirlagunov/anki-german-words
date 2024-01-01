@@ -1,0 +1,11 @@
+Word::: Entscheidung
+WordTranslation::: решение
+Explanation::: <div><ul><li>Слово "Entscheidung" на немецком языке означает "решение", в смысле выбора или вердикта в каком-либо вопросе. Это слово чаще всего используется, когда речь идет о процессе принятия решения или о его итоге.</li><li>Слово "Lösung", в свою очередь, также переводится как "решение", но в контексте нахождения ответа или способа решения проблемы. Это слово подразумевает решение задачи, вопроса или ситуации.</li><li>"Beschluss" означает решение, обычно принятое группой людей (например, решение совета или комитета).</li><li>"Urteil" обычно относится к решению суда или судьи.</li><li>"Wahl" означает выбор между различными альтернативами.</li></ul></div>
+FrontExample::: Diese Entscheidung hat mein ganzes Leben verändert.
+BackExample::: Это решение изменило всю мою жизнь.
+FrontExample2::: Ich stehe vor einer schwierigen Entscheidung.
+BackExample2::: Я стою перед сложным решением.
+FrontExample3::: Die Entscheidung liegt bei dir.
+BackExample3::: Решение за тобой.
+Tags:::  chatgpt 
+guid::: np*iB7itnF

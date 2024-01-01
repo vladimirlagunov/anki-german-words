@@ -1,0 +1,12 @@
+Word::: Schlüssel
+WordTranslation::: ключ
+DerDieDas::: der
+Plural::: Schlüssel
+FrontExample::: Ich gebe Ihnen noch den Zimmerschlüssel.
+BackExample::: Я еще дам вам ключ от комнаты.
+FrontExample2::: Wo ist der Schlüssel?
+BackExample2::: Где ключ?
+FrontExample3::: Der Schlüssel passt nicht.
+BackExample3::: Ключ не подходит.
+Tags:::  A1 chatgpt 
+guid::: maQ1|*aRUK

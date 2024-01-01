@@ -1,0 +1,10 @@
+Word::: Gelegenheit
+WordTranslation::: возможность, случай, удобный момент, шанс
+DerDieDas::: die
+Plural::: Gelegenheiten
+FrontExample::: Ich habe die Gelegenheit genutzt, um mit dem Direktor persönlich zu sprechen.
+BackExample::: Я воспользовался случаем, чтобы поговорить с директором лично.
+FrontExample2::: Es ergab sich keine Gelegenheit, das Thema anzusprechen.
+BackExample2::: Не представилось случая поднять этот вопрос.
+Tags:::  chatgpt 
+guid::: E+8%HW]B5b

@@ -1,0 +1,61 @@
+{{FrontSide}}
+
+<hr id=answer>
+<br/>
+{{#DerDieDas}}
+<span class="{{text:DerDieDas}}">{{DerDieDas}}</span>
+{{/DerDieDas}}
+{{Word}}
+
+<div align="left">
+<p>
+{{hint:Explanation}}
+</p>
+
+<small>
+{{#Plural}}
+<p>
+Plural: {{Plural}}
+</p>
+{{/Plural}}
+
+{{#DrittenPerson}}
+<p>
+Er/sie/es {{DrittenPerson}}
+</p>
+{{/DrittenPerson}}
+
+{{#Perfekt}}
+<p>
+Perfekt: {{Perfekt}}
+</p>
+{{/Perfekt}}
+
+<br/><br/>
+{{#FrontExample}}{{#BackExample}}
+<div>
+<ul><li>
+{{FrontExample}}
+<ul><li>{{BackExample}}</li></ul>
+</li></ul>
+</div>
+{{/BackExample}}{{/FrontExample}}
+
+{{#FrontExample2}}{{#BackExample2}}
+<p>
+<ul><li>
+{{FrontExample2}}
+<ul><li>{{BackExample2}}</li></ul>
+</li></ul>
+</p>
+{{/BackExample2}}{{/FrontExample2}}
+
+{{#FrontExample3}}{{#BackExample3}}
+<p>
+<ul><li>
+{{FrontExample3}}
+<ul><li>{{BackExample3}}</li></ul>
+</li></ul>
+</p>
+{{/BackExample3}}{{/FrontExample3}}
+</small></div>

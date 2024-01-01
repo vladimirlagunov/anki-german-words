@@ -1,0 +1,12 @@
+Word::: Wirkung
+WordTranslation::: эффект, действие, воздействие
+DerDieDas::: die
+Plural::: Wirkungen
+FrontExample::: Erleben Sie die positive Wirkung des richtiges Atmens!
+BackExample::: Испытайте положительный эффект правильного дыхания!
+FrontExample2::: Die Wirkung des Medikaments tritt in einer Stunde ein.
+BackExample2::: Действие лекарства начинается через час.
+FrontExample3::: Seine Worte hatten keine Wirkung auf sie.
+BackExample3::: Его слова не произвели на неё никакого впечатления.
+Tags:::  chatgpt 
+guid::: Dg2R6oC*ef

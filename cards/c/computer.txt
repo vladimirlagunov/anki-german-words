@@ -1,0 +1,12 @@
+Word::: Computer
+WordTranslation::: компьютер
+DerDieDas::: der
+Plural::: Computer
+FrontExample::: Wann bekommst du deinen neuen Computer?
+BackExample::: Когда ты получишь свой новый компьютер?
+FrontExample2::: Ich habe einen Computer zu Hause.
+BackExample2::: У меня дома есть компьютер.
+FrontExample3::: Mein Computer ist sehr schnell.
+BackExample3::: Мой компьютер очень быстрый.
+Tags:::  A1 chatgpt 
+guid::: n.:uWhG%PB

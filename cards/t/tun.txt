@@ -1,0 +1,14 @@
+Word::: tun
+WordTranslation::: делать, выполнять, совершать
+Explanation::: <ol><li><div><strong>Machen</strong>: Это слово чаще используется в смысле "создавать", "производить", или "выполнять конкретное действие". Например:</div><ul><li>"Ich mache Hausaufgaben" (Я делаю домашнее задание).</li><li>"Wir machen eine Pause" (Мы делаем перерыв).</li></ul></li><li><div><strong>Tun</strong>: Это слово обычно используется в более общем смысле "делать", и иногда может иметь оттенок субъективности или вовлеченности. Например:</div><ul><li>"Was tust du?" (Что ты делаешь?).</li><li>"Ich habe nichts Böses getan" (Я ничего плохого не сделал).</li></ul></li></ol><div>Важно отметить, что в некоторых контекстах эти слова могут быть взаимозаменяемы, но часто предпочтение одного слова перед другим зависит от фразеологической нормы или устоявшегося выражения.</div>
+DrittenPerson::: tut
+Perfekt::: haben getan
+Präteritum::: tat
+FrontExample::: Ich habe noch etwas zu tun.
+BackExample::: У меня ещё есть дела.
+FrontExample2::: Was tut Ihr Mann?
+BackExample2::: Чем занимается ваш муж?
+FrontExample3::: Was kannst du gut tun?
+BackExample3::: Что ты умеешь делать хорошо?
+Tags:::  A1 chatgpt 
+guid::: Gm9SU)TB{i

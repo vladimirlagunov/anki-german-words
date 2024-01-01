@@ -1,0 +1,17 @@
+Word::: Stock
+WordTranslation::: <ul>
+<li>палка</li>
+<li>этаж</li>
+<li>запас, резерв<br></li>
+</ul>
+Explanation::: <b>&nbsp;Этаж:<br></b><ol><li><div><strong>Stock / Stockwerk</strong>: Эти слова являются самыми распространенными для описания этажей в здании. Они используются в повседневной речи и в официальных документах. Например, "im ersten Stock" означает "на первом этаже".</div></li><li><div><strong>Ebene</strong>: Это слово более общее и может означать "уровень" или "площадку" в различных контекстах, не обязательно связанных со зданиями. В контексте зданий "Ebene" может использоваться для обозначения уровня, который имеет определенное функциональное или структурное значение, например, парковочный уровень в многоуровневом паркинге.</div></li><li><div><strong>Etage</strong>: Это слово также используется для обозначения этажа, особенно в более формальном или литературном контексте. Оно может встречаться в описаниях зданий и в архитектурном планировании.</div></li></ol>
+DerDieDas::: der
+Plural::: Stöcke
+FrontExample::: Unsere Wohnung liegt im ersten Stock.
+BackExample::: Наша квартира находится на первом этаже.
+FrontExample2::: Wir wohnen im dritten Stock.
+BackExample2::: Мы живем на третьем этаже.
+FrontExample3::: Kinder spielen oft mit einem Stock.
+BackExample3::: Дети часто играют палкой.
+Tags:::  A1 chatgpt 
+guid::: Mi!fd}zPH*

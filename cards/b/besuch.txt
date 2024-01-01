@@ -1,0 +1,13 @@
+Word::: Besuch
+WordTranslation::: <ul>
+<li>визит, посещение</li>
+<li>гость</li>
+</ul>
+DerDieDas::: der
+Plural::: Besuche
+FrontExample::: Ich erwarte einen Besuch von meiner Freundin.
+BackExample::: Я ожидаю визит от своей подруги.
+FrontExample2::: Ihr Besuch im Museum war sehr informativ.
+BackExample2::: Её визит в музей был очень информативным.
+Tags:::  chatgpt 
+guid::: G1.N_?iI)]

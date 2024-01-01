@@ -1,0 +1,12 @@
+Word::: ärgern
+WordTranslation::: злить(ся), сердить(ся), раздражать<br><ul>
+</ul>
+DrittenPerson::: ärgert
+Perfekt::: haben geärgert
+Präteritum::: ärgerte
+FrontExample::: Ich möchte niemanden ärgern.
+BackExample::: Я не хочу никого раздражать.
+FrontExample2::: Es ärgert mich, dass ich den Bus verpasst habe.
+BackExample2::: Меня раздражает то, что я пропустил автобус.
+Tags:::  chatgpt 
+guid::: wr9rCP`F9f

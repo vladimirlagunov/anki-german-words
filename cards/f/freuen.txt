@@ -1,0 +1,9 @@
+Word::: freuen
+WordTranslation::: радоваться
+DrittenPerson::: freut
+Perfekt::: haben sich gefreut
+Präteritum::: freute
+FrontExample::: Ich freue mich auf den Urlaub.
+BackExample::: Я радуюсь отпуску.
+Tags:::  A1 chatgpt 
+guid::: b.BilTC5{z

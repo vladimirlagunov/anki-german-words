@@ -1,0 +1,12 @@
+Word::: erwarten
+WordTranslation::: ожидать (предполагать), ждать
+Explanation::: <ol><li><div><strong>warten</strong></div><div>Это обычное слово для "ждать". Оно используется, когда кто-то ожидает кого-то или что-то.</div></li><li><div><strong>erwarten</strong></div><div>Это слово чаще всего означает "ожидать" в смысле "предполагать" или "рассчитывать на что-то". Оно может также относиться к ожиданию какого-либо события или новостей.</div></li><li><div><strong>auswarten</strong></div><div>Это слово может быть переведено как "дождаться" или "подождать окончания". Оно обычно используется в контексте ожидания завершения какого-либо процесса или события, прежде чем принимать какое-либо решение или действовать.</div></li></ol>
+DrittenPerson::: erwartet
+Perfekt::: haben erwartet
+Präteritum::: erwartete
+FrontExample::: Wir erwarten regen morgen.
+BackExample::: Мы ожидаем дождь завтра.
+FrontExample2::: Politiker erwarten Ergebnisse.
+BackExample2::: Политики ожидают результатов.
+Tags:::  chatgpt 
+guid::: K5zewT`W}E

@@ -1,0 +1,14 @@
+Word::: zwingen zu + D
+WordTranslation::: заставлять, принуждать<br><ul>
+</ul>
+DrittenPerson::: zwingt
+Perfekt::: haben gezwungen
+Präteritum::: zwang
+FrontExample::: Die schlechten Wetterbedingungen zwangen uns dazu, unser Picknick zu canceln.
+BackExample::: Плохая погода заставила нас отменить пикник.
+FrontExample2::: Ich werde dich nicht dazu zwingen, zu bleiben, wenn du gehen willst.
+BackExample2::: Я не буду заставлять тебя оставаться, если ты хочешь уйти.
+FrontExample3::: Die finanzielle Situation zwang ihn dazu, einen zweiten Job zu suchen.
+BackExample3::: Финансовая ситуация заставила его искать вторую работу.
+Tags:::  chatgpt 
+guid::: beh{~:M8h[

@@ -1,0 +1,10 @@
+Word::: Ausstellung
+WordTranslation::: выставка
+DerDieDas::: die
+Plural::: Ausstellungen
+FrontExample::: Die Ausstellung im Museum war faszinierend.
+BackExample::: Выставка в музее была увлекательной.
+FrontExample2::: Die Ausstellung dauert bis Ende Mai.
+BackExample2::: Выставка продлится до конца мая.
+Tags:::  chatgpt 
+guid::: GiTT/k#yjX

@@ -1,0 +1,17 @@
+Word::: bügeln
+WordTranslation::: отутюжить<br><ul>
+</ul>
+DrittenPerson::: bügelt
+Perfekt::: haben gebügelt
+Präteritum::: bügelte
+FrontExample::: <div>
+<div>
+<div>
+<div>
+<div><span style="color: rgb(20, 20, 20);">Sie bügelt beim Fernsehen</span><span style="color: rgb(58, 58, 58);">.&nbsp;</span></div>
+</div>
+</div>
+</div></div>
+BackExample::: Она гладит, смотря телевизор.
+Tags::: 
+guid::: Ei2kX?*wYG

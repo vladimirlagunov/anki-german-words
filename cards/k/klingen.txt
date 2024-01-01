@@ -1,0 +1,12 @@
+Word::: klingen
+WordTranslation::: звучать, показаться, прозвучать
+Explanation::: Syn: scheinen, wirken, aussehen, anhören
+DrittenPerson::: klingt
+Perfekt::: haben geklungen
+Präteritum::: klang
+FrontExample::: Und offen gesagt fängst du an ein bisschen verrückt zu klingen.
+BackExample::: И, откровенно говоря, вы начинаете звучать немного безумно.
+FrontExample2::: Ich will nicht egozentrisch klingen, aber es scheint, du hast nur Augen für mich.
+BackExample2::: Я не хочу показаться эгоцентричным, но, похоже, ты смотришь только на меня.
+Tags::: 
+guid::: Pz)Fu1Y2n]

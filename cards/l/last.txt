@@ -1,0 +1,9 @@
+Word::: Last
+WordTranslation::: бремя, ноша, груз
+Explanation::: Syn: die Ladung, die Beschickung, die Beladung
+DerDieDas::: die
+Plural::: Lasten
+FrontExample::: Die Last der Verantwortung ist oft schwer zu tragen.
+BackExample::: Бремя ответственности часто бывает трудно нести.
+Tags::: 
+guid::: E>V|E?2$!Y

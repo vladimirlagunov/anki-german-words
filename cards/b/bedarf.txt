@@ -1,0 +1,6 @@
+Word::: Bedarf
+WordTranslation::: потребность, требование, спрос
+DerDieDas::: der
+Plural::: Bedarfe
+Tags::: 
+guid::: biggNst3*W

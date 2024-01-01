@@ -1,0 +1,10 @@
+Word::: Begrüßung
+WordTranslation::: приветствие
+DerDieDas::: die
+Plural::: Begrüßungen
+FrontExample::: Eine freundliche Begrüßung kann den Ton für das ganze Meeting setzen.
+BackExample::: Дружелюбное приветствие может задать тон для всей встречи.
+FrontExample2::: Nach der Begrüßung durch den Direktor begann die Veranstaltung.
+BackExample2::: После приветствия директором мероприятие началось.
+Tags:::  chatgpt 
+guid::: u2SF4MTD,l

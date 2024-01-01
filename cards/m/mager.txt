@@ -1,0 +1,9 @@
+Word::: mager
+WordTranslation::: бедный, скудный, недостаточный, нежирный
+Explanation::: Слово "mager" используется для описания чего-либо бедного, скудного, недостаточного или нежирного. Оно может относиться как к питанию (нежирная пища), так и к почве (небогатая почва) или другим вещам, которые не содержат достаточного количества чего-либо.
+FrontExample::: Der Boden in dieser Gegend ist oft mager und trocken.
+BackExample::: Почва в этом районе часто бедна и суха.
+FrontExample2::: Er wurde von der mageren Auswahl an Optionen enttäuscht.
+BackExample2::: Он был разочарован скромным выбором вариантов.
+Tags:::  chatgpt 
+guid::: uD;VTWzWn,

@@ -1,0 +1,10 @@
+Word::: schwül
+WordTranslation::: душный, влажный
+FrontExample::: Das Wetter ist heute ziemlich schwül.
+BackExample::: Погода сегодня довольно душная.
+FrontExample2::: Ich kann nicht gut schlafen, wenn es schwül ist.
+BackExample2::: Я не могу хорошо спать, когда на улице душно.
+FrontExample3::: In tropischen Ländern kann es oft sehr schwül sein.
+BackExample3::: В тропических странах часто бывает очень душно.
+Tags:::  chatgpt 
+guid::: Jz)*nkE9<:

@@ -1,0 +1,11 @@
+Word::: Stau
+WordTranslation::: пробка (авт.); скопление (жидкости), застой (мед.)
+DerDieDas::: der
+Plural::: Staue, Staus<br><ul>
+</ul>
+FrontExample::: Es gibt einen langen Stau auf der Autobahn.
+BackExample::: На автостраде большая пробка.
+FrontExample2::: Wir stecken im Stau fest und kommen zu spät.
+BackExample2::: Мы застряли в пробке и опоздаем.
+Tags:::  chatgpt 
+guid::: kiHMZ(f;3W

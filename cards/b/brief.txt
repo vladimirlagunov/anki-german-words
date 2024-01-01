@@ -1,0 +1,12 @@
+Word::: Brief
+WordTranslation::: письмо, послание
+DerDieDas::: der
+Plural::: Briefe
+FrontExample::: Haben Sie einen Brief für mich?
+BackExample::: У вас есть письмо для меня?
+FrontExample2::: Ich schreibe einen Brief an meinen Freund.
+BackExample2::: Я пишу письмо своему другу.
+FrontExample3::: Der Brief ist in dem Umschlag.
+BackExample3::: Письмо находится в конверте.
+Tags:::  A1 chatgpt 
+guid::: JD0x>s)+Br

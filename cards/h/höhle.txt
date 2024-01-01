@@ -1,0 +1,11 @@
+Word::: Höhle
+WordTranslation::: пещера, логово, нора
+Explanation::: Syn: das Loch, die Grube, die Grotte
+DerDieDas::: die
+Plural::: Höhlen
+FrontExample::: Im Berg gibt es mehrere Höhlen.
+BackExample::: В горе есть несколько пещер.
+FrontExample2::: Vorsicht! In der Höhle dort lebt ein Bär.
+BackExample2::: Осторожно! Там в пещере живет медведь.
+Tags::: 
+guid::: rpcjZ8Uun8

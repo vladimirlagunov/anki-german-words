@@ -1,0 +1,8 @@
+Word::: Hähnchen
+WordTranslation::: курятина
+DerDieDas::: das
+Plural::: Hähnchen
+FrontExample::: Ich möchte ein Hähnchen mit Pommes bestellen.
+BackExample::: Я хотел бы заказать курицу с картошкой фри.
+Tags:::  chatgpt 
+guid::: uq:iRhL/%^

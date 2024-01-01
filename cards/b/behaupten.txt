@@ -1,0 +1,10 @@
+Word::: behaupten
+WordTranslation::: утверждать<br><ul>
+</ul>
+DrittenPerson::: behauptet
+Perfekt::: haben behauptet
+Präteritum::: behauptete
+FrontExample::: „Ich bin der beste Radfahrer dieser Stadt“, behauptet Peter.
+BackExample::: „Я лучший велосипедист в этом городе", - утверждает Питер.
+Tags::: 
+guid::: r+]I/u^9)%

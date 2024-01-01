@@ -1,0 +1,6 @@
+Word::: Union
+WordTranslation::: союз, объединение
+DerDieDas::: die
+Plural::: Unionen
+Tags:::  chatgpt 
+guid::: n_!<]mS#uU

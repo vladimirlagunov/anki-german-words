@@ -1,0 +1,15 @@
+Word::: holen
+WordTranslation::: <ul>
+<li>приносить, приводить</li><li>забирать</li><li>доставать</li><li>снимать (с полки и т.п)<br></li>
+</ul>
+DrittenPerson::: holt
+Perfekt::: haben geholt
+Präteritum::: holte
+FrontExample::: Geh lieber die Kinder aus dem Kindergarten holen.
+BackExample::: Лучше забери детей из детского сада.
+FrontExample2::: Ich gehe schnell Milch holen.
+BackExample2::: Я быстро схожу за молоком.
+FrontExample3::: Das Kind holt dem Vater die Zeitung.
+BackExample3::: Ребенок приносит отцу газету.
+Tags:::  chatgpt 
+guid::: cj]SU(R^aS

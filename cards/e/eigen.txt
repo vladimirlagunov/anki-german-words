@@ -1,0 +1,8 @@
+Word::: eigen
+WordTranslation::: своеобразный, особенный
+FrontExample::: Sie hat ihre eigene Meinung zu dem Thema.
+BackExample::: У нее есть свое собственное мнение по этому вопросу.
+FrontExample2::: Er geht seinen eigenen Weg.
+BackExample2::: Он идет своим собственным путем.
+Tags:::  chatgpt 
+guid::: rl.12*2;y{

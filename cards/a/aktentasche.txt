@@ -1,0 +1,6 @@
+Word::: Aktentasche
+WordTranslation::: портфель
+DerDieDas::: die
+Plural::: Aktentaschen
+Tags::: 
+guid::: f6M2m>H(g]

@@ -1,0 +1,10 @@
+Word::: Nebenwirkung
+WordTranslation::: побочный эффект
+FrontExample::: Die Medikamente waren wirksam, aber die Nebenwirkungen waren schwer zu ertragen.
+BackExample::: Лекарства были эффективными, но побочные эффекты были трудно переносимы.
+FrontExample2::: Häufige Nebenwirkungen dieser Behandlung schließen Übelkeit und Erbrechen ein.
+BackExample2::: Частые побочные эффекты этого лечения включают тошноту и рвоту.
+FrontExample3::: Der Arzt informierte ihn über die möglichen Nebenwirkungen der Therapie.
+BackExample3::: Врач проинформировал его о возможных побочных эффектах терапии.
+Tags:::  chatgpt 
+guid::: w1s^8^I?R{

@@ -1,0 +1,13 @@
+Word::: Unterkunft
+WordTranslation::: <ul>
+<li></li><li>убежище</li><li>проживание</li><ul>
+</ul>
+</ul>
+DerDieDas::: die
+Plural::: Unterkünfte
+FrontExample::: Die Flüchtlinge suchen nach einer sicheren Unterkunft.
+BackExample::: Беженцы ищут безопасное убежище.
+FrontExample2::: Ich habe eine günstige Unterkunft in Berlin gefunden.
+BackExample2::: Я нашел недорогое жилье в Берлине.
+Tags:::  chatgpt 
+guid::: mG){0G~,s<

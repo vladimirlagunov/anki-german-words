@@ -1,0 +1,7 @@
+Word::: sich umziehen
+WordTranslation::: переодеваться
+DrittenPerson::: zieht sich um
+Perfekt::: sein sich umgezogen
+Präteritum::: zog sich um
+Tags::: 
+guid::: s^q-.I#IPm

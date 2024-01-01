@@ -1,0 +1,13 @@
+Word::: einschläfern
+WordTranslation::: усыплять
+DrittenPerson::: schläfert ein
+Perfekt::: haben eingeschläfert
+Präteritum::: schläferte ein
+FrontExample::: Der Tierarzt musste den Hund leider einschläfern.
+BackExample::: К сожалению, ветеринар был вынужден усыпить собаку.
+FrontExample2::: Die alte Katze leidet sehr, vielleicht ist es besser sie einschläfern zu lassen.
+BackExample2::: Старая кошка очень страдает, возможно, лучше ее усыпить.
+FrontExample3::: Nach dem schweren Unfall mussten sie das Pferd einschläfern.
+BackExample3::: После тяжелой аварии им пришлось усыпить лошадь.
+Tags:::  chatgpt 
+guid::: l:Z%B-YC$U

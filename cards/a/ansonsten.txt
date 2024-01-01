@@ -1,0 +1,6 @@
+Word::: ansonsten
+WordTranslation::: в противном случае, иначе, в остальном, кроме того
+FrontExample::: Das Essen war sehr gut, ansonsten fand ich das Restaurant nicht besonders gemütlich.
+BackExample::: Еда была очень вкусной, но в остальном, я не нашел этот ресторан особенно уютным.
+Tags:::  chatgpt 
+guid::: tnpL${Kt]@

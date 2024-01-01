@@ -1,0 +1,11 @@
+Word::: übertragen
+WordTranslation::: <ul><li>переносить</li><li>передавать, транслировать</li></ul>
+DrittenPerson::: überträgt
+Perfekt::: haben übertragen
+Präteritum::: übertrug
+FrontExample::: Die Krankheit kann durch Mücken übertragen werden.
+BackExample::: Болезнь может передаваться через комаров.
+FrontExample2::: Das Fußballspiel wird live im Fernsehen übertragen.
+BackExample2::: Футбольный матч транслируется в прямом эфире по телевизору.
+Tags:::  chatgpt 
+guid::: H*[|*eP(N.

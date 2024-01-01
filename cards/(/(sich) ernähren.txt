@@ -1,0 +1,9 @@
+Word::: (sich) ernähren
+WordTranslation::: кормить(ся), питать(ся)
+Explanation::: "Ernähren" относится к процессу питания как животных, так и людей, а также может использоваться в переносном смысле, чтобы указать на обеспечение чего-либо определенным видом питания или источником пищи.
+FrontExample::: Die Mutter ernährt ihr Baby mit Muttermilch.
+BackExample::: Мать кормит своего младенца грудным молоком.
+FrontExample2::: Viele Menschen entscheiden sich dafür, sich vegetarisch zu ernähren.
+BackExample2::: Многие люди решают питаться вегетарианской пищей.
+Tags:::  chatgpt 
+guid::: jSaS+W.=M_

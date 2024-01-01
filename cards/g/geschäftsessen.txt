@@ -1,0 +1,8 @@
+Word::: Geschäftsessen
+WordTranslation::: деловой обед, деловой ужин
+DerDieDas::: das
+Plural::: Geschäftsessen
+FrontExample::: Ich kann heute Abend nicht kommen, ich habe ein Geschäftsessen mit einem wichtigen Kunden.
+BackExample::: Сегодня вечером я не смогу придти, у меня запланирован деловой ужин с важным клиентом.
+Tags:::  chatgpt 
+guid::: QSi!]Bc^_u

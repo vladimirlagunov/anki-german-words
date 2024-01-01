@@ -1,0 +1,13 @@
+Word::: Toilette
+WordTranslation::: туалет, уборная<br><ul>
+</ul>
+DerDieDas::: die
+Plural::: Toiletten
+FrontExample::: Ich muss zur Toilette gehen.
+BackExample::: Мне нужно пойти в туалет.
+FrontExample2::: Entschuldigung, wo ist die Toilette?
+BackExample2::: Извините, где здесь туалет?
+FrontExample3::: Die Toilette ist besetzt.
+BackExample3::: Туалет занят.
+Tags:::  chatgpt 
+guid::: IZYn8A`ADv

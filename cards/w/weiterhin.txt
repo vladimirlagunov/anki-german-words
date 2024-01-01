@@ -1,0 +1,6 @@
+Word::: weiterhin
+WordTranslation::: продолжать, по-прежнему
+FrontExample::: Es gibt weiterhin Probleme mit der neuen Technik.
+BackExample::: До сих пор существуют проблемы с новым технологиями.
+Tags::: 
+guid::: i.m/~#Wu1)

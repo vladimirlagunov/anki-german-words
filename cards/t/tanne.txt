@@ -1,0 +1,9 @@
+Word::: Tanne
+WordTranslation::: ель
+DerDieDas::: die
+Plural::: Tannen
+FrontExample::: Der Duft von Tannenzweigen verbreitet sich im ganzen Haus und schafft eine festliche Atmosphäre.
+
+BackExample::: Аромат еловых веточек распространяется по всему дому и создает праздничную атмосферу.
+Tags:::  chatgpt 
+guid::: cc$<@*Qus7

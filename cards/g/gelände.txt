@@ -1,0 +1,9 @@
+Word::: Gelände
+WordTranslation::: территория, местность, периметр
+Explanation::: Syn: das Gebiet, das Land
+DerDieDas::: das
+Plural::: Gelände
+FrontExample::: Auf diesem Gelände baut die Firma weitere Gebäude.
+BackExample::: Компания ведет строительство дальнейших зданий на этом участке.
+Tags::: 
+guid::: OwLdm6_mo6

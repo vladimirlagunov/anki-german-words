@@ -1,0 +1,8 @@
+Word::: Weiterleitung
+WordTranslation::: переадресация, перенаправление
+FrontExample::: Die Weiterleitung Ihrer E-Mail hat nicht funktioniert.
+BackExample::: Пересылка вашего электронного письма не сработала.
+FrontExample2::: Für die Weiterleitung des Pakets zu einer anderen Adresse fallen zusätzliche Gebühren an.
+BackExample2::: За пересылку посылки на другой адрес взимаются дополнительные сборы.
+Tags:::  chatgpt 
+guid::: E9&gidH|&6

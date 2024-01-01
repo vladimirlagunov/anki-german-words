@@ -1,0 +1,7 @@
+Word::: liegen
+WordTranslation::: лежать
+DrittenPerson::: liegt
+Perfekt::: haben gelegen
+Präteritum::: lag
+Tags::: 
+guid::: qz)tXnEps/

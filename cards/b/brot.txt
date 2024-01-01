@@ -1,0 +1,12 @@
+Word::: Brot
+WordTranslation::: хлеб
+DerDieDas::: das
+Plural::: Brote
+FrontExample::: Nimm noch ein paar Brote für die Fahrt mit.&nbsp;
+BackExample::: Возьмите с собой в дорогу немного хлеба.
+FrontExample2::: Haben Sie auch Weißbrot?
+BackExample2::: У вас есть белый хлеб?
+FrontExample3::: Ich kaufe Brot beim Bäcker.
+BackExample3::: Я покупаю хлеб в булочной.
+Tags:::  A1 chatgpt 
+guid::: MkKTq>7K;h

@@ -1,0 +1,6 @@
+Word::: Sitzung
+WordTranslation::: заседание, собрание
+FrontExample::: Bitte nehmen Sie Platz, die Sitzung beginnt in wenigen Minuten.
+BackExample::: Пожалуйста, присаживайтесь, заседание начнется через несколько минут.
+Tags:::  chatgpt 
+guid::: LMERF(11[#

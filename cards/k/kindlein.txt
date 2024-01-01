@@ -1,0 +1,6 @@
+Word::: Kindlein
+WordTranslation::: малыш, младенец
+DerDieDas::: das
+Plural::: Kindlein
+Tags:::  chatgpt 
+guid::: sKbGbz9)8v

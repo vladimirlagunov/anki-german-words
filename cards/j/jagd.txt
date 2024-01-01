@@ -1,0 +1,6 @@
+Word::: Jagd
+WordTranslation::: охота
+DerDieDas::: die
+Plural::: Jagden
+Tags::: 
+guid::: A<(&8~?xt*

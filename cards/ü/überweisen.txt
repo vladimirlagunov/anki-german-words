@@ -1,0 +1,13 @@
+Word::: überweisen
+WordTranslation::: <ul><li>переводить (деньги)</li><li>перечислять</li><li>направлять (например, пациента в другое отделение)</li></ul>
+DrittenPerson::: überweist
+Perfekt::: haben überwiesen
+Präteritum::: überwies
+FrontExample::: Sie können das Geld auch überweisen.
+BackExample::: Вы также можете перевести деньги.
+FrontExample2::: Ich muss dir noch 50 Euro überweisen.
+BackExample2::: Я должен еще перевести тебе 50 евро.
+FrontExample3::: Kannst du mir heute das Geld überweisen?
+BackExample3::: Ты можешь перевести мне деньги сегодня?
+Tags:::  A1 chatgpt 
+guid::: b%|KUz:&r|

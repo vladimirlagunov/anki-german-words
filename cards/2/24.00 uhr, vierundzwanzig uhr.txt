@@ -1,0 +1,4 @@
+Word::: 24.00 Uhr, vierundzwanzig Uhr
+WordTranslation::: 24 часа (полночь)
+Tags:::  A1 
+guid::: lO^<!_~:~D

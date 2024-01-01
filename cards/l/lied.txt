@@ -1,0 +1,12 @@
+Word::: Lied
+WordTranslation::: песня
+DerDieDas::: das
+Plural::: Lieder
+FrontExample::: Welches ist dein Lieblingslied?
+BackExample::: Какая твоя любимая песня?
+FrontExample2::: Ich singe ein Lied.
+BackExample2::: Я пою песню.
+FrontExample3::: Das Lied ist sehr bekannt.
+BackExample3::: Эта песня очень известна.
+Tags:::  A1 chatgpt 
+guid::: OC07h=/|_j

@@ -1,0 +1,12 @@
+Word::: stellen
+WordTranslation::: <ul><li>(по)ставить</li><li>задержать</li>
+</ul>
+DrittenPerson::: stellt
+Perfekt::: haben gestellt
+Präteritum::: stellte
+FrontExample::: Er hat die Bücher auf das Regal gestellt.
+BackExample::: Он поставил книги на полку.
+FrontExample2::: Ich muss eine Frage stellen.
+BackExample2::: Мне нужно задать (поставить) вопрос.
+Tags:::  chatgpt 
+guid::: HWb5!Ro;?

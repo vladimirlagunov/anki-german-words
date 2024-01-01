@@ -1,0 +1,13 @@
+Word::: Schiff
+WordTranslation::: корабль, судно<br><ul>
+</ul>
+DerDieDas::: das
+Plural::: Schiffe
+FrontExample::: Das Schiff wird morgen den Hafen verlassen.
+BackExample::: Корабль покинет порт завтра.
+FrontExample2::: Er arbeitet auf einem großen Schiff.
+BackExample2::: Он работает на большом корабле.
+FrontExample3::: Das Schiff ist auf dem offenen Meer.
+BackExample3::: Корабль находится в открытом море.
+Tags:::  chatgpt 
+guid::: i(,{NBaTI8

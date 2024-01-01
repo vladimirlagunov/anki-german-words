@@ -1,0 +1,6 @@
+Word::: Trinkgeld
+WordTranslation::: чаевые
+DerDieDas::: das
+Plural::: Trinkgelder
+Tags::: 
+guid::: t%h4Aq.Ig$

@@ -1,0 +1,10 @@
+Word::: Höflichkeit
+WordTranslation::: вежливость
+DerDieDas::: die
+Plural::: Höflichkeiten
+FrontExample::: Ein Zeichen von Höflichkeit ist es, jemandem die Tür aufzuhalten.
+BackExample::: Знаком вежливости является придерживание двери для кого-то.
+FrontExample2::: Ich erwarte von den Schülern ein Mindestmaß an Höflichkeit gegenüber den Lehrern.
+BackExample2::: Я ожидаю от учеников минимального уровня вежливости по отношению к учителям.
+Tags:::  chatgpt 
+guid::: E?AQf+<&Z-

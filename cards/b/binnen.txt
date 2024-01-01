@@ -1,0 +1,6 @@
+Word::: binnen
+WordTranslation::: в течение
+FrontExample::: Binnen vier Wochen muss die Arbeit fertig sein.
+BackExample::: Работа должна быть завершена в течение четырех недель.
+Tags::: 
+guid::: z,e-[%R<!w

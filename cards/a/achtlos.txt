@@ -1,0 +1,6 @@
+Word::: achtlos
+WordTranslation::: беспечный, невнимательный
+FrontExample::: Er warf seine Jacke achtlos auf das Sofa.
+BackExample::: Он бросил свою куртку небрежно на диван.
+Tags:::  chatgpt 
+guid::: s[qfwd`bBP

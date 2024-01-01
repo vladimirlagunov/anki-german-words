@@ -1,0 +1,9 @@
+Word::: gut
+WordTranslation::: хорошо, добро
+FrontExample::: Ich komme um 13 Uhr. – Gut!&nbsp; &nbsp;
+FrontExample2::: Guten Appetit!
+BackExample2::: Приятного аппетита!
+FrontExample3::: Ein gutes neues Jahr!
+BackExample3::: С новым годом!
+Tags:::  A1 chatgpt 
+guid::: OIp:~cQJsc

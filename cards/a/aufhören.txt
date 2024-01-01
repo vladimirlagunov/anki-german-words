@@ -1,0 +1,16 @@
+Word::: aufhören
+WordTranslation::: <ul>
+<li>прекращать, переставать</li>
+<li>закончить(ся)</li>
+</ul>
+DrittenPerson::: hört auf
+Perfekt::: haben aufgehört
+Präteritum::: hörte auf
+FrontExample::: Das Konzert hört um 22 Uhr auf.
+BackExample::: Концерт заканчивается в 22 часа.
+FrontExample2::: Hör auf zu schreien!
+BackExample2::: Перестань кричать!
+FrontExample3::: Es hört nicht auf zu regnen.
+BackExample3::: Не перестаёт идти дождь.
+Tags:::  A1 chatgpt 
+guid::: dW|MBEIh)d

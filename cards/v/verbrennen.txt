@@ -1,0 +1,18 @@
+Word::: verbrennen
+WordTranslation::: сгорать (полностью)
+Explanation::: <ol><li><div><strong>Brennen</strong> - Это базовый глагол, означающий "гореть" или "пылать". Он используется для описания процесса горения в общем смысле, например, "Das Feuer brennt" (Огонь горит).</div></li><li><div><strong>Verbrennen</strong> - Этот глагол означает "сжигать" или "сгорать". Он употребляется, когда речь идет о полном сожжении чего-либо, превращении в пепел. Например, "Papier verbrennen" (Сжигать бумагу).</div></li><li><div><strong>Anbrennen</strong> - Глагол используется, когда что-то начинает гореть, но не полностью сгорает. Обычно это слово употребляется в контексте частичного обгорания или пригорания, например, когда еда пригорает на сковороде - "Das Essen ist angebrannt" (Еда пригорела).</div></li><li><div><strong>Abrennen</strong> - Этот глагол используется, когда что-то сгорает полностью или горит на протяжении определенного времени. Это может быть использовано, например, для описания сожжения большого количества материала или длительного процесса горения, как "Feuerwerk abrennen" (Сжигать фейерверк).</div></li><li><div><strong>Anzünden</strong> - Глагол означает "поджигать" или "зажигать". Он используется, когда речь идет о начале процесса горения, например, когда зажигают спичку или свечу - "Eine Kerze anzünden" (Зажечь свечу).</div></li></ol><br>
+DrittenPerson::: verbrennt
+Perfekt::: <ul>
+<li>sein verbrannt</li>
+<li>hat verbrannt</li>
+</ul>
+Präteritum::: verbrannte
+FrontExample::: Ich werde alle Briefe verbrennen.
+
+BackExample::: Я сожгу все письма.
+
+FrontExample2::: Der Herd war noch heiß. Ich habe mich verbrannt. 
+
+BackExample2::: Плита была еще горячей. Я обожглась. Todo подходит ли ключевое слово по смыслу?
+Tags::: 
+guid::: k|^%htoeCE

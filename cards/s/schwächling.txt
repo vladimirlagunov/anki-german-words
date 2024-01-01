@@ -1,0 +1,9 @@
+Word::: Schwächling
+WordTranslation::: слабак, безвольный человек
+DerDieDas::: der
+Plural::: Schwächlinge
+FrontExample::: Die Feinde bezeichneten ihn als Schwächling, aber er bewies seine Stärke im Kampf.
+
+BackExample::: Враги называли его слабаком, но он доказал свои силы в бою.
+Tags::: 
+guid::: w&MYpn;Nbq

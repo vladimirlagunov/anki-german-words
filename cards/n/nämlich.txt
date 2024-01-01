@@ -1,0 +1,14 @@
+Word::: nämlich
+WordTranslation::: <ul>
+<li>то же, те же</li>
+<li>а именно</li>
+<li>поскольку</li>
+</ul>
+FrontExample::: Ich kenne nämlich die Antworten auf deine Fragen.
+BackExample::: Мне известны ответы на твои вопросы.
+FrontExample2::: Die Zeitung kommt jeden Morgen zur nämlichen Zeit.
+BackExample2::: Газета приходит каждое утро в одно и то же время.
+FrontExample3::: Sie waren beide völlig gleich gekleidet und gebrauchten auch das nämliche Parfüm.
+BackExample3::: Они оба были одеты одинаково и пользовались одними и теми же духами.
+Tags::: 
+guid::: lKNVr)oNam

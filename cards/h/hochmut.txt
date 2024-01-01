@@ -1,0 +1,9 @@
+Word::: Hochmut
+WordTranslation::: гордыня, заносчивость, высокомерие
+DerDieDas::: der
+Plural::: wird nur im Singular verwendet
+FrontExample::: Der Hochmut des Königs führte letztendlich zum Untergang seines Reiches.
+
+BackExample::: Гордыня короля в конечном итоге привела к падению его королевства.
+Tags:::  chatgpt 
+guid::: u^0pSWD6G:

@@ -1,0 +1,6 @@
+Word::: Kissen
+WordTranslation::: подушка
+DerDieDas::: das
+Plural::: Kissen
+Tags::: 
+guid::: tj(:or*L2w

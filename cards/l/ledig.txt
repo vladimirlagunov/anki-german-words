@@ -1,0 +1,10 @@
+Word::: ledig
+WordTranslation::: холостой, не замужем, свободный
+FrontExample::: Sind Sie verheiratet? – Nein. Ledig.
+BackExample::: Вы женаты/замужем? – Нет. Не женат/не замужем.
+FrontExample2::: Er ist 30 Jahre alt und immer noch ledig.
+BackExample2::: Он 30 лет и до сих пор холост.
+FrontExample3::: Auf dem Formular kreuzte sie bei Familienstand "ledig" an.
+BackExample3::: В анкете она отметила галочкой графу "семейное положение" как "не замужем/не женат".
+Tags:::  A1 chatgpt 
+guid::: py#8i&eX3*

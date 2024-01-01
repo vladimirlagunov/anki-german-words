@@ -1,0 +1,10 @@
+Word::: Achtung
+WordTranslation::: Внимание, уважение, осторожность
+DerDieDas::: die
+Plural::: —
+FrontExample::: Achtung! Das dürfen Sie nicht tun.
+BackExample::: Внимание! Вам это делать нельзя.
+FrontExample2::: Achtung! Die Tür schließt.
+BackExample2::: Внимание! Дверь закрывается.
+Tags:::  A1 chatgpt 
+guid::: plkF]}%H8R

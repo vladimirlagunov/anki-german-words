@@ -1,0 +1,12 @@
+Word::: Betrag
+WordTranslation::: сумма, величина, количество
+DerDieDas::: der
+Plural::: Beträge
+FrontExample::: Der Gesamtbetrag der Rechnung beträgt 250 Euro.
+BackExample::: Общая сумма счета составляет 250 евро.
+FrontExample2::: Ich habe den Betrag bereits auf dein Konto überwiesen.
+BackExample2::: Я уже перевел сумму на твой счет.
+FrontExample3::: Bitte geben Sie den korrekten Betrag in das Formular ein.
+BackExample3::: Пожалуйста, введите корректную сумму в формуляр.
+Tags:::  chatgpt 
+guid::: Cwg:5(0,.9

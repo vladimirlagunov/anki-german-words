@@ -1,0 +1,12 @@
+Word::: Zustand
+WordTranslation::: состояние, статус
+DerDieDas::: der
+Plural::: Zustände
+FrontExample::: Als wir in die Wohnung eingezogen sind, war sie in sehr schlechtem Zustand.
+
+BackExample::: Когда мы въехали в квартиру, она была в очень плохом состоянии.
+
+FrontExample2::: Der postoperative Zustand des Patienten ist stabil.
+BackExample2::: Состояние пациента в послеоперационном периоде стабильное.
+Tags::: 
+guid::: o3omBfbm#/

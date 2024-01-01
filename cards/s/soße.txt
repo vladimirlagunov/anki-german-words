@@ -1,0 +1,8 @@
+Word::: Soße
+WordTranslation::: <ul>
+<li>соус, подливка</li>
+</ul>
+DerDieDas::: die
+Plural::: Soßen
+Tags::: 
+guid::: J?==cP$O`=

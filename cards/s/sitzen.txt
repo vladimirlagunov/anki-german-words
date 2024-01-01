@@ -1,0 +1,13 @@
+Word::: sitzen
+WordTranslation::: сидеть
+DrittenPerson::: sitzt
+Perfekt::: haben gesessen
+Präteritum::: saß
+FrontExample::: Wo sitzen Sie?
+BackExample::: Где вы сидите?
+FrontExample2::: Die Katze sitzt auf dem Sofa.
+BackExample2::: Кошка сидит на диване.
+FrontExample3::: Wir sitzen im Restaurant und essen.
+BackExample3::: Мы сидим в ресторане и едим.
+Tags:::  A1 chatgpt 
+guid::: elsozfJ~LX

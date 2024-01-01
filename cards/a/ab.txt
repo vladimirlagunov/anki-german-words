@@ -1,0 +1,10 @@
+Word::: ab
+WordTranslation::: с (предлог)
+FrontExample::: Ab morgen muss ich arbeiten.
+BackExample::: С завтрашнего дня я должен работать.
+FrontExample2::: Ab acht Uhr ist das Museum geöffnet.
+BackExample2::: С восьми часов музей открыт.
+FrontExample3::: Das Geschäft ist ab Montag geschlossen.
+BackExample3::: Магазин закрыт начиная с понедельника.
+Tags:::  A1 chatgpt 
+guid::: M]>dH?M#>O

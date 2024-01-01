@@ -1,0 +1,12 @@
+Word::: beschäftigen sich
+WordTranslation::: заниматься (чем-л; кем-л.)
+Explanation::: <div><ul><li>Слово "beschäftigen" в немецком языке обычно означает "заниматься чем-то", "быть занятым" или "нанимать на работу" (в контексте трудоустройства). Оно часто используется для обозначения действия, связанного с работой, деятельностью или интересом. Например, "sich mit etwas beschäftigen" переводится как "заниматься чем-то".</li><li>Слово "machen" является более общим и эквивалентно английскому "делать". Оно может использоваться в различных контекстах и обычно означает выполнение какого-либо действия. Например, "etwas machen" означает "что-то делать".</li></ul></div>
+DrittenPerson::: beschäftigt
+Perfekt::: haben beschäftigt
+Präteritum::: beschäftigte
+FrontExample::: Die Kinder beschäftigen sich mit einem Spiel.
+BackExample::: Дети занимаются игрой.
+FrontExample2::: Viele Studenten beschäftigen sich intensiv mit der Forschung.
+BackExample2::: Многие студенты усердно занимаются исследованиями.
+Tags:::  chatgpt 
+guid::: A43tG4Jk#u

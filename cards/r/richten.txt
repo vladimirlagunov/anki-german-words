@@ -1,0 +1,13 @@
+Word::: richten
+WordTranslation::: <ul><li>направлять</li><li>выравнивать, ориентировать</li></ul>
+DrittenPerson::: richtet
+Perfekt::: haben gerichtet
+Präteritum::: richtete
+FrontExample::: Er richtet das Bild an der Wand gerade.
+BackExample::: Он выравнивает картину на стене.
+FrontExample2::: Ich richte mich nach deinem Zeitplan.
+BackExample2::: Я подстроюсь под твой график.
+FrontExample3::: Bitte richten Sie Ihre Anfrage an die Abteilung Kundenservice.
+BackExample3::: Пожалуйста, направьте ваш запрос в отдел обслуживания клиентов.
+Tags:::  chatgpt 
+guid::: C}3SgUY=O?

@@ -1,0 +1,10 @@
+Word::: all-
+WordTranslation::: все-
+FrontExample::: Hast du alles?
+BackExample::: У тебя всё есть?
+FrontExample2::: Alle Freunde kommen.
+BackExample2::: Все друзья придут.
+FrontExample3::: Ich gehe in meinem Alltag oft spazieren.
+BackExample3::: Я часто гуляю в повседневной жизни.
+Tags:::  A1 chatgpt 
+guid::: Q{a1S,<U<E

@@ -1,0 +1,14 @@
+Word::: Einsatz
+WordTranslation::: <ul><li>использование, применение</li><li>участие, вклад</li><li>ставка (в азартных играх), риск, опасность</li><li>элемент, деталь, вставка</li><li>миссия, задача, операция</li></ul>
+FrontExample::: Der Einsatz von erneuerbaren Energien ist wichtig für den Umweltschutz.
+BackExample::: Применение возобновляемых источников энергии важно для защиты окружающей среды.
+FrontExample2::: Der Einsatz dauerte mehrere Tage.
+
+BackExample2::: Миссия длилась несколько дней.
+
+FrontExample3::: Ohne Einsatz kein Gewinn.
+
+BackExample3::: Без риска нет выигрыша.
+
+Tags:::  chatgpt 
+guid::: BW<m*(!y<0

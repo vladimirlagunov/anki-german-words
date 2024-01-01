@@ -1,0 +1,6 @@
+Word::: Pfund
+WordTranslation::: полкило
+DerDieDas::: das
+Plural::: Pfunde
+Tags::: 
+guid::: vGG6NPMP0?

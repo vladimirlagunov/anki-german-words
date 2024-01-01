@@ -1,0 +1,11 @@
+Word::: Verzicht
+WordTranslation::: отказ, отречение
+Explanation::: Syn: die Aufhebung, das Aufgeben
+DerDieDas::: der
+Plural::: Verzichte
+FrontExample::: Ich sah ihn einen Verzicht auf Anfechtung seiner Auslieferung unterzeichnen.
+BackExample::: Я видел, как он подписал отказ от оспаривания своей экстрадиции.
+FrontExample2::: Sie will, dass ich einem Verzicht auf Wiederbelebung zustimme.
+BackExample2::: Она хочет, чтобы я согласился на отказ от реанимации.
+Tags::: 
+guid::: bR7eG7gr`u

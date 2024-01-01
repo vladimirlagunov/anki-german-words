@@ -1,0 +1,16 @@
+Word::: Land
+WordTranslation::: <ul>
+<li>земля</li>
+<li>страна</li>
+<li>суша</li>
+</ul>
+DerDieDas::: das
+Plural::: Länder, Lande
+FrontExample::: Italien ist ein schönes Land.
+BackExample::: Италия – красивая страна.
+FrontExample2::: Ich komme aus Deutschland. Es ist ein Land in Europa.
+BackExample2::: Я из Германии. Это страна в Европе.
+FrontExample3::: In welchem Land lebst du?
+BackExample3::: В какой стране ты живешь?
+Tags:::  A1 chatgpt 
+guid::: u~1Qogos?a

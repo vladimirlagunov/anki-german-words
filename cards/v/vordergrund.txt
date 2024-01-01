@@ -1,0 +1,9 @@
+Word::: Vordergrund
+WordTranslation::: передний план
+Explanation::: Syn: der Mittelpunkt, die Aufmerksamkeit, der Schwerpunkt
+DerDieDas::: der
+Plural::: Vordergründe
+FrontExample::: Im Vordergrund sieht man eine dreiköpfige Familie.
+BackExample::: На переднем плане вы видите семью из трех человек.
+Tags::: 
+guid::: oF5mIztb+k

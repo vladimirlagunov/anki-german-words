@@ -1,0 +1,13 @@
+Word::: mitnehmen
+WordTranslation::: взять с собой, прихватить
+DrittenPerson::: nimmt mit
+Perfekt::: haben mitgenommen
+Präteritum::: nahm mit
+FrontExample::: Nehmen wir meine Schwester ins Kino mit?
+BackExample::: Возьмем мы мою сестру с собой в кино?
+FrontExample2::: Kann ich mein Buch mitnehmen?
+BackExample2::: Могу я взять с собой мою книгу?
+FrontExample3::: Ich möchte etwas zu essen mitnehmen.
+BackExample3::: Я хочу взять с собой немного еды.
+Tags:::  A1 chatgpt 
+guid::: E4GCtgX)Um

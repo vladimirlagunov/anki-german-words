@@ -1,0 +1,16 @@
+Word::: Betrieb
+WordTranslation::: <ul>
+<li>движение, оживление</li>
+<li>предприятие, производство, бизнес</li>
+<li>эксплуатация</li>
+</ul>
+DerDieDas::: der
+Plural::: <ul><li>Betriebe – предприятие, производство, бизнес</li><li>Betrieb – движение, оживление; эксплуатация</li></ul>
+FrontExample::: Der Betrieb läuft rund um die Uhr.
+BackExample::: Предприятие работает круглосуточно.
+FrontExample2::: Ich arbeite seit zehn Jahren in diesem Betrieb.
+BackExample2::: Я работаю на этом предприятии уже десять лет.
+FrontExample3::: Die Produktion wurde wegen Wartungsarbeiten vorübergehend stillgelegt, aber jetzt ist der Betrieb wieder in vollem Gange.
+BackExample3::: Производство было временно приостановлено из-за технического обслуживания, но теперь работа предприятия вновь идет полным ходом.
+Tags:::  chatgpt 
+guid::: n,3zE7;q0e

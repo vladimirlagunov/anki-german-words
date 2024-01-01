@@ -1,0 +1,14 @@
+Word::: bestätigen
+WordTranslation::: подтверждать; удостоверять<br><ul>
+</ul>
+DrittenPerson::: bestätigt
+Perfekt::: haben bestätigt
+Präteritum::: bestätigte
+FrontExample::: Können Sie bitte meine Buchung bestätigen?
+BackExample::: Вы могли бы подтвердить моё бронирование?
+FrontExample2::: Er konnte seine Theorie nicht bestätigen.
+BackExample2::: Он не мог подтвердить свою теорию.
+FrontExample3::: Ich bestätige, dass ich die Bedingungen gelesen und verstanden habe.
+BackExample3::: Я подтверждаю, что прочитал и понял условия.
+Tags:::  chatgpt 
+guid::: PhsgAnEHxu

@@ -1,0 +1,10 @@
+Word::: Anwalt
+WordTranslation::: адвокат
+DerDieDas::: der
+Plural::: Anwälte
+FrontExample::: Ich muss meinen Anwalt anrufen, bevor ich irgendetwas unterschreibe.
+BackExample::: Мне нужно позвонить своему адвокату, прежде чем я что-либо подпишу.
+FrontExample2::: Der Anwalt hat alle Beweise gesammelt, um seinen Mandanten vor Gericht zu verteidigen.
+BackExample2::: Адвокат собрал все доказательства для защиты своего клиента в суде.
+Tags:::  chatgpt 
+guid::: b0~azasFRl

@@ -1,0 +1,13 @@
+Word::: schicken
+WordTranslation::: отправлять, посылать
+DrittenPerson::: schickt
+Perfekt::: haben geschickt
+Präteritum::: schickte
+FrontExample::: Bitte schicken Sie mir eine E-Mail.
+BackExample::: Пожалуйста, отправьте мне электронное письмо.
+FrontExample2::: Ich schicke dir eine Karte aus dem Urlaub.
+BackExample2::: Я отправлю тебе открытку из отпуска.
+FrontExample3::: Kannst du mir das Paket schicken?
+BackExample3::: Ты можешь отправить мне посылку?
+Tags:::  A1 chatgpt 
+guid::: k/Y/@^0]Zm

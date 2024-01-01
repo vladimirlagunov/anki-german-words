@@ -1,0 +1,9 @@
+Word::: Vorschrift
+WordTranslation::: правило
+Explanation::: Syn: die Regelung, die Verordnung, die Regel
+DerDieDas::: die
+Plural::: Vorschriften
+FrontExample::: Beachten Sie bitte die Vorschriften für das Benutzen der Bibliothek.
+BackExample::: Пожалуйста, соблюдайте правила пользования библиотекой.
+Tags::: 
+guid::: tWSnSn$MIL

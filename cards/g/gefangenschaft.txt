@@ -1,0 +1,10 @@
+Word::: Gefangenschaft
+WordTranslation::: плен, заключение
+FrontExample::: Die Tiere wurden aus der Gefangenschaft gerettet und in ein Schutzgebiet gebracht.
+
+BackExample::: Животные были спасены из плена и перевезены в заповедник.
+FrontExample2::: Seine Erzählungen über die harten Bedingungen in der Gefangenschaft waren erschütternd.
+
+BackExample2::: Его рассказы о тяжелых условиях в заключении были потрясающими.
+Tags:::  chatgpt 
+guid::: x7Yt|4sQ%&

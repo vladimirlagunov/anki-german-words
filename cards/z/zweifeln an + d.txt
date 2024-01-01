@@ -1,0 +1,16 @@
+Word::: zweifeln an + D
+WordTranslation::: <ul>
+<li>недоумевать</li>
+<li>сомневаться</li>
+</ul>
+DrittenPerson::: zweifelt
+Perfekt::: haben gezweifelt
+Präteritum::: zweifelte
+FrontExample::: Ich zweifle an seiner Aufrichtigkeit.
+BackExample::: Я сомневаюсь в его искренности.
+FrontExample2::: Er zweifelt an meiner Fähigkeit, das Projekt zu leiten.
+BackExample2::: Он сомневается в моей способности управлять проектом.
+FrontExample3::: Sie zweifelte nie an ihrer Entscheidung.
+BackExample3::: Она никогда не сомневалась в своем решении.
+Tags:::  chatgpt 
+guid::: gO:O3Vx~G8

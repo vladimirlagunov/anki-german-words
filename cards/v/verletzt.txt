@@ -1,0 +1,9 @@
+Word::: verletzt
+WordTranslation::: травмированный, раненый, пострадавший, пострадавший
+Explanation::: Syn: verstoßen, verwundet, geschadet, gebrochen
+FrontExample::: Ich muss ihn auch verletzt haben.
+BackExample::: Наверное, я тоже причинила ему боль.
+FrontExample2::: Ich weiß, dass mindestens eine Person verletzt ist.
+BackExample2::: Я знаю, что по крайней мере один человек ранен.
+Tags::: 
+guid::: eKp,ytx(]4

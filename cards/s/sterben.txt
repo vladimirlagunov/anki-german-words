@@ -1,0 +1,7 @@
+Word::: sterben
+WordTranslation::: умереть
+DrittenPerson::: stirbt
+Perfekt::: sein gestorben
+Präteritum::: starb
+Tags::: 
+guid::: d*%NZRw(9q

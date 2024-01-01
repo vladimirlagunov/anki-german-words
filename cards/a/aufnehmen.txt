@@ -1,0 +1,15 @@
+Word::: aufnehmen
+WordTranslation::: <ul>
+<li>записывать аудио, снимать видео</li><li>принимать (кого-то куда-то)</li><li>начинать</li><li>поднимать тему</li><li>всасывать, абсорбировать</li>
+</ul>
+DrittenPerson::: nimmt auf
+Perfekt::: haben aufgenommen
+Präteritum::: nahm auf
+FrontExample::: Ich möchte das Konzert aufnehmen.
+BackExample::: Я хочу записать концерт.
+FrontExample2::: Die UNESCO nimmt die Bauwerke in die Liste des Weltkulturerbes auf.
+BackExample2::: ЮНЕСКО включила здания в Список всемирного наследия.
+FrontExample3::: Sie nahm das Thema im Meeting auf.
+BackExample3::: Она подняла эту тему на встрече.
+Tags:::  chatgpt 
+guid::: LIqpuP_I.&

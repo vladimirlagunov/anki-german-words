@@ -1,0 +1,6 @@
+Word::: Frosch
+WordTranslation::: лягушка
+DerDieDas::: der
+Plural::: Frösche
+Tags::: 
+guid::: uk:&*%ZY~D

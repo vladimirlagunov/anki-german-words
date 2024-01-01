@@ -1,0 +1,7 @@
+Word::: Theater
+WordTranslation::: театр<br><ul>
+</ul>
+DerDieDas::: das
+Plural::: Theater
+Tags::: 
+guid::: ClXDN#7:hj

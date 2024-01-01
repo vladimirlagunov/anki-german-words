@@ -1,0 +1,10 @@
+Word::: jung
+WordTranslation::: молодой, юный
+FrontExample::: Claudia ist 21. – Was? Noch so jung?
+BackExample::: Клаудия 21 год. - Что? Ещё такая молодая?
+FrontExample2::: Er ist noch jung und stark.
+BackExample2::: Он ещё молод и сильный.
+FrontExample3::: Meine Schwester ist jünger als ich.
+BackExample3::: Моя сестра младше меня.
+Tags:::  A1 chatgpt 
+guid::: cl><whS%V2

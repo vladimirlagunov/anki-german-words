@@ -1,0 +1,10 @@
+Word::: scharf
+WordTranslation::: острый, резкий
+FrontExample::: Das Messer ist nicht scharf genug.
+BackExample::: Нож недостаточно острый.
+FrontExample2::: Das Essen ist zu scharf für mich.
+BackExample2::: Эта еда для меня слишком острая.
+FrontExample3::: Seine scharfen Bemerkungen verletzten mich.
+BackExample3::: Его резкие замечания обидели меня.
+Tags:::  chatgpt 
+guid::: f=5;znt@JO

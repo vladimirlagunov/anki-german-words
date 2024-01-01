@@ -1,0 +1,12 @@
+Word::: Ergebnis
+WordTranslation::: результат
+DerDieDas::: das
+Plural::: Ergebnisse
+FrontExample::: Das Ergebnis des Tests bekommen Sie in zwei Wochen.
+BackExample::: Результат теста вы получите через две недели.
+FrontExample2::: Das Spiel hat ein gutes Ergebnis für unsere Mannschaft.
+BackExample2::: Игра закончилась хорошим результатом для нашей команды.
+FrontExample3::: Das Ergebnis der Prüfung war nicht zufriedenstellend.
+BackExample3::: Результат экзамена был неудовлетворительным.
+Tags:::  A1 chatgpt 
+guid::: M#!tcEE)BV

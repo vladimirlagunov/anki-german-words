@@ -1,0 +1,7 @@
+Word::: höflich
+WordTranslation::: вежливый, любезный
+FrontExample::: Der Kellner war sehr höflich und hat uns ausgezeichnet bedient.
+
+BackExample::: Официант был очень вежлив и обслужил нас отлично.
+Tags::: 
+guid::: k{0:[K.{i:

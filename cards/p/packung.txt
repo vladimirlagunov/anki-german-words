@@ -1,0 +1,6 @@
+Word::: Packung
+WordTranslation::: Упаковка
+DerDieDas::: die
+Plural::: Packungen
+Tags::: 
+guid::: t(f5y]D/Jl

@@ -1,0 +1,13 @@
+Word::: sprechen
+WordTranslation::: говорить, разговаривать, высказываться
+DrittenPerson::: spricht
+Perfekt::: haben gesprochen
+Präteritum::: sprach
+FrontExample::: Kann ich (mit) Herrn Klein sprechen?
+BackExample::: Могу ли я поговорить с господином Кляйном?
+FrontExample2::: Ich spreche Deutsch.
+BackExample2::: Я говорю по-немецки.
+FrontExample3::: Wir sprechen über das Wetter.
+BackExample3::: Мы говорим о погоде.
+Tags:::  A1 chatgpt 
+guid::: k#[gYks[,:

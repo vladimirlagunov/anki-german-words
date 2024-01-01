@@ -1,0 +1,10 @@
+Word::: Drucker
+WordTranslation::: принтер
+DerDieDas::: der
+Plural::: Drucker
+FrontExample::: Mein Drucker ist kaputt.
+BackExample::: Мой принтер сломан.
+FrontExample2::: Der Drucker druckt die Dokumente.
+BackExample2::: Принтер печатает документы.
+Tags:::  A1 chatgpt 
+guid::: e?k>Ed*)A>

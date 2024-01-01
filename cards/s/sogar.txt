@@ -1,0 +1,10 @@
+Word::: sogar
+WordTranslation::: даже
+FrontExample::: Er hat sogar das ganze Buch gelesen.
+BackExample::: Он даже прочитал всю книгу.
+FrontExample2::: Ich bin so überrascht, sie kann sogar Deutsch sprechen.
+BackExample2::: Я так удивлен, она даже может говорить по-немецки.
+FrontExample3::: Es war eine so großartige Party, dass sogar die Nachbarn gekommen sind.
+BackExample3::: Это была такая великолепная вечеринка, что даже соседи пришли.
+Tags:::  chatgpt 
+guid::: vHrEVD{^Y9

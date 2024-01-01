@@ -1,0 +1,7 @@
+Word::: Becher
+WordTranslation::: чашка, миска (бумажная, пластиковая)<br><ul>
+</ul>
+DerDieDas::: der
+Plural::: Becher
+Tags::: 
+guid::: parM0jFX6X

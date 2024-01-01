@@ -1,0 +1,6 @@
+Word::: Ei 
+WordTranslation::: яйцо
+DerDieDas::: das
+Plural::: Eier
+Tags::: 
+guid::: rkMG%;%Gvr

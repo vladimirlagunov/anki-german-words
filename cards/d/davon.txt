@@ -1,0 +1,8 @@
+Word::: davon
+WordTranslation::: На это, об этом
+FrontExample::: Ich habe von dem Unfall in den Nachrichten gehört, aber ich weiß nicht die genauen Details davon.
+BackExample::: Я слышал о несчастном случае в новостях, но не знаю подробностей об этом.
+FrontExample2::: Ich habe viele Ideen für das Projekt, aber ich bin mir noch nicht sicher, wie viele davon umsetzbar sind.
+BackExample2::: У меня много идей для проекта, но я пока не уверен, как много из них можно реализовать.
+Tags:::  chatgpt 
+guid::: x5yS.KN=L[

@@ -1,0 +1,12 @@
+Word::: betragen
+WordTranslation::: <ul>
+<li>составлять сумму</li>
+<li>вести себя<br></li>
+</ul>
+DrittenPerson::: beträgt
+Perfekt::: haben betragen
+Präteritum::: betrug
+FrontExample::: Die Lebenserwartung kann bis zu 28 Jahre betragen.
+BackExample::: Продолжительность жизни может составлять до 28 лет.
+Tags::: 
+guid::: z0pjA{X1lx

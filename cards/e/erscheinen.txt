@@ -1,0 +1,13 @@
+Word::: erscheinen
+WordTranslation::: появляться, казаться, публиковаться, выходить (о книге, журнале)
+DrittenPerson::: erscheint
+Perfekt::: sein erschienen
+Präteritum::: erschien
+FrontExample::: Das neue Buch von J.K. Rowling erscheint nächste Woche.
+BackExample::: Новая книга Дж. К. Роулинг выходит на следующей неделе.
+FrontExample2::: Ihm erschien das Problem unlösbar.
+BackExample2::: Проблема казалась ему неразрешимой.
+FrontExample3::: Sie erschien nicht zum vereinbarten Termin.
+BackExample3::: Она не появилась в назначенное время.
+Tags:::  chatgpt 
+guid::: gR[H}mr78!

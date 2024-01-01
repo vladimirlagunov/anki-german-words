@@ -1,0 +1,14 @@
+Word::: verschlingen
+WordTranslation::: <ul><li>проглатывать, поглощать (еду), пожирать
+</li><li>поглощать (время, средства)</li></ul>
+DrittenPerson::: verschlingt
+Perfekt::: haben verschlungen
+Präteritum::: verschlang
+FrontExample::: Der Hund hat sein Futter in wenigen Sekunden verschlungen.
+BackExample::: Собака проглотила свою еду за несколько секунд.
+FrontExample2::: Sie verschlang das Buch, weil es so spannend war.
+BackExample2::: Она поглотила книгу, потому что она была такой увлекательной.
+FrontExample3::: Das schwarze Loch im Zentrum der Galaxie verschlingt alles Licht.
+BackExample3::: Черная дыра в центре галактики поглощает все свет.
+Tags:::  chatgpt 
+guid::: g[b,~nP5rC

@@ -1,0 +1,8 @@
+Word::: Vorbild
+WordTranslation::: пример, образец, образец для подражания
+DerDieDas::: das
+Plural::: Vorbilder
+FrontExample::: Sophie ist ein Vorbild für die anderen Schüler, sie beteiligt sich immer aktiv am
+BackExample::: Софи является примером для других учеников, она всегда принимает активное участие в уроках.
+Tags::: 
+guid::: u#qwG!@OmY

@@ -1,0 +1,7 @@
+Word::: pflegen
+WordTranslation::: ухаживать
+DrittenPerson::: pflegt
+Perfekt::: haben gepflegt
+Präteritum::: pflegte
+Tags::: 
+guid::: J7<E^=O-N4

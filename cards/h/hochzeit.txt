@@ -1,0 +1,12 @@
+Word::: Hochzeit
+WordTranslation::: свадьба
+DerDieDas::: die
+Plural::: Hochzeiten
+FrontExample::: Zur dieser Hochzeit kommen mehr als fünfzig Gäste.
+BackExample::: На эту свадьбу придут более пятидесяти гостей.
+FrontExample2::: Sie planen ihre Hochzeit für nächsten Sommer.
+BackExample2::: Они планируют свою свадьбу на следующее лето.
+FrontExample3::: Meine Schwester hat ihre Hochzeit im Garten gefeiert.
+BackExample3::: Моя сестра отпраздновала свою свадьбу в саду.
+Tags:::  A1 chatgpt 
+guid::: GpoQHi.K/0

@@ -1,0 +1,9 @@
+Word::: genesen
+WordTranslation::: выздоравливать<br><ul>
+</ul>
+Explanation::: Syn: gesund machen
+DrittenPerson::: genest
+Perfekt::: sein genesen
+Präteritum::: genas
+Tags::: 
+guid::: pT-q&-lly=

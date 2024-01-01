@@ -1,0 +1,10 @@
+Word::: besser
+WordTranslation::: лучше
+FrontExample::: Es geht mir schon besser.
+BackExample::: Мне уже лучше.
+FrontExample2::: Mein Deutsch ist jetzt besser als letztes Jahr.
+BackExample2::: Мой немецкий сейчас лучше, чем в прошлом году.
+FrontExample3::: Heute fühle ich mich besser als gestern.
+BackExample3::: Сегодня я чувствую себя лучше, чем вчера.
+Tags:::  A1 chatgpt 
+guid::: &+Bm0I|.1

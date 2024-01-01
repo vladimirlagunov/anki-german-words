@@ -1,0 +1,10 @@
+Word::: verbrauchen
+WordTranslation::: потреблять, использовать, тратить, расходовать
+Explanation::: Syn: konsumieren
+DrittenPerson::: verbraucht
+Perfekt::: haben verbraucht
+Präteritum::: verbrauchte
+FrontExample::: Wie viel Benzin verbraucht dein Auto?
+BackExample::: Сколько бензина расходует ваш автомобиль?
+Tags::: 
+guid::: rp1zw9R/$F

@@ -1,0 +1,14 @@
+Word::: bloß
+WordTranslation::: <ul>
+<li>голый</li>
+<li>единственный</li>
+<li>только, лишь</li>
+</ul>
+FrontExample::: Mit bloßen Füßen lief sie durch den Schlamm.
+BackExample::: С босыми ногами она пробежала через грязь.
+FrontExample2::: Kannst du das mit bloßem Auge erkennen?
+BackExample2::: Ты видишь это невооруженным глазом?
+FrontExample3::: Bloß mit Worten wirst du nicht überzeugen.
+BackExample3::: Только лишь словами вас не убедить.
+Tags::: 
+guid::: mL6!ro`0]j

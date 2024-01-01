@@ -1,0 +1,8 @@
+Word::: Enttäuschung
+WordTranslation::: разочарование
+DerDieDas::: die
+Plural::: Enttäuschungen
+FrontExample::: Die Enttäuschung über das blöde Geschenk ist groß.
+BackExample::: Разочарование из-за глупого подарка велико.
+Tags::: 
+guid::: I(|:,4ao*9

@@ -1,0 +1,11 @@
+Word::: erst
+WordTranslation::: только, сначала, всего, лишь
+Explanation::: Syn: bloß, gerade, gleich
+FrontExample::: Sofia ist erst 20 Jahre alt.
+BackExample::: Софии всего 20 лет.
+FrontExample2::: Ich habe das erst gestern erfahren.
+BackExample2::: Я узнал об этом только вчера.
+FrontExample3::: Sprich erst mit dem Arzt.
+BackExample3::: сначала поговорите с врачом.
+Tags::: 
+guid::: zOFLj%URoQ

@@ -1,0 +1,18 @@
+Word::: Praxis
+WordTranslation::: <ul>
+<li>кабинет (врача)</li>
+<li>практика, упражнение</li>
+</ul>
+DerDieDas::: die
+Plural::: <ul>
+<li>Praxen – кабинет (врача)</li>
+<li>Praktiken – практика, упражнение</li>
+</ul>
+FrontExample::: Die Praxis ist ab acht Uhr geöffnet.
+BackExample::: Практика открыта с восьми утра.
+FrontExample2::: Ich gehe zur Praxis, um den Arzt zu sehen.
+BackExample2::: Я иду в медицинскую практику, чтобы увидеть врача.
+FrontExample3::: Er macht ein Praktikum in einer Anwaltspraxis.
+BackExample3::: Он проходит стажировку в адвокатской практике.
+Tags:::  A1 chatgpt 
+guid::: v:L@%BpJE0

@@ -1,0 +1,11 @@
+Word::: ermorden
+WordTranslation::: убивать
+DrittenPerson::: ermordet
+Perfekt::: haben ermordet
+Präteritum::: ermordete
+FrontExample::: Er wurde in seinem eigenen Haus ermordet.
+BackExample::: Он был убит в своем собственном доме.
+FrontExample2::: Die Polizei fand heraus, dass sie ihren Mann ermordet hatte.
+BackExample2::: Полиция выяснила, что она убила своего мужа.
+Tags:::  chatgpt 
+guid::: d,/,EVis7>

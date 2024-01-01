@@ -1,0 +1,7 @@
+Word::: (Kredit)karte
+WordTranslation::: кредитная карта
+DerDieDas::: die
+Plural::: Kreditkarten
+FrontExample::: Kann ich auch mit Karte (be-) zahlen?
+Tags:::  A1 
+guid::: Mj#?qnQy[?

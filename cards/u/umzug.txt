@@ -1,0 +1,15 @@
+Word::: Umzug
+WordTranslation::: <ul>
+<li>переезд</li>
+<li>процессия</li>
+</ul>
+DerDieDas::: der
+Plural::: Umzüge
+FrontExample::: Mein Umzug nach Berlin war sehr stressig.
+BackExample::: Мой переезд в Берлин был очень стрессовым.
+FrontExample2::: Der Karnevalsumzug in Köln ist immer sehr farbenfroh.
+BackExample2::: Карнавальное шествие в Кёльне всегда очень красочное.
+FrontExample3::: Nächste Woche habe ich einen Umzug, können Sie mir helfen?
+BackExample3::: На следующей неделе у меня переезд, не могли бы вы мне помочь?
+Tags:::  chatgpt 
+guid::: iPG-t)?M.e

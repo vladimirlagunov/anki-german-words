@@ -1,0 +1,10 @@
+Word::: wechseln
+WordTranslation::: менять, обменивать, перемещаться, сменять
+Explanation::: "wechseln" употребляется для обозначения изменения или смены чего-либо, в то время как "austauschen" более узко связан с обменом или заменой одной вещи или лица на другую.
+FrontExample::: Ich möchte mein Geld in Euro wechseln, bevor ich ins Ausland reise.
+
+BackExample::: Я хочу обменять деньги на евро перед тем, как поехать за границу.
+FrontExample2::: Vergiss nicht, die Batterien in der Fernbedienung zu wechseln.
+BackExample2::: Не забудь заменить батарейки в пульте управления.
+Tags:::  chatgpt 
+guid::: ewOe>)mkk=

@@ -1,0 +1,6 @@
+Word::: wohin
+WordTranslation::: куда
+FrontExample::: Wohin gehst du?
+BackExample::: Куда ты идешь?
+Tags::: 
+guid::: FIgs%Deg[1

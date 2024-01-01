@@ -1,0 +1,6 @@
+Word::: Käufer
+WordTranslation::: покупатель
+DerDieDas::: der
+Plural::: Käufer
+Tags::: 
+guid::: erM$bL8g5#

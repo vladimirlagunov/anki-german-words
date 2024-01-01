@@ -1,0 +1,7 @@
+Word::: freiwillig
+WordTranslation::: добровольно<br><ul>
+</ul>
+FrontExample::: Manchmal bleibe ich freiwillig länger im Büro.
+BackExample::: Иногда я добровольно задерживаюсь в офисе подольше.
+Tags::: 
+guid::: O;;BAhi(fk

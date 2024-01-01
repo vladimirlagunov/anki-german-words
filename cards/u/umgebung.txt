@@ -1,0 +1,8 @@
+Word::: Umgebung
+WordTranslation::: окрестность, прилегающая территория, среда
+FrontExample::: Die Umgebung dieses Ortes ist sehr malerisch.
+BackExample::: Окрестности этого места очень живописны.
+FrontExample2::: Er ist in dieser Umgebung aufgewachsen.
+BackExample2::: Он вырос в этой среде.
+Tags:::  chatgpt 
+guid::: jH`87c*jw-

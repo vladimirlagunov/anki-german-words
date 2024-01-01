@@ -1,0 +1,13 @@
+Word::: überzeugen
+WordTranslation::: убедить, уверить, убеждать
+DrittenPerson::: überzeugt
+Perfekt::: haben überzeugt
+Präteritum::: überzeugte
+FrontExample::: Überzeugen Sie sich selbst von der Qualität unserer Produkte.
+BackExample::: Убедитесь сами в качестве нашей продукции.
+FrontExample2::: Ich konnte ihn davon überzeugen, dass es die beste Entscheidung war.
+BackExample2::: Мне удалось убедить его в том, что это было лучшее решение.
+FrontExample3::: Ihre Argumente waren stark und überzeugend.
+BackExample3::: Ваши аргументы были убедительными и вескими.
+Tags:::  chatgpt 
+guid::: bU1R#>?gh9

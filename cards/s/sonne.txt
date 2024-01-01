@@ -1,0 +1,12 @@
+Word::: Sonne
+WordTranslation::: солнце
+DerDieDas::: die
+Plural::: Sonnen
+FrontExample::: Die Sonne scheint.
+BackExample::: Солнце светит.
+FrontExample2::: Die Sonne ist sehr hell.
+BackExample2::: Солнце очень яркое.
+FrontExample3::: Ich sehe die Sonne am Himmel.
+BackExample3::: Я вижу солнце на небе.
+Tags:::  A1 chatgpt 
+guid::: m54;$5e9Zp

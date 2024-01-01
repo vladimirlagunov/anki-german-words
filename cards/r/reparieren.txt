@@ -1,0 +1,8 @@
+Word::: reparieren
+WordTranslation::: ремонтировать
+Explanation::: Syn: renovieren
+DrittenPerson::: repariert
+Perfekt::: haben repariert
+Präteritum::: reparierte
+Tags::: 
+guid::: b=~Ft5Q4)2

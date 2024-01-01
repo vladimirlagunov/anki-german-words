@@ -1,0 +1,16 @@
+Word::: erschießen
+WordTranslation::: <ul>
+<li>расстрелять</li>
+<li>застрелить</li>
+</ul>
+DrittenPerson::: erschießt
+Perfekt::: haben erschossen
+Präteritum::: erschoss
+FrontExample::: Er wurde im Krieg erschossen.
+BackExample::: Он был застрелен во время войны.
+FrontExample2::: Sie drohte, ihn zu erschießen, wenn er noch einen Schritt weiterginge.
+BackExample2::: Она угрожала застрелить его, если он сделает еще один шаг.
+FrontExample3::: Die Polizei wurde gezwungen, den bewaffneten Mann zu erschießen.
+BackExample3::: Полиции пришлось застрелить вооруженного мужчину.
+Tags:::  chatgpt 
+guid::: hb*@zg=b@b

@@ -1,0 +1,9 @@
+Word::: Herrschaft
+WordTranslation::: власть, господство
+DerDieDas::: die
+Plural::: Herrschaften
+FrontExample::: Die Herrschaft eines Diktators kann zu Unterdrückung und Unfreiheit führen.
+
+BackExample::: Власть диктатора может привести к подавлению и лишению свободы.
+Tags:::  chatgpt 
+guid::: K1Y%5o5]/C

@@ -1,0 +1,11 @@
+Word::: Bogen
+WordTranslation::: лист; дуга; лук (оружие)
+DerDieDas::: der
+FrontExample::: Bitte schreiben Sie Ihren Namen auf den Antwortbogen.
+BackExample::: Пожалуйста, напишите свое имя на листе для ответов.
+FrontExample2::: Der Bogen dieser Brücke ist sehr elegant gestaltet.
+BackExample2::: Дуга этого моста очень элегантно выполнена.
+FrontExample3::: Er spannte seinen Bogen und zielte auf das Ziel.
+BackExample3::: Он натянул свой лук и прицелился в цель.
+Tags:::  chatgpt 
+guid::: fbyfz++41F

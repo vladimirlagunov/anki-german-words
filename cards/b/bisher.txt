@@ -1,0 +1,6 @@
+Word::: bisher
+WordTranslation::: до сих пор, до настоящего момента
+FrontExample::: Bisher haben wir keine Antwort erhalten.
+BackExample::: До сих пор мы не получили ответа.
+Tags:::  chatgpt 
+guid::: h36fUL,daj

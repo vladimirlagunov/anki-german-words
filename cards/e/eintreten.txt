@@ -1,0 +1,11 @@
+Word::: eintreten
+WordTranslation::: входить; наступать (о времени года)
+Explanation::: "Eintreten" может использоваться для выражения физического действия входа в место или пространство, а также для выражения поддержки каких-либо взглядов, идей или инициатив.
+DrittenPerson::: tritt ein
+Perfekt::: hat/ist eingetreten
+FrontExample::: Ich werde in den Verein eintreten, um neue Leute kennenzulernen.
+BackExample::: Я вступлю в клуб, чтобы познакомиться с новыми людьми.
+FrontExample2::: Die Versicherung tritt für die Schadensregulierung ein, wenn der Unfallbericht korrekt ist.
+BackExample2::: Страховая компания возьмет на себя регулирование ущерба, если доклад об аварии является правильным.
+Tags:::  chatgpt 
+guid::: wpbk.7M!,&

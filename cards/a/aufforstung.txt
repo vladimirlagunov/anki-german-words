@@ -1,0 +1,11 @@
+Word::: Aufforstung
+WordTranslation::: лесоразведение; Посадка деревьев в больших масштабах, на большей площади, чтобы вырос новый лес.
+Explanation::: Syn: die Anpflanzung, die Umpflanzung
+DerDieDas::: die
+Plural::: Aufforstungen
+FrontExample::: Die Mitgliedstaaten können die Emissionen aus Aufforstung und Wiederaufforstung in einem einzigen Konto verbuchen.
+BackExample::: Государства-члены могут учитывать выбросы от лесонасаждений и лесовосстановления в рамках единого счета.
+FrontExample2::: Diese Maßnahmen können auch die Aufforstung dieser Flächen umfassen.
+BackExample2::: Эти меры могут также включать лесонасаждение на этих территориях.
+Tags::: 
+guid::: t{soF65rcM

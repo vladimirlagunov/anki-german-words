@@ -1,0 +1,10 @@
+Word::: Weizen
+WordTranslation::: пшеница
+DerDieDas::: der
+Plural::: Weizen
+FrontExample::: Der Weizen muss gemahlen werden, bevor er zum Backen verwendet werden kann.
+BackExample::: Пшеницу нужно перемолоть, прежде чем использовать её для выпечки.
+FrontExample2::: Weizen ist die Hauptzutat in vielen Brotsorten.
+BackExample2::: Пшеница является основным ингредиентом во многих сортах хлеба.
+Tags:::  chatgpt 
+guid::: q[J]c4;?P%

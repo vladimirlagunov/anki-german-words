@@ -1,0 +1,11 @@
+Word::: verweigern
+WordTranslation::: отказывать, отвергать
+DrittenPerson::: verweigert
+Perfekt::: haben verweigert
+Präteritum::: verweigerte
+FrontExample::: Er verweigerte die Aussage vor Gericht.
+BackExample::: Он отказался давать показания в суде.
+FrontExample3::: Sie verweigerte die Annahme des Pakets.
+BackExample3::: Она отказалась принимать посылку.
+Tags:::  chatgpt 
+guid::: u55h!hztwb

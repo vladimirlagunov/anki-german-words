@@ -1,0 +1,13 @@
+Word::: Leidenschaft
+WordTranslation::: страсть
+DerDieDas::: die
+Plural::: Leidenschaften
+FrontExample::: Ihre Leidenschaft für Musik ist offensichtlich.
+
+BackExample::: Её страсть к музыке очевидна.
+FrontExample2::: Sie teilen eine gemeinsame Leidenschaft fürs Kochen.
+
+BackExample2::: Они разделяют общую страсть к кулинарии.
+
+Tags:::  chatgpt 
+guid::: x$-{`Z,jPQ

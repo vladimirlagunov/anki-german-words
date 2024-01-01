@@ -1,0 +1,13 @@
+Word::: entwickeln
+WordTranslation::: развивать; совершенствовать, разрабатывать
+Explanation::: <ol><li><div><strong>Entwickeln</strong> — Этот глагол обычно используется в контексте разработки или развития чего-либо, часто из простого в более сложное. Он часто применяется в технических и научных сферах.</div><div>Пример:</div><ul><li>Sie haben eine neue Software entwickelt.<ul><li>Они разработали новое программное обеспечение.</li></ul></li></ul></li><li><div><strong>Erstellen</strong> — Этот глагол чаще всего означает создание конкретного продукта или документа. Он более узко направлен на финальный результат, чем процесс создания.</div><div>Пример:</div><ul><li>Ich habe einen Bericht erstellt.<ul><li>Я создал отчет.</li></ul></li></ul></li><li><div><strong>Erarbeiten</strong> — Этот глагол подразумевает трудоемкий процесс работы над чем-то, часто с целью достижения конкретного результата или решения задачи.</div><div>Пример:</div><ul><li>Wir haben zusammen eine Lösung erarbeitet.<ul><li>Мы вместе разработали решение.</li></ul></li></ul></li><li><div><strong>Schaffen</strong> — Этот глагол имеет самое широкое применение и может означать создание, достижение или завершение чего-либо. Он также может быть использован в смысле "способен сделать что-то".</div><div>Пример:</div><ul><li>Er hat es geschafft, das Projekt rechtzeitig zu beenden.<ul><li>Ему удалось завершить проект в срок.</li></ul></li></ul></li></ol>
+Perfekt::: hat entwickelt
+Präteritum::: entwickelte
+FrontExample::: Sie entwickeln eine neue Software für die Datenanalyse.
+BackExample::: Они разрабатывают новое программное обеспечение для анализа данных.
+FrontExample2::: Die Wissenschaftler entwickeln einen neuen Impfstoff gegen die Krankheit.
+BackExample2::: Учёные разрабатывают новую вакцину против болезни.
+FrontExample3::: Die Geschichte des Films entwickelt sich langsam und ist sehr detailliert.
+BackExample3::: Сюжет фильма разворачивается медленно и очень детализирован.
+Tags:::  chatgpt 
+guid::: GbN;?D#9B)

@@ -1,0 +1,11 @@
+Word::: empfehlen
+WordTranslation::: рекомендовать
+Explanation::: <ol><li><div>"Empfehlen":</div><ul><li>"Empfehlen" - это глагол, который используется для выражения формальных или неформальных рекомендаций или советов о том, что делать или использовать на основе опыта, знаний или убеждений.</li></ul></li><li><div>"Raten":</div><ul><li>"Raten" - это другой глагол, который также подразумевает советы или рекомендации. Однако он может быть более общим и употребляется для выражения субъективных или неофициальных мнений или догадок о том, что лучше делать.</li></ul></li></ol><div>Отличие между этими глаголами заключается в степени формальности и авторитетности рекомендаций. "Empfehlen" подразумевает более официальные и основанные на знаниях рекомендации, в то время как "raten" может быть менее формальным и отражать субъективные мнения или догадки.</div>
+DrittenPerson::: empfiehlt
+Perfekt::: hat empfohlen
+FrontExample::: Ich empfehle Ihnen, dieses Buch zu lesen. Es ist sehr interessant.
+BackExample::: Я рекомендую вам прочитать эту книгу. Она очень интересная.
+FrontExample2::: Der Reiseleiter empfiehlt diese Sehenswürdigkeit allen Besuchern.
+BackExample2::: Гид рекомендует эту достопримечательность всем посетителям.
+Tags:::  B1 chatgpt unregelmäßige_Verben unregelmäßige_Verben::B1 Verben 
+guid::: p(nltz>hn0

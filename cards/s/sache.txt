@@ -1,0 +1,13 @@
+Word::: Sache
+WordTranslation::: предмет, вещь, дело<br><ul>
+</ul>
+DerDieDas::: die
+Plural::: Sachen
+FrontExample::: Das ist nicht meine Sache.
+BackExample::: Это не мое дело.
+FrontExample2::: Ich habe meine Sachen in der Tasche.
+BackExample2::: Я положил свои вещи в сумку.
+FrontExample3::: Wir müssen diese Sache sofort klären.
+BackExample3::: Мы должны немедленно разрешить это дело.
+Tags:::  chatgpt 
+guid::: Gh1!Vu+h3]

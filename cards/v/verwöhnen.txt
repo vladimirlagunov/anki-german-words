@@ -1,0 +1,17 @@
+Word::: verwöhnen
+WordTranslation::: <ul>
+<li>ублажать</li>
+<li>баловать</li>
+</ul>
+Explanation::: Syn: verhätscheln, hätscheln, verderben, zerstören
+DrittenPerson::: verwöhnt
+Perfekt::: haben verwöhnt
+Präteritum::: verwöhnte
+FrontExample::: Eltern sollten ihre Kinder nicht zu sehr verwöhnen, sonst könnten sie verzogen werden.
+BackExample::: Родителям не стоило бы слишком баловать своих детей, иначе они могут стать избалованными.
+FrontExample2::: Du darfst mich nicht so verwöhnen.
+BackExample2::: Тебе нельзя меня так баловать.
+FrontExample3::: Am Wochenende möchte ich mich einfach nur verwöhnen lassen und ins Spa gehen.
+BackExample3::: В выходные я просто хочу побаловать себя и сходить в спа.
+Tags:::  chatgpt 
+guid::: nPniwLEP3r

@@ -1,0 +1,9 @@
+Word::: Denkmal
+WordTranslation::: памятник
+DerDieDas::: das
+Plural::: Denkmale, Denkmäler
+FrontExample::: In dieser Stadt gibt es viele berühmte Denkmäler.
+
+BackExample::: В этом городе много известных памятников.
+Tags::: 
+guid::: Bp!RU7cT[.

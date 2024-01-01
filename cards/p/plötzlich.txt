@@ -1,0 +1,8 @@
+Word::: plötzlich
+WordTranslation::: внезапно
+FrontExample::: Plötzlich fing es an zu regnen, und wir mussten Schutz suchen.
+BackExample::: Вдруг начался дождь, и нам пришлось искать укрытие.
+FrontExample2::: Plötzlich fühlte sie einen stechenden Schmerz in ihrer Schulter.
+BackExample2::: Вдруг она почувствовала резкую боль в плече.
+Tags:::  chatgpt 
+guid::: A15s^A6_|j

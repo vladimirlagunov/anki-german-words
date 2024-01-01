@@ -1,0 +1,12 @@
+Word::: Zweig
+WordTranslation::: <ul><li>ветка (дерева)</li><li>ветвь, отрасль, филиал</li></ul>
+DerDieDas::: der
+Plural::: Zweige
+FrontExample::: Er schnitt einen dünnen Zweig vom Baum ab.
+BackExample::: Он отрезал тонкую ветку с дерева.
+FrontExample2::: Die Bank eröffnete einen neuen Zweig in der Stadt.
+BackExample2::: Банк открыл новый филиал в городе.
+FrontExample3::: Die Linguistik ist ein interessanter Zweig der Wissenschaft.
+BackExample3::: Лингвистика - это интересная отрасль науки.
+Tags:::  chatgpt 
+guid::: h29bI)ma9g

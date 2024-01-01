@@ -1,0 +1,12 @@
+Word::: Hund
+WordTranslation::: пёс, собака
+DerDieDas::: der
+Plural::: Hunde
+FrontExample::: Der Hund ist noch jung.
+BackExample::: Собака ещё молодая.
+FrontExample2::: Mein Hund ist weiß.
+BackExample2::: Моя собака белая.
+FrontExample3::: Der Hund schläft.
+BackExample3::: Собака спит.
+Tags:::  A1 chatgpt 
+guid::: N#)!>_E,qG

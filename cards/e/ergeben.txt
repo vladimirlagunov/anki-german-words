@@ -1,0 +1,16 @@
+Word::: ergeben
+WordTranslation::: <ul>
+<li>давать (в итоге), составлять</li>
+<li>сдаваться</li>
+</ul>
+DrittenPerson::: ergibt
+Perfekt::: haben ergeben
+Präteritum::: ergab
+FrontExample::: Die Untersuchung hat ergeben, dass er unschuldig ist.
+BackExample::: Расследование показало, что он невиновен.
+FrontExample2::: Zwei und zwei ergeben vier.
+BackExample2::: Два и два дают четыре.
+FrontExample3::: Er hat sich der Polizei ergeben.
+BackExample3::: Он сдался полиции.
+Tags::: 
+guid::: l{.!0Y=b[,

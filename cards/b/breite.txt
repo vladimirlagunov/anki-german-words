@@ -1,0 +1,8 @@
+Word::: Breite
+WordTranslation::: ширина
+DerDieDas::: die
+Plural::: Breiten
+FrontExample::: Die Breite des Tisches beträgt zwei Meter und die Tiefe sechzig Zentimeter.
+BackExample::: Ширина стола составляет два метра, а глубина - шестьдесят сантиметров.
+Tags::: 
+guid::: MpLb??=)8g

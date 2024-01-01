@@ -1,0 +1,10 @@
+Word::: rutschen
+WordTranslation::: подвинуться, скользить, проскользнуть
+Explanation::: Syn: gleiten, abgleiten, schieben
+DrittenPerson::: rutscht
+Perfekt::: sein gerutscht
+Präteritum::: rutschte
+FrontExample::: Im Winter rutschen die Kinder im Schnee den Berg herunter.
+BackExample::: Зимой дети съезжают с горы по снегу.
+Tags::: 
+guid::: 2LQIhGj1_

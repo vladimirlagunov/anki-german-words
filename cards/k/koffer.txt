@@ -1,0 +1,12 @@
+Word::: Koffer
+WordTranslation::: чемодан
+DerDieDas::: der
+Plural::: Koffer
+FrontExample::: Ist das Ihr Koffer?
+BackExample::: Это ваш чемодан?
+FrontExample2::: Der Koffer ist schwer.
+BackExample2::: Чемодан тяжелый.
+FrontExample3::: Ich packe meinen Koffer.
+BackExample3::: Я собираю свой чемодан.
+Tags:::  A1 chatgpt 
+guid::: zyG!fLVbE5

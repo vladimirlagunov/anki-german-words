@@ -1,0 +1,9 @@
+Word::: entscheiden
+WordTranslation::: решать
+DrittenPerson::: entscheidet
+Perfekt::: haben entschieden
+Präteritum::: entschied
+FrontExample::: Der Bundestag entscheidet über Gesetze.
+BackExample::: Бундестаг принимает решения по законам.
+Tags::: 
+guid::: kH;#V|s%yD

@@ -1,0 +1,7 @@
+Word::: genießen
+WordTranslation::: наслаждаться
+DrittenPerson::: genießt
+Perfekt::: haben genossen
+Präteritum::: genoss
+Tags::: 
+guid::: tAk+khL0[2

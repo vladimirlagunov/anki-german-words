@@ -1,0 +1,8 @@
+Word::: genau
+WordTranslation::: точно
+FrontExample::: Das ist genau das, was ich brauche.
+BackExample::: Это именно то, что мне нужно.
+FrontExample2::: Ich erinnere mich nicht genau.
+BackExample2::: Я не точно помню.
+Tags:::  chatgpt 
+guid::: Ej:Rzp5zU1

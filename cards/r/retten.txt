@@ -1,0 +1,14 @@
+Word::: retten
+WordTranslation::: спасать<br><ul>
+</ul>
+DrittenPerson::: rettet
+Perfekt::: haben gerettet
+Präteritum::: rettete
+FrontExample::: Wir verlieren zwei Flugzeuge, um 54 zu retten.
+BackExample::: Мы потеряем 2 самолета, чтобы спасти 54.
+FrontExample2::: Die Feuerwehr konnte die Menschen aus dem brennenden Haus retten.
+BackExample2::: Пожарные смогли спасти людей из горящего дома.
+FrontExample3::: Er versuchte, seine Ehe zu retten, aber es war zu spät.
+BackExample3::: Он пытался спасти свой брак, но уже было слишком поздно.
+Tags:::  chatgpt 
+guid::: yAI}kT]iwa

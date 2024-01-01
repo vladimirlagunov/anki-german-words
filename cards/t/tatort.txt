@@ -1,0 +1,6 @@
+Word::: Tatort
+WordTranslation::: место преступления
+DerDieDas::: der
+Plural::: Tatorte
+Tags::: 
+guid::: gTQ0%:;2C,

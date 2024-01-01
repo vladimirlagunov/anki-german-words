@@ -1,0 +1,10 @@
+Word::: laut
+WordTranslation::: громко
+FrontExample::: Nicht so laut! Das Baby schläft.
+BackExample::: Не так громко! Младенец спит.
+FrontExample2::: Die Musik ist sehr laut.
+BackExample2::: Музыка очень громкая.
+FrontExample3::: Sprich nicht so laut!
+BackExample3::: Не говори так громко!
+Tags:::  A1 chatgpt 
+guid::: b>8/e#1fB6

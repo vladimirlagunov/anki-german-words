@@ -1,0 +1,10 @@
+Word::: Notiz
+WordTranslation::: записка
+DerDieDas::: die
+Plural::: Notizen
+FrontExample::: Ich habe Ihnen eine Notiz geschrieben.
+BackExample::: Я написал тебе записку.
+FrontExample2::: Hast du einen Notizzettel für mich?
+BackExample2::: У вас есть записка для меня?
+Tags::: 
+guid::: uEeN&ynoAm

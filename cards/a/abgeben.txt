@@ -1,0 +1,13 @@
+Word::: abgeben
+WordTranslation::: <ul>
+<li>отдавать, вручать, сдавать, передавать<br></li><li>возиться</li>
+</ul>
+DrittenPerson::: gibt ab
+Perfekt::: haben abgegeben
+Präteritum::: gab ab
+FrontExample::: Ich muss meinen Pass an der Rezeption abgeben.
+BackExample::: Я должен сдать свой паспорт на ресепшене.
+FrontExample2::: Sie hat ihre Hausaufgaben noch nicht abgegeben.
+BackExample2::: Она еще не сдала свою домашнюю работу.
+Tags:::  A1 chatgpt 
+guid::: HW7%nR(~T*

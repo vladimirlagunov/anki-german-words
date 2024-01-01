@@ -1,0 +1,10 @@
+Word::: Gerste
+WordTranslation::: ячмень
+DerDieDas::: die
+Plural::: Gersten
+FrontExample::: Ich mag Bier aus Gerste.
+BackExample::: Мне нравится пиво из ячменя.
+FrontExample2::: Sie hat eine große Menge Gerste gekauft, um Brot zu backen.
+BackExample2::: Она купила большое количество ячменя, чтобы испечь хлеб.
+Tags:::  chatgpt 
+guid::: g2`sU]`pH

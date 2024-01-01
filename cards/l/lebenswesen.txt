@@ -1,0 +1,10 @@
+Word::: Lebenswesen
+WordTranslation::: живое существо, организм
+Explanation::: "Lebenswesen" - это общий термин, который включает в себя все разнообразие живых организмов на Земле - от микроскопических бактерий и вирусов до крупных млекопитающих и растений.
+DerDieDas::: das
+Plural::: wird nur im Singular verwendet
+FrontExample::: Die Wissenschaftler untersuchen die Vielfalt der Lebenswesen in diesem Ökosystem.
+
+BackExample::: Ученые изучают разнообразие живых существ в этой экосистеме.
+Tags:::  chatgpt 
+guid::: j1*=}Af1D<

@@ -1,0 +1,9 @@
+Word::: schenken
+WordTranslation::: дарить; подарить
+FrontExample::: Sie schenkte ihm zum Geburtstag ein Buch.
+
+BackExample::: Она подарила ему книгу на день рождения.
+FrontExample2::: Das Buch hat ihm neuen Lebensmut geschenkt.
+BackExample2::: Книга подарила ему новую смелость жить.
+Tags::: 
+guid::: o[4J7uwL{%

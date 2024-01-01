@@ -1,0 +1,14 @@
+Word
+WordTranslation
+Explanation
+DerDieDas
+Plural
+DrittenPerson
+Perfekt
+Präteritum
+FrontExample
+BackExample
+FrontExample2
+BackExample2
+FrontExample3
+BackExample3

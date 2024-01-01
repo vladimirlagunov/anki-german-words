@@ -1,0 +1,12 @@
+Word::: Branche
+WordTranslation::: отрасль
+DerDieDas::: die
+Plural::: Branchen
+FrontExample::: Er arbeitet seit zwanzig Jahren in der Automobilbranche.
+BackExample::: Он работает в автомобильной отрасли уже двадцать лет.
+FrontExample2::: Die Modebranche ist besonders schnelllebig.
+BackExample2::: Мода - особенно изменчивая отрасль.
+FrontExample3::: Die Tourismusbranche leidet besonders stark unter den aktuellen Beschränkungen.
+BackExample3::: Туристическая отрасль особенно сильно страдает из-за текущих ограничений.
+Tags:::  chatgpt 
+guid::: nIGHk71$8G

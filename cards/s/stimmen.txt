@@ -1,0 +1,9 @@
+Word::: stimmen
+WordTranslation::: голосовать, быть правдой, соглашаться
+DrittenPerson::: stimmt
+Perfekt::: haben gestimmt
+Präteritum::: stimmte
+FrontExample::: Meine Adresse stimmt nicht mehr.
+BackExample::: Мой адрес больше не верен.
+Tags::: 
+guid::: ur2`Uo~kr>

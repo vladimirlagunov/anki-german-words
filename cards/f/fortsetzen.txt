@@ -1,0 +1,11 @@
+Word::: fortsetzen
+WordTranslation::: <span style="font-family: -apple-system; font-size: 16px;">продолжать</span><br>
+Explanation::: "Fortsetzen" используется, чтобы указать на продолжение чего-либо, будь то действие, процесс, рассказ или дело. Это слово выражает идею продолжения после предыдущего прерывания или остановки.
+FrontExample::: Die Schüler werden morgen den Kurs fortsetzen.
+BackExample::: Завтра ученики продолжат курс.
+FrontExample2::: Die Geschichte wird in den nächsten Kapiteln fortgesetzt.
+BackExample2::: История будет продолжена в следующих главах.
+FrontExample3::: Er setzt seine Reise fort und wird morgen in der nächsten Stadt ankommen.
+BackExample3::: Он продолжает свое путешествие и завтра прибудет в следующий город.
+Tags:::  chatgpt handlungsstadium verb 
+guid::: pwrAPG(c^h

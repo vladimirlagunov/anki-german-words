@@ -1,0 +1,10 @@
+Word::: bestimmt
+WordTranslation::: определенный
+FrontExample::: Das ist bestimmt nicht wahr.
+BackExample::: Это наверняка не правда.
+FrontExample2::: Ich habe bestimmt 20 Minuten auf dich gewartet.
+BackExample2::: Я точно ждал тебя 20 минут.
+FrontExample3::: Du bist bestimmt müde nach der langen Reise.
+BackExample3::: Ты наверняка устал после долгой поездки.
+Tags:::  chatgpt 
+guid::: DW]I1ua79q

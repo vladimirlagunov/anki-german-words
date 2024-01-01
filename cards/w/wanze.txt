@@ -1,0 +1,6 @@
+Word::: Wanze
+WordTranslation::: <ul><li>клоп, жук</li><li>ошибка (bug)</li></ul>
+DerDieDas::: die
+Plural::: Wanzen
+Tags:::  chatgpt 
+guid::: QV6v3EkCEi

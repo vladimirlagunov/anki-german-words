@@ -1,0 +1,11 @@
+Word::: meiden
+WordTranslation::: избегать, уклоняться
+DrittenPerson::: meidet
+Perfekt::: haben gemieden
+Präteritum::: mied
+FrontExample::: Wegen seiner rauen Art meiden ihn seine Kollegen.
+BackExample::: Из-за его грубого обращения его коллеги стараются его избегать.
+FrontExample2::: Du solltest es meiden, in der Öffentlichkeit zu laut zu sprechen.
+BackExample2::: Тебе следует избегать громкого разговора в общественных местах.
+Tags:::  chatgpt 
+guid::: L304|r>;#(

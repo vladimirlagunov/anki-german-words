@@ -1,0 +1,9 @@
+Word::: mitschreiben
+WordTranslation::: делать записи
+DrittenPerson::: schreibt mit
+Perfekt::: haben mitgeschrieben
+Präteritum::: schrieb mit
+FrontExample::: Ich konnte nicht alles mitschreiben, was der Lehrer gesagt hat.
+BackExample::: Я не смог записать все, что сказал учитель.
+Tags:::  chatgpt 
+guid::: 3|i/Z]kbq

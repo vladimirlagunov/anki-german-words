@@ -1,0 +1,16 @@
+Word::: duschen
+WordTranslation::: <ul>
+<li>поливать как из ведра</li>
+<li>принимать душ</li>
+</ul>
+DrittenPerson::: duscht
+Perfekt::: haben geduscht
+Präteritum::: duschte
+FrontExample::: Ich bade nicht so gern, ich dusche lieber.
+BackExample::: Я не очень люблю принимать ванну, я предпочитаю душ.
+FrontExample2::: Ich muss schnell duschen gehen.
+BackExample2::: Мне нужно быстро принять душ.
+FrontExample3::: Willst du vor dem Essen duschen?
+BackExample3::: Ты хочешь принять душ перед едой?
+Tags:::  A1 chatgpt 
+guid::: J$(F8ya#Jg

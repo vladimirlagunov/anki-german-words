@@ -1,0 +1,11 @@
+Word::: austauschen
+WordTranslation::: обменивать, менять<br><ul>
+</ul>
+Explanation::: "wechseln" употребляется для обозначения изменения или смены чего-либо, в то время как "austauschen" более узко связан с обменом или заменой одной вещи или лица на другую.
+DrittenPerson::: tauscht aus
+Perfekt::: haben ausgetauscht
+Präteritum::: tauschte aus
+FrontExample::: Wir tauschen Informationen aus.
+BackExample::: Мы обмениваемся информацией.
+Tags::: 
+guid::: MWug]g]Z*2

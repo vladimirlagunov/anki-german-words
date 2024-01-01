@@ -1,0 +1,13 @@
+Word::: betreuen
+WordTranslation::: <ul><li>опекать, руководить</li><li>ухаживать, заботиться</li><li>обслуживать</li></ul>
+DrittenPerson::: betreut
+Perfekt::: haben betreut
+Präteritum::: betreute
+FrontExample::: Ich betreue die neue Praktikantin in unserer Abteilung.
+BackExample::: Я наставляю новую стажёрку в нашем отделе.
+FrontExample2::: Unsere Agentur wird Ihr Projekt von Anfang bis Ende betreuen.
+BackExample2::: Наше агентство будет вести ваш проект с начала и до конца.
+FrontExample3::: Während ihrer Abwesenheit betreue ich ihre Katzen.
+BackExample3::: Во время её отсутствия я присматриваю за её кошками.
+Tags:::  chatgpt 
+guid::: t)&WCAb*z{

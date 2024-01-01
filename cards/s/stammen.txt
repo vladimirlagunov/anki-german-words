@@ -1,0 +1,10 @@
+Word::: stammen
+WordTranslation::: происходить, произошедший, родом
+Explanation::: Syn: herrühren, ausgehen, kommen, herkommen
+DrittenPerson::: stammt
+Perfekt::: haben gestammt
+Präteritum::: stammte
+FrontExample::: Ich stamme aus einer kleinen Stadt an der Donau.
+BackExample::: Я родом из маленького городка на Дунае.
+Tags::: 
+guid::: I}mW%.$8P}

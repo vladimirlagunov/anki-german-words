@@ -1,0 +1,6 @@
+Word::: genauer gesagt
+WordTranslation::: точнее говоря
+FrontExample::: Ich studiere Ingenieurwissenschaften, genauer gesagt Maschinenbau.
+BackExample::: Я изучаю инженерные науки, точнее сказать, машиностроение.
+Tags:::  chatgpt 
+guid::: G3Kf^sqb&b

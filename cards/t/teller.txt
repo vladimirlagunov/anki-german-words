@@ -1,0 +1,7 @@
+Word::: Teller
+WordTranslation::: тарелка
+Plural::: Teller
+FrontExample::: Ich habe meinen Teller leer gegessen.
+BackExample::: Я съел все со своего тарелки.
+Tags:::  chatgpt 
+guid::: G%PON<fg:l

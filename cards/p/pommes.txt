@@ -1,0 +1,10 @@
+Word::: Pommes
+WordTranslation::: картофель-фри
+DerDieDas::: Pl.
+Plural::: Pommes
+FrontExample::: Ich habe Lust auf Pommes mit Ketchup.
+BackExample::: Мне хочется картошки фри с кетчупом.
+FrontExample2::: Die Pommes sind sehr knusprig und lecker.
+BackExample2::: Картошка фри очень хрустящая и вкусная.
+Tags:::  chatgpt 
+guid::: C&*bz?2|@<

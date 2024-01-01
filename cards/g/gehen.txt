@@ -1,0 +1,13 @@
+Word::: gehen
+WordTranslation::: идти, ходить, уходить, ехать
+DrittenPerson::: geht
+Perfekt::: sein gegangen
+Präteritum::: ging
+FrontExample::: Wie geht‘s?
+BackExample::: Как дела?
+FrontExample2::: Das geht nicht!
+BackExample2::: Это невозможно!
+FrontExample3::: Willst du mit mir ins Kino gehen?
+BackExample3::: Ты хочешь со мной пойти в кино?
+Tags:::  A1 chatgpt 
+guid::: wzHfydJRqv

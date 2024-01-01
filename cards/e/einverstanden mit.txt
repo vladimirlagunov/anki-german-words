@@ -1,0 +1,10 @@
+Word::: einverstanden mit
+WordTranslation::: быть согласным с
+FrontExample::: Ich bin nicht damit einverstanden, dass du dich für dich selbst entscheidest.
+BackExample::: Я не согласен с тем, что вы решаете за себя.
+FrontExample2::: Ich wäre niemals einverstanden damit, dass die Dinge so weit gehen.
+BackExample2::: Я бы никогда не согласилась, чтобы все зашло так далеко.
+FrontExample3::: Ich bin überrascht, dass sie damit einverstanden sind, dass er die ganze Zeit so weit weg ist.
+BackExample3::: Я удивлена, что они смирились с тем, что он все время находится так далеко.
+Tags::: 
+guid::: MvCBD{-{hG

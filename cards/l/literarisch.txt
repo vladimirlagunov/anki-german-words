@@ -1,0 +1,6 @@
+Word::: literarisch
+WordTranslation::: литературный
+FrontExample::: Das literarische Werk Goethes ist weltbekannt.
+BackExample::: Литературное творчество Гёте известно во всем мире.
+Tags:::  chatgpt 
+guid::: bZ7o.Y$,G-

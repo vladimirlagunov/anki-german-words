@@ -1,0 +1,14 @@
+Word::: Bereich
+WordTranslation::: <ul>
+<li>диапазон</li>
+<li>область, сфера</li>
+</ul>
+Plural::: Bereiche
+FrontExample::: Im Bereich der Medizin gibt es viele Fortschritte.
+BackExample::: В области медицины происходит много прогресса.
+FrontExample2::: Dieses Thema fällt in den Bereich der Ethik.
+BackExample2::: Эта тема входит в сферу этики.
+FrontExample3::: Der private Bereich ist für Unbefugte nicht zugänglich.
+BackExample3::: Частная зона недоступна для посторонних.
+Tags:::  chatgpt 
+guid::: Cb({{MpU=U

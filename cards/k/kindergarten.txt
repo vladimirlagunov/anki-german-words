@@ -1,0 +1,12 @@
+Word::: Kindergarten
+WordTranslation::: детский сад
+DerDieDas::: der
+Plural::: Kindergärten
+FrontExample::: Die kleine Laura geht schon in den Kindergarten.
+BackExample::: Маленькая Лаура уже ходит в детский сад.
+FrontExample2::: Meine Tochter findet den Kindergarten toll.
+BackExample2::: Моя дочь считает детский сад замечательным.
+FrontExample3::: Im Kindergarten lernen die Kinder viel Neues.
+BackExample3::: В детском саду дети узнают много нового.
+Tags:::  A1 chatgpt 
+guid::: Alu3G~r8d`

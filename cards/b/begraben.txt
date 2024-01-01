@@ -1,0 +1,13 @@
+Word::: begraben
+WordTranslation::: <ul><li>закопать</li><li>хоронить</li></ul>
+DrittenPerson::: begräbt
+Perfekt::: haben begraben
+Präteritum::: begrub
+FrontExample::: Der Hund hat seinen Knochen im Garten begraben.
+BackExample::: Собака закопала свою кость в саду.
+FrontExample2::: Nach dem Unfall wurde er auf dem örtlichen Friedhof begraben.
+BackExample2::: После аварии его похоронили на местном кладбище.
+FrontExample3::: Sie hatte den Traum, ein berühmter Schauspieler zu werden, aber nach vielen Fehlschlägen hat sie diesen Traum begraben.
+BackExample3::: У неё была мечта стать знаменитой актрисой, но после многих неудач она похоронила эту мечту.
+Tags:::  chatgpt 
+guid::: Pm[JrbX@*Y

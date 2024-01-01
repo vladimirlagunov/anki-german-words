@@ -1,0 +1,14 @@
+Word::: Stoff
+WordTranslation::: <ul>
+<li>сюжет</li>
+<li>материя</li>
+<li>вещество</li>
+</ul>
+DerDieDas::: der
+Plural::: Stoffe
+FrontExample::: Der Stoff wird dir gefallen.
+BackExample::: Вам понравится эта ткань.
+FrontExample2::: Der Stoff brennt dich nieder.
+BackExample2::: Вещество сожжет тебя дотла.
+Tags::: 
+guid::: s6*aCo2Yf$

@@ -1,0 +1,14 @@
+Word::: bezeichnen
+WordTranslation::: <ul>
+  <li>дать имя кому-то или чему-то, обозначить кого-то.</li>
+  <li>обозначать определенным образом; делать узнаваемым с помощью символа.</li>
+  <li>представлять собой что-то, быть типичным для чего-то.</li>
+</ul>
+Explanation::: Syn: nennen, angeben
+Perfekt::: hat bezeichnet
+FrontExample::: Die Affäre bei VW kann man mit gutem Grund als Skandal bezeichnen.
+BackExample::: Интригу в VW можно с полным основанием назвать скандалом.
+FrontExample2::: Der Wanderweg war gut bezeichnet, man konnte sich kaum verlaufen.
+BackExample2::: Тропа была хорошо обозначена, вряд ли можно было заблудиться.
+Tags::: 
+guid::: sP]LkKUbh}

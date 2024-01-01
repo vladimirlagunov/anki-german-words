@@ -1,0 +1,11 @@
+Word::: bereits
+WordTranslation::: <ul>
+<li>уже</li><li>ранее</li><li>заранее</li><li>давно<br></li>
+</ul>
+Explanation::: Syn: früher, vorher, schon<br><br><ol><li><div><strong>Bereits</strong>: Это слово чаще всего переводится как "уже". Оно используется для выражения того, что что-то произошло раньше, чем ожидалось.</div><ul><li>Пример: Er ist bereits angekommen. (Он уже прибыл.)</li></ul></li><li><div><strong>Früher</strong>: Это слово часто используется в значении "раньше" или "в прошлом" и относится к более отдаленному периоду времени.</div><ul><li>Пример: Früher habe ich in Berlin gewohnt. (Раньше я жил в Берлине.)</li></ul></li><li><div><strong>Vorher</strong>: Это слово может быть переведено как "до этого", "до того" и обозначает что-то, что произошло перед определенным моментом или событием.</div><ul><li>Пример: Ich habe vorher noch nie Sushi gegessen. (До этого я никогда не ел суши.)</li></ul></li><li><div><strong>Schon</strong>: Во многих контекстах это слово переводится как "уже", и оно также может использоваться для добавления нюанса, что что-то произошло раньше, чем ожидалось, или что что-то неудивительно.</div><ul><li>Пример: Hast du schon gegessen? (Ты уже поел?)</li><li>Пример: Das weiß ich schon. (Я это уже знаю.)</li></ul></li></ol><br>
+FrontExample::: Ein Beispiel für diesen Trend ist YouTube, das bereits in HD verfügbar ist.
+BackExample::: Примером этой тенденции является YouTube, который уже доступен в формате HD.
+FrontExample2::: Die Programmierung und der Testlauf sind bereits in einem fortgeschrittenen Stadium.
+BackExample2::: Программирование и тестовые испытания уже находятся на продвинутой стадии.
+Tags:::  chatgpt 
+guid::: qR:m4tSvuO

@@ -1,0 +1,8 @@
+Word::: Körperkontakt
+WordTranslation::: физический контакт, телесный контакт
+DerDieDas::: der
+Plural::: Körperkontakte
+FrontExample::: Aus hygienischen Gründen sollte man in Krankenhäusern auf unnötigen Körperkontakt verzichten.
+BackExample::: По гигиеническим причинам в больницах следует избегать ненужного физического контакта.
+Tags:::  chatgpt 
+guid::: v0:]fibBw4

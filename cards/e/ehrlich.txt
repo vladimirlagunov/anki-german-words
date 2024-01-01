@@ -1,0 +1,10 @@
+Word::: ehrlich
+WordTranslation::: честный, правдивый
+FrontExample::: Ehrlich gesagt, weiß ich es nicht.
+BackExample::: Честно говоря, я не знаю.
+FrontExample2::: Um ehrlich zu sein, habe ich das nicht erwartet.
+BackExample2::: Если быть честным, я этого не ожидал.
+FrontExample3::: Du antwortest besser ehrlich auf meine Frage.
+BackExample3::: Лучше ответьте на мой вопрос честно.
+Tags:::  chatgpt google-translate 
+guid::: gjA2M:rW2:

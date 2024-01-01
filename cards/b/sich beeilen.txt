@@ -1,0 +1,13 @@
+Word::: sich beeilen
+WordTranslation::: торопиться
+DrittenPerson::: beeilt
+Perfekt::: haben beeilt
+Präteritum::: beeilte
+FrontExample::: Ich möchte mich nicht zur Arbeit beeilen, also fahre ich im Voraus aus.
+BackExample::: Я не хочу торопиться на работу, поэтому выезжаю заранее.
+FrontExample2::: Er muss sich beeilen, um den Bus zu erwischen.
+BackExample2::: Ему нужно спешить, чтобы успеть на автобус.
+FrontExample3::: Wir sollten uns beeilen, das Geschäft schließt bald.
+BackExample3::: Нам стоит поторопиться, магазин скоро закрывается.
+Tags:::  chatgpt 
+guid::: j<@vBR&D%y

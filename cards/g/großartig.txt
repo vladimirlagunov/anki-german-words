@@ -1,0 +1,8 @@
+Word::: großartig
+WordTranslation::: великолепный
+FrontExample::: Das ist ein großartiges Buch!
+BackExample::: Это великолепная книга!
+FrontExample2::: Ich hatte einen großartigen Tag mit dir.
+BackExample2::: Я провёл великолепный день с тобой.
+Tags:::  chatgpt 
+guid::: c9cOH9,I*B

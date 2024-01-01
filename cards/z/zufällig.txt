@@ -1,0 +1,6 @@
+Word::: zufällig
+WordTranslation::: случайно
+FrontExample::: Hast du zufällig meine Brille gesehen?
+BackExample::: Вы случайно не видели мои очки?
+Tags::: 
+guid::: vELn-CAPn<

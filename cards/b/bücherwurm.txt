@@ -1,0 +1,6 @@
+Word::: Bücherwurm
+WordTranslation::: книжный червь
+DerDieDas::: der
+Plural::: Bücherwürmer
+Tags:::  chatgpt 
+guid::: d+_`J[~Qpf

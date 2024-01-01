@@ -1,0 +1,10 @@
+Word::: Fähigkeit
+WordTranslation::: способность, умение, навык
+FrontExample::: Er hat die Fähigkeit, schnell zu lernen.
+BackExample::: У него есть способность быстро учиться.
+FrontExample2::: Diese Aufgabe erfordert technische Fähigkeiten.
+BackExample2::: Эта задача требует технических навыков.
+FrontExample3::: Ich bin dazu fähig.
+BackExample3::: Я способен на это.
+Tags:::  chatgpt 
+guid::: GG<0iM|vQi

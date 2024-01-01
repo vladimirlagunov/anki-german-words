@@ -1,0 +1,11 @@
+Word::: waschen
+WordTranslation::: мыть
+DrittenPerson::: wäscht
+Perfekt::: haben gewaschen
+Präteritum::: wusch
+FrontExample::: Kannst du bitte das Auto waschen?
+BackExample::: Можешь, пожалуйста, помыть машину?
+FrontExample2::: Ich wasche meine Kleidung jeden Samstag.
+BackExample2::: Я стираю свою одежду каждую субботу.
+Tags:::  A1 chatgpt 
+guid::: PI)0Hp8bXM

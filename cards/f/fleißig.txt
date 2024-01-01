@@ -1,0 +1,8 @@
+Word::: fleißig
+WordTranslation::: прилежный, старательный
+FrontExample::: Die fleißigen Bienen bestäuben die Blumen und produzieren Honig.
+BackExample::: Усердные пчелы опыляют цветы и производят мед.
+FrontExample2::: Er hat fleißig Deutsch gelernt und spricht die Sprache jetzt fließend.
+BackExample2::: Он усердно изучал немецкий язык и теперь свободно на нем говорит.
+Tags:::  Meine_Deutsch 
+guid::: g7;W5cu0~>

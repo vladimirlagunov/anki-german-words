@@ -1,0 +1,12 @@
+Word::: Ausbildung
+WordTranslation::: <ul>
+<li>формирование</li>
+<li>профессиональное образование</li>
+<li>образование</li>
+</ul>
+DerDieDas::: die
+Plural::: Ausbildungen
+FrontExample::: Seine Ausbildung zum Mechaniker dauerte drei Jahre.
+BackExample::: Его обучение на механика длилось три года.
+Tags:::  chatgpt 
+guid::: onCN.43]UD

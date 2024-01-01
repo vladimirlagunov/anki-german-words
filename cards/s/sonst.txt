@@ -1,0 +1,6 @@
+Word::: sonst
+WordTranslation::: иначе, в противном случае
+FrontExample::: Ich schließe immer meine Tür ab, sonst könnte ja jeder einfach so hineinkommen.
+BackExample::: Я всегда запираю дверь, иначе каждый может просто войти.
+Tags::: 
+guid::: RbdoX.[@#3

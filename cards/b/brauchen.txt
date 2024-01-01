@@ -1,0 +1,14 @@
+Word::: brauchen
+WordTranslation::: нуждаться, требовать
+Explanation::: <ol><li><div><strong>benötigen</strong>&nbsp;— Это слово означает "нуждаться" или "требовать". Оно часто используется в контексте, когда что-то необходимо или требуется для выполнения задачи или достижения цели.</div></li><li><div><strong>brauchen</strong>&nbsp;— Это наиболее общее слово, соответствующее английскому "need". Оно используется, когда что-то необходимо или требуется в широком смысле.</div></li><li><div><strong>bedürfen</strong>&nbsp;— Этот глагол более формальный и чаще используется в письменной речи. Он означает "нуждаться" или "требовать", обычно в контексте более серьезной необходимости или законного требования.</div></li><li><div><strong>erfordern</strong>&nbsp;— Это слово означает "требовать" или "потребовать" в смысле необходимости выполнения определенных условий или стандартов. Оно часто используется в более формальных или технических контекстах.</div></li><li><div><strong>verlangen</strong>&nbsp;— Это слово означает "требовать" или "просить", часто с некоторой степенью настойчивости или власти. Оно может использоваться в контексте запроса или требования чего-то от кого-то.</div></li></ol>
+DrittenPerson::: braucht
+Perfekt::: haben gebraucht
+Präteritum::: brauchte
+FrontExample::: Brauchst du die Zeitung noch?
+BackExample::: Тебе еще нужна газета?
+FrontExample2::: Ich brauche ein Glas Wasser.
+BackExample2::: Мне нужен стакан воды.
+FrontExample3::: Wir brauchen Hilfe.
+BackExample3::: Нам нужна помощь.
+Tags:::  A1 chatgpt 
+guid::: dbg8O&zSaP
