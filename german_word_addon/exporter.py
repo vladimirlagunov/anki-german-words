@@ -36,7 +36,7 @@ def export_collection(note_ids: Sequence[NoteId], path: str, delete_old: bool) -
                 for field, value in note.items():
                     if value:
                         txt.write(field)
-                        txt.write(': ')
+                        txt.write('::: ')
                         txt.write(note[field])
                         txt.write('\n')
 

@@ -15,15 +15,15 @@ from aqt.browser import Browser
 from aqt.utils import showWarning
 from german_word_addon import converter
 from german_word_addon.converter import html_to_text, get_chatgpt_responses_texts
-from typing import Callable, Iterator, Optional, List, Dict, Tuple
+from typing import Callable, Optional, Dict
 
-_universal_german_word_template_name = 'Universal German word template'
+universal_german_word_template_name = 'Universal German word template'
 
 
 def get_universal_german_word_note_type(mw) -> NotetypeDict:
-    if (expected_note_type := mw.col.models.by_name(_universal_german_word_template_name)) is None:
+    if (expected_note_type := mw.col.models.by_name(universal_german_word_template_name)) is None:
         showWarning(
-            f'There must be a note template called `{_universal_german_word_template_name}`. It is used for generating cards.')
+            f'There must be a note template called `{universal_german_word_template_name}`. It is used for generating cards.')
     return expected_note_type
 
 
@@ -38,7 +38,7 @@ def fill_german_word_fields(editor: 'aqt.editor.Editor'):
     note: 'anki.notes.Note' = editor.note
     if note.note_type() is None or note.note_type()['name'] != expected_note_type['name']:
         actual_name = note.note_type()['name'] if note.note_type() else None
-        showWarning(f'The note type must be `{_universal_german_word_template_name}`, but it is `{actual_name}`.')
+        showWarning(f'The note type must be `{universal_german_word_template_name}`, but it is `{actual_name}`.')
         return
 
     _fill_card(editor)
