@@ -1,0 +1,13 @@
+Word::: entstehen
+WordTranslation::: возникать, образовываться, появляться
+DrittenPerson::: entsteht
+Perfekt::: sein entstanden
+Präteritum::: entstand
+FrontExample::: Aus den Samen entsteht die neue Pflanze.
+BackExample::: Из семян возникает новое растение.
+FrontExample2::: Durch das Erdbeben ist großer Schaden entstanden.
+BackExample2::: В результате землетрясения возник большой ущерб.
+FrontExample3::: Bei dem Projekt entstehen zusätzliche Kosten.
+BackExample3::: В проекте возникают дополнительные расходы.
+Tags:::  chatgpt 
+guid::: fJQl*Td9H6

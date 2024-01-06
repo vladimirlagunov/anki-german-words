@@ -1,0 +1,13 @@
+Word::: vergleichen
+WordTranslation::: сравнивать, сопоставлять
+DrittenPerson::: vergleicht
+Perfekt::: haben verglichen
+Präteritum::: verglich
+FrontExample::: Vergleiche die Preise, bevor du etwas kaufst.
+BackExample::: Сравни цены, прежде чем что-то купить.
+FrontExample2::: Man kann Apfel nicht mit Birnen vergleichen.
+BackExample2::: Нельзя сравнивать яблоки с грушами.
+FrontExample3::: Die Schüler sollen ihre Ergebnisse mit den Lösungen im Buch vergleichen.
+BackExample3::: Ученикам следует сравнить свои результаты с решениями в книге.
+Tags:::  chatgpt 
+guid::: b)Ku(Y?u8I

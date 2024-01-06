@@ -9,5 +9,5 @@ FrontExample2::: Das Kleid kommt dir gut.
 BackExample2::: Это платье тебе идет.
 FrontExample3::: Bis wohin kommt dieses Bus?
 BackExample3::: Докуда идет этот автобус?
-Tags:::  chatgpt 
+Tags:::  A1 chatgpt 
 guid::: )QEShS64m

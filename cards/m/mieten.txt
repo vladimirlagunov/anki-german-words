@@ -1,0 +1,11 @@
+Word::: mieten
+WordTranslation::: арендовать, снимать
+DrittenPerson::: mietet
+Perfekt::: haben gemietet
+Präteritum::: mietete
+FrontExample::: Ich möchte ein Auto mieten.
+BackExample::: Я хочу арендовать автомобиль.
+FrontExample2::: Wir mieten eine Wohnung in Berlin.
+BackExample2::: Мы снимаем квартиру в Берлине.
+Tags:::  A1 chatgpt 
+guid::: xt+n%?QMnq

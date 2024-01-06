@@ -1,0 +1,13 @@
+Word::: werden
+WordTranslation::: становиться
+DrittenPerson::: wird
+Perfekt::: sein geworden
+Präteritum::: wurde
+FrontExample::: Mein Sohn will Arzt werden.
+BackExample::: Мой сын хочет стать врачом.
+FrontExample2::: Ich werde Lehrer.
+BackExample2::: Я стану учителем.
+FrontExample3::: Du wirst groß.
+BackExample3::: Ты станешь большим.
+Tags:::  A1 chatgpt 
+guid::: i.0G{{&%sd

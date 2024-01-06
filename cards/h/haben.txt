@@ -1,0 +1,13 @@
+Word::: haben
+WordTranslation::: иметь
+DrittenPerson::: hat
+Perfekt::: haben gehabt
+Präteritum::: hatte
+FrontExample::: Ich habe ein neues Auto.
+BackExample::: У меня новый автомобиль.
+FrontExample2::: Ich habe einen Hund.
+BackExample2::: У меня есть собака.
+FrontExample3::: Wir haben ein schönes Haus.
+BackExample3::: У нас есть красивый дом.
+Tags:::  A1 chatgpt 
+guid::: Dbt?8Dto1M

@@ -1,0 +1,10 @@
+Word::: Vergangenheit
+WordTranslation::: прошлое
+FrontExample::: Wir haben aus der Vergangenheit gelernt.
+BackExample::: Мы учимся на прошлом.
+FrontExample2::: Die Vergangenheit kann man nicht ändern, aber die Zukunft gestalten.
+BackExample2::: Прошлое изменить нельзя, но можно сформировать будущее.
+FrontExample3::: Er spricht selten über seine Vergangenheit.
+BackExample3::: Он редко говорит о своем прошлом.
+Tags:::  chatgpt 
+guid::: Qp[h,{M<-Y

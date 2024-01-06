@@ -1,0 +1,13 @@
+Word::: auseinandernehmen
+WordTranslation::: <ul><li>разбирать, разделять, расчленять</li><li>критиковать</li></ul>
+DrittenPerson::: nimmt auseinander
+Perfekt::: haben auseinandergenommen
+Präteritum::: nahm auseinander
+FrontExample::: Der Techniker wird den Motor komplett auseinandernehmen, um das Problem zu finden.
+BackExample::: Техник полностью разберёт двигатель, чтобы найти проблему.
+FrontExample2::: Sie hat das Argument ihres Gegners Punkt für Punkt auseinandergenommen.
+BackExample2::: Она разобрала аргументы своего оппонента по пунктам.
+FrontExample3::: Um zu verstehen, wie das Gerät funktioniert, müssen wir es auseinandernehmen.
+BackExample3::: Чтобы понять, как работает устройство, нам нужно его разобрать.
+Tags:::  chatgpt 
+guid::: D%Y&.-Q|NE

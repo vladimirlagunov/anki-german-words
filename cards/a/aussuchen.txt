@@ -4,9 +4,9 @@ Explanation::: <ol><li><div>Aussuchen":</div><ul><li>"Aussuchen" - это гла
 Perfekt::: ausgesucht
 FrontExample::: Sie darf sich ein Geschenk zum Geburtstag aussuchen.
 
-BackExample::: Она может выбрать подарок на день рождения.
+BackExample::: Она может выбрать себе подарок на день рождения.
 FrontExample2::: Sie hat sich das Kleid für den Abschlussball ausgesucht.
 
-BackExample2::: Она выбрала платье для выпускного бала.
+BackExample2::: Она выбрала себе платье для выпускного бала.
 Tags::: 
 guid::: cI!{&1>2.&

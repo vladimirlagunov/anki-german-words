@@ -1,0 +1,10 @@
+Word::: Verfahren
+WordTranslation::: способ, метод, процедура, процесс, технология
+DerDieDas::: das
+Plural::: Verfahren
+FrontExample::: Das chemische Verfahren zur Synthese von Medikamenten ist komplex.
+BackExample::: Химический процесс синтеза лекарств сложен.
+FrontExample2::: Das Verfahren gegen den Angeklagten wurde eingestellt.
+BackExample2::: Процесс против обвиняемого был прекращен.
+Tags:::  chatgpt 
+guid::: rrWPCrHWSC

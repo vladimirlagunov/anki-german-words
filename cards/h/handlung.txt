@@ -1,0 +1,10 @@
+Word::: Handlung
+WordTranslation::: <ul><li>действие, деятельность</li><li>сюжет</li><li>ассортимент</li></ul>
+FrontExample::: Die Handlung des Films war schwer zu folgen.
+BackExample::: Сюжет фильма был трудно понять.
+FrontExample2::: Die Handlung dieses Ladens erstreckt sich auf verschiedene Waren.
+BackExample2::: Ассортимент этого магазина охватывает различные товары.
+FrontExample3::: Seine schnelle Handlung hat das Leben des Kindes gerettet.
+BackExample3::: Его быстрые действия спасли жизнь ребенка.
+Tags:::  chatgpt 
+guid::: CLspm/CEuc

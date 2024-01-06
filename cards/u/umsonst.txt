@@ -1,0 +1,10 @@
+Word::: umsonst
+WordTranslation::: <ul><li>бесплатно</li><li>зря, напрасно</li></ul>
+FrontExample::: Ich habe zwei Karten für das Konzert bekommen, ganz umsonst!
+BackExample::: Я получил два билета на концерт, совершенно бесплатно!
+FrontExample2::: Er hat die ganze Nacht gearbeitet, aber es war alles umsonst.
+BackExample2::: Он работал всю ночь, но это было все зря.
+FrontExample3::: Umsonst solltest du deine Zeit nicht verschwenden.
+BackExample3::: Не стоит тратить свое время впустую.
+Tags:::  chatgpt 
+guid::: jDjxlfd@/-

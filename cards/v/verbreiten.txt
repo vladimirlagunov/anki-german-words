@@ -1,0 +1,11 @@
+Word::: verbreiten
+WordTranslation::: распространять, разносить, публиковать
+DrittenPerson::: verbreitet
+Perfekt::: haben verbreitet
+Präteritum::: verbreitete
+FrontExample::: Das Video hat sich schnell im Internet verbreitet.
+BackExample::: Видео быстро распространилось в интернете.
+FrontExample2::: Eine falsche Nachricht kann sich wie ein Lauffeuer verbreiten.
+BackExample2::: Ложная новость может распространяться как лесной пожар.
+Tags:::  chatgpt 
+guid::: E!8?}5)r7Q

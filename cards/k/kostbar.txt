@@ -1,0 +1,8 @@
+Word::: kostbar
+WordTranslation::: дорогой, ценный, драгоценный
+FrontExample::: Diese kostbaren Momente mit der Familie sind unbezahlbar.
+BackExample::: Эти драгоценные моменты с семьёй - бесценны.
+FrontExample2::: Er schenkte ihr eine kostbare Perlenkette zum Geburtstag.
+BackExample2::: Он подарил ей драгоценное ожерелье из жемчуга на день рождения.
+Tags:::  chatgpt 
+guid::: lgbY|?)tD

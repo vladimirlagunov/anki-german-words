@@ -1,0 +1,8 @@
+Word::: einzeilig, zweizeilig, dreizeilig
+WordTranslation::: однострочный, двухстрочный, трёхстрочный
+FrontExample::: Der Titel des Dokuments ist dreizeilig formatiert.
+BackExample::: Название документа отформатировано в три строки.
+FrontExample2::: Als Gutenbergs Meisterwerk gilt die 42-zeilige Bibel.
+BackExample2::: Шедевром Гутенберга считается Библия из 42 строк.
+Tags:::  chatgpt 
+guid::: L3CRG8GE}a

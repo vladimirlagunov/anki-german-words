@@ -1,0 +1,10 @@
+Word::: haben vor
+WordTranslation::: <ul><li>намереваться, собираться, планировать</li><li>иметь в виду</li></ul>
+FrontExample::: Ich habe vor, nächstes Jahr eine Weltreise zu machen.
+BackExample::: Я планирую в следующем году совершить кругосветное путешествие.
+FrontExample2::: Hast du irgendwelche Pläne? Was hast du am Wochenende vor?
+BackExample2::: У тебя есть какие-то планы? Что ты собираешься делать на выходных?
+FrontExample3::: Sie haben vor, ein neues Geschäft zu eröffnen.
+BackExample3::: Они намереваются открыть новый магазин.
+Tags:::  chatgpt 
+guid::: i%y#BzJ`xW

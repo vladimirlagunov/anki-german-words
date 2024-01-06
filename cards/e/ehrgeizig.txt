@@ -1,0 +1,8 @@
+Word::: ehrgeizig
+WordTranslation::: амбициозный, честолюбивый
+FrontExample::: Er ist sehr ehrgeizig und möchte bis zum Ende des Jahres zum Manager befördert werden.
+BackExample::: Он очень честолюбив и хочет до конца года получить повышение до менеджера.
+FrontExample2::: Sie ist eine ehrgeizige Studentin und strebt immer nach den besten Noten in ihrer Klasse.
+BackExample2::: Она амбициозная студентка и всегда стремится к лучшим оценкам в своём классе.
+Tags:::  chatgpt 
+guid::: s8F+5unM*Q

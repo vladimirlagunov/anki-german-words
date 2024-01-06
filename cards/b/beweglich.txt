@@ -1,0 +1,8 @@
+Word::: beweglich
+WordTranslation::: подвижный, мобильный, гибкий
+FrontExample::: Die Katze ist sehr beweglich und kann hohe Zäune überwinden.
+BackExample::: Кот очень подвижный и может перепрыгивать высокие заборы.
+FrontExample2::: In der Physiotherapie arbeiten wir daran, dass die Gelenke wieder beweglich werden.
+BackExample2::: В физиотерапии мы работаем над тем, чтобы суставы снова стали подвижными.
+Tags:::  chatgpt 
+guid::: K~S5fL5!fw

@@ -1,0 +1,11 @@
+Word::: abschreiben
+WordTranslation::: скопировать, переписать, списать
+DrittenPerson::: schreibt ab
+Perfekt::: haben abgeschrieben
+Präteritum::: schrieb ab
+FrontExample::: Er wurde dabei erwischt, wie er bei der Klassenarbeit vom Nachbarn abgeschrieben hat.
+BackExample::: Он был пойман на том, как списывал у соседа по парте на контрольной.
+FrontExample2::: Du darfst meine Notizen benutzen, aber bitte schreibe sie nicht eins zu eins ab.
+BackExample2::: Ты можешь использовать мои заметки, но, пожалуйста, не переписывай их дословно.
+Tags:::  chatgpt 
+guid::: J9.cDAldMR

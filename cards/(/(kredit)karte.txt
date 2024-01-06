@@ -3,5 +3,6 @@ WordTranslation::: кредитная карта
 DerDieDas::: die
 Plural::: Kreditkarten
 FrontExample::: Kann ich auch mit Karte (be-) zahlen?
+BackExample::: Могу ли я также оплатить картой?
 Tags:::  A1 
 guid::: Mj#?qnQy[?

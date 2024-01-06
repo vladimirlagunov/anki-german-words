@@ -1,0 +1,8 @@
+Word::: unscheinbar
+WordTranslation::: неприметный, скромный
+FrontExample::: Der unscheinbare Mann in der Ecke war tatsächlich ein berühmter Schriftsteller.
+BackExample::: Неприметный мужчина в углу на самом деле оказался знаменитым писателем.
+FrontExample2::: In diesem unscheinbaren Restaurant wird das beste Sushi der Stadt serviert.
+BackExample2::: В этом скромном ресторане подают лучший суши в городе.
+Tags:::  chatgpt 
+guid::: ov[+>e%grR

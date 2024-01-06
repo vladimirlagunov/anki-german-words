@@ -1,0 +1,10 @@
+Word::: Grundgedanke
+WordTranslation::: основная идея
+DerDieDas::: der
+Plural::: Grundgedanken
+FrontExample::: Im Grundgedanken stimme ich mit deiner Argumentation überein, aber es gibt einige Details, die wir noch klären müssen.
+BackExample::: В основном я согласен с твоей аргументацией, но есть некоторые детали, которые нам еще предстоит прояснить.
+FrontExample2::: Der Grundgedanke dieses Buches ist es, Menschen zu motivieren, ihre Träume zu verwirklichen.
+BackExample2::: Основная мысль этой книги - мотивировать людей на осуществление своих мечтаний.
+Tags:::  chatgpt 
+guid::: E~NwPfnKP|

@@ -1,0 +1,11 @@
+Word::: regnen
+WordTranslation::: идти (о дожде)
+DrittenPerson::: regnet
+Perfekt::: haben geregnet
+Präteritum::: regnete
+FrontExample::: Heute regnet es.
+BackExample::: Сегодня идет дождь.
+FrontExample2::: <div>Es regnet in Strömen.</div>
+BackExample2::: Льёт как из ведра.
+Tags:::  A1 chatgpt 
+guid::: IU@}kPtvZL

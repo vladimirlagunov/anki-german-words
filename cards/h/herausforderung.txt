@@ -1,0 +1,6 @@
+Word::: Herausforderung
+WordTranslation::: вызов, задача, испытание
+FrontExample::: Die neue Stelle ist eine große Herausforderung für mich.
+BackExample::: Новая должность для меня представляет большой вызов.
+Tags:::  chatgpt 
+guid::: h,)>6>2r<`

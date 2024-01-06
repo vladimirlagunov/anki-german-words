@@ -1,0 +1,10 @@
+Word::: kursorisch
+WordTranslation::: поверхностный, курсовой
+FrontExample::: Ich habe nur einen kursorischen Blick auf den Bericht geworfen, aber es scheint, als ob wir noch viel Arbeit vor uns haben.
+BackExample::: Я лишь бегло взглянул на отчёт, но кажется, что у нас ещё много работы впереди.
+FrontExample2::: Der Professor gab uns eine kursorische Einführung in die Thematik, bevor wir in die Details gingen.
+BackExample2::: Профессор дал нам краткое введение в тему, прежде чем мы перешли к деталям.
+FrontExample3::: Eine kursorische Inspektion der Anlage zeigte, dass dringende Reparaturen notwendig sind.
+BackExample3::: Поверхностный осмотр сооружения показал, что необходимы срочные ремонтные работы.
+Tags:::  chatgpt 
+guid::: u,K?DpGY|@

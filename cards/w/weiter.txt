@@ -2,7 +2,7 @@ Word::: weiter
 WordTranslation::: дальнейший; далее
 Explanation::: "Weiter" обозначает продолжение действия, движение вперед или улучшение чего-либо.
 FrontExample::: Ich lese das Buch weiter.
-BackExample::: Я продолжаю читать книгу.
+BackExample::: Я читаю книгу дальше.&nbsp;
 FrontExample2::: Gehen wir weiter!
 BackExample2::: Пойдем дальше!
 Tags:::  A1 chatgpt 

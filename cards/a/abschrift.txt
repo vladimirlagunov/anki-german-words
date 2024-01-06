@@ -1,0 +1,10 @@
+Word::: Abschrift
+WordTranslation::: копия, абсchrift
+DerDieDas::: die
+Plural::: Abschriften
+FrontExample::: Bitte machen Sie eine Abschrift dieses Dokuments und senden Sie sie an den Anwalt weiter.
+BackExample::: Пожалуйста, сделайте копию этого документа и отправьте её адвокату.
+FrontExample2::: Die Abschrift des historischen Briefes wurde im Museum ausgestellt.
+BackExample2::: Копия исторического письма была выставлена в музее.
+Tags:::  chatgpt 
+guid::: Gp-Ep{]Ouu

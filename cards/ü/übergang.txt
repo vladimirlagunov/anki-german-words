@@ -1,0 +1,10 @@
+Word::: Übergang
+WordTranslation::: <ul><li>переход</li><li>переезд, переправа</li></ul>
+DerDieDas::: der
+Plural::: Übergänge
+FrontExample::: Der Übergang von der Diktatur zur Demokratie war in diesem Land nicht einfach.
+BackExample::: Переход от диктатуры к демократии в этой стране был непростым.
+FrontExample2::: Wir müssen den Übergang zwischen den zwei Gebäuden verbessern.
+BackExample2::: Нам нужно улучшить переход между двумя зданиями.
+Tags:::  chatgpt 
+guid::: L8ytl)%<GW

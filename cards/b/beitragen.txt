@@ -1,0 +1,13 @@
+Word::: beitragen
+WordTranslation::: способствовать, вносить вклад
+DrittenPerson::: trägt bei
+Perfekt::: haben beigetragen
+Präteritum::: trug bei
+FrontExample::: Jeder Mitarbeiter kann zum Erfolg des Projekts beitragen.
+BackExample::: Каждый сотрудник может внести вклад в успех проекта.
+FrontExample2::: Eine gesunde Ernährung trägt zur Verbesserung der Lebensqualität bei.
+BackExample2::: Здоровое питание способствует улучшению качества жизни.
+FrontExample3::: Ihre Forschung hat wesentlich zur Lösung des Problems beigetragen.
+BackExample3::: Её исследование существенно помогло в решении проблемы.
+Tags:::  chatgpt 
+guid::: bpn4:!Rc/z

@@ -1,0 +1,13 @@
+Word::: zerlegen
+WordTranslation::: разбирать, разложить, разделать
+DrittenPerson::: zerlegt
+Perfekt::: haben zerlegt
+Präteritum::: zerlegte
+FrontExample::: Der Metzger wird das Fleisch sorgfältig zerlegen.
+BackExample::: Мясник будет тщательно разделывать мясо.
+FrontExample2::: Um das Problem zu lösen, müssen wir es in kleinere Teile zerlegen.
+BackExample2::: Чтобы решить проблему, нам нужно разложить её на мелкие части.
+FrontExample3::: Der Mechaniker musste den Motor komplett zerlegen, um den Defekt zu finden.
+BackExample3::: Механику пришлось полностью разобрать двигатель, чтобы найти неисправность.
+Tags:::  chatgpt 
+guid::: i9[s+1Ki;I

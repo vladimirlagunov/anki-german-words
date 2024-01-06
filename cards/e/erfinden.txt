@@ -1,0 +1,13 @@
+Word::: erfinden
+WordTranslation::: изобретать, придумывать
+DrittenPerson::: erfindet
+Perfekt::: haben erfunden
+Präteritum::: erfand
+FrontExample::: Thomas Edison hat die Glühbirne erfunden.
+BackExample::: Томас Эдисон изобрёл лампочку.
+FrontExample2::: Kinder erfinden oft imaginäre Freunde.
+BackExample2::: Дети часто выдумывают себе воображаемых друзей.
+FrontExample3::: Für den Roman musste der Autor eine komplett neue Welt erfinden.
+BackExample3::: Для романа автору пришлось выдумать совершенно новый мир.
+Tags:::  chatgpt 
+guid::: A:509k+>;W

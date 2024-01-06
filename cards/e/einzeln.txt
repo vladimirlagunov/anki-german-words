@@ -1,0 +1,8 @@
+Word::: einzeln
+WordTranslation::: отдельный, индивидуальный, единичный
+FrontExample::: Die Schüler müssen die Aufgaben einzeln lösen.
+BackExample::: Ученики должны решать задачи по отдельности.
+FrontExample2::: Die Teile können einzeln nachbestellt werden.
+BackExample2::: Запчасти можно заказать по отдельности.
+Tags:::  chatgpt 
+guid::: Jn2epQ7`2b

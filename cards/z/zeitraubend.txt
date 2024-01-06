@@ -1,0 +1,10 @@
+Word::: zeitraubend
+WordTranslation::: времязатратный, отнимающий много времени
+FrontExample::: Die Vorbereitung für das Fest war besonders zeitraubend.
+BackExample::: Подготовка к празднику была особенно времязатратной.
+FrontExample2::: Manche bürokratischen Prozesse sind unnötig zeitraubend.
+BackExample2::: Некоторые бюрократические процессы ненужно отнимают много времени.
+FrontExample3::: Das Zusammenbauen der Möbel ohne Anleitung ist zeitraubend.
+BackExample3::: Сборка мебели без инструкции занимает много времени.
+Tags:::  chatgpt 
+guid::: Gus.p)A^n*

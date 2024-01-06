@@ -1,0 +1,14 @@
+Word::: überfliegen
+WordTranslation::: <ul><li>перелетать, пролетать</li><li>бегло просматривать</li></ul>
+Explanation::: <ol><li><div><strong>Überfliegen</strong>: Этот глагол буквально означает "пролетать над чем-то", но в переносном смысле используется для описания поверхностного чтения. Например, "Ich habe den Artikel nur überflogen" (Я только бегло просмотрел статью).</div></li><li><div><strong>Flüchtig lesen</strong>: Это выражение также описывает поверхностное, быстрое чтение. "Flüchtig" переводится как "поверхностно" или "бегло". Например, "Ich habe die Anweisungen flüchtig gelesen" (Я поверхностно прочитал инструкции).</div></li><li><div><strong>Lesen</strong>: Это основное слово, означающее "читать". Оно используется в общем смысле чтения, не указывая на конкретный способ или цель чтения. Например, "Ich lese ein Buch" (Я читаю книгу) может означать чтение для удовольствия, учебы или информации.</div></li><li><div><strong>Durchlesen</strong>: Этот глагол имеет более специфическое значение. Он часто переводится как "прочитать полностью" или "прочесть насквозь". "Durchlesen" подразумевает, что человек внимательно и целенаправленно читает весь текст от начала до конца, возможно, в поисках конкретной информации или для тщательного понимания материала. Например, "Ich muss den Vertrag durchlesen" (Я должен тщательно прочитать контракт) подразумевает более внимательное чтение, чем просто беглый просмотр.</div></li></ol>
+DrittenPerson::: überfliegt
+Perfekt::: haben überflogen
+Präteritum::: überflog
+FrontExample::: Ich werde den Artikel schnell überfliegen, bevor wir in die Besprechung gehen.
+BackExample::: Я быстро пробегу глазами по статье перед тем, как мы пойдем на совещание.
+FrontExample2::: Kannst du bitte diese E-Mails überfliegen und mir sagen, ob etwas Dringendes dabei ist?
+BackExample2::: Можешь ли ты просмотреть эти письма и сказать мне, есть ли что-то срочное?
+FrontExample3::: Sie überflog das Buch und fand sofort das benötigte Kapitel.
+BackExample3::: Она бегло посмотрела книгу и сразу нашла нужную главу.
+Tags:::  chatgpt 
+guid::: o{<xsu&)3_

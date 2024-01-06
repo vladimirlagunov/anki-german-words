@@ -1,0 +1,13 @@
+Word::: Gegenteil
+WordTranslation::: противоположность
+Explanation::: <ol><li><div><strong>Gegenteil</strong>:</div><ul><li>Буквальный перевод: "противоположная часть" или "противоположное".</li><li>Используется для обозначения точной противоположности чего-либо, особенно в контексте конкретных объектов, понятий или характеристик.</li><li>Например: "Das Gegenteil von 'gut' ist 'schlecht'." (Противоположностью 'хорошего' является 'плохо').</li></ul></li><li><div><strong>Gegensatz</strong>:</div><ul><li>Буквальный перевод: "противопоставление", "контраст".</li><li>Используется для описания противоположности в более широком смысле, часто в контексте идей, мнений, ситуаций или аспектов.</li><li>Например: "In der Politik gibt es oft einen Gegensatz zwischen Liberalismus und Konservatismus." (В политике часто существует противопоставление между либерализмом и консерватизмом).</li></ul></li></ol>
+DerDieDas::: das
+Plural::: Gegenteile
+FrontExample::: Das Gegenteil von "gut" ist "schlecht".
+BackExample::: Противоположность слову "хорошо" - "плохо".
+FrontExample2::: Sie ist immer freundlich, das Gegenteil von ihrem Bruder.
+BackExample2::: Она всегда дружелюбна, в отличие от своего брата.
+FrontExample3::: Ich dachte, es wird einfach, aber es war genau das Gegenteil.
+BackExample3::: Я думал, это будет просто, но на самом деле оказалось совершенно наоборот.
+Tags:::  chatgpt 
+guid::: m,w}R:4g}*

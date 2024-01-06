@@ -1,0 +1,8 @@
+Word::: Zerlegung
+WordTranslation::: разбиение, разделение, демонтаж
+FrontExample::: Die Zerlegung eines Tierkörpers erfolgt in der Metzgerei.
+BackExample::: Разделка туши животного происходит в мясной лавке.
+FrontExample2::: Die Zerlegung eines großen Möbelstücks in seine Bestandteile erleichtert den Transport.
+BackExample2::: Разборка большого предмета мебели на составные части облегчает транспортировку.
+Tags:::  chatgpt 
+guid::: u[egko46WH

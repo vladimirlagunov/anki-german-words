@@ -1,0 +1,12 @@
+Word::: Gegenwart
+WordTranslation::: настоящее, настоящий момент
+DerDieDas::: die
+Plural::: —
+FrontExample::: Die Literatur spiegelt oft die Probleme der Gegenwart wider.
+BackExample::: Литература часто отражает проблемы настоящего времени.
+FrontExample2::: In Ihrer Gegenwart fühle ich mich immer wohl.
+BackExample2::: В вашем присутствии я всегда чувствую себя хорошо.
+FrontExample3::: Die Technologie entwickelt sich rasant in der Gegenwart.
+BackExample3::: Технологии стремительно развиваются в наше время.
+Tags:::  chatgpt 
+guid::: AwhC}rp?O:

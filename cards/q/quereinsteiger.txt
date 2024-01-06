@@ -1,0 +1,6 @@
+Word::: Quereinsteiger
+WordTranslation::: человек, перешедший в другую профессию, не имеющий специального образования в данной сфере
+DerDieDas::: der
+Plural::: Quereinsteiger
+Tags:::  chatgpt 
+guid::: y?z6L*TJd?

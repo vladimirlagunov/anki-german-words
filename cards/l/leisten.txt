@@ -1,0 +1,11 @@
+Word::: leisten
+WordTranslation::: достигать, выполнять, осуществлять
+DrittenPerson::: leistet
+Perfekt::: haben geleistet
+Präteritum::: leistete
+FrontExample::: Er kann sich einen neuen Computer nicht leisten.
+BackExample::: Он не может себе позволить новый компьютер.
+FrontExample2::: Diese Sportlerin hat eine außergewöhnliche Leistung vollbracht.
+BackExample2::: Эта спортсменка добилась исключительного результата.
+Tags:::  chatgpt 
+guid::: wqEBQoAM$Y

@@ -1,0 +1,11 @@
+Word::: einleiten
+WordTranslation::: начинать, приступать, запускать
+DrittenPerson::: leitet ein
+Perfekt::: haben eingeleitet
+Präteritum::: leitete ein
+FrontExample::: Die Firma wird eine Untersuchung einleiten.
+BackExample::: Компания приступит к расследованию.
+FrontExample2::: Wir müssen Maßnahmen einleiten, um die Umwelt zu schützen.
+BackExample2::: Нам необходимо ввести меры для защиты окружающей среды.
+Tags:::  chatgpt 
+guid::: xeI[W%?xZ~

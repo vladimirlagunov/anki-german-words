@@ -1,0 +1,11 @@
+Word::: einfügen
+WordTranslation::: вставлять
+DrittenPerson::: fügt ein
+Perfekt::: haben eingefügt
+Präteritum::: fügte ein
+FrontExample::: Bitte fügen Sie Ihren Namen in das Formular ein.
+BackExample::: Пожалуйста, вставьте свое имя в форму.
+FrontExample2::: Sie können das Bild ganz einfach in das Dokument einfügen.
+BackExample2::: Вы можете легко вставить изображение в документ.
+Tags:::  chatgpt 
+guid::: jrtc|$DAiz

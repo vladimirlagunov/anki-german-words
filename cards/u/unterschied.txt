@@ -7,5 +7,7 @@ BackExample::: Родители не делали различий между с
 FrontExample2::: Die kulturellen Unterschiede können zu Missverständnissen führen.
 
 BackExample2::: Культурные различия могут привести к недопониманиям.
+FrontExample3::: Es gibt keinen Unterschied.
+BackExample3::: Нет никакой разницы.
 Tags:::  chatgpt 
 guid::: svf9cmZ+h*

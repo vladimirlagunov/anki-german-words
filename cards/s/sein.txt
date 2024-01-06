@@ -1,0 +1,16 @@
+Word::: sein
+WordTranslation::: <ul>
+<li>быть</li>
+<li>существовать<br></li>
+</ul>
+DrittenPerson::: ist
+Perfekt::: sein gewesen
+Präteritum::: war
+FrontExample::: Herr Müller ist in seinem Zimmer.
+BackExample::: Господин Мюллер в своей комнате.
+FrontExample2::: Mir ist kalt.
+BackExample2::: Мне холодно.
+FrontExample3::: Ich bin dreiundzwanzig.
+BackExample3::: Мне двадцать три.
+Tags:::  A1 chatgpt 
+guid::: F/eQS`eDkx

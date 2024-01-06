@@ -1,0 +1,6 @@
+Word::: einbändige, zweibändige, dreibändige
+WordTranslation::: однотомный, двухтомный, трёхтомный
+FrontExample::: Ich habe mir die zweibändige Ausgabe von Goethes "Faust" gekauft.
+BackExample::: Я купил двухтомное издание "Фауста" Гёте.
+Tags:::  chatgpt 
+guid::: pAk]/&|.s^

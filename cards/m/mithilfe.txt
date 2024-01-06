@@ -1,0 +1,8 @@
+Word::: mithilfe
+WordTranslation::: с помощью, при помощи
+FrontExample::: Mithilfe seiner Freunde konnte er das Auto reparieren.
+BackExample::: Благодаря помощи своих друзей, он смог починить машину.
+FrontExample2::: Die Aufgabe wurde mithilfe eines Rechners gelöst.
+BackExample2::: Задача была решена с помощью компьютера.
+Tags:::  chatgpt 
+guid::: x_V7i_>EtW

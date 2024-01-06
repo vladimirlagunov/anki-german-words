@@ -1,0 +1,8 @@
+Word::: Veränderung
+WordTranslation::: изменение
+FrontExample::: Die Veränderung des Klimas ist eine große Herausforderung für uns alle.
+BackExample::: Изменение климата является большим вызовом для всех нас.
+FrontExample2::: Wir müssen uns auf die Veränderungen in der Wirtschaft einstellen.
+BackExample2::: Мы должны настроиться на изменения в экономике.
+Tags:::  chatgpt 
+guid::: k2}Eink<xl

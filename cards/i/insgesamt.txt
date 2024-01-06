@@ -1,0 +1,8 @@
+Word::: insgesamt
+WordTranslation::: в целом, всего, в общей сложности
+FrontExample::: Wir haben insgesamt 100 Euro für das Geschenk gesammelt.
+BackExample::: Мы собрали в общей сложности 100 евро на подарок.
+FrontExample2::: In der Firma arbeiten insgesamt 250 Menschen.
+BackExample2::: В компании работает в общей сложности 250 человек.
+Tags:::  chatgpt 
+guid::: F~zw^wPsH&

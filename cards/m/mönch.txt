@@ -1,0 +1,6 @@
+Word::: Mönch
+WordTranslation::: монах
+DerDieDas::: der
+Plural::: Mönche
+Tags::: 
+guid::: s,]~P1Pjtn

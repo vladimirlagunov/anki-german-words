@@ -1,0 +1,11 @@
+Word::: gießen
+WordTranslation::: лить, заливать, поливать
+DrittenPerson::: gießt
+Perfekt::: haben gegossen
+Präteritum::: goss
+FrontExample::: Ich muss die Blumen gießen.
+BackExample::: Мне нужно полить цветы.
+FrontExample2::: Sie gießt das geschmolzene Metall in eine Form.
+BackExample2::: Она заливает расплавленный металл в форму.
+Tags:::  chatgpt 
+guid::: HMj*kf^C;<

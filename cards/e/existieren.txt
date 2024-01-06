@@ -1,0 +1,13 @@
+Word::: existieren
+WordTranslation::: существовать
+DrittenPerson::: existiert
+Perfekt::: haben existiert
+Präteritum::: existierte
+FrontExample::: Einige Tierarten existieren nur in diesem speziellen Ökosystem.
+BackExample::: Некоторые виды животных существуют только в этой конкретной экосистеме.
+FrontExample2::: Das Restaurant existiert schon seit über hundert Jahren.
+BackExample2::: Ресторан существует уже более ста лет.
+FrontExample3::: In der Wissenschaft existieren viele Theorien, die noch bewiesen werden müssen.
+BackExample3::: В науке существует множество теорий, которые еще предстоит доказать.
+Tags:::  chatgpt 
+guid::: bM?_+Q]f}H

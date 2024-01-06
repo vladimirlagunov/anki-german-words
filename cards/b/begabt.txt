@@ -1,0 +1,8 @@
+Word::: begabt
+WordTranslation::: одарённый, талантливый
+FrontExample::: Er ist sehr musikalisch begabt.
+BackExample::: Он очень музыкально одарён.
+FrontExample2::: Mein Neffe ist sprachlich sehr begabt und spricht bereits vier Sprachen fließend.
+BackExample2::: Мой племянник очень талантлив в языках и уже свободно говорит на четырёх языках.
+Tags:::  chatgpt 
+guid::: xAqf=4x0eU

@@ -1,0 +1,9 @@
+Word::: Beitrag
+DerDieDas::: der
+Plural::: Beiträge
+FrontExample::: Ich habe den Beitrag für die Mitgliedschaft im Fitnessstudio bereits bezahlt.
+BackExample::: Я уже оплатил взнос за членство в фитнес-клубе.
+FrontExample2::: Der Artikel ist ein wichtiger Beitrag zur aktuellen Forschungsdiskussion.
+BackExample2::: Статья представляет собой важный вклад в текущее научное обсуждение.
+Tags:::  chatgpt 
+guid::: nZ-IC~@w<Q

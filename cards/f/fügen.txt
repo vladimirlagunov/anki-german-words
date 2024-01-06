@@ -1,0 +1,11 @@
+Word::: fügen
+WordTranslation::: <ul><li>соединять, добавлять, вставлять</li><li>подчиняться, следовать</li></ul>
+DrittenPerson::: fügt
+Perfekt::: haben gefügt
+Präteritum::: fügte
+FrontExample::: Sie fügte die Teile sorgfältig zusammen.
+BackExample::: Она аккуратно соединила детали.
+FrontExample2::: Das Schicksal fügte es, dass sie sich wiedertrafen.
+BackExample2::: Судьба распорядилась так, что они встретились снова.
+Tags:::  chatgpt 
+guid::: w+A1&Br.T&

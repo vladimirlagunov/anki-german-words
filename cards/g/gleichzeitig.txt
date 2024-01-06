@@ -1,0 +1,10 @@
+Word::: gleichzeitig
+WordTranslation::: одновременно
+FrontExample::: Wir können nicht gleichzeitig reden und zuhören.
+BackExample::: Мы не можем одновременно говорить и слушать.
+FrontExample2::: Die beiden Veranstaltungen finden gleichzeitig statt.
+BackExample2::: Две мероприятия проходят одновременно.
+FrontExample3::: Sie tippte eine Nachricht und hörte mir gleichzeitig zu.
+BackExample3::: Она печатала сообщение и одновременно слушала меня.
+Tags:::  chatgpt 
+guid::: OZ`Qw;xEm!
