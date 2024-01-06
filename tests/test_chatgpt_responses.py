@@ -196,7 +196,24 @@ from typing import List, Dict, Tuple
           'Пожалуйста, проверьте конфигурацию перенаправления в роутере.'),
          ('Eine automatische Weiterleitung an die neue Webseite ist eingerichtet.',
           'Установлено автоматическое перенаправление на новую веб-страницу.')]
-    )
+    ),
+
+    [
+        {'choices': [{'finish_reason': 'stop',
+                      'index': 0,
+                      'logprobs': None,
+                      'message': {'content': 'Es regnet in Strömen.\n'
+                                             'Льёт как из ведра.',
+                                  'role': 'assistant'}}],
+         'created': 1704147063,
+         'id': 'chatcmpl-8cKmt6QbK5rlrkvHD0kevwnGhFTUk',
+         'model': 'gpt-4-1106-preview',
+         'object': 'chat.completion',
+         'system_fingerprint': 'fp_3905aa4f79',
+         'usage': {'completion_tokens': 18, 'prompt_tokens': 158, 'total_tokens': 176}},
+        [('Es regnet in Strömen.',
+          'Льёт как из ведра.')]
+    ]
 ])
 def test_examples_from_chatgpt_responses(response: Dict, expected: List[Tuple[str, str]]):
     actual = list(converter.examples_from_chatgpt_responses(response))
