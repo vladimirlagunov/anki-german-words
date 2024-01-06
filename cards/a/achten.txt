@@ -1,0 +1,16 @@
+Word::: achten
+WordTranslation::: <ul>
+<li>обращать внимание, наблюдать, следить за чем-то</li>
+<li>уважать</li>
+</ul>
+DrittenPerson::: achtet
+Perfekt::: haben geachtet
+Präteritum::: achtete
+FrontExample::: Wir haben alle die Regeln zu achten.
+BackExample::: Мы все должны соблюдать правила.
+FrontExample2::: Ich achte meine Eltern sehr.
+BackExample2::: Я очень уважаю своих родителей.
+FrontExample3::: Achten Sie auf die Verkehrsregeln!
+BackExample3::: Соблюдайте правила дорожного движения!
+Tags:::  chatgpt 
+guid::: F_WV&nu]h&

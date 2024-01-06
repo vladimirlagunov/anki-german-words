@@ -1,0 +1,12 @@
+Word::: Geschirr
+WordTranslation::: посуда
+DerDieDas::: das
+Plural::: Geschirre
+FrontExample::: Für die Geburtstagsfeier brauche ich Geschirr für zwölf Personen.
+BackExample::: Для вечеринки по случаю дня рождения мне нужна посуда на двенадцать человек.
+FrontExample2::: Kannst du bitte das schmutzige Geschirr in die Spülmaschine räumen?
+BackExample2::: Можешь ли ты пожалуйста убрать грязную посуду в посудомоечную машину?
+FrontExample3::: Wir brauchen neues Geschirr, unseres ist schon alt und ein paar Teller sind zerbrochen.
+BackExample3::: Нам нужен новый набор посуды, наш старый, и несколько тарелок разбиты.
+Tags:::  chatgpt 
+guid::: OEL~WIS-N[

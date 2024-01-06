@@ -1,0 +1,12 @@
+Word::: Balkon
+WordTranslation::: балкон
+DerDieDas::: der
+Plural::: Balkons, Balkone
+FrontExample::: Die Wohnung hat auch einen kleinen Balkon.
+BackExample::: Квартира также имеет небольшой балкон.
+FrontExample2::: Wir frühstücken im Sommer immer auf dem Balkon.
+BackExample2::: Мы всегда завтракаем летом на балконе.
+FrontExample3::: Ich stelle Blumen auf den Balkon.
+BackExample3::: Я ставлю цветы на балкон.
+Tags:::  A1 chatgpt 
+guid::: n^;qB@{=C{

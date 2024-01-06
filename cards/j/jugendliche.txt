@@ -1,0 +1,12 @@
+Word::: Jugendliche
+WordTranslation::: подросток, юноша, девушка
+DerDieDas::: <ul><li>die – подросток-девочка</li><li>der – подросток-мальчик</li></ul>
+Plural::: Jugendliche
+FrontExample::: Viele Jugendliche kaufen gern ein.
+BackExample::: Многие подростки любят делать покупки.
+FrontExample2::: Jugendliche spielen oft zusammen Fußball.
+BackExample2::: Подростки часто играют вместе в футбол.
+FrontExample3::: Die Jugendliche liest ein Buch.
+BackExample3::: Подросток читает книгу.
+Tags:::  A1 chatgpt 
+guid::: o&!$`XI_02

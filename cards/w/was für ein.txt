@@ -1,0 +1,10 @@
+Word::: was für ein
+WordTranslation::: какой, какая, какое, какие
+FrontExample::: Was für eine Farbe möchten Sie?
+BackExample::: Какой цвет вы хотели бы?
+FrontExample2::: Was für ein schönes Wetter heute!
+BackExample2::: Какая сегодня прекрасная погода!
+FrontExample3::: Was für ein Auto hast du gekauft?
+BackExample3::: Какую машину ты купил?
+Tags:::  A1 chatgpt 
+guid::: J-KtOnIF6X

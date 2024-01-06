@@ -1,0 +1,10 @@
+Word::: aehnlich
+WordTranslation::: похожий
+FrontExample::: Dieses Auto ist einem Ferrari sehr ähnlich.
+BackExample::: Этот автомобиль очень похож на Ferrari.
+FrontExample2::: Dein neuer Pullover sieht meinem sehr ähnlich.
+BackExample2::: Твой новый свитер очень похож на мой.
+FrontExample3::: Er trägt eine Brille, die seiner Schwester ähnlich sieht.
+BackExample3::: Он носит очки, которые выглядят похожими на очки его сестры.
+Tags:::  chatgpt 
+guid::: Ngd>CO3]Zo

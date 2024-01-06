@@ -1,0 +1,10 @@
+Word::: ihr
+WordTranslation::: <ul><li>вы (второе лицо, множественное число, именительный падеж)</li><li>ей (третье лицо, женский род, дательный падеж)</li><li>их, им (третье лицо, множественное число, дательный падеж)</li></ul>
+FrontExample::: Habt ihr genug gegessen?
+BackExample::: Вы (ребята) съели достаточно?
+FrontExample2::: Ich habe ihr das Buch gegeben.
+BackExample2::: Я дал ей книгу.
+FrontExample3::: Ihr Haus ist sehr groß.
+BackExample3::: Их дом очень большой.
+Tags:::  A1 chatgpt 
+guid::: y6&Pg1+4h|

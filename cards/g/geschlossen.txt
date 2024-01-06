@@ -1,0 +1,10 @@
+Word::: geschlossen
+WordTranslation::: закрытый
+FrontExample::: Die Bank hat am Samstag geschlossen.
+BackExample::: Банк закрыт в субботу.
+FrontExample2::: Das Geschäft ist sonntags geschlossen.
+BackExample2::: Магазин закрыт по воскресеньям.
+FrontExample3::: Das Fenster ist geschlossen.
+BackExample3::: Окно закрыто.
+Tags:::  A1 chatgpt 
+guid::: svzbI:u)We

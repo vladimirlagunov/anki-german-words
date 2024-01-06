@@ -1,0 +1,10 @@
+Word::: bestellen
+WordTranslation::: заказывать, бронировать
+FrontExample::: Wir möchten bestellen, bitte.&nbsp;
+BackExample::: Мы хотим сделать заказ, пожалуйста.
+FrontExample2::: Dieses Buch haben wir nicht – sollen wir es für Sie bestellen?
+BackExample2::: У нас нет этой книги – хотите, мы закажем её для вас?
+FrontExample3::: Ich möchte eine Pizza bestellen.
+BackExample3::: Я хочу заказать пиццу.
+Tags:::  A1 chatgpt 
+guid::: HsA;VUccnI

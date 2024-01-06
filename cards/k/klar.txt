@@ -1,0 +1,10 @@
+Word::: klar
+WordTranslation::: <ul><li>ясно, очевидно, определённо</li><li>чисто</li></ul>
+FrontExample::: Kommst du mit? – Klar!
+BackExample::: Ты идешь с нами? – Конечно!
+FrontExample2::: Ist das Wasser klar?
+BackExample2::: Вода чистая?
+FrontExample3::: Klar, ich verstehe.
+BackExample3::: Конечно, я понимаю.
+Tags:::  A1 chatgpt 
+guid::: KB)uL/ofS9

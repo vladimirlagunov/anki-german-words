@@ -10,5 +10,5 @@ FrontExample2::: Er legt das Buch auf den Tisch.
 BackExample2::: Он кладет книгу на стол.
 FrontExample3::: Sie legt die Kleidung in den Schrank.
 BackExample3::: Она кладет одежду в шкаф.
-Tags:::  chatgpt 
+Tags:::  A1 chatgpt 
 guid::: qFcYcte/{Y

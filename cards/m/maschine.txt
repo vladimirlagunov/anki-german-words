@@ -1,0 +1,12 @@
+Word::: Maschine
+WordTranslation::: машина
+DerDieDas::: die
+Plural::: Maschinen
+FrontExample::: Die Waschmaschine ist günstig.
+BackExample::: Стиральная машина недорогая.
+FrontExample2::: Das ist eine Kaffeemaschine.
+BackExample2::: Это кофемашина.
+FrontExample3::: Die Maschine ist kaputt.
+BackExample3::: Машина сломана.
+Tags:::  A1 chatgpt 
+guid::: DiTI?kx,k!

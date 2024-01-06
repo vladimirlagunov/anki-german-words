@@ -1,0 +1,9 @@
+Word::: nicht
+WordTranslation::: не, нет
+FrontExample::: Das stimmt nicht.&nbsp;
+FrontExample2::: Das ist doch schön, nicht?
+BackExample2::: Это же красиво, не так ли?
+FrontExample3::: Ich habe nicht verstanden.
+BackExample3::: Я не понял.
+Tags:::  A1 chatgpt 
+guid::: w66c|JX5i?

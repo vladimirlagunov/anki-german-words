@@ -1,0 +1,12 @@
+Word::: Uhr
+WordTranslation::: час
+DerDieDas::: die
+Plural::: Uhren
+FrontExample::: Es ist 3 Uhr nachmittags.
+BackExample::: Сейчас 3 часа дня.
+FrontExample2::: Wie spät ist es? - Es ist halb acht Uhr.
+BackExample2::: Который час? - Сейчас половина восьмого.
+FrontExample3::: Die Uhr an der Wand ist kaputt.
+BackExample3::: Часы на стене сломаны.
+Tags:::  A1 chatgpt 
+guid::: eB%Nmdanlm

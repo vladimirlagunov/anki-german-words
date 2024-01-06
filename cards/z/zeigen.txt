@@ -1,0 +1,14 @@
+Word::: zeigen
+WordTranslation::: <ul>
+<li>показывать, указывать</li>
+<li>продемонстрировать</li>
+</ul>
+DrittenPerson::: zeigt
+Perfekt::: haben gezeigt
+Präteritum::: zeigte
+FrontExample::: Zeig mir bitte deine Hausaufgaben.
+BackExample::: Покажи мне свою домашнюю работу, пожалуйста.
+FrontExample2::: Der Bahnhof ist nicht weit entfernt. Ich zeige Ihnen den Weg.
+BackExample2::: Вокзал находится недалеко. Я покажу вам дорогу.
+Tags::: 
+guid::: uXwCD)US=k

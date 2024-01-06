@@ -1,0 +1,12 @@
+Word::: Kurs
+WordTranslation::: курс
+DerDieDas::: der
+Plural::: Kurse
+FrontExample::: Der Deutschkurs geht bis zum Sommer.
+BackExample::: Курс немецкого языка продолжается до лета.
+FrontExample2::: Ich habe einen Kurs in Deutsch begonnen.
+BackExample2::: Я начал курс по немецкому языку.
+FrontExample3::: Mein Schwimmkurs findet zweimal pro Woche statt.
+BackExample3::: Мой курс плавания проводится два раза в неделю.
+Tags:::  A1 chatgpt 
+guid::: J+7fK>Outw

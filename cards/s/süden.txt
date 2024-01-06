@@ -1,0 +1,12 @@
+Word::: Süden
+WordTranslation::: юг
+DerDieDas::: der
+Plural::: —
+FrontExample::: Deutschland liegt nördlich von den Alpen und im Süden von Dänemark.
+BackExample::: Германия находится к северу от Альп и на юге от Дании.
+FrontExample2::: Wir fahren im Sommer immer in den Süden.
+BackExample2::: Летом мы всегда едем на юг.
+FrontExample3::: Der Wind kommt aus dem Süden.
+BackExample3::: Ветер идет с юга.
+Tags:::  A1 chatgpt 
+guid::: v6+H`89?I3

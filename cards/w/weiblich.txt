@@ -1,0 +1,6 @@
+Word::: weiblich
+WordTranslation::: женский
+FrontExample::: Kreuzen Sie bitte an: „weiblich“ oder „männlich“.
+BackExample::: Пожалуйста, отметьте: "женский" или "мужской".
+Tags:::  A1 chatgpt 
+guid::: v%%$t`D&O*

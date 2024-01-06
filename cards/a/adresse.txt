@@ -1,0 +1,13 @@
+Word::: Adresse
+WordTranslation::: адрес<br><ul>
+</ul>
+DerDieDas::: die
+Plural::: Adressen
+FrontExample::: Können Sie mir seine Adresse sagen?
+BackExample::: Можете ли вы сказать мне его адрес?
+FrontExample2::: Meine Adresse ist Berliner Straße 5.
+BackExample2::: Мой адрес - Берлинская улица, дом 5.
+FrontExample3::: Wo ist die Adresse von dem Hotel?
+BackExample3::: Где находится адрес этого отеля?
+Tags:::  A1 chatgpt 
+guid::: qx23Y,+mw2

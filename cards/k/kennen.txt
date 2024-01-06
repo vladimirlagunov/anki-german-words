@@ -4,5 +4,9 @@ Explanation::: <h3>Wissen</h3><div>"Wissen" относится к знанию �
 DrittenPerson::: kennt
 Perfekt::: haben gekannt
 Präteritum::: ich	kannte
-Tags:::  chatgpt 
+FrontExample::: Kennst du schon Maria?
+BackExample::: Ты уже знаешь Марию?
+FrontExample2::: Kennt ihr dieses Lied?
+BackExample2::: Вы знаете эту песню?
+Tags:::  A1 chatgpt 
 guid::: MKu6l#8KCY

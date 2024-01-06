@@ -1,0 +1,12 @@
+Word::: Leben
+WordTranslation::: жизнь
+DerDieDas::: das
+Plural::: Leben
+FrontExample::: Das Leben in diesem Land ist teuer.
+BackExample::: Жизнь в этой стране дорогая.
+FrontExample2::: Ich mag mein Leben.
+BackExample2::: Мне нравится моя жизнь.
+FrontExample3::: Das Leben ist schön.
+BackExample3::: Жизнь прекрасна.
+Tags:::  A1 chatgpt 
+guid::: P`,{&h2|S<

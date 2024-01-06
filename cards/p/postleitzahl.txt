@@ -1,0 +1,10 @@
+Word::: Postleitzahl
+WordTranslation::: почтовый индекс
+DerDieDas::: die
+Plural::: Postleitzahlen
+FrontExample::: Wie ist Ihre Postleitzahl?
+BackExample::: Какой ваш почтовый индекс?
+FrontExample2::: Ich brauche Ihre Postleitzahl für das Formular.
+BackExample2::: Мне нужен ваш почтовый индекс для заполнения формуляра.
+Tags:::  A1 chatgpt 
+guid::: Lqs8%XwEEy

@@ -1,0 +1,12 @@
+Word::: Rechnung
+WordTranslation::: счёт
+DerDieDas::: die
+Plural::: Rechnungen
+FrontExample::: Die Rechnung, bitte.
+BackExample::: Счет, пожалуйста.
+FrontExample2::: Kann ich die Rechnung haben?
+BackExample2::: Можно мне счет?
+FrontExample3::: Was kostet das? Ich möchte die Rechnung sehen.
+BackExample3::: Сколько это стоит? Я хочу посмотреть счет.
+Tags:::  A1 chatgpt 
+guid::: k}q`4xzPAU

@@ -1,0 +1,12 @@
+Word::: Getreide
+WordTranslation::: зерно
+DerDieDas::: das
+Plural::: Getreide
+FrontExample::: Auf dem Feld wächst viel Getreide.
+BackExample::: На поле растет много зерновых.
+FrontExample2::: Getreide wird oft zu Mehl gemahlen.
+BackExample2::: Зерновые часто мелят в муку.
+FrontExample3::: Der Bauer lagert das Getreide in der Scheune.
+BackExample3::: Фермер хранит зерно в амбаре.
+Tags:::  chatgpt 
+guid::: ih${;MbVmL

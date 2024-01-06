@@ -1,0 +1,15 @@
+Word::: Film
+WordTranslation::: <ul>
+<li>кино, кинофильм</li>
+<li>фотоплёнка</li>
+</ul>
+DerDieDas::: der
+Plural::: Filme
+FrontExample::: Ich möchte gern diesen Film sehen.
+BackExample::: Я бы хотел посмотреть этот фильм.
+FrontExample2::: Der Film ist sehr spannend.
+BackExample2::: Фильм очень увлекательный.
+FrontExample3::: Hast du den neuen Film schon gesehen?
+BackExample3::: Ты уже видел новый фильм?
+Tags:::  A1 chatgpt 
+guid::: B4J7r<5^8M

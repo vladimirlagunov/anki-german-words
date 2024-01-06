@@ -1,0 +1,12 @@
+Word::: Kasse
+WordTranslation::: касса
+DerDieDas::: die
+Plural::: Kassen
+FrontExample::: Zahlen Sie bitte an der Kasse.
+BackExample::: Пожалуйста, оплатите на кассе.
+FrontExample2::: Gehen Sie zur Kasse und bezahlen Sie Ihre Waren.
+BackExample2::: Идите к кассе и оплатите ваши товары.
+FrontExample3::: Wo ist die Kasse in diesem Supermarkt?
+BackExample3::: Где находится касса в этом супермаркете?
+Tags:::  A1 chatgpt 
+guid::: JD%XaiZ{oH

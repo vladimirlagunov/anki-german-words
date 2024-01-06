@@ -1,0 +1,12 @@
+Word::: Haus
+WordTranslation::: дом
+DerDieDas::: das
+Plural::: Häuser
+FrontExample::: In welchem Haus wohnst du?
+BackExample::: В каком доме ты живешь?
+FrontExample2::: Ich gehe jetzt nach Hause.
+BackExample2::: Я сейчас иду домой.
+FrontExample3::: Paul ist nicht zu Hause.
+BackExample3::: Павел не дома.
+Tags:::  A1 chatgpt 
+guid::: g?C+Njxq96

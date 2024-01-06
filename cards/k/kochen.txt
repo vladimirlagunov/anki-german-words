@@ -1,0 +1,13 @@
+Word::: kochen
+WordTranslation::: варить, готовить
+DrittenPerson::: kocht
+Perfekt::: haben gekocht
+Präteritum::: kochte
+FrontExample::: Herr Georgi kann gut kochen.
+BackExample::: Господин Георгий хорошо готовит.
+FrontExample2::: Ich kann kein Ei kochen.
+BackExample2::: Я не умею варить яйцо.
+FrontExample3::: Wir kochen heute Spaghetti.
+BackExample3::: Сегодня мы варим спагетти.
+Tags:::  A1 chatgpt 
+guid::: C8::ce{(K1

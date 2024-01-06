@@ -1,0 +1,10 @@
+Word::: viel
+WordTranslation::: много
+FrontExample::: Hier regnet es viel.
+BackExample::: Здесь много идет дождь.
+FrontExample2::: Ich habe viel Zeit.
+BackExample2::: У меня много времени.
+FrontExample3::: Er trinkt viel Wasser.
+BackExample3::: Он пьет много воды.
+Tags:::  A1 chatgpt 
+guid::: F[6M6Ipdj;

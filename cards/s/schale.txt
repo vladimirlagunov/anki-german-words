@@ -5,5 +5,9 @@ DerDieDas::: die
 Plural::: Schalen
 FrontExample::: Kannst du die Äpfel in die Schale dort legen?
 BackExample::: Вы можете положить яблоки в миску?
-Tags::: 
+FrontExample2::: Ich esse mein Müsli jeden Morgen aus einer Schale.
+BackExample2::: Я ем свою кашу каждое утро из миски.
+FrontExample3::: Die Schale der Orange ist sehr aromatisch und kann zum Backen verwendet werden.
+BackExample3::: Кожура апельсина очень ароматная и может быть использована для выпечки.
+Tags:::  chatgpt 
 guid::: ntt+j+H=+I

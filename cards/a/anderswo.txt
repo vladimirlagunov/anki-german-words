@@ -1,0 +1,10 @@
+Word::: anderswo
+WordTranslation::: в другом месте, где-то еще
+FrontExample::: Ich habe mein Glück anderswo gefunden.
+BackExample::: Я нашёл своё счастье в другом месте.
+FrontExample2::: Sie sucht nach einer besseren Arbeit anderswo.
+BackExample2::: Она ищет лучшую работу в другом месте.
+FrontExample3::: Er lebt jetzt anderswo und kommt selten zu Besuch.
+BackExample3::: Теперь он живёт в другом месте и редко приезжает в гости.
+Tags:::  chatgpt 
+guid::: O^Pb9`?T-e

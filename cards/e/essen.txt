@@ -1,0 +1,13 @@
+Word::: essen
+WordTranslation::: есть, кушать
+DrittenPerson::: isst
+Perfekt::: haben gegessen
+Präteritum::: aß
+FrontExample::: Was gibt es zu essen?
+BackExample::: Что есть поесть?
+FrontExample2::: Ich esse einen Apfel.
+BackExample2::: Я ем яблоко.
+FrontExample3::: Wir essen zusammen zu Abend.
+BackExample3::: Мы вместе ужинаем.
+Tags:::  A1 chatgpt 
+guid::: uakbr`I%5x

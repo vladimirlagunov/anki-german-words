@@ -1,0 +1,12 @@
+Word::: Studium
+WordTranslation::: учеба, обучение, вузовское образование
+DerDieDas::: das
+Plural::: Studien
+FrontExample::: Das Studium beginnt im Oktober.
+BackExample::: Учеба начинается в октябре.
+FrontExample2::: Mein Studium an der Universität dauert vier Jahre.
+BackExample2::: Мое обучение в университете длится четыре года.
+FrontExample3::: Ich freue mich auf das Studium.
+BackExample3::: Я рад началу учебы.
+Tags:::  A1 chatgpt 
+guid::: H.C|6T6?m3

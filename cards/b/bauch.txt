@@ -6,5 +6,5 @@ FrontExample::: Ich habe Schmerzen in meinem Bauch.
 BackExample::: У меня боли в животе.
 FrontExample2::: Er schlug ihm mit der Faust in den Bauch.
 BackExample2::: Он ударил его кулаком в живот.
-Tags:::  chatgpt 
+Tags:::  A1 chatgpt 
 guid::: JYK%Lp%?|0

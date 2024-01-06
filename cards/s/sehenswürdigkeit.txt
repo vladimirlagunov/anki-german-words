@@ -2,5 +2,11 @@ Word::: Sehenswürdigkeit
 WordTranslation::: достопримечательность
 DerDieDas::: die
 Plural::: Sehenswürdigkeiten
-Tags::: 
+FrontExample::: Berlin hat viele Sehenswürdigkeiten.
+BackExample::: В Берлине много достопримечательностей.
+FrontExample2::: Die Sehenswürdigkeit ist sehr alt.
+BackExample2::: Достопримечательность очень старая.
+FrontExample3::: Ich möchte diese Sehenswürdigkeit sehen.
+BackExample3::: Я хочу увидеть эту достопримечательность.
+Tags:::  A1 chatgpt 
 guid::: mgWz|XBEZZ

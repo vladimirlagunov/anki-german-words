@@ -1,0 +1,12 @@
+Word::: Opa
+WordTranslation::: дед
+DerDieDas::: der
+Plural::: Opas
+FrontExample::: Mein Opa heißt Hans.
+BackExample::: Моего дедушку зовут Ханс.
+FrontExample2::: Ich spiele gern mit meinem Opa Fußball.
+BackExample2::: Я люблю играть в футбол со своим дедушкой.
+FrontExample3::: Opa liest mir oft Geschichten vor.
+BackExample3::: Дедушка часто читает мне сказки.
+Tags:::  A1 chatgpt 
+guid::: K2pP9<o778

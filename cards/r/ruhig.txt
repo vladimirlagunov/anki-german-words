@@ -1,0 +1,10 @@
+Word::: ruhig
+WordTranslation::: спокойный, тихий, безмятежный
+FrontExample::: Ich möchte ein ruhiges Zimmer.
+BackExample::: Я хочу тихую комнату.
+FrontExample2::: Du kannst ruhig hier sitzen.
+BackExample2::: Ты можешь спокойно здесь сидеть.
+FrontExample3::: Es ist hier sehr ruhig.
+BackExample3::: Здесь очень тихо.
+Tags:::  A1 chatgpt 
+guid::: JHMd>koZ9/

@@ -1,0 +1,12 @@
+Word::: Treppe
+WordTranslation::: лестница
+DerDieDas::: die
+Plural::: Treppen
+FrontExample::: Ich gehe die Treppe hoch.
+BackExample::: Я иду наверх по лестнице.
+FrontExample2::: Die Treppe ist sehr lang.
+BackExample2::: Лестница очень длинная.
+FrontExample3::: Die Katze sitzt auf der Treppe.
+BackExample3::: Кошка сидит на лестнице.
+Tags:::  A1 chatgpt 
+guid::: vc5<DJED_{

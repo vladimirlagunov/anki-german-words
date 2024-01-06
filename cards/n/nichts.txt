@@ -1,0 +1,10 @@
+Word::: nichts
+WordTranslation::: ничего
+FrontExample::: Das macht nichts.
+BackExample::: Это не имеет значения.
+FrontExample2::: Hier kaufe ich nichts.
+BackExample2::: Здесь я ничего не покупаю.
+FrontExample3::: Ich habe nichts.
+BackExample3::: У меня ничего нет.
+Tags:::  A1 chatgpt 
+guid::: p4@>>Gf;w!

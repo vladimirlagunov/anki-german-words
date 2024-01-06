@@ -1,0 +1,10 @@
+Word::: schnell
+WordTranslation::: быстрый, скорый, стремительный
+FrontExample::: Er fährt schnell.
+BackExample::: Он быстро едет.
+FrontExample2::: Das Auto fährt sehr schnell.
+BackExample2::: Автомобиль едет очень быстро.
+FrontExample3::: Ich muss schnell zum Bahnhof!
+BackExample3::: Мне нужно быстро добраться до вокзала!
+Tags:::  A1 chatgpt 
+guid::: GVcn4j&)6.

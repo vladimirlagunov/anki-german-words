@@ -3,5 +3,11 @@ WordTranslation::: смеяться
 DrittenPerson::: lacht
 Perfekt::: haben gelacht
 Präteritum::: lachte
-Tags::: 
+FrontExample::: Die Kinder lachen auf dem Spielplatz.
+BackExample::: Дети смеются на детской площадке.
+FrontExample2::: Ich lache über einen lustigen Witz.
+BackExample2::: Я смеюсь над смешной шуткой.
+FrontExample3::: Kannst du bitte nicht so laut lachen?
+BackExample3::: Не мог бы ты не смеяться так громко?
+Tags:::  A1 chatgpt 
 guid::: QU~k|zt@kx

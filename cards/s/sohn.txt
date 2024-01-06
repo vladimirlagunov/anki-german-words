@@ -1,0 +1,12 @@
+Word::: Sohn
+WordTranslation::: сын
+DerDieDas::: der
+Plural::: Söhne
+FrontExample::: Das ist Hans, mein Sohn.
+BackExample::: Это Ганс, мой сын.
+FrontExample2::: Mein Sohn ist acht Jahre alt.
+BackExample2::: Мой сын восемь лет.
+FrontExample3::: Der Sohn spielt im Garten.
+BackExample3::: Сын играет в саду.
+Tags:::  A1 chatgpt 
+guid::: rO&GSJci)1

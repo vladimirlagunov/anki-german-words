@@ -1,0 +1,12 @@
+Word::: Kino
+WordTranslation::: кино
+DerDieDas::: das
+Plural::: Kinos
+FrontExample::: Wir sehen heute Abend im Kino einen schönen Film.
+BackExample::: Сегодня вечером мы смотрим в кино хороший фильм.
+FrontExample2::: Gehen wir ins Kino?
+BackExample2::: Идем в кино?
+FrontExample3::: Ich mag Kino sehr.
+BackExample3::: Я очень люблю кино.
+Tags:::  A1 chatgpt 
+guid::: L^]XhSezZ

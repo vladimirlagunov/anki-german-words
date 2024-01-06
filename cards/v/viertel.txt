@@ -1,0 +1,18 @@
+Word::: Viertel
+WordTranslation::: <ul>
+<li>квартал</li>
+<li>четверть</li>
+</ul>
+DerDieDas::: <ul>
+<li>das – in Deutchland, in Österreich</li>
+<li>der – in der Schweiz</li>
+</ul>
+Plural::: Viertel
+FrontExample::: Es ist Viertel vor acht.
+BackExample::: Сейчас без четверти восемь.
+FrontExample2::: Ich wohne im Viertel nebenan.
+BackExample2::: Я живу в соседнем квартале.
+FrontExample3::: Kannst du ein Viertel Kilo Tomaten kaufen?
+BackExample3::: Можешь купить четверть килограмма помидоров?
+Tags:::  A1 chatgpt 
+guid::: ohET+Fgk$J

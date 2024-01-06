@@ -1,0 +1,10 @@
+Word::: wann
+WordTranslation::: когда
+FrontExample::: Wann bist du fertig?
+BackExample::: Когда ты будешь готов(а)?
+FrontExample2::: Wann treffen wir uns?
+BackExample2::: Когда мы встречаемся?
+FrontExample3::: Wann beginnt der Film?
+BackExample3::: Когда начинается фильм?
+Tags:::  A1 chatgpt 
+guid::: i(X9ovoo_V

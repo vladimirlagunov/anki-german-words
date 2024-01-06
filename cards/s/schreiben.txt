@@ -1,0 +1,13 @@
+Word::: schreiben
+WordTranslation::: писать, записывать
+DrittenPerson::: schreibt
+Perfekt::: haben geschrieben
+Präteritum::: schrieb
+FrontExample::: Er schreibt jeden Tag fünfzig E-Mails.
+BackExample::: Он пишет каждый день пятьдесят электронных писем.
+FrontExample2::: Ich schreibe einen Brief.
+BackExample2::: Я пишу письмо.
+FrontExample3::: Kannst du mir schreiben?
+BackExample3::: Ты можешь мне написать?
+Tags:::  A1 chatgpt 
+guid::: fp__te1T$t

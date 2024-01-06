@@ -1,0 +1,10 @@
+Word::: oben
+WordTranslation::: вверху, наверху, сверху
+FrontExample::: Ich wohne oben.
+BackExample::: Я живу наверху.
+FrontExample2::: Das Buch liegt oben auf dem Regal.
+BackExample2::: Книга лежит наверху на полке.
+FrontExample3::: Meine Wohnung ist oben im letzten Stock.
+BackExample3::: Моя квартира находится наверху, на последнем этаже.
+Tags:::  A1 chatgpt 
+guid::: f0/?X&Bw5`

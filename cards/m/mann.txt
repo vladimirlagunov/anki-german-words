@@ -1,0 +1,15 @@
+Word::: Mann
+WordTranslation::: <ul>
+<li>мужчина<br></li>
+<li>муж, супруг</li>
+</ul>
+DerDieDas::: der
+Plural::: Männer
+FrontExample::: Mein Mann arbeitet bei der Polizei.
+BackExample::: Мой муж работает в полиции.
+FrontExample2::: Der Mann liest eine Zeitung.
+BackExample2::: Мужчина читает газету.
+FrontExample3::: Der Mann isst einen Apfel.
+BackExample3::: Мужчина ест яблоко.
+Tags:::  A1 chatgpt 
+guid::: DLd3mAS[9T

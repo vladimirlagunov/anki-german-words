@@ -1,0 +1,10 @@
+Word::: groß
+WordTranslation::: большой
+FrontExample::: Mein Bruder und ich sind gleich groß.
+BackExample::: Мой брат и я одинакового роста.
+FrontExample2::: Frankfurt ist eine große Stadt.
+BackExample2::: Франкфурт - большой город.
+FrontExample3::: Das Haus ist groß.
+BackExample3::: Дом большой.
+Tags:::  A1 chatgpt 
+guid::: nz}ie#9$*T

@@ -1,0 +1,10 @@
+Word::: heute
+WordTranslation::: сегодня
+FrontExample::: Heute ist ein schöner Tag.
+BackExample::: Сегодня хороший день.
+FrontExample2::: Heute gehe ich ins Kino.
+BackExample2::: Сегодня я иду в кино.
+FrontExample3::: Was machst du heute Abend?
+BackExample3::: Что ты делаешь сегодня вечером?
+Tags:::  A1 chatgpt 
+guid::: h<{qavqKR`

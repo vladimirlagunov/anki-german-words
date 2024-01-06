@@ -1,0 +1,10 @@
+Word::: schon
+WordTranslation::: уже
+FrontExample::: Ist das Essen schon fertig?
+BackExample::: Еда уже готова?
+FrontExample2::: Hast du schon gegessen?
+BackExample2::: Ты уже поел?
+FrontExample3::: Ich habe schon Hausaufgaben gemacht.
+BackExample3::: Я уже сделал домашнее задание.
+Tags:::  A1 chatgpt 
+guid::: C@bJG.;Q|R

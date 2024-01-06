@@ -1,0 +1,12 @@
+Word::: Gast
+WordTranslation::: гость, гостья
+DerDieDas::: der
+Plural::: Gäste
+FrontExample::: Am Wochenende haben wir mehrere Gäste.
+BackExample::: На выходных у нас будет несколько гостей.
+FrontExample2::: Wir haben einen Gast zum Abendessen.
+BackExample2::: У нас вечером гость на ужине.
+FrontExample3::: Ich bin heute Abend Gast bei Freunden.
+BackExample3::: Сегодня вечером я гость у друзей.
+Tags:::  A1 chatgpt 
+guid::: oE!ecUE!gi

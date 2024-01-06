@@ -1,0 +1,12 @@
+Word::: Buchstabe
+WordTranslation::: буква
+DerDieDas::: der
+Plural::: Buchstaben
+FrontExample::: Diesen Buchstaben gibt es in meiner Sprache nicht.
+BackExample::: Этой буквы нет в моем языке.
+FrontExample2::: Jeder Buchstabe im Alphabet hat seinen eigenen Klang.
+BackExample2::: Каждая буква в алфавите имеет свой собственный звук.
+FrontExample3::: Wie schreibt man diesen Buchstaben?
+BackExample3::: Как пишется эта буква?
+Tags:::  A1 chatgpt 
+guid::: D$CGdBe2S<

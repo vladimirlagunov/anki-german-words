@@ -1,0 +1,10 @@
+Word::: tschüss
+WordTranslation::: пока (прощание)
+FrontExample::: Junge Leute sagen meistens „tschüss!“ und nicht „auf Wiedersehen“.
+BackExample::: Молодые люди чаще всего говорят "пока!" и не "до свидания".
+FrontExample2::: Tschüss, bis morgen!
+BackExample2::: Пока, до завтра!
+FrontExample3::: Mama, ich gehe! Tschüss!
+BackExample3::: Мама, я иду! Пока!
+Tags:::  A1 chatgpt 
+guid::: QjwOa>M`S^

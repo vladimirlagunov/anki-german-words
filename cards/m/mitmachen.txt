@@ -4,5 +4,9 @@ Explanation::: “Teilnehmen” чаще используется, когда р
 Perfekt::: hat mitgemacht
 FrontExample::: Darf ich mitmachen?
 BackExample::: Могу я присоединиться?
-Tags::: 
+FrontExample2::: Warum macht ihr nicht mit?
+BackExample2::: Почему вы не участвуете?
+FrontExample3::: Willst du bei unserem Spiel mitmachen?
+BackExample3::: Хочешь присоединиться к нашей игре?
+Tags:::  A1 chatgpt 
 guid::: tH:FtuLEl1

@@ -1,0 +1,15 @@
+Word::: Reise
+WordTranslation::: <ul>
+<li>поездка</li>
+<li>путешествие</li>
+</ul>
+DerDieDas::: die
+Plural::: Reisen
+FrontExample::: Wir machen eine Reise nach Österreich.
+BackExample::: Мы совершаем путешествие в Австрию.
+FrontExample2::: Ich freue mich auf meine Reise nach Berlin.
+BackExample2::: Я радуюсь поездке в Берлин.
+FrontExample3::: Möchtest du eine Reise um die Welt machen?
+BackExample3::: Хочешь совершить путешествие вокруг света?
+Tags:::  A1 chatgpt 
+guid::: HPemM>F$[b

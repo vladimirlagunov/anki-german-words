@@ -1,0 +1,10 @@
+Word::: euer
+WordTranslation::: ваш, ваша, ваше, ваши
+FrontExample::: Euer Kurs beginnt heute.
+BackExample::: Ваш курс начинается сегодня.
+FrontExample2::: Ist das euer Hund?
+BackExample2::: Это ваша собака?
+FrontExample3::: Wo ist euer Lehrer?
+BackExample3::: Где ваш учитель?
+Tags:::  A1 chatgpt 
+guid::: D;p6+IAzm#

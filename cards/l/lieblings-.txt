@@ -1,0 +1,10 @@
+Word::: Lieblings-
+WordTranslation::: любимый, излюбленный
+FrontExample::: Mein Lieblingsfilm ist „Schwarze Augen“.
+BackExample::: Мой любимый фильм - "Чёрные глаза".
+FrontExample2::: Lieblingsfarbe
+BackExample2::: Любимый цвет.
+FrontExample3::: Das ist mein Lieblingsbuch.
+BackExample3::: Это моя любимая книга.
+Tags:::  A1 chatgpt 
+guid::: Kl[rx}Q&IM

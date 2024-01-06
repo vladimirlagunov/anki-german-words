@@ -1,0 +1,14 @@
+Word::: bedanken
+WordTranslation::: благодарить
+Explanation::: Ich bedanke mich bei … für …
+DrittenPerson::: bedankt
+Perfekt::: haben bedankt
+Präteritum::: bedankte
+FrontExample::: Ich bedanke mich bei Ihnen für&nbsp;diese Aussprache.
+BackExample::: Я благодарю Вас за эту дискуссию.
+FrontExample2::: Ich möchte mich bei dir für die Einladung bedanken.
+BackExample2::: Я хочу поблагодарить тебя за приглашение.
+FrontExample3::: Wir bedanken uns herzlich für Ihre Unterstützung.
+BackExample3::: Мы сердечно благодарим Вас за поддержку.
+Tags:::  chatgpt 
+guid::: r.!uW]JooO

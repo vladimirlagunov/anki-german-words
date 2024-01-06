@@ -1,0 +1,12 @@
+Word::: Lehrer
+WordTranslation::: преподаватель, учитель
+DerDieDas::: der
+Plural::: Lehrer
+FrontExample::: Unsere Deutschlehrerin heißt Frau Müller.
+BackExample::: Нашу учительницу немецкого языка зовут фрау Мюллер.
+FrontExample2::: Mein Lehrer ist nett.
+BackExample2::: Мой учитель добрый.
+FrontExample3::: Der Lehrer schreibt an die Tafel.
+BackExample3::: Учитель пишет на доске.
+Tags:::  A1 chatgpt 
+guid::: EmEvZ2;g@:

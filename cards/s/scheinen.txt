@@ -12,5 +12,5 @@ FrontExample2::: Mir scheint, du hast recht.
 BackExample2::: Мне кажется, ты прав.
 FrontExample3::: Es scheint, dass er krank ist.
 BackExample3::: Кажется, что он болен.
-Tags:::  chatgpt 
+Tags:::  A1 chatgpt 
 guid::: k~A<4OE199

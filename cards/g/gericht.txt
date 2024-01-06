@@ -1,0 +1,13 @@
+Word::: Gericht
+WordTranslation::: <ul>
+<li>блюдо</li>
+<li>суд</li>
+</ul>
+DerDieDas::: das
+Plural::: Gerichte
+FrontExample::: Ich habe gestern im Restaurant ein leckeres Gericht bestellt.
+BackExample::: Вчера в ресторане я заказал вкусное блюдо.
+FrontExample2::: Das Gericht hat den Angeklagten für schuldig befunden.
+BackExample2::: Суд признал подсудимого виновным.
+Tags:::  chatgpt 
+guid::: K2v<:`!&{k

@@ -1,0 +1,13 @@
+Word::: Alter
+WordTranslation::: <ul>
+<li>возраст</li>
+<li>старость</li>
+</ul>
+DerDieDas::: das
+Plural::: Alter
+FrontExample::: Alter: 26 Jahre.
+BackExample::: Возраст: 26 лет.
+FrontExample2::: Wie alt bist du? Ich bin 11 Jahre alt.
+BackExample2::: Сколько тебе лет? Мне 11 лет.
+Tags:::  A1 chatgpt 
+guid::: pqqK2VV{$B

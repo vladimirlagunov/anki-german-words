@@ -1,0 +1,10 @@
+Word::: ihm
+WordTranslation::: ему (третье лицо, мужской род, дательный падеж)
+FrontExample::: Ich habe ihm ein Buch geliehen.
+BackExample::: Я одолжил ему книгу.
+FrontExample2::: Sie hat ihm zum Geburtstag gratuliert.
+BackExample2::: Она поздравила его с днём рождения.
+FrontExample3::: Er hat ihm das Geheimnis anvertraut.
+BackExample3::: Он доверил ему секрет.
+Tags:::  A1 chatgpt 
+guid::: tjb:DrD(0f

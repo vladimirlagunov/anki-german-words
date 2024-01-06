@@ -1,0 +1,12 @@
+Word::: Oma
+WordTranslation::: бабушка
+DerDieDas::: die
+Plural::: Omas
+FrontExample::: Meine Oma ist schon tot.
+BackExample::: Моя бабушка уже умерла.
+FrontExample2::: Meine Oma backt den besten Kuchen.
+BackExample2::: Моя бабушка печёт лучший пирог.
+FrontExample3::: Ich besuche meine Oma am Wochenende.
+BackExample3::: Я навещаю свою бабушку на выходных.
+Tags:::  A1 chatgpt 
+guid::: zVr$)[DHZ6

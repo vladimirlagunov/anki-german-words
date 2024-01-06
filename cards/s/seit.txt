@@ -1,0 +1,10 @@
+Word::: seit
+WordTranslation::: с, со времени, с тех пор как
+FrontExample::: Ich wohne seit drei Jahren in Köln.
+BackExample::: Я живу в Кёльне уже три года.
+FrontExample2::: Ich lebe seit zwei Monaten hier.
+BackExample2::: Я живу здесь уже два месяца.
+FrontExample3::: Wir kennen uns seit der Grundschule.
+BackExample3::: Мы знаем друг друга со времен начальной школы.
+Tags:::  A1 chatgpt 
+guid::: Pdga:,qf[A

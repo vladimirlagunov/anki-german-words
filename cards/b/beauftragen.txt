@@ -1,0 +1,13 @@
+Word::: beauftragen
+WordTranslation::: <ul>
+<li>поручать</li>
+<li>нанимать</li>
+</ul>
+Explanation::: Syn: übertragen, einstellen, betrauen
+DrittenPerson::: beauftragt
+Perfekt::: haben beauftragt
+Präteritum::: beauftragte
+FrontExample::: Wir beauftragen Anitas Firma, um das Fest zu planen.
+BackExample::: Мы нанимаем компанию Аниты для планирования вечеринки.
+Tags::: 
+guid::: CB>PwMO0>Q

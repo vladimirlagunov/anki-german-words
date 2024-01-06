@@ -1,0 +1,11 @@
+Word::: zahlen
+WordTranslation::: платить
+DrittenPerson::: zahlt
+Perfekt::: haben gezahlt
+Präteritum::: zahlte
+FrontExample::: Ich möchte bitte zahlen.
+BackExample::: Я бы хотел заплатить, пожалуйста.
+FrontExample2::: Kann ich mit Karte zahlen?
+BackExample2::: Могу я заплатить картой?
+Tags:::  A1 chatgpt 
+guid::: nIdZ1,ncb!

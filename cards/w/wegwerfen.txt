@@ -1,0 +1,13 @@
+Word::: wegwerfen
+WordTranslation::: выбрасывать, выбросить
+DrittenPerson::: wirft weg
+Perfekt::: haben weggeworfen
+Präteritum::: warf weg
+FrontExample::: Ich finde es traurig, dass man so viel wegwirft.
+BackExample::: Мне грустно, что так много выбрасывается.
+FrontExample2::: Man soll Lebensmittel nicht einfach wegwerfen, wenn sie noch gut sind.
+BackExample2::: Не следует просто выбрасывать продукты, если они все еще хороши.
+FrontExample3::: Warum willst du dein altes Fahrrad wegwerfen? Es kann immer noch repariert werden.
+BackExample3::: Почему ты хочешь выбросить свой старый велосипед? Его все еще можно починить.
+Tags:::  chatgpt 
+guid::: KCF9MG+$hE

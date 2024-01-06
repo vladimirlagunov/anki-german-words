@@ -1,0 +1,10 @@
+Word::: mein
+WordTranslation::: мой
+FrontExample::: Mein Vater ist Arzt.
+BackExample::: Мой отец врач.
+FrontExample2::: Das ist mein Buch.
+BackExample2::: Это моя книга.
+FrontExample3::: Ist das mein Stuhl?
+BackExample3::: Это мой стул?
+Tags:::  A1 chatgpt 
+guid::: O^fYA=a{u>

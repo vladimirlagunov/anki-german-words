@@ -1,0 +1,17 @@
+Word::: Raum
+WordTranslation::: <ul>
+<li>помещение</li>
+<li>пространство</li>
+<li>район</li>
+<li>космос</li>
+</ul>
+DerDieDas::: der
+Plural::: Räume
+FrontExample::: Der Unterricht ist in Raum 332.
+BackExample::: Урок проходит в аудитории 332.
+FrontExample2::: Das Buch liegt auf dem Tisch im Raum.
+BackExample2::: Книга лежит на столе в комнате.
+FrontExample3::: Der Raum ist sehr groß.
+BackExample3::: Комната очень большая.
+Tags:::  A1 chatgpt 
+guid::: giJP{KpVF=

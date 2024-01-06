@@ -1,0 +1,4 @@
+Word::: zwanzig
+WordTranslation::: двадцать
+Tags:::  A1 
+guid::: ES_KCi_i<u

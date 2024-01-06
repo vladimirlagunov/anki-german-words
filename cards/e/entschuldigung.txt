@@ -1,0 +1,12 @@
+Word::: Entschuldigung
+WordTranslation::: извинение, извините
+DerDieDas::: die
+Plural::: Entschuldigungen
+FrontExample::: Entschuldigung! – Bitte.
+BackExample::: Простите! – Пожалуйста.
+FrontExample2::: Entschuldigung, wo ist der Bahnhof?
+BackExample2::: Извините, где находится вокзал?
+FrontExample3::: Entschuldigung, können Sie mir helfen?
+BackExample3::: Простите, не могли бы вы мне помочь?
+Tags:::  A1 chatgpt 
+guid::: ic`:mg,=a,

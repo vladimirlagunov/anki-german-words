@@ -1,0 +1,13 @@
+Word::: suchen
+WordTranslation::: искать
+DrittenPerson::: sucht
+Perfekt::: haben gesucht
+Präteritum::: suchte
+FrontExample::: Suchst du etwas?
+BackExample::: Ты что-то ищешь?
+FrontExample2::: Ich suche meinen Schlüssel.
+BackExample2::: Я ищу свой ключ.
+FrontExample3::: Sie sucht einen neuen Job.
+BackExample3::: Она ищет новую работу.
+Tags:::  A1 chatgpt 
+guid::: seKAn@FyR&

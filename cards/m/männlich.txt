@@ -1,0 +1,10 @@
+Word::: männlich
+WordTranslation::: мужской, мужественный
+FrontExample::: Kreuzen Sie bitte an: „weiblich“ oder „männlich“.
+BackExample::: Пожалуйста, отметьте: "женский" или "мужской".
+FrontExample2::: Das männliche Tier ist größer als das weibliche.
+BackExample2::: Самец животного больше самки.
+FrontExample3::: Er hat eine tiefe, männliche Stimme.
+BackExample3::: У него глубокий мужской голос.
+Tags:::  A1 chatgpt 
+guid::: EItrZy6~YC

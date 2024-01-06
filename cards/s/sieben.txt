@@ -1,0 +1,4 @@
+Word::: sieben
+WordTranslation::: семь
+Tags:::  A1 
+guid::: C!v:bu._>&

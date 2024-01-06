@@ -6,5 +6,5 @@ FrontExample::: Der Eintritt ist frei.
 BackExample::: Вход бесплатный.
 FrontExample2::: Ich habe eine Eintrittskarte für das Konzert gekauft.
 BackExample2::: Я купил билет на концерт.
-Tags:::  chatgpt 
+Tags:::  A1 chatgpt 
 guid::: k<t9J!a*6P

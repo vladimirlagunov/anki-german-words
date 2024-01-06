@@ -4,5 +4,11 @@ Explanation::: Syn: renovieren
 DrittenPerson::: repariert
 Perfekt::: haben repariert
 Präteritum::: reparierte
-Tags::: 
+FrontExample::: Ich muss mein Auto reparieren lassen, es startet nicht mehr.
+BackExample::: Мне нужно отремонтировать мою машину, она больше не заводится.
+FrontExample2::: Kannst du bitte den kaputten Stuhl reparieren?
+BackExample2::: Ты не мог бы починить сломанный стул?
+FrontExample3::: Er hat das Fahrrad repariert.
+BackExample3::: Он починил велосипед.
+Tags:::  chatgpt 
 guid::: b=~Ft5Q4)2

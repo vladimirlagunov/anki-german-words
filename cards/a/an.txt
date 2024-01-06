@@ -1,0 +1,10 @@
+Word::: an
+WordTranslation::: на, при (предлог)
+Explanation::: <strong>am</strong> = an + dem
+FrontExample::: Fahren Sie an der nächsten Straße nach rechts.&nbsp;&nbsp;
+FrontExample2::: Wir treffen uns am Bahnhof.
+BackExample2::: Мы встретимся на вокзале.
+FrontExample3::: Am nächsten Montag geht es leider nicht.
+BackExample3::: К сожалению, следующий понедельник не подходит.
+Tags:::  A1 chatgpt 
+guid::: z?JCX5P0Rs

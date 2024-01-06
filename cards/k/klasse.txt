@@ -1,0 +1,12 @@
+Word::: Klasse
+WordTranslation::: класс
+DerDieDas::: die
+Plural::: Klassen
+FrontExample::: In unserer Klasse sind fünfundzwanzig Schüler.
+BackExample::: В нашем классе двадцать пять учеников.
+FrontExample2::: Im Zug fahre ich immer 2. Klasse.
+BackExample2::: В поезде я всегда езжу вторым классом.
+FrontExample3::: Meine Klasse geht ins Museum.
+BackExample3::: Мой класс идет в музей.
+Tags:::  A1 chatgpt 
+guid::: F-Ybfn{yjb

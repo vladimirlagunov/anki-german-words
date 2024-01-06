@@ -1,0 +1,10 @@
+Word::: anders
+WordTranslation::: иной, иначе, по-другому
+FrontExample::: Er macht es anders als erwartet.
+BackExample::: Он делает это иначе, чем ожидалось.
+FrontExample2::: Hier sieht alles ganz anders aus.
+BackExample2::: Здесь всё выглядит совсем по-другому.
+FrontExample3::: Ich hatte mir das anders vorgestellt.
+BackExample3::: Я представлял себе это иначе.
+Tags:::  chatgpt 
+guid::: yTI2ZEPcF6

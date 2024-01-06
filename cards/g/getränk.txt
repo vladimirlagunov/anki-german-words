@@ -1,0 +1,12 @@
+Word::: Getränk
+WordTranslation::: напиток
+DerDieDas::: das
+Plural::: Getränke
+FrontExample::: Kann ich bitte ein kaltes Getränk haben?
+BackExample::: Могу мне холодный напиток, пожалуйста?
+FrontExample2::: In Deutschland ist Bier ein beliebtes Getränk.
+BackExample2::: В Германии пиво является популярным напитком.
+FrontExample3::: Die Speisekarte zeigt verschiedene Getränke an.
+BackExample3::: Меню предлагает различные напитки.
+Tags:::  chatgpt 
+guid::: qH_B[]Ca2w

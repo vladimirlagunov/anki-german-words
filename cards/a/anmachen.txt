@@ -1,7 +1,16 @@
 Word::: anmachen
-WordTranslation::: включать, зажигать свет; дразнить
-Explanation::: <ol><li><div>"Anmachen":</div><ul><li>Значение: включать, запускать, поджигать.</li><li>Обычно относится к действиям с электроникой, светом, огнем или машинами.</li><li>Примеры использования: Licht anmachen (включать свет), den Motor anmachen (запускать двигатель), Feuer anmachen (разжигать огонь).</li></ul></li><li><div>"Aufmachen":</div><ul><li>Значение: открывать, распахивать.</li><li>Чаще всего связано с открыванием дверей, окон, упаковок или контейнеров.</li><li>Примеры использования: die Tür aufmachen (открывать дверь), ein Fenster aufmachen (открывать окно), ein Paket aufmachen (распаковывать пакет).</li></ul></li></ol><div>Важно помнить, что значения слов могут варьироваться в различных контекстах. Например, "anmachen" может также означать "дразнить" или "подкалывать", а "aufmachen" может использоваться в значении "начинать" или "отправляться" в определенном контексте.</div>
+WordTranslation::: <ul>
+<li>включать, зажигать свет</li><li>дразнить<br></li>
+</ul>
+Explanation::: <div><ol><li><div><strong>Anmachen</strong>: Это общее слово, используемое для описания процесса включения чего-либо, особенно в контексте создания атмосферы или запуска процесса. Например, "das Licht anmachen" означает включить свет, а "das Feuer anmachen" – зажечь огонь.</div></li><li><div><strong>Anschalten</strong>: Это слово более специфично относится к включению электрических устройств. Например, "den Fernseher anschalten" означает включить телевизор. Это слово чаще всего используется в контексте электроники.</div></li><li><div><strong>Einschalten</strong>: Также относится к включению, но чаще всего используется, когда речь идет о включении устройства впервые или после долгого перерыва. Например, "die Heizung einschalten" означает включить отопление.</div></li><li><div><strong>Ausmachen</strong>: Это слово используется для описания выключения чего-либо. Например, "das Licht ausmachen" означает выключить свет. Это общий термин для обозначения действия выключения.</div></li></ol></div>
+DrittenPerson::: macht an
+Perfekt::: haben angemacht
+Präteritum::: machte an
 FrontExample::: Kannst du bitte das Licht anmachen?
 BackExample::: Можешь включить свет, пожалуйста?
-Tags:::  Meine_Deutsch 
+FrontExample2::: Machst du bitte das Licht an?
+BackExample2::: Ты не мог бы включить свет?
+FrontExample3::: Ich mache jetzt den Fernseher an.
+BackExample3::: Я сейчас включу телевизор.
+Tags:::  A1 chatgpt 
 guid::: mDp$6+|W:;

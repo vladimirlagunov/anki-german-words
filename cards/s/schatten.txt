@@ -1,0 +1,9 @@
+Word::: Schatten
+WordTranslation::: тень
+Explanation::: Syn: die Schattierung, die Dunkelheit, die Finsternis
+DerDieDas::: der
+Plural::: Schatten
+FrontExample::: Gestern hatten wir 25 Grad im Schatten.
+BackExample::: Вчера у нас было 25 градусов в тени.
+Tags::: 
+guid::: xWe8x,4aVE

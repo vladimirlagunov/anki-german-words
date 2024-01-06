@@ -1,0 +1,10 @@
+Word::: wo
+WordTranslation::: где
+FrontExample::: Wo waren Sie im Urlaub?&nbsp;
+BackExample::: Где вы были в отпуске?
+FrontExample2::: Wo ist die Post?&nbsp;
+BackExample2::: Где находится почта?
+FrontExample3::: Wo sind Sie geboren?
+BackExample3::: Где вы родились?
+Tags:::  A1 chatgpt 
+guid::: e6<uF6Hhmv

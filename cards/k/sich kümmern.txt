@@ -1,0 +1,13 @@
+Word::: sich kümmern
+WordTranslation::: заботиться
+DrittenPerson::: kümmert
+Perfekt::: haben gekümmert
+Präteritum::: kümmerte
+FrontExample::: Jede Mutter kümmert sich um ihre kleinen Kinder.
+BackExample::: Каждая мать заботится о своих маленьких детях.
+FrontExample2::: Wer kümmert sich um die Katze, wenn wir im Urlaub sind?
+BackExample2::: Кто будет заботиться о коте, когда мы в отпуске?
+FrontExample3::: Kannst du dich bitte um die Pflanzen kümmern?
+BackExample3::: Ты можешь позаботиться о растениях?
+Tags:::  A1 chatgpt 
+guid::: gM50F/8pU}

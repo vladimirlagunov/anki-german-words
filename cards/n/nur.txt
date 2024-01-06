@@ -1,0 +1,10 @@
+Word::: nur
+WordTranslation::: только, всего лишь
+FrontExample::: Ich möchte nur ein Glas Wasser.
+BackExample::: Я хочу только стакан воды.
+FrontExample2::: Ich habe nur fünf Euro.
+BackExample2::: У меня есть лишь пять евро.
+FrontExample3::: Er liest nur ein Buch.
+BackExample3::: Он читает только одну книгу.
+Tags:::  A1 chatgpt 
+guid::: EqA,SPTS.t

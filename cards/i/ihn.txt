@@ -1,0 +1,10 @@
+Word::: ihn
+WordTranslation::: его (третье лицо, мужской род, винительный падеж)
+FrontExample::: Ich sehe den Mann. Ich sehe ihn.
+BackExample::: Я вижу мужчину. Я вижу его.
+FrontExample2::: Kannst du den Hund streicheln? Ja, ich streichle ihn.
+BackExample2::: Можешь погладить собаку? Да, я глажу его.
+FrontExample3::: Hast du meinen Bruder gesehen? Ja, ich habe ihn gesehen.
+BackExample3::: Ты видел моего брата? Да, я видел его.
+Tags:::  A1 chatgpt 
+guid::: MM-O1rRz:m

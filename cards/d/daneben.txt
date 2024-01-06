@@ -1,0 +1,10 @@
+Word::: daneben
+WordTranslation::: <ul><li>рядом, поблизости</li><li>мимо</li></ul>
+FrontExample::: Du kennst doch die Post. Daneben ist die Bank.
+BackExample::: Ты знаешь почту. Рядом находится банк.
+FrontExample2::: Er hat daneben geschossen.
+BackExample2::: Он промахнулся.
+FrontExample3::: Das Bild hängt daneben.
+BackExample3::: Картина висит рядом.
+Tags:::  A1 chatgpt 
+guid::: Nd)_xK$7lX

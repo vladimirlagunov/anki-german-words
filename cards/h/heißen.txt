@@ -1,0 +1,16 @@
+Word::: heißen
+WordTranslation::: <ul>
+<li>значить</li>
+<li>называться, иметь имя</li>
+</ul>
+DrittenPerson::: heißt
+Perfekt::: haben geheißen
+Präteritum::: hieß
+FrontExample::: Wie heißt das auf Deutsch?
+BackExample::: Как это будет по-немецки?
+FrontExample2::: Ich heiße Anna.
+BackExample2::: Меня зовут Анна.
+FrontExample3::: Wie heißt du?
+BackExample3::: Как тебя зовут?
+Tags:::  A1 chatgpt 
+guid::: u^6^HJo(-)

@@ -1,0 +1,8 @@
+Word::: kulturell
+WordTranslation::: культурный
+FrontExample::: Ich bin kulturell interessiert. Ich gehe oft ins Museum.
+BackExample::: Я интересуюсь культурой. Я часто хожу в музей.
+FrontExample2::: Die kulturelle Vielfalt der Stadt ist beeindruckend.
+BackExample2::: Культурное разнообразие города впечатляющее.
+Tags:::  A1 chatgpt 
+guid::: dPBQ1^Rbo

@@ -1,0 +1,16 @@
+Word::: schmecken
+WordTranslation::: <ul>
+<li>иметь вкус</li>
+<li>пробовать</li>
+</ul>
+DrittenPerson::: schmeckt
+Perfekt::: haben geschmeckt
+Präteritum::: schmeckte
+FrontExample::: Schmeckt das gut?
+BackExample::: Это вкусно?
+FrontExample2::: Wie schmeckt die Suppe?
+BackExample2::: Как на вкус суп?
+FrontExample3::: Das schmeckt lecker!
+BackExample3::: Это вкусно!
+Tags:::  A1 chatgpt 
+guid::: c).bj(`HT.

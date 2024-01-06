@@ -1,0 +1,8 @@
+Word::: Schreck
+WordTranslation::: испуг
+DerDieDas::: der
+Plural::: Schrecke
+FrontExample::: Ich habe einen großen Schreck bekommen.
+BackExample::: Я сильно испугался.
+Tags:::  chatgpt 
+guid::: EfW:0lZX.>
