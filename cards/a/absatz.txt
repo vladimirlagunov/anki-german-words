@@ -1,0 +1,12 @@
+Word::: Absatz
+WordTranslation::: <ul><li>абзац</li><li>продажа, сбыт</li><li>каблук</li><li>выступ</li></ul>
+DerDieDas::: der
+Plural::: Absätze
+FrontExample::: Der erste Absatz des Artikels ist besonders wichtig.
+BackExample::: Первый абзац статьи особенно важен.
+FrontExample2::: Diese Schuhe haben einen sehr hohen Absatz.
+BackExample2::: У этих туфель очень высокий каблук.
+FrontExample3::: Der Absatz unserer Produkte ist im letzten Quartal gestiegen.
+BackExample3::: Продажи нашей продукции в последнем квартале выросли.
+Tags:::  chatgpt 
+guid::: A3S{<[*@ak

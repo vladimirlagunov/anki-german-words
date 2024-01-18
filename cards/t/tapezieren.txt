@@ -1,0 +1,9 @@
+Word::: tapezieren
+WordTranslation::: обклеивать (стены) обоями
+DrittenPerson::: tapeziert
+Perfekt::: haben tapeziert
+Präteritum::: tapezierte
+FrontExample::: Wir werden das Wohnzimmer dieses Wochenende tapezieren.
+BackExample::: Мы будем клеить обои в гостиной на этой неделе.
+Tags:::  chatgpt 
+guid::: n>KpiH/pJv

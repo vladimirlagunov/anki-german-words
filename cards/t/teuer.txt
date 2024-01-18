@@ -6,5 +6,5 @@ FrontExample2::: Dieses Auto ist zu teuer für mich.
 BackExample2::: Эта машина слишком дорога для меня.
 FrontExample3::: Gesundes Essen kann manchmal teuer sein.
 BackExample3::: Здоровое питание иногда может быть дорогим.
-Tags:::  chatgpt 
+Tags:::  A1 chatgpt 
 guid::: mh4$.]tiKF

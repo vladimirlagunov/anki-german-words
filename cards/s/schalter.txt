@@ -11,5 +11,5 @@ FrontExample2::: Am Bahnhof steht eine lange Schlange am Schalter.
 BackExample2::: На вокзале длинная очередь к кассе.
 FrontExample3::: Bitte ziehen Sie eine Nummer am Schalter.
 BackExample3::: Пожалуйста, возьмите номерок у стойки.
-Tags:::  chatgpt 
+Tags:::  A1 chatgpt 
 guid::: wu+>ImVL`P

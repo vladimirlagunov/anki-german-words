@@ -5,5 +5,5 @@ FrontExample::: Kannst du mir bitte ein bisschen helfen?
 BackExample::: Можешь помочь мне немного?
 FrontExample2::: <span style="color: rgb(15, 15, 15);">Kannst du bitte bisschen leiser sein?</span>
 BackExample2::: <span style="color: rgb(15, 15, 15);">Не мог бы ты быть чуть тише?</span>
-Tags:::  chatgpt 
+Tags:::  A1 chatgpt 
 guid::: p&dy@!~t?3

@@ -1,0 +1,12 @@
+Word::: Maßnahme
+WordTranslation::: мера, действие, мероприятие
+DerDieDas::: die
+Plural::: Maßnahmen
+FrontExample::: Die Regierung hat neue Maßnahmen zur Bekämpfung der Arbeitslosigkeit eingeführt.
+BackExample::: Правительство ввело новые меры по борьбе с безработицей.
+FrontExample2::: Um den Energieverbrauch zu reduzieren, sind effiziente Maßnahmen notwendig.
+BackExample2::: Чтобы сократить потребление энергии, необходимы эффективные меры.
+FrontExample3::: Die Maßnahmen zum Umweltschutz müssen von allen Ländern ernst genommen werden.
+BackExample3::: Меры по охране окружающей среды должны быть приняты всеми странами всерьёз.
+Tags:::  chatgpt 
+guid::: CedM(5]aIq

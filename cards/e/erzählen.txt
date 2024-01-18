@@ -23,8 +23,13 @@ Explanation::: <ul>
 <strong>Reden</strong>: Схоже с "sprechen", но часто подразумевает одностороннюю речь или обращение.</li>
 </ul>
 DrittenPerson::: erzählt
-Perfekt::: haben erzählt<br><ul>
-</ul>
+Perfekt::: haben erzählt
 Präteritum::: erzählte
-Tags::: 
+FrontExample::: Wir müssen euch etwas erzählen!
+BackExample::: Мы должны вам что-то рассказать!
+FrontExample2::: Kannst du mir eine Geschichte erzählen?
+BackExample2::: Можешь рассказать мне сказку?
+FrontExample3::: Er erzählt von seinem Urlaub.
+BackExample3::: Он рассказывает о своем отпуске.
+Tags:::  A1 chatgpt 
 guid::: iIzS&o*S&o

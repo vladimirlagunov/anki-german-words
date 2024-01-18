@@ -1,0 +1,13 @@
+Word::: verhindern
+WordTranslation::: помешать, предотвратить
+DrittenPerson::: verhindert
+Perfekt::: haben verhindert
+Präteritum::: verhinderte
+FrontExample::: Die Polizei konnte den Diebstahl verhindern.
+BackExample::: Полиция смогла предотвратить кражу.
+FrontExample2::: Wir müssen verhindern, dass der Wald weiter abgeholzt wird.
+BackExample2::: Мы должны предотвратить дальнейшую вырубку леса.
+FrontExample3::: Durch die Impfung konnte die Ausbreitung der Krankheit verhindert werden.
+BackExample3::: Благодаря вакцинации удалось предотвратить распространение болезни.
+Tags:::  chatgpt 
+guid::: mbCn:kjMYR

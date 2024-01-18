@@ -7,5 +7,5 @@ FrontExample::: Am Anfang des Buches
 BackExample::: В начале книги
 FrontExample2::: Am Anfang des Monats
 BackExample2::: В начале месяца
-Tags:::  chatgpt 
+Tags:::  A1 chatgpt 
 guid::: rz[7RCM0FC

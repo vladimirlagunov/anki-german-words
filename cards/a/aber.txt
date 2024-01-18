@@ -3,7 +3,7 @@ WordTranslation::: но (союз)
 FrontExample::: Ich bin oft im Büro, aber nur für wenige Stunden.
 BackExample::: Я часто бываю в офисе, но только на несколько часов.
 FrontExample2::: Ich habe Hunger, aber es ist nichts zu essen da.
-BackExample2::: Я голоден, но еды нет.
+BackExample2::: Я голоден, но есть нечего.
 FrontExample3::: Das Wetter ist kalt, aber schön.
 BackExample3::: Погода холодная, но красивая.
 Tags:::  A1 chatgpt 

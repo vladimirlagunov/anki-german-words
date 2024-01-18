@@ -1,0 +1,11 @@
+Word::: hervorrufen
+WordTranslation::: вызывать, провоцировать, порождать
+DrittenPerson::: ruft hervor
+Perfekt::: haben hervorgerufen
+Präteritum::: rief hervor
+FrontExample2::: Bestimmte Medikamente können Nebenwirkungen hervorrufen.
+BackExample2::: Определённые лекарства могут вызывать побочные эффекты.
+FrontExample3::: Das Ergebnis der Studie hat weltweit Aufsehen hervorgerufen.
+BackExample3::: Результаты исследования вызвали всемирный интерес.
+Tags:::  chatgpt 
+guid::: J?/:_}Xm/0

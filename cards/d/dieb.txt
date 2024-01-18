@@ -1,0 +1,12 @@
+Word::: Dieb
+WordTranslation::: вор
+DerDieDas::: der
+Plural::: Diebe
+FrontExample::: Der Dieb wurde von der Polizei gefasst.
+BackExample::: Вора поймала полиция.
+FrontExample2::: Mein Fahrrad wurde von einem Dieb gestohlen.
+BackExample2::: Мой велосипед украл вор.
+FrontExample3::: Er verhält sich wie ein kleiner Dieb.
+BackExample3::: Он ведет себя как маленький вор.
+Tags:::  chatgpt 
+guid::: K<&nG$Ovl`

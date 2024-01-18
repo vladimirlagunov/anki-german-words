@@ -8,5 +8,5 @@ FrontExample2::: Die Wörter in diesem Buch sind schwer zu verstehen.
 BackExample2::: Слова в этой книге трудно понять.
 FrontExample3::: Seine Worte hatten tiefgreifende Bedeutung.
 BackExample3::: Его слова имели глубокий смысл. (= Его речь имела глубокий смысл)
-Tags:::  chatgpt 
+Tags:::  A1 chatgpt 
 guid::: y1|HT^NW6s

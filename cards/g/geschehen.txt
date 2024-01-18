@@ -1,0 +1,12 @@
+Word::: Geschehen
+WordTranslation::: происшествие, событие, процесс
+DerDieDas::: das
+Plural::: Geschehen
+FrontExample::: Das Geschehen in der Stadt überraschte alle.
+BackExample::: Происходящее в городе удивило всех.
+FrontExample2::: Er beobachtete das Geschehen aus sicherer Entfernung.
+BackExample2::: Он наблюдал за происходящим с безопасного расстояния.
+FrontExample3::: Das Geschehen des letzten Jahres hat die Welt verändert.
+BackExample3::: События прошлого года изменили мир.
+Tags:::  chatgpt 
+guid::: ff`:hd+VUt

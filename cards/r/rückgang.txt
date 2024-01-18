@@ -1,0 +1,12 @@
+Word::: Rückgang
+WordTranslation::: спад, уменьшение, убыль, откат, регресс
+DerDieDas::: der
+Plural::: Rückgänge
+FrontExample::: Der Rückgang der Wirtschaftsleistung ist besorgniserregend.
+BackExample::: Падение экономической активности вызывает беспокойство.
+FrontExample2::: Es gab einen deutlichen Rückgang der Besucherzahlen im Vergleich zum Vorjahr.
+BackExample2::: Было заметно сокращение числа посетителей по сравнению с прошлым годом.
+FrontExample3::: Der Rückgang der Arbeitslosenquote ist ein positives Zeichen für die Wirtschaft.
+BackExample3::: Снижение уровня безработицы является положительным сигналом для экономики.
+Tags:::  chatgpt 
+guid::: v1a6UgNPn;

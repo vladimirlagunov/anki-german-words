@@ -1,0 +1,9 @@
+Word::: beseitigen
+WordTranslation::: устранять, удалять
+DrittenPerson::: beseitigt
+Perfekt::: haben beseitigt
+Präteritum::: beseitigte
+FrontExample::: Wir müssen die Ursachen des Problems beseitigen, nicht nur die Symptome.
+BackExample::: Мы должны устранить причины проблемы, а не только симптомы.
+Tags:::  chatgpt 
+guid::: jk^.%^!R.T

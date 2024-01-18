@@ -1,8 +1,7 @@
 Word::: Kuli
 WordTranslation::: <ul>
-<li>поденщик</li>
-<li>чернорабочий</li>
 <li>шариковая ручка</li>
+<li>чернорабочий (жарг)</li>
 </ul>
 DerDieDas::: der
 Plural::: Kulis

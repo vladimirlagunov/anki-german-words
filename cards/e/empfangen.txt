@@ -1,0 +1,13 @@
+Word::: empfangen
+WordTranslation::: <ul><li>встречать гостей</li><li>получать</li></ul>
+DrittenPerson::: empfängt
+Perfekt::: haben empfangen
+Präteritum::: empfing
+FrontExample::: Ich wurde im Hotel sehr freundlich empfangen.
+BackExample::: В отеле меня встретили очень дружелюбно.
+FrontExample2::: Der Präsident wird die ausländischen Gäste offiziell empfangen.
+BackExample2::: Президент официально примет иностранных гостей.
+FrontExample3::: Der Empfänger hat die Sendung noch nicht empfangen.
+BackExample3::: Получатель ещё не получил посылку.
+Tags:::  chatgpt 
+guid::: eDBVW3S!nM

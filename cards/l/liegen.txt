@@ -3,5 +3,9 @@ WordTranslation::: лежать
 DrittenPerson::: liegt
 Perfekt::: haben gelegen
 Präteritum::: lag
-Tags::: 
+FrontExample::: Um neun Uhr liegt Judith noch im Bett.
+BackExample::: В девять часов Джудит все еще в постели. 
+FrontExample2::: Frankfurt liegt am Main.
+BackExample2::: Франкфурт расположен на реке Майн.
+Tags:::  A1 
 guid::: qz)tXnEps/

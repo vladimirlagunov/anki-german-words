@@ -3,5 +3,7 @@ WordTranslation::: сочетаться браком
 DrittenPerson::: heiratet
 Perfekt::: haben geheiratet
 Präteritum::: heiratete
-Tags::: 
+FrontExample::: Meine Schwester heiratet einen Japaner.
+BackExample::: Моя сестра выходит замуж за японца.
+Tags:::  A1 
 guid::: w6[_A),2HO

@@ -1,0 +1,8 @@
+Word::: staatlich
+WordTranslation::: государственный
+FrontExample::: Die staatliche Universität bietet viele Forschungsmöglichkeiten.
+BackExample::: Государственный университет предлагает множество возможностей для исследований.
+FrontExample2::: Staatliche Fördermittel können kleinen Unternehmen helfen, zu wachsen.
+BackExample2::: Государственные субсидии могут помочь малым предприятиям расти.
+Tags:::  chatgpt 
+guid::: ly6^l64H@7

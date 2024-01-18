@@ -2,10 +2,6 @@ Word::: senden
 WordTranslation::: <ul>
 <li>посылать</li>
 <li>передавать</li>
-<li><ul>
-<li>посылать</li>
-<li>передавать</li>
-</ul></li>
 </ul>
 DrittenPerson::: sendet
 Perfekt::: haben gesendet

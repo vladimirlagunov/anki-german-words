@@ -1,0 +1,8 @@
+Word::: tagsüber
+WordTranslation::: днём, в течения дня
+FrontExample::: Tagsüber arbeite ich im Büro und abends studiere ich.
+BackExample::: Днём я работаю в офисе, а вечерами учусь.
+FrontExample2::: Tagsüber ist es sehr warm, aber die Temperaturen fallen nachts schnell.
+BackExample2::: Днем очень тепло, но температура быстро падает ночью.
+Tags:::  chatgpt 
+guid::: B;6qt]T4/J

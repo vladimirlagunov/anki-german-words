@@ -1,0 +1,13 @@
+Word::: begehen
+WordTranslation::: <ul><li>отмечать, праздновать</li><li>совершать</li></ul>
+DrittenPerson::: begeht
+Perfekt::: haben begangen
+Präteritum::: beging
+FrontExample::: Wir begehen den Fehler, nicht früh genug mit den Vorbereitungen anzufangen.
+BackExample::: Мы совершаем ошибку, не начиная подготовку достаточно рано.
+FrontExample2::: In Deutschland begeht man traditionell Weihnachten im Kreise der Familie.
+BackExample2::: В Германии традиционно празднуют Рождество в кругу семьи.
+FrontExample3::: Das Unternehmen begeht sein 50-jähriges Jubiläum mit einer großen Feier.
+BackExample3::: Компания отмечает свой 50-летний юбилей большим праздником.
+Tags:::  chatgpt 
+guid::: F}jR?9^IUm

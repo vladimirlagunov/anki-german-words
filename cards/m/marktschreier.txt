@@ -1,0 +1,8 @@
+Word::: Marktschreier
+WordTranslation::: торговец-крикун, рыночный крикун
+DerDieDas::: der
+Plural::: Marktschreier
+FrontExample::: Marktschreier versprechen oft mehr, als sie halten können.
+BackExample::: Торговцы на рынке часто обещают больше, чем могут выполнить.
+Tags:::  chatgpt 
+guid::: cqt:-<[`3b

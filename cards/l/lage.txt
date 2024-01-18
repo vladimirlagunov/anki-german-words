@@ -1,0 +1,12 @@
+Word::: Lage
+WordTranslation::: <ul><li>ситуация, обстановка</li><li>положение, расположение</li></ul>
+DerDieDas::: die
+Plural::: Lagen
+FrontExample::: Die Lage des Hotels ist sehr zentral.
+BackExample::: Расположение отеля очень центральное.
+FrontExample2::: In dieser kritischen Lage müssen wir zusammenhalten.
+BackExample2::: В этой критической ситуации мы должны держаться вместе.
+FrontExample3::: Die wirtschaftliche Lage des Unternehmens hat sich verbessert.
+BackExample3::: Экономическое положение компании улучшилось.
+Tags:::  chatgpt 
+guid::: Ai6tgN}|+D

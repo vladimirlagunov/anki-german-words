@@ -1,0 +1,14 @@
+Word::: zuschauen
+WordTranslation::: наблюдать, смотреть
+Explanation::: <ol><li><div><strong>sehen</strong> - это самый общий глагол, означающий "видеть". Он используется для обозначения процесса зрения в самом широком смысле: "Ich sehe ein Auto" - "Я вижу машину".</div></li><li><div><strong>schauen</strong> - близок по значению к "sehen", но скорее означает активный акт смотрения, часто с намеком на любопытство или внимание: "Schau aus dem Fenster!" - "Посмотри в окно!".</div></li><li><div><strong>ansehen</strong> - означает внимательное, часто осмысленное смотрение на что-либо: "Ich sehe mir das Bild genau an" - "Я внимательно смотрю на картину". Может иметь также значение "смотреть фильм или шоу".</div></li><li><div><strong>anschauen</strong> - похож на "ansehen", но может быть более неформальным или повседневным: "Wir schauen uns einen Film an" - "Мы смотрим фильм".</div></li><li><div><strong>zusehen</strong> - это обычно означает наблюдать за процессом или действием, часто с обучающей целью: "Ich sehe zu, wie er das Auto repariert" - "Я наблюдаю, как он ремонтирует машину".</div></li><li><div><strong>zuschauen</strong> - схож с "zusehen", но может иметь более развлекательный или менее серьёзный оттенок: "Zuschauen, wie jemand spielt" - "Смотреть, как кто-то играет".</div></li></ol>
+DrittenPerson::: schaut zu
+Perfekt::: haben zugeschaut
+Präteritum::: schaute zu
+FrontExample::: Ich möchte heute Fußball im Fernsehen zuschauen.
+BackExample::: Я хочу сегодня посмотреть футбол по телевизору.
+FrontExample2::: Den Kindern beim Spielen zuzuschauen macht mir große Freude.
+BackExample2::: Наблюдать за играющими детьми доставляет мне большое удовольствие.
+FrontExample3::: Können wir dir beim Kochen zuschauen und vielleicht etwas lernen?
+BackExample3::: Можем ли мы понаблюдать за тобой, когда ты готовишь, и, возможно, чему-то научиться?
+Tags:::  chatgpt 
+guid::: q?BJ_35NVI

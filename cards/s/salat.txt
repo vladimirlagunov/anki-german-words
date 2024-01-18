@@ -1,0 +1,8 @@
+Word::: Salat
+WordTranslation::: салат
+DerDieDas::: der
+Plural::: Salate
+FrontExample::: Ich habe einen frischen Salat zum Mittagessen zubereitet.
+BackExample::: Я приготовил свежий салат на обед.
+Tags:::  A1 chatgpt 
+guid::: ez^20YJ_@A

@@ -9,5 +9,5 @@ FrontExample2::: Kann ich dich diesen Sommer besuchen?
 BackExample2::: Можно я навещу тебя этим летом?
 FrontExample3::: Sie besucht eine Musikschule.
 BackExample3::: Она посещает музыкальную школу.
-Tags:::  chatgpt 
+Tags:::  A1 chatgpt 
 guid::: tN6=2yC(5a

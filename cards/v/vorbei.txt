@@ -1,0 +1,10 @@
+Word::: vorbei
+WordTranslation::: <ul><li>мимо</li><li>позади, в прошлом</li></ul>
+FrontExample::: Die Parade ist schon vorbei.
+BackExample::: Парад уже прошел.
+FrontExample2::: Geh bitte an der Kirche vorbei und dann geradeaus.
+BackExample2::: Пройди, пожалуйста, мимо церкви и потом прямо.
+FrontExample3::: Der schlimmste Teil der Krise ist vorbei.
+BackExample3::: Худшая часть кризиса позади.
+Tags:::  chatgpt 
+guid::: mh3jG+kL*X

@@ -1,0 +1,12 @@
+Word::: Ursache
+WordTranslation::: причина, основание, повод
+DerDieDas::: die
+Plural::: Ursachen
+FrontExample::: Die Ursache für den Unfall war Glatteis.
+BackExample::: Причиной аварии был гололед.
+FrontExample2::: Eine unbekannte Ursache hat zu dem Stromausfall geführt.
+BackExample2::: Неизвестная причина привела к отключению электричества.
+FrontExample3::: Sie suchten nach der Ursache für die Verzögerung des Projekts.
+BackExample3::: Они искали причину задержки проекта.
+Tags:::  chatgpt 
+guid::: cj6Nv}E`[O

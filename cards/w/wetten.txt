@@ -1,0 +1,11 @@
+Word::: wetten
+WordTranslation::: делать ставку, заключать пари
+DrittenPerson::: wettet
+Perfekt::: haben gewettet
+Präteritum::: wettete
+FrontExample::: Wir können wetten, dass Deutschland das Fußballspiel gewinnt.
+BackExample::: Мы можем поспорить, что Германия выиграет футбольный матч.
+FrontExample2::: Wetten, dass du das nicht in einer Stunde schaffst?
+BackExample2::: Спорим, что ты не справишься с этим за час?
+Tags:::  chatgpt 
+guid::: OJ=.c2$}k

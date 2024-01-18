@@ -1,0 +1,10 @@
+Word::: weit
+WordTranslation::: <ul><li>далеко</li><li>широко</li></ul>
+FrontExample::: Zum Bahnhof ist es nicht weit.
+BackExample::: До вокзала не далеко.
+FrontExample2::: Das Meer ist weit weg.
+BackExample2::: Море далеко.
+FrontExample3::: Die Stadt ist weit.
+BackExample3::: Город далеко.
+Tags:::  A1 chatgpt 
+guid::: nRv)PAf>MP

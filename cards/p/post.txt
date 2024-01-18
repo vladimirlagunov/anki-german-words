@@ -13,5 +13,5 @@ Plural::: <ul>
 </ul>
 FrontExample::: Ich gehe zur Post, um ein Paket zu verschicken.
 BackExample::: Я иду на почту, чтобы отправить посылку.
-Tags:::  chatgpt 
+Tags:::  A1 chatgpt 
 guid::: Deae`L{o*t

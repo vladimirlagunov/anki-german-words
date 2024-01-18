@@ -1,0 +1,10 @@
+Word::: Weise
+WordTranslation::: <ul><li>способ, манера</li><li>мелодия</li></ul>
+DerDieDas::: die
+Plural::: Weisen
+FrontExample::: In vielerlei Weise unterscheidet sich ihre Meinung von meiner.
+BackExample::: Во многих отношениях её мнение отличается от моего.
+FrontExample2::: Auf diese Weise lösen wir das Problem.
+BackExample2::: Таким образом мы решаем проблему.
+Tags:::  chatgpt 
+guid::: A|Ji&t[-#L

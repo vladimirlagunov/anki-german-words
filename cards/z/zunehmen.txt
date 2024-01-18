@@ -1,0 +1,13 @@
+Word::: zunehmen
+WordTranslation::: <ul><li>набирать вес</li><li>увеличивать, прибавлять, нарастать</li></ul>
+DrittenPerson::: nimmt zu
+Perfekt::: haben zugenommen
+Präteritum::: nahm zu
+FrontExample::: Ich habe über die Feiertage zugenommen.
+BackExample::: Я набрал вес во время праздников.
+FrontExample2::: Die Spannungen zwischen den Ländern nehmen zu.
+BackExample2::: Напряжённость между странами нарастает.
+FrontExample3::: Das Interesse an umweltfreundlichen Produkten nimmt stetig zu.
+BackExample3::: Интерес к экологически чистым продуктам стабильно растёт.
+Tags:::  chatgpt 
+guid::: n~?i+jaK@U

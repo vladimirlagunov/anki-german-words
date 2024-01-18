@@ -1,0 +1,11 @@
+Word::: streichen
+WordTranslation::: <ul><li>красить, мазать, штриховать</li><li>вычеркивать, отменять</li></ul>
+DrittenPerson::: streicht
+Perfekt::: haben gestrichen
+Präteritum::: strich
+FrontExample::: Ich werde nächstes Wochenende mein Zimmer streichen.
+BackExample::: Я буду красить свою комнату на следующих выходных.
+FrontExample3::: Du musst den Namen von der Liste streichen, er kommt nicht zur Party.
+BackExample3::: Ты должен вычеркнуть [это] имя из списка, он не придет на вечеринку.
+Tags:::  chatgpt 
+guid::: v~cSt;;?BO

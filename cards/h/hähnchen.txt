@@ -4,5 +4,5 @@ DerDieDas::: das
 Plural::: Hähnchen
 FrontExample::: Ich möchte ein Hähnchen mit Pommes bestellen.
 BackExample::: Я хотел бы заказать курицу с картошкой фри.
-Tags:::  chatgpt 
+Tags:::  A1 chatgpt 
 guid::: uq:iRhL/%^

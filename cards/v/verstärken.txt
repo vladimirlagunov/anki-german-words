@@ -1,0 +1,13 @@
+Word::: verstärken
+WordTranslation::: усилить
+DrittenPerson::: verstärkt
+Perfekt::: haben verstärkt
+Präteritum::: verstärkte
+FrontExample::: Wir müssen die Sicherheitsmaßnahmen am Flughafen verstärken.
+BackExample::: Нам нужно усилить меры безопасности в аэропорту.
+FrontExample2::: Der Trainer will die Abwehr durch neue Spieler verstärken.
+BackExample2::: Тренер хочет усилить оборону с помощью новых игроков.
+FrontExample3::: Dieser Verstärker wird den Klang der Gitarre deutlich verstärken.
+BackExample3::: Этот усилитель значительно усилит звучание гитары.
+Tags:::  chatgpt 
+guid::: l{,vc>Nv_H

@@ -1,0 +1,8 @@
+Word::: passend
+WordTranslation::: подходящий, соответствующий
+FrontExample::: Ich suche passende Schuhe zu meinem neuen Anzug.
+BackExample::: Я ищу подходящие туфли к моему новому костюму.
+FrontExample2::: Die Farbe ist nicht ganz passend zum Rest des Zimmers.
+BackExample2::: Цвет не совсем подходит к остальной части комнаты.
+Tags:::  chatgpt 
+guid::: v,7xROH<JV

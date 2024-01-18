@@ -1,0 +1,12 @@
+Word::: Täter
+WordTranslation::: преступник, злоумышленник, нарушитель
+DerDieDas::: der
+Plural::: Täter
+FrontExample::: Der Täter wurde kurz nach dem Überfall von der Polizei gefasst.
+BackExample::: Преступник был пойман полицией вскоре после ограбления.
+FrontExample2::: Die Täter des Einbruchs sind noch auf freiem Fuß.
+BackExample2::: Виновники проникновения все еще на свободе.
+FrontExample3::: Die Polizei sucht Zeugen, die den Täter bei der Tat beobachtet haben.
+BackExample3::: Полиция ищет свидетелей, которые видели преступника в момент совершения преступления.
+Tags:::  chatgpt 
+guid::: EBKjK|bz]?

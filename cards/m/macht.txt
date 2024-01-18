@@ -1,0 +1,12 @@
+Word::: Macht
+WordTranslation::: власть, могущество, мощь, сила
+DerDieDas::: die
+Plural::: Mächte
+FrontExample::: Die Macht der Liebe ist unbesiegbar.
+BackExample::: Сила любви несокрушима.
+FrontExample2::: Er strebt nach mehr politischer Macht.
+BackExample2::: Он стремится к большей политической власти.
+FrontExample3::: Die alten Könige hatten absolute Macht über ihr Volk.
+BackExample3::: Древние короли обладали абсолютной властью над своим народом.
+Tags:::  chatgpt 
+guid::: kRM`7be0Ro

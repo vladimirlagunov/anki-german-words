@@ -1,0 +1,13 @@
+Word::: entlassen
+WordTranslation::: <ul><li>уволить</li><li>освободить, выпустить</li></ul>
+DrittenPerson::: entlässt
+Perfekt::: haben entlassen
+Präteritum::: entließ
+FrontExample::: Er wurde gestern aus dem Krankenhaus entlassen.
+BackExample::: Вчера его выписали из больницы.
+FrontExample2::: Wegen der schlechten Auftragslage mussten wir leider einige Mitarbeiter entlassen.
+BackExample2::: Из-за плохой ситуации с заказами, к сожалению, нам пришлось уволить нескольких сотрудников.
+FrontExample3::: Nach dem Ende seiner Haftzeit wurde der Gefangene entlassen.
+BackExample3::: По окончании срока его заключения, заключенный был освобожден.
+Tags:::  chatgpt 
+guid::: F=}Bn&/H0`

@@ -1,10 +1,10 @@
 Word::: also
 WordTranslation::: итак, так что, значит
 FrontExample::: Er hat Zeit, also muss er uns helfen.
-BackExample::: У него есть время, поэтому он должен нам помочь.
+BackExample::: У него есть время, значит он должен нам помочь.
 FrontExample2::: Ich bin müde, also gehe ich jetzt schlafen.
-BackExample2::: Я устал, поэтому сейчас пойду спать.
+BackExample2::: Я устал, так что я сейчас пойду спать.
 FrontExample3::: Es regnet, also nehme ich einen Schirm mit.
-BackExample3::: Идет дождь, поэтому я возьму с собой зонт.
+BackExample3::: Идет дождь, так что я возьму с собой зонт.
 Tags:::  A1 chatgpt 
 guid::: BtnYNtz[dr

@@ -1,0 +1,12 @@
+Word::: Rasen
+WordTranslation::: газон
+DerDieDas::: der
+Plural::: Rasen
+FrontExample::: Der Hund spielt gerne auf dem Rasen.
+BackExample::: Собака любит играть на газоне.
+FrontExample2::: Ich muss morgen den Rasen mähen.
+BackExample2::: Завтра мне нужно покосить газон.
+FrontExample3::: Pass auf, wenn du über den Rasen rennst!
+BackExample3::: Будь осторожен, когда бежишь по газону!
+Tags:::  chatgpt 
+guid::: JkeFv.dV$[

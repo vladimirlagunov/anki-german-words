@@ -1,9 +1,8 @@
 Word::: Anrede
-WordTranslation::: обращение, приветствие (в письме)<br><ul>
-</ul>
+WordTranslation::: обращение, приветствие (в письме)
 DerDieDas::: die
 Plural::: Anreden
 FrontExample::: Du darfst im Brief die Anrede nicht vergessen.
 BackExample::: Вы не должны забывать приветствие в письме.
-Tags:::  chatgpt 
+Tags:::  A1 chatgpt 
 guid::: oUFb~c+P#B

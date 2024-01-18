@@ -2,5 +2,7 @@ Word::: Lösung
 WordTranslation::: решение, разрешение (вопроса, конфликта, проблемы)
 DerDieDas::: die
 Plural::: Lösungen
-Tags::: 
+FrontExample::: Die Lösung ist ganz einfach.
+BackExample::: Решение совершенно простое.
+Tags:::  A1 
 guid::: vTV-b.DdN,

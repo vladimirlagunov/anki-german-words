@@ -1,0 +1,13 @@
+Word::: Mädchen
+WordTranslation::: девочка
+Explanation::: <ol><li><div><strong>Для маленьких детей:</strong></div><ul><li><strong>Mädchen</strong>: девочка</li><li><strong>Knabe/Knäblein</strong>: устаревшее слово для мальчика, аналогично "Junge"</li><li><strong>Kind</strong>: ребенок (неопределенного пола)</li></ul></li><li><div><strong>Школьный возраст:</strong></div><ul><li><strong>Schüler</strong>: ученик (мальчик)</li><li><strong>Schülerin</strong>: ученица (девочка)</li></ul></li><li><div><strong>Подростки:</strong></div><ul><li><strong>Teenie/Teenager</strong>: подросток (неопределенного пола)</li><li><strong>Jugendlicher</strong>: подросток, юноша (чаще используется в официальном контексте)</li></ul></li><li><div><strong>Молодые люди:</strong></div><ul><li><strong>Junge Frau</strong>: молодая женщина</li><li><strong>Junger Mann</strong>: молодой мужчина</li></ul></li><li><div><strong>Взрослые:</strong></div><ul><li><strong>Frau</strong>: женщина</li><li><strong>Mann</strong>: мужчина</li></ul></li><li><div><strong>Пожилые люди:</strong></div><ul><li><strong>Senior/Seniorin</strong>: пожилой человек, старик/старуха</li><li><strong>Oma/Opa</strong>: бабушка/дедушка (более дружелюбное и семейное)</li></ul></li><li><div><strong>Общие термины:</strong></div><ul><li><strong>Erwachsener</strong>: взрослый</li><li><strong>Person</strong>: человек (неопределенного возраста или пола)</li></ul></li></ol>
+DerDieDas::: das
+Plural::: Mädchen
+FrontExample::: Familie Kurz bekommt ein Baby. – Junge oder Mädchen?
+BackExample::: Семья Курц ждет ребенка. – Мальчик или девочка?
+FrontExample2::: Das Mädchen spielt im Garten.
+BackExample2::: Девочка играет в саду.
+FrontExample3::: Das Mädchen isst ein Eis.
+BackExample3::: Девочка ест мороженое.
+Tags:::  A1 chatgpt 
+guid::: iAs*cC/`>(

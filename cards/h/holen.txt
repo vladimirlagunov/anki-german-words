@@ -11,5 +11,5 @@ FrontExample2::: Ich gehe schnell Milch holen.
 BackExample2::: Я быстро схожу за молоком.
 FrontExample3::: Das Kind holt dem Vater die Zeitung.
 BackExample3::: Ребенок приносит отцу газету.
-Tags:::  chatgpt 
+Tags:::  A1 chatgpt 
 guid::: cj]SU(R^aS

@@ -1,6 +1,5 @@
 Word::: sehen
-WordTranslation::: видеть<br><ul>
-</ul>
+WordTranslation::: видеть
 DrittenPerson::: sieht
 Perfekt::: haben gesehen
 Präteritum::: sah
@@ -10,5 +9,5 @@ FrontExample2::: Wir sehen einen Film im Kino.
 BackExample2::: Мы смотрим фильм в кино.
 FrontExample3::: Sie sieht sehr müde aus.
 BackExample3::: Она выглядит очень уставшей.
-Tags:::  chatgpt 
+Tags:::  A1 chatgpt 
 guid::: i+z!8S.^4u

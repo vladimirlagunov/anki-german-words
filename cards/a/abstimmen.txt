@@ -1,0 +1,13 @@
+Word::: abstimmen
+WordTranslation::: <ul><li>голосовать, согласовывать</li><li>настраивать, подгонять</li></ul>
+DrittenPerson::: stimmt ab
+Perfekt::: haben abgestimmt
+Präteritum::: stimmte ab
+FrontExample::: Wir müssen über den neuen Vorschlag abstimmen.
+BackExample::: Мы должны проголосовать по новому предложению.
+FrontExample2::: Die Farben im Raum müssen aufeinander abgestimmt werden.
+BackExample2::: Цвета в комнате должны быть согласованы друг с другом.
+FrontExample3::: Vor dem Konzert müssen die Musiker ihre Instrumente abstimmen.
+BackExample3::: Перед концертом музыкантам нужно настроить свои инструменты.
+Tags:::  chatgpt 
+guid::: g%)I6X^8*B

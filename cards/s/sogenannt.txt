@@ -1,0 +1,10 @@
+Word::: sogenannt
+WordTranslation::: так называемый
+FrontExample::: Er wohnt in einem sogenannten Smart Home, das voll automatisiert ist.
+BackExample::: Он живет в так называемом "умном доме", который полностью автоматизирован.
+FrontExample2::: Viele junge Leute hören gerne sogenannte Indie-Musik, die abseits vom Mainstream produziert wird.
+BackExample2::: Многие молодые люди любят слушать так называемую инди-музыку, которая производится вне основного мейнстрима.
+FrontExample3::: Im Mittelalter glaubten die Menschen an sogenannte Hexen, die angeblich mit dem Teufel im Bunde waren.
+BackExample3::: В средние века люди верили в так называемых ведьм, которые якобы заключили сделку с дьяволом.
+Tags:::  chatgpt 
+guid::: m#9Pgja]Xj

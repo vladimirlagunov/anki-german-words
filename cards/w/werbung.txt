@@ -1,0 +1,6 @@
+Word::: Werbung
+WordTranslation::: реклама, призыв
+DerDieDas::: die
+Plural::: Werbungen
+Tags:::  chatgpt 
+guid::: j>I@?N{0a2

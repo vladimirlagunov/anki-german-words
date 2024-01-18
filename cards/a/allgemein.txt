@@ -1,0 +1,10 @@
+Word::: allgemein
+WordTranslation::: <ul><li>общий, универсальный, обычный</li><li>в общем, в целом</li></ul>
+FrontExample::: Das ist eine allgemeine Regel in der deutschen Grammatik.
+BackExample::: Это общее правило в немецкой грамматике.
+FrontExample2::: Das Interesse an dem Thema ist allgemein sehr hoch.
+BackExample2::: Интерес к теме в целом очень высок.
+FrontExample3::: Allgemein wird angenommen, dass regelmäßiges Training gesund ist.
+BackExample3::: В общем, считается, что регулярные тренировки полезны для здоровья.
+Tags:::  chatgpt 
+guid::: o%OqL+Dyue

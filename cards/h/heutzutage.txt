@@ -1,0 +1,8 @@
+Word::: heutzutage
+WordTranslation::: в наши дни, нынче
+FrontExample::: Heutzutage ist es einfacher, über das Internet zu kommunizieren.
+BackExample::: В наши дни легче общаться через интернет.
+FrontExample2::: Heutzutage achten die Menschen mehr auf gesunde Ernährung.
+BackExample2::: В настоящее время люди больше внимания уделяют здоровому питанию.
+Tags:::  chatgpt 
+guid::: b8ZZXTuc*Q

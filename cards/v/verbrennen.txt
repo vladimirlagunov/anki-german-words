@@ -4,15 +4,14 @@ Explanation::: <ol><li><div><strong>Brennen</strong> - Это базовый г�
 DrittenPerson::: verbrennt
 Perfekt::: <ul>
 <li>sein verbrannt</li>
-<li>hat verbrannt</li>
+<li>haben verbrannt</li>
 </ul>
 Präteritum::: verbrannte
 FrontExample::: Ich werde alle Briefe verbrennen.
 
 BackExample::: Я сожгу все письма.
 
-FrontExample2::: Der Herd war noch heiß. Ich habe mich verbrannt. 
-
-BackExample2::: Плита была еще горячей. Я обожглась. Todo подходит ли ключевое слово по смыслу?
-Tags::: 
+FrontExample2::: In dieser Anlage werden gefährliche Abfälle umweltgerecht verbrannt.
+BackExample2::: На этом предприятии опасные отходы сжигаются в экологически безопасной манере.
+Tags:::  chatgpt 
 guid::: k|^%htoeCE

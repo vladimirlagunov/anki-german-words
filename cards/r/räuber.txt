@@ -1,0 +1,10 @@
+Word::: Räuber
+WordTranslation::: грабитель, разбойник
+DerDieDas::: der
+Plural::: Räuber
+FrontExample::: Der Räuber entkam mit der Beute.
+BackExample::: Разбойник сбежал с добычей.
+FrontExample2::: Die Kinder spielen Räuber und Gendarm.
+BackExample2::: Дети играют в разбойников и полицейских.
+Tags:::  chatgpt 
+guid::: eTVNarXC2J

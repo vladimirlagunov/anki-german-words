@@ -1,0 +1,10 @@
+Word::: Aussage
+WordTranslation::: утверждение, высказывание, показание, смысл
+DerDieDas::: die
+Plural::: Aussagen
+FrontExample::: Seine Aussage vor Gericht war entscheidend für das Urteil.
+BackExample::: Его показания в суде были решающими для вынесения приговора.
+FrontExample2::: Die Aussage des Zeugen war sehr unklar und widersprüchlich.
+BackExample2::: Показания свидетеля были очень нечеткими и противоречивыми.
+Tags:::  A1 chatgpt 
+guid::: LxT`H0.Ls2

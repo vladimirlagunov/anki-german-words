@@ -4,7 +4,7 @@ DrittenPerson::: fährt ab
 Perfekt::: sein abgefahren
 Präteritum::: fuhr ab
 FrontExample::: Wir fahren um zwölf Uhr ab.
-BackExample::: Мы отправляемся в двенадцать часов.
+BackExample::: Мы выезжаем в двенадцать часов.
 FrontExample2::: Der Zug fährt in fünf Minuten ab.
 BackExample2::: Поезд отправляется через пять минут.
 Tags:::  A1 chatgpt 

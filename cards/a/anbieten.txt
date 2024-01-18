@@ -10,5 +10,5 @@ FrontExample2::: Das Restaurant bietet eine breite Auswahl an Gerichten an.
 BackExample2::: Ресторан предлагает большой выбор блюд.
 FrontExample3::: Er bot an, mich nach Hause zu fahren.
 BackExample3::: Он предложил отвезти меня домой.
-Tags:::  chatgpt 
+Tags:::  A1 chatgpt 
 guid::: lyU_eF45IQ

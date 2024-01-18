@@ -1,0 +1,13 @@
+Word::: aufführen
+WordTranslation::: <ul><li>исполнять, представлять, перечислять</li><li>выступать, показывать, проводить</li></ul>
+DrittenPerson::: führt auf
+Perfekt::: haben aufgeführt
+Präteritum::: führte auf
+FrontExample::: Die Schüler werden das Stück morgen in der Schule aufführen.
+BackExample::: Ученики завтра представят пьесу в школе.
+FrontExample2::: Er führt alle seine Ausgaben sorgfältig in einem Heft auf.
+BackExample2::: Он тщательно перечисляет все свои расходы в тетради.
+FrontExample3::: Bei der Konferenz wurde sein Name nicht auf der Gästeliste aufgeführt.
+BackExample3::: На конференции его имя не было указано в списке гостей.
+Tags:::  chatgpt 
+guid::: Mg$~3|nwtj

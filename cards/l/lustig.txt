@@ -1,4 +1,6 @@
 Word::: lustig
 WordTranslation::: весёлый
-Tags::: 
+FrontExample::: Frau Mertens ist lustig. Sie lacht immer.
+BackExample::: Госпожа Мертенс весёлая. Она всегда смеется.
+Tags:::  A1 
 guid::: GDns/zxQla

@@ -1,0 +1,11 @@
+Word::: veröffentlichen
+WordTranslation::: публиковать
+DrittenPerson::: veröffentlicht
+Perfekt::: haben veröffentlicht
+Präteritum::: veröffentlichte
+FrontExample::: Der Autor wird sein neues Buch nächste Woche veröffentlichen.
+BackExample::: Автор опубликует свою новую книгу на следующей неделе.
+FrontExample2::: Die Forschungsergebnisse wurden in einer renommierten Fachzeitschrift veröffentlicht.
+BackExample2::: Результаты исследования были опубликованы в престижном научном журнале.
+Tags:::  chatgpt 
+guid::: IsM$3iSO]k

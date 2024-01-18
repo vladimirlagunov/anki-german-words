@@ -1,0 +1,8 @@
+Word::: Diener
+WordTranslation::: <ul><li>слуга, прислужник</li><li>ассистент, лаборант</li></ul>
+DerDieDas::: der
+Plural::: Diener
+FrontExample::: Mein Großvater war einst ein Diener in einem großen Herrenhaus.
+BackExample::: Мой дед когда-то был слугой в большом поместье.
+Tags:::  chatgpt Marked 
+guid::: E36}}W>X{?

@@ -1,0 +1,6 @@
+Word::: Staat
+WordTranslation::: государство, страна, штат
+DerDieDas::: der
+Plural::: Staaten
+Tags:::  chatgpt 
+guid::: DfS/FVV_MK

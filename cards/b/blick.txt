@@ -8,5 +8,5 @@ FrontExample2::: Von hier aus hat man einen schönen Blick auf die Stadt.
 BackExample2::: Отсюда открывается красивый вид на город.
 FrontExample3::: Mit einem letzten Blick verließ er das Zimmer.
 BackExample3::: Бросив последний взгляд, он покинул комнату.
-Tags:::  chatgpt 
+Tags:::  A1 chatgpt 
 guid::: I}o`ua%(Uh

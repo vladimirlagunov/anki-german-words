@@ -1,0 +1,12 @@
+Word::: Filmaufnahme
+WordTranslation::: киносъемка, кадр фильма
+DerDieDas::: die
+Plural::: Filmaufnahmen
+FrontExample::: Die Filmaufnahme des Mondes war spektakulär.
+BackExample::: Съемка Луны была захватывающей.
+FrontExample2::: Bei der Filmaufnahme hat der Schauspieler seinen Text vergessen.
+BackExample2::: Во время киносъемки актер забыл свой текст.
+FrontExample3::: Die Qualität der Filmaufnahme ist wegen des schlechten Lichts nicht sehr gut.
+BackExample3::: Качество киносъемки оказалось не очень хорошим из-за плохого освещения.
+Tags:::  chatgpt 
+guid::: r}L/#QIk!r

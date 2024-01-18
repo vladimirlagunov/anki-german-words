@@ -1,0 +1,6 @@
+Word::: Glühlampe
+WordTranslation::: лампочка
+DerDieDas::: die
+Plural::: Glühlampen
+Tags::: 
+guid::: vY^1Htpt*K

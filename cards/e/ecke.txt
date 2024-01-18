@@ -2,5 +2,7 @@ Word::: Ecke
 WordTranslation::: угол
 DerDieDas::: die
 Plural::: Ecken
-Tags::: 
+FrontExample::: An der nächsten Ecke links.
+BackExample::: За следующим углом налево.
+Tags:::  A1 
 guid::: Q8d(3eylWa

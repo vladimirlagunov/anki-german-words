@@ -1,0 +1,8 @@
+Word::: Gewerkschaft
+WordTranslation::: профсоюз
+FrontExample::: Viele Arbeiter sind Mitglieder in einer Gewerkschaft, um bessere Arbeitsbedingungen zu verhandeln.
+BackExample::: Многие рабочие являются членами профсоюза, чтобы договариваться о лучших условиях труда.
+FrontExample2::: Die Gewerkschaft ruft zu einem Streik auf, da die Lohnverhandlungen gescheitert sind.
+BackExample2::: Профсоюз призывает к забастовке, так как переговоры по заработной плате провалились.
+Tags:::  chatgpt 
+guid::: M/0lXtt&:`

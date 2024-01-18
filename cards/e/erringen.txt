@@ -1,0 +1,13 @@
+Word::: erringen
+WordTranslation::: добиться, завоевать, выиграть
+DrittenPerson::: erringt
+Perfekt::: haben errungen
+Präteritum::: errang
+FrontExample::: Sie hat sich Anerkennung durch hartes Arbeiten errungen.
+BackExample::: Она завоевала уважение благодаря усердной работе.
+FrontExample2::: Der Sportler hat die Goldmedaille im Wettkampf errungen.
+BackExample2::: Спортсмен завоевал золотую медаль в соревновании.
+FrontExample3::: Nach langen Verhandlungen haben wir endlich einen Kompromiss errungen.
+BackExample3::: После долгих переговоров нам наконец удалось достигнуть компромисса.
+Tags:::  chatgpt 
+guid::: HWyckg(RNr

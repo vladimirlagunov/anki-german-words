@@ -1,0 +1,13 @@
+Word::: renommieren
+WordTranslation::: <div><ul><li>хвастаться</li><li>гордиться</li></ul></div>
+DrittenPerson::: renommiert
+Perfekt::: haben renommiert
+Präteritum::: renommierte
+FrontExample::: Er renommierte ständig mit seinen Erfolgen in der Vergangenheit.
+BackExample::: Он постоянно хвастался своими успехами в прошлом.
+FrontExample2::: Das Unternehmen renommierte mit seiner langen Tradition und Qualität.
+BackExample2::: Компания гордилась своей долгой традицией и качеством.
+FrontExample3::: Dieses Restaurant renommiert mit seiner ausgezeichneten Küche.
+BackExample3::: Этот ресторан славится своей отличной кухней.
+Tags:::  chatgpt 
+guid::: m&MB(h5I;y

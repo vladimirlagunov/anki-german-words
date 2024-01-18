@@ -12,5 +12,5 @@ FrontExample2::: An deiner Stelle würde ich eine Pause machen.
 BackExample2::: На твоём месте я бы сделал перерыв.
 FrontExample3::: Diese Stelle im Buch ist besonders interessant.
 BackExample3::: Это место в книге особенно интересно.
-Tags:::  chatgpt 
+Tags:::  A1 chatgpt 
 guid::: z4Qs$:)+lL

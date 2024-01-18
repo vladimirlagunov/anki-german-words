@@ -1,0 +1,12 @@
+Word::: Vermögen
+WordTranslation::: <ul><li>имущество, состояние</li><li>способность, возможность</li></ul>
+DerDieDas::: das
+Plural::: Vermögen
+FrontExample::: Er hat sein ganzes Vermögen in Aktien investiert.
+BackExample::: Он вложил все своё состояние в акции.
+FrontExample2::: Sie verfügt über ein Vermögen, das sie von ihren Eltern geerbt hat.
+BackExample2::: Она распоряжается состоянием, которое унаследовала от родителей.
+FrontExample3::: Mein Großvater hatte die Fähigkeit, mit jedem auszukommen – das war sein größtes Vermögen.
+BackExample3::: Мой дедушка обладал способностью ладить с каждым — это было его самым большим достоинством.
+Tags:::  chatgpt 
+guid::: pGvK:LvpRv

@@ -1,0 +1,13 @@
+Word::: vergehen
+WordTranslation::: <ul><li>проходить, истекать </li><li>совершать (преступление), нарушать (закон)</li></ul>
+DrittenPerson::: vergeht
+Perfekt::: haben vergangen
+Präteritum::: verging
+FrontExample::: Die Zeit vergeht so schnell, wenn man Spaß hat.
+BackExample::: Время летит так быстро, когда тебе весело.
+FrontExample2::: Das Verbrechen wird nicht vergehen, ohne bestraft zu werden.
+BackExample2::: Преступление не останется безнаказанным.
+FrontExample3::: Seine Schmerzen sind nach der Einnahme der Medikamente schnell vergangen.
+BackExample3::: Его боли быстро прошли после приема лекарств.
+Tags:::  chatgpt 
+guid::: f><7etR_ZP

@@ -1,0 +1,13 @@
+Word::: betonen
+WordTranslation::: <ul>
+<li>подчёркивать<br></li><li>делать ударение</li>
+</ul>
+DrittenPerson::: betont
+Perfekt::: haben betont
+Präteritum::: betonte
+FrontExample::: Sie betont immer wieder, wie wichtig Teamarbeit ist.
+BackExample::: Она всегда подчеркивает, насколько важна командная работа.
+FrontExample2::: In seiner Rede betonte der Bürgermeister die Bedeutung der Integration.
+BackExample2::: В своей речи мэр подчеркнул значение интеграции.
+Tags:::  chatgpt 
+guid::: t@(YSycSU@

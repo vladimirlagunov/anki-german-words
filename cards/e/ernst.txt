@@ -1,0 +1,10 @@
+Word::: ernst
+WordTranslation::: серьёзный, деловой, важный, строгий
+FrontExample::: Ernst ist das Leben, heiter ist die Kunst.
+BackExample::: Жизнь серьёзна, искусство же весело.
+FrontExample2::: Ich meine das ganz ernst.
+BackExample2::: Я говорю это совершенно серьезно.
+FrontExample3::: Man muss die Warnungen ernst nehmen.
+BackExample3::: Нужно серьезно отнестись к предупреждениям.
+Tags:::  chatgpt 
+guid::: h$4(iVb/a.

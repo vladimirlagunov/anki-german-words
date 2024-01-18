@@ -1,0 +1,10 @@
+Word::: hart
+WordTranslation::: <ul><li>твердый, жесткий, крепкий</li><li>суровый, строгий</li></ul>
+FrontExample::: Das Bett ist zu hart.
+BackExample::: Кровать слишком жёсткая.
+FrontExample2::: Er arbeitet hart, um seine Ziele zu erreichen.
+BackExample2::: Он усердно работает, чтобы достичь своих целей.
+FrontExample3::: Die Prüfung war hart, aber ich habe sie bestanden.
+BackExample3::: Экзамен был трудным, но я его сдал.
+Tags:::  chatgpt 
+guid::: G![Pm5kk7h

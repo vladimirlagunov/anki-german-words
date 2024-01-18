@@ -1,0 +1,11 @@
+Word::: entwerfen
+WordTranslation::: проектировать, разрабатывать, чертить, создавать, набрасывать
+DrittenPerson::: entwirft
+Perfekt::: haben entworfen
+Präteritum::: entwarf
+FrontExample::: Architekten entwerfen oft mehrere Skizzen, bevor sie den finalen Entwurf präsentieren.
+BackExample::: Архитекторы часто создают несколько эскизов, прежде чем представить финальный проект.
+FrontExample2::: Der Ingenieur hat eine neue Maschine entworfen, die die Produktionseffizienz erheblich steigern könnte.
+BackExample2::: Инженер разработал новую машину, которая существенно может повысить эффективность производства.
+Tags:::  chatgpt 
+guid::: O,8hvfI9!v

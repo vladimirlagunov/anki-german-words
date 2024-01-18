@@ -4,5 +4,7 @@ WordTranslation::: <ul>
 <li>затяжный</li>
 <li>нерасторопный</li>
 </ul>
-Tags::: 
+FrontExample::: Könnten Sie bitte etwas langsamer sprechen?
+BackExample::: Не могли бы вы говорить немного медленнее?
+Tags:::  A1 
 guid::: cvjJ<mEEif

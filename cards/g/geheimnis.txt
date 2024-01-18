@@ -1,6 +1,5 @@
 Word::: Geheimnis
-WordTranslation::: тайна, секрет<br><ul>
-</ul>
+WordTranslation::: тайна, секрет
 Explanation::: Syn: die Geheimhaltung, der Schlüssel, das Mysterium, der Hehl, die Vertraulichkeit
 DerDieDas::: das
 Plural::: Geheimnisse

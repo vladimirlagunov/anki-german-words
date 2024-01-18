@@ -5,5 +5,7 @@ FrontExample::: Ich kann zurzeit nicht nach Deutschland kommen.
 BackExample::: Я сейчас не могу приехать в Германию.
 FrontExample2::: Wir haben zurzeit sehr viel Arbeit.
 BackExample2::: У нас сейчас очень много работы.
-Tags:::  chatgpt 
+FrontExample3::: Zurzeit habe ich sehr viel zu tun.
+BackExample3::: В настоящее время у меня очень много дел.
+Tags:::  A1 chatgpt 
 guid::: x|Pm(@bgg4

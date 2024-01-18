@@ -1,5 +1,5 @@
 Word::: ab
-WordTranslation::: с (предлог)
+WordTranslation::: с, начиная с (предлог)
 FrontExample::: Ab morgen muss ich arbeiten.
 BackExample::: С завтрашнего дня я должен работать.
 FrontExample2::: Ab acht Uhr ist das Museum geöffnet.

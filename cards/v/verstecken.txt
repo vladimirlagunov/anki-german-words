@@ -1,5 +1,5 @@
 Word::: verstecken
-WordTranslation::: прятаться, спрятать, скрыться
+WordTranslation::: прятать, скрывать
 Explanation::: Syn:&nbsp;<a>verbergen,&nbsp;</a><a>verdecken,&nbsp;</a><a>verschweigen,&nbsp;</a><a>verschleiern</a>
 Perfekt::: hat versteckt
 Präteritum::: versteckte

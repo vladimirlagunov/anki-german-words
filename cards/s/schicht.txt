@@ -1,0 +1,10 @@
+Word::: Schicht
+WordTranslation::: <ul><li>смена</li><li>слой, пласт</li></ul>
+DerDieDas::: die
+Plural::: Schichten
+FrontExample::: Ich arbeite heute die Nachtschicht.
+BackExample::: Сегодня я работаю ночную смену.
+FrontExample2::: In diesem Bergwerk gibt es mehrere Kohleschichten.
+BackExample2::: В этом угольном руднике есть несколько слоев угля.
+Tags:::  chatgpt 
+guid::: F6[>FOyxmE

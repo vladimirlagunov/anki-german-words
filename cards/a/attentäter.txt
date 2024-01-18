@@ -1,0 +1,8 @@
+Word::: Attentäter
+WordTranslation::: убийца
+DerDieDas::: der
+Plural::: Attentäter
+FrontExample::: Der Attentäter wurde kurz nach dem Anschlag festgenommen.
+BackExample::: Злоумышленник был арестован вскоре после нападения.
+Tags:::  chatgpt 
+guid::: mcP?;Mz;WP

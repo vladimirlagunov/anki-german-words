@@ -8,5 +8,5 @@ FrontExample2::: Ich kann mich nicht entscheiden, was ich von der Speisekarte be
 BackExample2::: Я не могу решить, что заказать из меню.
 FrontExample3::: Die Speisekarte in diesem Restaurant ist sehr vielfältig.
 BackExample3::: Меню в этом ресторане очень разнообразное.
-Tags:::  chatgpt 
+Tags:::  A1 chatgpt 
 guid::: LP|r_eS?sK

@@ -1,15 +1,10 @@
 Word::: Fehler
-WordTranslation::: <ul>
-<li>дефект</li>
-<li>недостаток</li>
-<li>ошибка</li>
-<li>погрешность</li>
-</ul>
+WordTranslation::: дефект, недостаток, ошибка
 DerDieDas::: der
 Plural::: Fehler
 FrontExample::: Ich habe einen großen Fehler gemacht.
 BackExample::: Я совершил большую ошибку.
 FrontExample2::: Es ist kein Fehler, um Hilfe zu bitten.
 BackExample2::: Не ошибка попросить о помощи.
-Tags:::  chatgpt 
+Tags:::  A1 chatgpt 
 guid::: igx!W_ZsV[

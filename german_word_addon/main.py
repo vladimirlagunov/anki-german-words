@@ -4,17 +4,65 @@ import re
 import shutil
 from anki.collection import Collection
 from aqt import ProfileManager
-from german_word_addon.filler import universal_german_word_template_name
+from german_word_addon.filler import universal_german_word_template_name, _fill_note_from_wiktionary
 from tempfile import mkdtemp
 from typing import Sequence, Tuple, TextIO
 
 
+def handle_a1_cards():
+    pm = ProfileManager(ProfileManager.get_created_base_folder(None))
+    pm.setupMeta()
+    pm.load(next(iter(pm.profiles())))
+
+    col = Collection(pm.collectionPath())
+
+    note_ids = col.find_notes('deck:"A1 tmp"')
+
+    for note_id in note_ids:
+        note = col.get_note(note_id)
+
+        word = note['Word']
+
+        import bs4
+        word = bs4.BeautifulSoup(word, 'html.parser').get_text().strip()
+
+        word = (
+            word
+            .strip()
+            .split("\n", 1)[0]
+            .removeprefix('der ')
+            .removeprefix('die ')
+            .removeprefix('das ')
+            .rstrip()
+        )
+        word = re.sub('[-(,].*', '', word)
+
+        note['Word'] = word
+        print("Checking word:", word)
+
+        _fill_note_from_wiktionary(note)
+
+        col.update_note(note)
+
+    col.save()
+
 def main():
     parser = argparse.ArgumentParser()
     subparsers = parser.add_subparsers()
+
     generate_apkg_parser = subparsers.add_parser('generate-apkg')
+    generate_apkg_parser.set_defaults(cmd='generate-apkg')
     generate_apkg_parser.add_argument("path")
+
+    tmp_parser = subparsers.add_parser("tmp")
+    tmp_parser.set_defaults(cmd='tmp')
+
     args = parser.parse_args()
+
+    if args.cmd == 'tmp':
+        handle_a1_cards()
+        return
+
     base_folder = mkdtemp()
     try:
         pm = ProfileManager(ProfileManager.get_created_base_folder(base_folder))

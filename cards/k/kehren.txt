@@ -1,0 +1,11 @@
+Word::: kehren
+WordTranslation::: <ul><li>подметать</li><li>возвращаться</li></ul>
+DrittenPerson::: kehrt
+Perfekt::: haben gekehrt
+Präteritum::: kehrte
+FrontExample::: Die Straßenkehrer kehren jeden Morgen die Straße.
+BackExample::: Дворники подметают улицу каждое утро.
+FrontExample2::: Nach seiner langen Reise kehrt er endlich nach Hause zurück.
+BackExample2::: После долгого путешествия он наконец возвращается домой.
+Tags:::  chatgpt 
+guid::: CGC/FSMsXs

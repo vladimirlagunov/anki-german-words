@@ -1,0 +1,12 @@
+Word::: Gestalter
+WordTranslation::: дизайнер, разработчик, создатель
+DerDieDas::: der
+Plural::: Gestalter
+FrontExample::: Er ist ein talentierter Gestalter von Webseiten.
+BackExample::: Он талантливый дизайнер веб-сайтов.
+FrontExample2::: Die Gestalter des Projekts arbeiten bereits an einer neuen Konzeption.
+BackExample2::: Разработчики проекта уже работают над новой концепцией.
+FrontExample3::: Als Gestalter unserer eigenen Zukunft sollten wir verantwortungsbewusst handeln.
+BackExample3::: Как создатели нашего собственного будущего, мы должны действовать ответственно.
+Tags:::  chatgpt 
+guid::: tqG~:kyxA@

@@ -1,0 +1,9 @@
+Word::: werben
+WordTranslation::: агитировать, рекламировать, вербовать
+DrittenPerson::: wirbt
+Perfekt::: haben geworben
+Präteritum::: warb
+FrontExample::: Die Firma wirbt neue Kunden mit einer Werbekampagne.
+BackExample::: Компания привлекает новых клиентов рекламной кампанией.
+Tags:::  chatgpt 
+guid::: ko2XF]YF6r

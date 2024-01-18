@@ -1,0 +1,8 @@
+Word::: Waschbecken
+WordTranslation::: раковина
+DerDieDas::: das
+Plural::: Waschbecken
+FrontExample::: Das Waschbecken im Bad ist verstopft.
+BackExample::: Раковина в ванной засорилась.
+Tags:::  chatgpt 
+guid::: p3vNK~KXD*

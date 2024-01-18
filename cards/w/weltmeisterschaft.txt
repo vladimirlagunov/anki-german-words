@@ -1,0 +1,10 @@
+Word::: Weltmeisterschaft
+WordTranslation::: чемпионат мира
+FrontExample::: Deutschland gewann die Fußball-Weltmeisterschaft 2014 in Brasilien.
+BackExample::: Германия выиграла чемпионат мира по футболу 2014 года в Бразилии.
+FrontExample2::: Die nächste Schach-Weltmeisterschaft findet in Dubai statt.
+BackExample2::: Следующий чемпионат мира по шахматам пройдет в Дубае.
+FrontExample3::: Wer wird die Weltmeisterschaft im Eiskunstlauf gewinnen?
+BackExample3::: Кто выиграет чемпионат мира по фигурному катанию?
+Tags:::  chatgpt 
+guid::: GN@[_Q~4b)

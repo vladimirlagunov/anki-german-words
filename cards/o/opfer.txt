@@ -1,0 +1,12 @@
+Word::: Opfer
+WordTranslation::: жертва
+DerDieDas::: das
+Plural::: Opfer
+FrontExample::: Viele Zivilisten wurden Opfer des Krieges.
+BackExample::: Многие гражданские лица стали жертвами войны.
+FrontExample2::: Das Opfertier wird auf dem Altar dargebracht.
+BackExample2::: Жертвенное животное преподносится на алтаре.
+FrontExample3::: Er betrachtet sich selbst als Opfer seiner Umstände.
+BackExample3::: Он считает себя жертвой своих обстоятельств.
+Tags:::  chatgpt 
+guid::: pQm;V[jpC*

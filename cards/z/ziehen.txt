@@ -1,0 +1,13 @@
+Word::: ziehen
+WordTranslation::: <ul><li>тянуть, растягивать, вытягивать</li><li>притягивать, влечь</li><li>переезжать, двигаться, перебираться</li></ul>
+DrittenPerson::: zieht
+Perfekt::: haben gezogen
+Präteritum::: zog
+FrontExample::: Ich muss ziehen, um die Tür zu schließen.
+BackExample::: Мне нужно потянуть, чтобы закрыть дверь.
+FrontExample2::: Ich werde nächste Woche in eine neue Wohnung ziehen.
+BackExample2::: На следующей неделе я перееду в новую квартиру.
+FrontExample3::: Die Wolken ziehen schnell am Himmel vorbei.
+BackExample3::: Облака быстро перемещаются [тянутся] по небу.
+Tags:::  chatgpt 
+guid::: K8)<l/~(5u

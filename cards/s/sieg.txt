@@ -1,0 +1,12 @@
+Word::: Sieg
+WordTranslation::: победа
+DerDieDas::: der
+Plural::: Siege
+FrontExample::: Wir feiern den Sieg unserer Mannschaft.
+BackExample::: Мы празднуем победу нашей команды.
+FrontExample2::: Der Sieg war nach einem langen Kampf endlich erreicht.
+BackExample2::: Победа была наконец достигнута после долгой борьбы.
+FrontExample3::: Der Kandidat errang einen klaren Sieg bei den Wahlen.
+BackExample3::: Кандидат одержал убедительную победу на выборах.
+Tags:::  chatgpt 
+guid::: I_h-9G+>:$

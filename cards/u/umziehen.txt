@@ -19,5 +19,5 @@ FrontExample::: Wir ziehen nächste Woche um.
 BackExample::: Мы переезжаем на следующей неделе.
 FrontExample2::: Ich muss mich umziehen.
 BackExample2::: Мне нужно переодеться.
-Tags:::  chatgpt 
+Tags:::  A1 chatgpt 
 guid::: iU.X5w6]]m

@@ -1,0 +1,10 @@
+Word::: Mord
+WordTranslation::: убийство
+DerDieDas::: der
+Plural::: Morde
+FrontExample::: Der Mord an dem Politiker erschütterte die ganze Nation.
+BackExample::: Убийство политика потрясло всю нацию.
+FrontExample2::: In dem Kriminalroman wurde der Mord durch einen geheimen Hinweis aufgeklärt.
+BackExample2::: В детективном романе убийство было раскрыто благодаря секретной подсказке.
+Tags:::  chatgpt 
+guid::: Dwd=h/Oqtk

@@ -1,0 +1,10 @@
+Word::: Vorstand
+WordTranslation::: правление, дирекция, управляющий совет, исполнительный орган
+DerDieDas::: der
+Plural::: Vorstände
+FrontExample::: Er wurde in den Vorstand der Gesellschaft gewählt.
+BackExample::: Он был избран в совет директоров компании.
+FrontExample2::: Die Entscheidung muss noch vom Vorstand genehmigt werden.
+BackExample2::: Решение должно еще быть утверждено правлением.
+Tags:::  chatgpt 
+guid::: Mh6>cp^?jb

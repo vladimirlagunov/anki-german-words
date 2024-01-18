@@ -1,0 +1,8 @@
+Word::: spätabends
+WordTranslation::: поздно вечером
+FrontExample::: Ich gehe spätabends oft spazieren, um den Kopf frei zu bekommen.
+BackExample::: Я часто хожу на прогулки поздно вечером, чтобы освежить мысли.
+FrontExample2::: Die Straßen sind spätabends meistens leer und ruhig.
+BackExample2::: Улицы обычно пусты и тихи поздно вечером.
+Tags:::  chatgpt 
+guid::: G)[.O0(2y<

@@ -1,6 +1,5 @@
 Word::: ausfüllen
-WordTranslation::: заполнить (документ, форму)<br><ul>
-</ul>
+WordTranslation::: заполнить (документ, форму)
 DrittenPerson::: füllt aus
 Perfekt::: haben ausgefüllt
 Präteritum::: füllte aus
@@ -10,5 +9,5 @@ FrontExample2::: Ich muss den Antrag ausfüllen und bis morgen einreichen.
 BackExample2::: Я должен заполнить заявление и подать его до завтра.
 FrontExample3::: Er füllte das Kreuzworträtsel schnell aus.
 BackExample3::: Он быстро заполнил кроссворд.
-Tags:::  chatgpt 
+Tags:::  A1 chatgpt 
 guid::: C2eT>]XB@u

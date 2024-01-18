@@ -1,0 +1,10 @@
+Word::: rechtlich
+WordTranslation::: правовой, юридический, законный
+FrontExample::: Er ist der rechtliche Vormund des Kindes.
+BackExample::: Он является законным опекуном ребенка.
+FrontExample2::: Rechtliche Schritte gegen den Verlag wurden eingeleitet.
+BackExample2::: Были предприняты законные шаги против издательства.
+FrontExample3::: Die rechtliche Lage ist in diesem Fall sehr kompliziert.
+BackExample3::: Правовая ситуация в данном случае очень сложная.
+Tags:::  chatgpt 
+guid::: yLE4t]TOyt

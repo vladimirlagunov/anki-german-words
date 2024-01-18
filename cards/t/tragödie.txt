@@ -1,0 +1,12 @@
+Word::: Tragödie
+WordTranslation::: трагедия
+DerDieDas::: die
+Plural::: Tragödien
+FrontExample::: Die "Antigone" ist eine bekannte Tragödie von Sophokles.
+BackExample::: "Антигона" - это известная трагедия Софокла.
+FrontExample2::: Der Untergang der Titanic war eine Tragödie, an die man sich noch lange erinnern wird.
+BackExample2::: Крушение "Титаника" было трагедией, которую будут помнить еще очень долго.
+FrontExample3::: Nach der Tragödie hat sich die ganze Gemeinde versammelt, um den Opfern zu gedenken.
+BackExample3::: После трагедии вся община собралась, чтобы почтить память жертв.
+Tags:::  chatgpt 
+guid::: whTG[85IuK

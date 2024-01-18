@@ -1,0 +1,12 @@
+Word::: Spitzenplatz
+WordTranslation::: первое место, лидирующая позиция
+DerDieDas::: der
+Plural::: Spitzenplätze
+FrontExample::: Deutschland behält den Spitzenplatz in der Automobilindustrie.
+BackExample::: Германия сохраняет лидирующую позицию в автомобильной промышленности.
+FrontExample2::: Ihr Team hat einen Spitzenplatz in der nationalen Liga erreicht.
+BackExample2::: Их команда достигла высшего места в национальной лиге.
+FrontExample3::: Auf dem Markt für erneuerbare Energien nimmt das Unternehmen einen Spitzenplatz ein.
+BackExample3::: На рынке возобновляемой энергии компания занимает лидирующую позицию.
+Tags:::  chatgpt 
+guid::: dRI%<9q2#4

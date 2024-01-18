@@ -1,0 +1,13 @@
+Word::: berichten
+WordTranslation::: докладывать, сообщать, рассказывать
+DrittenPerson::: berichtet
+Perfekt::: haben berichtet
+Präteritum::: berichtete
+FrontExample::: Die Zeitung berichtete über die jüngsten Ereignisse in der Politik.
+BackExample::: Газета сообщила о последних событиях в политике.
+FrontExample2::: Während des Treffens berichtete der Manager ausführlich über die Verkaufszahlen.
+BackExample2::: В ходе встречи менеджер подробно доложил о продажах.
+FrontExample3::: Können Sie mir von Ihrem Urlaub berichten?
+BackExample3::: Можете ли вы рассказать мне о вашем отпуске?
+Tags:::  chatgpt 
+guid::: A*,*J/.Ftd

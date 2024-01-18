@@ -1,0 +1,12 @@
+Word::: Einfluss
+WordTranslation::: влияние
+DerDieDas::: der
+Plural::: Einflüsse
+FrontExample::: Der Einfluss des Wetters auf unsere Stimmung ist nicht zu unterschätzen.
+BackExample::: Влияние погоды на наше настроение не следует недооценивать.
+FrontExample2::: Die sozialen Medien haben einen großen Einfluss auf die Meinungsbildung junger Menschen.
+BackExample2::: Социальные медиа оказывают большое влияние на формирование мнений молодых людей.
+FrontExample3::: Ihr Rat hatte viel Einfluss auf meine Entscheidung.
+BackExample3::: Её совет сильно повлиял на мое решение.
+Tags:::  chatgpt 
+guid::: cop68|H?P*

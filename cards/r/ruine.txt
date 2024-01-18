@@ -1,0 +1,6 @@
+Word::: Ruine
+WordTranslation::: руина
+DerDieDas::: die
+Plural::: Ruinen
+Tags:::  chatgpt 
+guid::: zR;.Y^WWrZ

@@ -1,0 +1,13 @@
+Word::: schlagen
+WordTranslation::: бить, ударять
+DrittenPerson::: schlägt
+Perfekt::: haben  geschlagen
+Präteritum::: schlug
+FrontExample::: Er schlägt den Nagel mit dem Hammer in die Wand.
+BackExample::: Он забивает гвоздь в стену молотком.
+FrontExample2::: Mein Herz schlägt schneller, wenn ich dich sehe.
+BackExample2::: Мое сердце бьется быстрее, когда я вижу тебя.
+FrontExample3::: Er hat vor, den Weltrekord zu schlagen.
+BackExample3::: Он собирается побить мировой рекорд.
+Tags:::  chatgpt 
+guid::: Hs2UF*_O.V

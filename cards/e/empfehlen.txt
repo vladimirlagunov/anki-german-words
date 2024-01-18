@@ -7,5 +7,5 @@ FrontExample::: Ich empfehle Ihnen, dieses Buch zu lesen. Es ist sehr interessan
 BackExample::: Я рекомендую вам прочитать эту книгу. Она очень интересная.
 FrontExample2::: Der Reiseleiter empfiehlt diese Sehenswürdigkeit allen Besuchern.
 BackExample2::: Гид рекомендует эту достопримечательность всем посетителям.
-Tags:::  B1 chatgpt unregelmäßige_Verben unregelmäßige_Verben::B1 Verben 
+Tags:::  A1 B1 chatgpt unregelmäßige_Verben unregelmäßige_Verben::B1 Verben 
 guid::: p(nltz>hn0

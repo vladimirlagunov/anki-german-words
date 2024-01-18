@@ -1,0 +1,13 @@
+Word::: einweihen
+WordTranslation::: торжественно открывать
+DrittenPerson::: weiht ein
+Perfekt::: haben eingeweiht
+Präteritum::: weihte ein
+FrontExample::: Gestern haben wir unser neues Haus offiziell eingeweiht.
+BackExample::: Вчера мы официально провели новоселье в нашем новом доме.
+FrontExample2::: Die Stadt hat den neu gebauten Sportplatz eingeweiht.
+BackExample2::: Город торжественно открыл новый спортивный стадион.
+FrontExample3::: Die Firma wird nächste Woche die neue Fabrik einweihen.
+BackExample3::: На следующей неделе компания проведет церемонию открытия нового завода.
+Tags:::  chatgpt 
+guid::: b++E:FX9U^

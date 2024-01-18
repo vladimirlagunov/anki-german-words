@@ -6,5 +6,5 @@ FrontExample::: Wir müssen ein ernstes Gespräch über deine Zukunft führen.
 BackExample::: Мы должны провести серьёзный разговор о твоём будущем.
 FrontExample2::: Das Gespräch mit dem Chef war kürzer als erwartet.
 BackExample2::: Разговор с начальником оказался короче, чем ожидалось.
-Tags:::  chatgpt 
+Tags:::  A1 chatgpt 
 guid::: l>#a~/qE-W

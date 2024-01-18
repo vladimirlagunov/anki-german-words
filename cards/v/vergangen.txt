@@ -1,0 +1,10 @@
+Word::: vergangen
+WordTranslation::: прошедший, минувший
+FrontExample::: Die vergangenen Tage waren sehr anstrengend.
+BackExample::: Прошедшие дни были очень утомительными.
+FrontExample2::: Ich denke oft an die vergangenen Zeiten zurück.
+BackExample2::: Я часто вспоминаю минувшие времена.
+FrontExample3::: Die Ausstellung zeigt Bilder aus vergangenen Jahrhunderten.
+BackExample3::: Выставка показывает картины из прошлых веков.
+Tags:::  chatgpt 
+guid::: kjy5?Vscn`

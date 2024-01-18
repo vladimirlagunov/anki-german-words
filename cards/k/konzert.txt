@@ -1,0 +1,6 @@
+Word::: Konzert
+WordTranslation::: концерт
+DerDieDas::: das
+Plural::: Konzerte
+Tags::: 
+guid::: mjaBN(E@U%

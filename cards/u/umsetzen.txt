@@ -1,0 +1,13 @@
+Word::: umsetzen
+WordTranslation::: <ul><li>реализовывать, претворять в жизнь</li><li>переставлять, переводить</li></ul>
+DrittenPerson::: setzt um
+Perfekt::: haben umgesetzt
+Präteritum::: setzte um
+FrontExample::: Die Firma will ihre neue Geschäftsstrategie schnell umsetzen.
+BackExample::: Компания хочет быстро реализовать свою новую бизнес-стратегию.
+FrontExample2::: Er konnte die Anweisungen nicht richtig umsetzen.
+BackExample2::: Он не смог правильно выполнить инструкции.
+FrontExample3::: Wir müssen den Baum umsetzen, da er zu nah am Haus wächst.
+BackExample3::: Нам нужно пересадить дерево, так как оно растет слишком близко к дому.
+Tags:::  chatgpt 
+guid::: IFLQ,GN/HH

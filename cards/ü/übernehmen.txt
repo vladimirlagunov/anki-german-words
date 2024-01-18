@@ -1,0 +1,13 @@
+Word::: übernehmen
+WordTranslation::: <ul><li>брать на себя, перенимать</li><li>покрывать (затраты), принимать (управление), захватывать (власть)</li></ul>
+DrittenPerson::: übernimmt
+Perfekt::: haben übernommen
+Präteritum::: übernahm
+FrontExample::: Er wird ab nächstem Monat die Leitung des Teams übernehmen.
+BackExample::: Он возьмёт на себя руководство командой со следующего месяца.
+FrontExample2::: Kannst du die Verantwortung für dieses Projekt übernehmen?
+BackExample2::: Ты можешь взять на себя ответственность за этот проект?
+FrontExample3::: Die Firma möchte einige kleinere Konkurrenten übernehmen.
+BackExample3::: Компания хочет поглотить несколько меньших конкурентов.
+Tags:::  chatgpt 
+guid::: f4xY#r1]ZP

@@ -1,0 +1,13 @@
+Word::: beginnen
+WordTranslation::: начинать
+DrittenPerson::: beginnt
+Perfekt::: haben begonnen
+Präteritum::: begann
+FrontExample::: Das Spiel beginnt um 15.30 Uhr.
+BackExample::: Игра начинается в 15:30.
+FrontExample2::: Die Schule beginnt um 8 Uhr morgens.
+BackExample2::: Школа начинается в 8 часов утра.
+FrontExample3::: Wir beginnen mit einer Tasse Kaffee.
+BackExample3::: Мы начинаем с чашки кофе.
+Tags:::  A1 chatgpt 
+guid::: zjQOJEwd/(

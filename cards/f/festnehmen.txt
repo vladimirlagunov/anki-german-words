@@ -1,0 +1,13 @@
+Word::: festnehmen
+WordTranslation::: <ul><li>арестовать, задержать преступника</li><li>хватать, удерживать (в общем смысле)</li></ul>
+DrittenPerson::: nimmt fest
+Perfekt::: haben festgenommen
+Präteritum::: nahm fest
+FrontExample::: Die Polizei konnte den flüchtigen Täter nach einer kurzen Verfolgung festnehmen.
+BackExample::: Полиция смогла задержать беглого преступника после короткой погони.
+FrontExample2::: Nach langen Ermittlungen wurde der Hauptverdächtige in seinem Versteck festgenommen.
+BackExample2::: После длительных расследований главный подозреваемый был арестован в своем убежище.
+FrontExample3::: Während der Demonstration mussten mehrere Personen wegen Störung der öffentlichen Ordnung festgenommen werden.
+BackExample3::: Во время демонстрации несколько лиц были задержаны за нарушение общественного порядка.
+Tags:::  chatgpt 
+guid::: EKgp+}xXZJ

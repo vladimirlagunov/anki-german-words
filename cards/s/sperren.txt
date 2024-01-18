@@ -1,0 +1,13 @@
+Word::: sperren
+WordTranslation::: блокировать, запирать, перекрывать
+DrittenPerson::: sperrt
+Perfekt::: haben gesperrt
+Präteritum::: sperrte
+FrontExample::: Die Bank hat meine Karte gesperrt, weil sie vermutlich geklaut wurde.
+BackExample::: Банк заблокировал мою карту, потому что, вероятно, она была украдена.
+FrontExample2::: Nach dem Unfall mussten sie die Straße für mehrere Stunden sperren.
+BackExample2::: После аварии им пришлось перекрыть дорогу на несколько часов.
+FrontExample3::: Die Behörden haben die Benutzung des Sees wegen der Verschmutzung gesperrt.
+BackExample3::: Власти запретили использование озера из-за загрязнения.
+Tags:::  chatgpt 
+guid::: giCIp=Cy;i

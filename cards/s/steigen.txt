@@ -1,0 +1,11 @@
+Word::: steigen
+WordTranslation::: <ul><li>подниматься, взбираться, повышаться, увеличиваться</li><li>всходить (о растениях)<br></li></ul>
+DrittenPerson::: steigt
+Perfekt::: sein gestiegen
+Präteritum::: stieg
+FrontExample::: Die Temperaturen steigen schnell.
+BackExample::: Температуры быстро повышаются.
+FrontExample2::: Die Preise für Lebensmittel sind gestiegen.
+BackExample2::: Цены на продовольствие выросли.
+Tags:::  chatgpt 
+guid::: MW*j%4Rzf(

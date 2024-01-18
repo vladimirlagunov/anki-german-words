@@ -1,0 +1,13 @@
+Word::: gestalten
+WordTranslation::: <ul><li>оформлять</li><li>конструировать, создавать</li></ul>
+DrittenPerson::: gestaltet
+Perfekt::: haben gestaltet
+Präteritum::: gestaltete
+FrontExample::: Wir müssen den Garten neu gestalten.
+BackExample::: Мы должны заново оформить сад.
+FrontExample2::: Die Künstlerin hat das Buchcover sehr kreativ gestaltet.
+BackExample2::: Художница очень творчески оформила обложку книги.
+FrontExample3::: Er hat seine Zukunft selbst gestaltet.
+BackExample3::: Он самостоятельно сконструировал своё будущее.
+Tags:::  chatgpt 
+guid::: lm{3^BN:Rw

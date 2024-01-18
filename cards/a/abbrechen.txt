@@ -1,0 +1,13 @@
+Word::: abbrechen
+WordTranslation::: <ul><li>отменять, прерывать</li><li>ломать, срывать, демонтировать</li></ul>
+DrittenPerson::: bricht ab
+Perfekt::: haben abgebrochen
+Präteritum::: brach ab
+FrontExample::: Er musste seine Reise plötzlich abbrechen.
+BackExample::: Ему пришлось внезапно прервать своё путешествие.
+FrontExample2::: Aufgrund des schlechten Wetters wurde das Fußballspiel abgebrochen.
+BackExample2::: Из-за плохой погоды футбольный матч был отменён.
+FrontExample3::: Wenn der Schmerz zu stark wird, sollten wir das Training abbrechen.
+BackExample3::: Если боль станет слишком сильной, нам следует прекратить тренировку.
+Tags:::  chatgpt 
+guid::: Ku55a1hwGm

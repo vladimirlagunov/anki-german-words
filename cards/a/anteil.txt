@@ -1,0 +1,12 @@
+Word::: Anteil
+WordTranslation::: <ul><li>доля</li><li>участие, вклад</li></ul>
+DerDieDas::: der
+Plural::: Anteile
+FrontExample::: Der Anteil erneuerbarer Energien am Gesamtenergieverbrauch steigt.
+BackExample::: Доля возобновляемых источников энергии в общем потреблении энергии растет.
+FrontExample2::: Sie hat einen großen Anteil an der erfolgreichen Durchführung des Projekts.
+BackExample2::: Она внесла значительный вклад в успешное выполнение проекта.
+FrontExample3::: Mein Anteil an der Erbschaft ist kleiner als erwartet.
+BackExample3::: Моя доля наследства меньше, чем ожидалось.
+Tags:::  chatgpt 
+guid::: z?yp^8UCej

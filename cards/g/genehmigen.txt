@@ -1,0 +1,11 @@
+Word::: genehmigen
+WordTranslation::: одобрить, разрешить, утвердить
+DrittenPerson::: genehmigt
+Perfekt::: haben genehmigt
+Präteritum::: genehmigte
+FrontExample::: Ich hoffe, dass die Behörden unsere Demonstration genehmigen werden.
+BackExample::: Я надеюсь, что власти разрешат нашу демонстрацию.
+FrontExample2::: Sie hat sich einen Tag Urlaub genommen, nachdem ihr Chef es genehmigt hatte.
+BackExample2::: Она взяла один день отпуска после того, как ее начальник это разрешил.
+Tags:::  chatgpt 
+guid::: l&/wJZKsI9

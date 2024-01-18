@@ -3,5 +3,7 @@ WordTranslation::: танцевать
 DrittenPerson::: tanzt
 Perfekt::: haben getanzt
 Präteritum::: tanzte
-Tags::: 
+FrontExample::: Tanzen Sie gern?
+BackExample::: Вам нравится танцевать? [Вы охотно танцуете?]
+Tags:::  A1 
 guid::: QUcYo[Mglp

@@ -1,0 +1,6 @@
+Word::: Supermarkt
+WordTranslation::: супермаркет
+DerDieDas::: der
+Plural::: Supermärkte
+Tags:::  chatgpt 
+guid::: b|%u~g%``9

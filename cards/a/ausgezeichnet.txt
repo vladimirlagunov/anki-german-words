@@ -1,0 +1,8 @@
+Word::: ausgezeichnet
+WordTranslation::: отлично, превосходно, замечательно
+FrontExample::: Deine Leistungen in der Schule sind einfach ausgezeichnet!
+BackExample::: Твои достижения в школе просто отличные!
+FrontExample2::: Ich fühle mich ausgezeichnet, danke der Nachfrage.
+BackExample2::: Я чувствую себя превосходно, спасибо, что спросили.
+Tags:::  chatgpt 
+guid::: bCO>;JLado

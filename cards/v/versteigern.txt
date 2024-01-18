@@ -1,0 +1,9 @@
+Word::: versteigern
+WordTranslation::: продавать с аукциона, выставлять на аукцион
+DrittenPerson::: versteigert
+Perfekt::: haben versteigert
+Präteritum::: versteigerte
+FrontExample::: Die Antiquitäten wurden erfolgreich versteigert und brachten viel Geld ein.
+BackExample::: Антиквариат был успешно продан с аукциона и принес большую сумму денег.
+Tags:::  chatgpt 
+guid::: I1whY(o.6)

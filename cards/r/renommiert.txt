@@ -1,0 +1,8 @@
+Word::: renommiert
+WordTranslation::: авторитетный, престижный, известный
+FrontExample::: Die Universität Heidelberg ist eine renommierte Bildungseinrichtung in Deutschland.
+BackExample::: Университет Гейдельберга - престижное учебное заведение в Германии.
+FrontExample2::: Der Wissenschaftler erhielt eine Auszeichnung von einem renommierten Forschungsinstitut.
+BackExample2::: Ученый получил награду от известного исследовательского института.
+Tags:::  chatgpt 
+guid::: QpNsc&{(gS

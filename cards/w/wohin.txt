@@ -2,5 +2,5 @@ Word::: wohin
 WordTranslation::: куда
 FrontExample::: Wohin gehst du?
 BackExample::: Куда ты идешь?
-Tags::: 
+Tags:::  A1 
 guid::: FIgs%Deg[1

@@ -1,0 +1,13 @@
+Word::: bemerken
+WordTranslation::: замечать
+DrittenPerson::: bemerkt
+Perfekt::: haben bemerkt
+Präteritum::: bemerkte
+FrontExample::: Ich bemerkte, dass die Tür offen stand.
+BackExample::: Я заметил, что дверь была открыта.
+FrontExample2::: Hast du bemerkt, wie spät es schon ist?
+BackExample2::: Ты заметил, как поздно уже?
+FrontExample3::: Sie bemerkte nur kurz seinen skeptischen Blick.
+BackExample3::: Она лишь на мгновение заметила его скептический взгляд.
+Tags:::  chatgpt 
+guid::: ythYt%I@mo

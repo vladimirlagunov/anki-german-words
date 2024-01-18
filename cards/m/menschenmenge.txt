@@ -1,0 +1,10 @@
+Word::: Menschenmenge
+WordTranslation::: толпа, скопление народа
+DerDieDas::: die
+Plural::: Menschenmengen
+FrontExample::: Vor dem Konzert versammelte sich eine riesige Menschenmenge.
+BackExample::: Перед концертом собралась огромная толпа людей.
+FrontExample2::: In der Innenstadt war wegen des Festivals kaum durch die Menschenmenge zu kommen.
+BackExample2::: В центре города из-за фестиваля едва можно было протиснуться сквозь толпу.
+Tags:::  chatgpt 
+guid::: zODF]<ZHK:

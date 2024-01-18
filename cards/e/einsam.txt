@@ -1,0 +1,8 @@
+Word::: einsam
+WordTranslation::: одинокий, уединенный
+FrontExample::: Sie fühlt sich oft einsam, wenn sie abends alleine zu Hause sitzt.
+BackExample::: Она часто чувствует себя одинокой, когда сидит вечерами одна дома.
+FrontExample3::: Der einsame Wolf streifte durch den Wald auf der Suche nach einem Rudel.
+BackExample3::: Одинокий волк блуждал по лесу в поисках стаи.
+Tags:::  chatgpt 
+guid::: o.+lYfy8=3
