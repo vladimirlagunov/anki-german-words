@@ -1,0 +1,12 @@
+Word::: Lkw, Lastkraftwagen
+WordTranslation::: грузовик
+DerDieDas::: der
+Plural::: Lkws, Lkw
+FrontExample::: Dieser Lastkraftwagen ist sehr groß.
+BackExample::: Этот грузовик очень большой.
+FrontExample2::: Der Lkw fährt nach Berlin.
+BackExample2::: Грузовик едет в Берлин.
+FrontExample3::: Ich sehe einen Lkw auf der Straße.
+BackExample3::: Я вижу грузовик на дороге.
+Tags:::  A1 chatgpt 
+guid::: r1NngZ,wS)

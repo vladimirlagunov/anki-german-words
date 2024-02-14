@@ -1,0 +1,10 @@
+Word::: entgültig
+WordTranslation::: окончательный, необратимый, бесповоротный
+FrontExample::: Die Entscheidung des Gerichts ist entgültig.
+BackExample::: Решение суда является окончательным.
+FrontExample2::: Dieser Wettkampf bestimmt den entgültigen Sieger.
+BackExample2::: Это соревнование определяет окончательного победителя.
+FrontExample3::: Hast du deine Meinung entgültig geändert?
+BackExample3::: Ты окончательно изменил свое мнение?
+Tags:::  chatgpt 
+guid::: f5c0?cbV(N

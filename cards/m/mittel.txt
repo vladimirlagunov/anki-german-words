@@ -1,0 +1,8 @@
+Word::: Mittel
+WordTranslation::: средство
+DerDieDas::: das
+Plural::: Mittel
+FrontExample::: Dieses Medikament ist ein wirksames Mittel gegen die Grippe.
+BackExample::: Это лекарство - эффективное средство против гриппа.
+Tags:::  chatgpt 
+guid::: mwKj]b;O0u

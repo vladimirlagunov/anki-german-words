@@ -1,0 +1,8 @@
+Word::: Prozent
+WordTranslation::: процент
+DerDieDas::: das
+Plural::: Prozente
+FrontExample::: Ich habe eine Hose mit 30 Prozent Rabatt gekauft.
+BackExample::: Я купил(а) штаны со скидкой 30 процентов.
+Tags:::  A1 chatgpt 
+guid::: pjc>UD)}Wg

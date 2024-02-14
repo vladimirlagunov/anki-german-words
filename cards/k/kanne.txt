@@ -1,0 +1,10 @@
+Word::: Kanne
+WordTranslation::: <ul><li>кувшин</li><li>чайник</li></ul>
+DerDieDas::: die
+Plural::: Kannen
+FrontExample::: Stell die Kanne auf den Tisch, wenn das Wasser kocht.
+BackExample::: Поставь чайник на стол, когда вода закипит.
+FrontExample2::: Die Kanne Milch ist fast leer.
+BackExample2::: Кувшин молока почти пуст.
+Tags:::  chatgpt 
+guid::: f{=s;jFiRf

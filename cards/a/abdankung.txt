@@ -1,0 +1,10 @@
+Word::: Abdankung
+WordTranslation::: отречение
+DerDieDas::: die
+Plural::: Abdankungen
+FrontExample::: Nach dem Skandal hat der Minister seine sofortige Abdankung angekündigt.
+BackExample::: После скандала министр объявил об своей немедленной отставке.
+FrontExample2::: Die Abdankung des Königs kam für das Volk völlig überraschend.
+BackExample2::: Отречение короля стало для народа полной неожиданностью.
+Tags:::  chatgpt 
+guid::: n^64DtZfF,

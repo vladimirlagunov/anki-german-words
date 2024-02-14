@@ -1,0 +1,13 @@
+Word::: löschen
+WordTranslation::: <ul><li>удалять, стирать</li><li>тушить (пожар)</li></ul>
+DrittenPerson::: löscht
+Perfekt::: haben gelöscht
+Präteritum::: löschte
+FrontExample::: Wenn du den Brief nicht abschicken willst, kannst du ihn löschen.
+BackExample::: Если ты не хочешь отправлять письмо, ты можешь его удалить.
+FrontExample2::: Die Feuerwehr hat schnell gehandelt, um das Feuer zu löschen.
+BackExample2::: Пожарные быстро приступили к тушению пожара.
+FrontExample3::: Um Speicherplatz freizugeben, sollten wir alte Dateien von der Festplatte löschen.
+BackExample3::: Чтобы освободить место на диске, нам следует удалить старые файлы с жёсткого диска.
+Tags:::  chatgpt 
+guid::: hob&eVO;.c

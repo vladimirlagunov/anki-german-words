@@ -1,0 +1,12 @@
+Word::: Baum
+WordTranslation::: дерево
+DerDieDas::: der
+Plural::: Bäume
+FrontExample::: Vorsicht, fahr nicht an den Baum!
+BackExample::: Осторожно, не врежься в дерево!
+FrontExample2::: Der Baum ist grün.
+BackExample2::: Дерево зелёное.
+FrontExample3::: Ich sehe einen Baum.
+BackExample3::: Я вижу дерево.
+Tags:::  A1 chatgpt 
+guid::: oby89Yc*$&

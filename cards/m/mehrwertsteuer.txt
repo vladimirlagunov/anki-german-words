@@ -1,0 +1,6 @@
+Word::: Mehrwertsteuer
+WordTranslation::: налог на добавленную стоимость
+DerDieDas::: die
+Plural::: Mehrwertsteuern
+Tags:::  chatgpt 
+guid::: fX%Qv,&Z<c

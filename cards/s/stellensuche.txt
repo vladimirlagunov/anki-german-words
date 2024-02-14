@@ -1,0 +1,10 @@
+Word::: Stellensuche
+WordTranslation::: поиск работы, поиск вакансий
+DerDieDas::: die
+Plural::: —
+FrontExample::: Nach dem Studium beginnt für viele Absolventen die aktive Stellensuche.
+BackExample::: После окончания университета для многих выпускников начинается активный поиск работы.
+FrontExample2::: Ich nutze verschiedene Online-Portale für meine Stellensuche.
+BackExample2::: Я использую различные онлайн-порталы для поиска работы.
+Tags:::  chatgpt 
+guid::: PKK-%t8HK*

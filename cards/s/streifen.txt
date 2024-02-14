@@ -1,0 +1,10 @@
+Word::: Streifen
+WordTranslation::: полоса, лента
+DerDieDas::: der
+Plural::: Streifen
+FrontExample::: Der Tiger ist bekannt für seine schwarzen Streifen auf goldenem Fell.
+BackExample::: Тигр известен своими черными полосами на золотистой шкуре.
+FrontExample2::: Der Himmel färbte sich in den schönsten Streifen von Rosa und Orange.
+BackExample2::: Небо окрасилось в красивейшие полосы розового и оранжевого цвета.
+Tags:::  chatgpt 
+guid::: oOTAyVqcas

@@ -1,0 +1,8 @@
+Word::: Scheinwelt
+WordTranslation::: мир иллюзий, видимость
+DerDieDas::: die
+Plural::: Scheinwelten
+FrontExample::: In seiner Scheinwelt aus Luxus und Reichtum bemerkte er nicht, was um ihn herum wirklich geschah.
+BackExample::: В своём иллюзорном мире роскоши и богатства он не замечал, что на самом деле происходило вокруг него.
+Tags:::  chatgpt 
+guid::: b`V9zs^:fS

@@ -1,0 +1,10 @@
+Word::: wohl
+WordTranslation::: <ul><li>наверное, вероятно, вполне</li><li>хорошо, уютно</li></ul>
+FrontExample::: Er hat wohl vergessen, uns zu informieren.
+BackExample::: Он, вероятно, забыл нас проинформировать.
+FrontExample2::: Fühlst du dich wohl?
+BackExample2::: Тебе хорошо? (Чувствуешь себя хорошо?)
+FrontExample3::: Das wird wohl nicht leicht sein.
+BackExample3::: Это, наверное, не будет легко.
+Tags:::  chatgpt 
+guid::: E7D`-ei&1E

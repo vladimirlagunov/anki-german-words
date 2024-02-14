@@ -1,0 +1,9 @@
+Word::: profitieren
+WordTranslation::: получать прибыль
+DrittenPerson::: profitiert
+Perfekt::: haben profitiert
+Präteritum::: profitierte
+FrontExample::: Viele Unternehmen profitieren von der Digitalisierung.
+BackExample::: Многие компании извлекают выгоду из цифровизации.
+Tags:::  chatgpt 
+guid::: C_c[{wYp>m

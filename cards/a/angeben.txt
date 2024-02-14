@@ -1,0 +1,13 @@
+Word::: angeben
+WordTranslation::: <ul><li>указывать, сообщать, декларировать</li><li>хвастаться, показывать</li></ul>
+DrittenPerson::: gibt an
+Perfekt::: haben angegeben
+Präteritum::: gab an
+FrontExample::: Er gibt an der Kreuzung links an.
+BackExample::: На перекрёстке он сигнализирует о повороте налево.
+FrontExample2::: Im Formular musst du dein Einkommen angeben.
+BackExample2::: В формуляре тебе нужно указать свой доход.
+FrontExample3::: Er gibt immer mit seinem neuen Auto an.
+BackExample3::: Он всегда хвастается своим новым автомобилем.
+Tags:::  chatgpt 
+guid::: n/|RBvMbH^

@@ -1,0 +1,8 @@
+Word::: Auswirkung
+WordTranslation::: эффект, влияние, последствие
+FrontExample::: Die Auswirkung des Rauchens auf die Gesundheit ist gut dokumentiert.
+BackExample::: Влияние курения на здоровье хорошо задокументировано.
+FrontExample2::: Die wirtschaftlichen Auswirkungen der Pandemie werden noch jahrelang spürbar sein.
+BackExample2::: Экономические последствия пандемии будут ощущаться ещё многие годы.
+Tags:::  chatgpt 
+guid::: uWefvydwM=

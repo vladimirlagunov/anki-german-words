@@ -1,0 +1,11 @@
+Word::: fangen
+WordTranslation::: поймать, схватить
+DrittenPerson::: fängt
+Perfekt::: haben gefangen
+Präteritum::: fing
+FrontExample::: Ich werde den Ball fangen.
+BackExample::: Я поймаю мяч.
+FrontExample2::: Die Polizei konnte den Dieb schnell fangen.
+BackExample2::: Полиция смогла быстро поймать вора.
+Tags:::  chatgpt 
+guid::: jXvBrNt>.:

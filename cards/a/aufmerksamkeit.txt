@@ -1,0 +1,13 @@
+Word::: Aufmerksamkeit
+WordTranslation::: внимание
+Explanation::: <ol><li><div><strong>Aufmerksamkeit</strong>: Это слово переводится как "внимание". Оно относится к состоянию сосредоточенности или осведомлённости о чём-либо. Например, "Ich schenke dir meine ganze Aufmerksamkeit" означает "Я уделяю тебе все своё внимание". Это слово также может использоваться в контексте дарения или проявления внимания к кому-либо, например, в знак признательности или уважения.</div></li><li><div><strong>Vorsicht</strong>: Это слово означает "осторожность" или "предостережение". Оно часто используется в контекстах, где требуется предостеречь кого-то о потенциальной опасности или риске. Например, "Vorsicht, nasser Boden!" означает "Осторожно, мокрый пол!".</div></li><li><div><strong>Achtung</strong>: Это слово имеет несколько значений, включая "внимание", "уважение" и "осторожность". В контексте "внимания" оно используется для привлечения чьего-либо внимания, например, "Achtung, bitte!" - "Внимание, пожалуйста!". В значении "уважения" оно может выражать признание или уважение к кому-либо, например, "Er genießt große Achtung in der Gemeinschaft" - "Он пользуется большим уважением в сообществе". В контексте "осторожности" оно может использоваться для предупреждения о возможной опасности, похоже на "Vorsicht".</div></li></ol>
+DerDieDas::: die
+Plural::: Aufmerksamkeiten
+FrontExample::: Bitte schenk mir deine volle Aufmerksamkeit.
+BackExample::: Пожалуйста, удели мне всё своё внимание.
+FrontExample2::: Die Aufmerksamkeit der Zuschauer war auf den Zauberer gerichtet.
+BackExample2::: Внимание зрителей было приковано к фокуснику.
+FrontExample3::: Durch die aufwendige Werbekampagne konnte das Unternehmen viel Aufmerksamkeit gewinnen.
+BackExample3::: Благодаря затратной рекламной кампании, компания смогла привлечь много внимания.
+Tags:::  chatgpt 
+guid::: r%ERB7]M3c

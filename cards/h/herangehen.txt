@@ -1,0 +1,11 @@
+Word::: herangehen
+WordTranslation::: <ul><li>подходить, приближаться</li><li>приступать задачам или вопросам</li></ul>
+DrittenPerson::: geht heran
+Perfekt::: sein herangegangen
+Präteritum::: ging heran
+FrontExample::: Wir müssen systematisch an das Problem herangehen.
+BackExample::: Мы должны подходить к проблеме систематически.
+FrontExample2::: Er geht sehr sorgfältig an seine Aufgaben heran.
+BackExample2::: Он очень тщательно подходит к выполнению своих задач.
+Tags:::  chatgpt 
+guid::: g:fpa:m{Xb

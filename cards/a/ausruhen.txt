@@ -1,0 +1,13 @@
+Word::: ausruhen
+WordTranslation::: отдыхать
+DrittenPerson::: ruht aus
+Perfekt::: haben ausgeruht
+Präteritum::: ruhte aus
+FrontExample::: Ich muss mich kurz ausruhen, bevor wir weitermachen.
+BackExample::: Мне нужно немного отдохнуть, прежде чем мы продолжим.
+FrontExample2::: Nach einem langen Arbeitstag ruht er sich auf dem Sofa aus.
+BackExample2::: После долгого рабочего дня он отдыхает на диване.
+FrontExample3::: Im Urlaub kann man sich richtig ausruhen und neue Kräfte sammeln.
+BackExample3::: В отпуске можно хорошо отдохнуть и набраться новых сил.
+Tags:::  chatgpt 
+guid::: Q9oGO49N!F

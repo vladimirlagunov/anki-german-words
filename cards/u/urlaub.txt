@@ -1,0 +1,12 @@
+Word::: Urlaub
+WordTranslation::: отпуск
+DerDieDas::: der
+Plural::: Urlaube
+FrontExample::: Ich nehme im September Urlaub.
+BackExample::: Я беру отпуск в сентябре.
+FrontExample2::: Ich fahre im Sommer in den Urlaub.
+BackExample2::: Летом я еду в отпуск.
+FrontExample3::: Ich brauche dringend Urlaub!
+BackExample3::: Мне срочно нужен отпуск!
+Tags:::  A1 chatgpt 
+guid::: q=e@F>r=ac

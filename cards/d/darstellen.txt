@@ -1,0 +1,13 @@
+Word::: darstellen
+WordTranslation::: выражать, олицетворять, изображать, представлять
+DrittenPerson::: stellt dar
+Perfekt::: haben dargestellt
+Präteritum::: stellte dar
+FrontExample::: Dieses Diagramm stellt die Entwicklung der Umsätze im letzten Jahr dar.
+BackExample::: Этот график отображает развитие продаж в прошлом году.
+FrontExample2::: Die Schauspielerin stellt im Theaterstück eine bekannte Persönlichkeit dar.
+BackExample2::: В театральной постановке актриса играет известную личность.
+FrontExample3::: Für viele Menschen stellt dieses Gesetz eine große Herausforderung dar.
+BackExample3::: Для многих людей этот закон представляет большую проблему.
+Tags:::  chatgpt 
+guid::: I;s^2J2.Vz

@@ -1,0 +1,11 @@
+Word::: herrschen
+WordTranslation::: господствовать, доминировать, властвовать, царить
+DrittenPerson::: herrscht
+Perfekt::: haben geherrscht
+Präteritum::: herrschte
+FrontExample::: In diesem Haus herrscht immer Ordnung.
+BackExample::: В этом доме всегда царит порядок.
+FrontExample2::: Über die Stadt herrschte eine bedrückende Stille.
+BackExample2::: Над городом властвовала угнетающая тишина.
+Tags:::  chatgpt 
+guid::: O+H%!qc@hE

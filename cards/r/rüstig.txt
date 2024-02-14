@@ -1,0 +1,8 @@
+Word::: rüstig
+WordTranslation::: крепкий, здоровый, бодрый
+FrontExample::: Mein Großvater ist 85 Jahre alt, aber er ist noch immer sehr rüstig und geht jeden Tag wandern.
+BackExample::: Мой дедушка 85 лет, но он все еще очень бодр и ходит гулять каждый день.
+FrontExample2::: Um im Alter rüstig zu bleiben, macht er täglich seine Gymnastikübungen.
+BackExample2::: Чтобы оставаться бодрым в старости, он занимается гимнастикой каждый день.
+Tags:::  chatgpt 
+guid::: du1<EY)Fv>

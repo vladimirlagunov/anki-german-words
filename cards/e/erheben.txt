@@ -1,0 +1,11 @@
+Word::: erheben
+WordTranslation::: <ul><li>поднимать</li><li>взимать</li><li>предъявлять, выдвигать</li><li>провозглашать</li></ul>
+DrittenPerson::: erhebt
+Perfekt::: haben erhoben
+Präteritum::: erhob
+FrontExample::: Erheben Sie bitte Ihre Gläser auf das Brautpaar!
+BackExample::: Пожалуйста, поднимите ваши бокалы за молодожёнов!
+FrontExample2::: Gegen den Beschuldigten wurden schwere Vorwürfe erhoben.
+BackExample2::: Против обвиняемого были выдвинуты серьёзные обвинения.
+Tags:::  chatgpt 
+guid::: bNVwW+4|1w

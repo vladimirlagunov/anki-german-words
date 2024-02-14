@@ -1,0 +1,10 @@
+Word::: unabhängig
+WordTranslation::: независимый
+FrontExample::: Unabhängig von Ihrer Entscheidung werde ich das Projekt starten.
+BackExample::: Независимо от вашего решения, я начну проект.
+FrontExample2::: Er möchte finanziell unabhängig sein.
+BackExample2::: Он хочет быть финансово независимым.
+FrontExample3::: Unabhängig vom Wetter gehen wir joggen.
+BackExample3::: Мы идем бегать, независимо от погоды.
+Tags:::  chatgpt 
+guid::: c=xX+^.Z/%

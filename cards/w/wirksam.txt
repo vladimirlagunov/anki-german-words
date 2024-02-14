@@ -1,0 +1,8 @@
+Word::: wirksam
+WordTranslation::: действенный, эффективный
+FrontExample::: Wir müssen wirksamere Maßnahmen ergreifen, um die Umwelt zu schützen.
+BackExample::: Нам нужно принимать более эффективные меры для защиты окружающей среды.
+FrontExample2::: Die Kampagne war wirksam und hat das Bewusstsein für das Problem erhöht.
+BackExample2::: Кампания была успешной и повысила осведомленность о проблеме.
+Tags:::  chatgpt 
+guid::: A3+<EiepPG

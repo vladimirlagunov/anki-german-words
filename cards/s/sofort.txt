@@ -1,0 +1,10 @@
+Word::: sofort
+WordTranslation::: сразу, немедленно, сейчас же
+FrontExample::: Bitte antworten Sie sofort.
+BackExample::: Пожалуйста, ответьте немедленно.
+FrontExample2::: Ich komme sofort.
+BackExample2::: Я приду сразу.
+FrontExample3::: Ich muss das sofort machen.
+BackExample3::: Я должен сделать это немедленно.
+Tags:::  A1 chatgpt 
+guid::: gmnL9{(!C|

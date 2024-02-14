@@ -1,0 +1,8 @@
+Word::: Vermarktung
+WordTranslation::: маркетинг, сбыт, реализация товаров
+FrontExample::: Die Vermarktung des neuen Produkts beginnt im Sommer.
+BackExample::: Продажа нового продукта начнется летом.
+FrontExample2::: Sie kümmert sich um die Vermarktung der landwirtschaftlichen Erzeugnisse.
+BackExample2::: Она занимается реализацией сельскохозяйственной продукции.
+Tags:::  chatgpt 
+guid::: u(.&S<+Njg

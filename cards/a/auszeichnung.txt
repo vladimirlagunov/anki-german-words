@@ -1,0 +1,10 @@
+Word::: Auszeichnung
+WordTranslation::: <ul><li>награда, отличие, знак отличия</li><li>декорация</li></ul>
+FrontExample::: Er erhielt eine Auszeichnung für seine herausragenden wissenschaftlichen Leistungen.
+BackExample::: Он получил награду за свои выдающиеся научные достижения.
+FrontExample2::: Die Auszeichnung "Beste Lehrerin des Jahres" hat sie stolz gemacht.
+BackExample2::: Награда "Лучший учитель года" сделала её гордой.
+FrontExample3::: Die Software wurde mit der Auszeichnung "Produkt des Jahres" prämiert.
+BackExample3::: Программное обеспечение было отмечено наградой "Продукт года".
+Tags:::  chatgpt 
+guid::: u@twF0y*e1

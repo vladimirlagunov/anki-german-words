@@ -1,5 +1,5 @@
 Word::: erfolgen
-WordTranslation::: <div>осуществляться, происходить, произойти, возникать</div>
+WordTranslation::: осуществляться, происходить, произойти, возникать
 DrittenPerson::: erfolgt
 Perfekt::: ist erfolgt
 Präteritum::: erfolgte
@@ -10,4 +10,4 @@ BackExample2::: Доставка осуществляется в течение 
 FrontExample3::: Die Anmeldung zum Kurs erfolgt online über die Webseite.
 BackExample3::: Регистрация на курс производится онлайн на веб-сайте.
 Tags:::  A1 
-guid::: j12jRmg.dg
+guid::: b;S+T3sl<W

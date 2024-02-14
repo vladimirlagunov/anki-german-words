@@ -1,0 +1,8 @@
+Word::: Werkstatt
+WordTranslation::: мастерская
+DerDieDas::: die
+Plural::: Werkstätten
+FrontExample::: In der Werkstatt des Künstlers hängen viele unvollendete Gemälde.
+BackExample::: В мастерской художника висит много незаконченных картин.
+Tags:::  chatgpt 
+guid::: n=(^OJ*p:%

@@ -1,0 +1,12 @@
+Word::: Gedächtnis
+WordTranslation::: память
+DerDieDas::: das
+Plural::: Gedächtnisse
+FrontExample::: Sein Gedächtnis ist nicht mehr das, was es einmal war.
+BackExample::: Его память уже не то, что была раньше.
+FrontExample2::: Diese Melodie bleibt für immer in meinem Gedächtnis.
+BackExample2::: Эта мелодия навсегда останется в моей памяти.
+FrontExample3::: Ein gutes Gedächtnis ist für diesen Beruf unerlässlich.
+BackExample3::: Хорошая память абсолютно необходима для этой профессии.
+Tags:::  chatgpt 
+guid::: Isa:1MH3Il

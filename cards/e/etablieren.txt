@@ -1,0 +1,11 @@
+Word::: etablieren
+WordTranslation::: <ul><li>закреплять, устанавливать</li><li>внедрять</li></ul>
+DrittenPerson::: etabliert
+Perfekt::: haben etabliert
+Präteritum::: etablierte
+FrontExample::: Das Restaurant konnte sich schnell in der Stadt etablieren.
+BackExample::: Ресторан быстро смог завоевать популярность в городе.
+FrontExample2::: Es ist schwer, neue Gewohnheiten zu etablieren.
+BackExample2::: Трудно закрепить новые привычки.
+Tags:::  chatgpt 
+guid::: LAdGXIGp&d

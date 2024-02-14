@@ -1,0 +1,13 @@
+Word::: fließen
+WordTranslation::: течь
+DrittenPerson::: fließt
+Perfekt::: sein geflossen
+Präteritum::: floss
+FrontExample::: Das Wasser fließt den Fluss hinunter.
+BackExample::: Вода течёт вниз по реке.
+FrontExample2::: Die Informationen fließen schnell durch das Internet.
+BackExample2::: Информация быстро распространяется через интернет.
+FrontExample3::: Während der Diskussion fließen viele Ideen zusammen.
+BackExample3::: В ходе дискуссии сливаются воедино множество идей.
+Tags:::  chatgpt 
+guid::: kKmfPySQ{d

@@ -1,0 +1,6 @@
+Word::: Überfüllung
+WordTranslation::: переполнение
+FrontExample::: Aufgrund der Überfüllung des Zuges mussten einige Passagiere auf den nächsten warten.
+BackExample::: Из-за переполненности поезда некоторым пассажирам пришлось ждать следующего.
+Tags:::  chatgpt 
+guid::: tKuUHQhwYq

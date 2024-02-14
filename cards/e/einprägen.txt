@@ -1,0 +1,11 @@
+Word::: einprägen
+WordTranslation::: запечатлеть, врезать в память
+DrittenPerson::: prägt ein
+Perfekt::: haben eingeprägt
+Präteritum::: prägte ein
+FrontExample::: Ich muss mir die neue Telefonnummer noch einprägen.
+BackExample::: Я должен запомнить новый телефонный номер.
+FrontExample2::: Diese Melodie hat sich mir tief eingepägt.
+BackExample2::: Эта мелодия глубоко врезалась в мою память.
+Tags:::  chatgpt 
+guid::: zXaF}K]Zw_

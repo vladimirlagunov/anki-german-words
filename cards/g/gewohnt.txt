@@ -1,0 +1,10 @@
+Word::: gewohnt
+WordTranslation::: привычный
+FrontExample::: Ich bin es gewohnt, früh aufzustehen.
+BackExample::: Я привык вставать рано.
+FrontExample2::: Sie ist daran gewohnt, lange zu arbeiten.
+BackExample2::: Она привыкла работать до поздна.
+FrontExample3::: Wir sind nicht gewohnt, so scharfes Essen zu essen.
+BackExample3::: Мы не привыкли есть такую острую еду.
+Tags:::  chatgpt 
+guid::: NEpQJU/]jA

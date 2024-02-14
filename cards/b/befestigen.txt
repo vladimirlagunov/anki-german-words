@@ -1,0 +1,11 @@
+Word::: befestigen
+WordTranslation::: прикрепить, закрепить
+DrittenPerson::: befestigt
+Perfekt::: haben befestigt
+Präteritum::: befestigte
+FrontExample::: Wir haben die Dekorationen an der Decke befestigt.
+BackExample::: Мы закрепили украшения на потолке.
+FrontExample2::: Sie müssen den Sitzgurt vor dem Start des Autos befestigen.
+BackExample2::: Вы должны застегнуть ремень безопасности перед тем, как завести автомобиль.
+Tags:::  chatgpt 
+guid::: AzSB1FjsE[

@@ -1,0 +1,6 @@
+Word::: Wiese
+WordTranslation::: луг, лужайка
+DerDieDas::: die
+Plural::: Wiesen
+Tags::: 
+guid::: z@T#R2uX7r

@@ -1,0 +1,13 @@
+Word::: feststellen
+WordTranslation::: констатировать, установить, определить
+DrittenPerson::: stellt fest
+Perfekt::: haben festgestellt
+Präteritum::: stellte fest
+FrontExample::: Ich konnte feststellen, dass das Fenster offen war.
+BackExample::: Я смог установить, что окно было открыто.
+FrontExample2::: Der Arzt stellte eine Grippe fest.
+BackExample2::: Врач диагностировал грипп.
+FrontExample3::: Bei der Inspektion wurde festgestellt, dass die Bremsen defekt sind.
+BackExample3::: При осмотре было установлено, что тормоза неисправны.
+Tags:::  chatgpt 
+guid::: K23=krBN,u

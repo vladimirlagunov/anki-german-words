@@ -1,0 +1,6 @@
+Word::: Festplatte
+WordTranslation::: жёсткий диск
+DerDieDas::: die
+Plural::: Festplatten
+Tags::: 
+guid::: sbc%d]>-fs

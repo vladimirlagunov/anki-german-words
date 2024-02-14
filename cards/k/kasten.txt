@@ -1,0 +1,6 @@
+Word::: Kasten
+WordTranslation::: ящик
+DerDieDas::: der
+Plural::: Kasten, Kästen
+Tags::: 
+guid::: Nc2%K)48wG

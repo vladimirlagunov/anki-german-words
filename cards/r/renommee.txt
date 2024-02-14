@@ -1,0 +1,10 @@
+Word::: Renommee
+WordTranslation::: репутация, престиж, известность
+DerDieDas::: das
+Plural::: Renommees
+FrontExample::: Das Restaurant hat ein hervorragendes Renommee wegen seiner ausgezeichneten Küche.
+BackExample::: Ресторан пользуется отличной репутацией благодаря своей превосходной кухне.
+FrontExample2::: Ein Wissenschaftler mit solchem Renommee wird oft zu internationalen Konferenzen eingeladen.
+BackExample2::: Ученого с такой репутацией часто приглашают на международные конференции.
+Tags:::  chatgpt 
+guid::: AO/S1i}8~m

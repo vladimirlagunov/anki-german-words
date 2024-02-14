@@ -1,0 +1,13 @@
+Word::: pürieren
+WordTranslation::: перемалывать до пюреобразного состояния, измельчать в пюре
+DrittenPerson::: püriert
+Perfekt::: haben püriert
+Präteritum::: pürierte
+FrontExample::: Um eine glatte Suppe zu bekommen, müssen Sie das Gemüse pürieren.
+BackExample::: Чтобы получить однородный суп, вам нужно пюрировать овощи.
+FrontExample2::: Nach dem Kochen der Äpfel sollten diese püriert werden, um Apfelmus zu machen.
+BackExample2::: После того как яблоки сварятся, их следует пюрировать, чтобы сделать яблочное пюре.
+FrontExample3::: Bitte pürieren Sie die Bananen für den Babybrei sehr fein.
+BackExample3::: Пожалуйста, хорошо пюрируйте бананы для детского пюре.
+Tags:::  chatgpt 
+guid::: D}#b&1e.|/

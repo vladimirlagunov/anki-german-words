@@ -1,0 +1,12 @@
+Word::: S-Bahn
+WordTranslation::: городская электричка, пригородная электричка
+DerDieDas::: das
+Plural::: S
+FrontExample::: Ich nehme lieber die S-Bahn.
+BackExample::: Я предпочитаю ездить на пригородной электричке.
+FrontExample2::: Ich fahre täglich mit der S-Bahn zur Arbeit.
+BackExample2::: Я ежедневно езжу на работу на пригородной электричке.
+FrontExample3::: Am Wochenende ist die S-Bahn oft voll.
+BackExample3::: На выходных пригородная электричка часто переполнена.
+Tags:::  A1 chatgpt 
+guid::: J]j0:)VQ87

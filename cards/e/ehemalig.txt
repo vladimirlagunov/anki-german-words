@@ -1,0 +1,8 @@
+Word::: ehemalig
+WordTranslation::: бывший, прежний, экс-
+FrontExample::: Das Gebäude ist ein ehemaliges Krankenhaus, das jetzt als Museum dient.
+BackExample::: Здание - это бывшая больница, которая теперь служит музеем.
+FrontExample2::: Sie kehrte zu ihrem ehemaligen Arbeitsplatz zurück.
+BackExample2::: Она вернулась на своё прежнее место работы.
+Tags:::  chatgpt 
+guid::: N<8Vyy+RRr

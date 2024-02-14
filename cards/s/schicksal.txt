@@ -1,0 +1,10 @@
+Word::: Schicksal
+WordTranslation::: судьба, участь
+DerDieDas::: das
+Plural::: Schicksale
+FrontExample::: Du kannst dein Schicksal nicht ändern; es liegt in deinen Händen, wie du darauf reagierst.
+BackExample::: Ты не можешь изменить свою судьбу; от тебя зависит, как ты на неё отреагируешь.
+FrontExample2::: Die Legende besagt, dass das Schicksal der beiden Liebenden durch die Sterne bestimmt wurde.
+BackExample2::: Легенда гласит, что судьба двух влюблённых была предопределена звёздами.
+Tags:::  chatgpt 
+guid::: jUo-;Fg-3C

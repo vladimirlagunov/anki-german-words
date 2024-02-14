@@ -1,0 +1,10 @@
+Word::: aufmerksam
+WordTranslation::: внимательный, вежливый, заботливый
+FrontExample::: Mach bitte aufmerksam deine Hausaufgaben.
+BackExample::: Пожалуйста, выполняй домашнюю работу внимательно.
+FrontExample2::: Wir sollten aufmerksam auf die Umweltprobleme achten.
+BackExample2::: Мы должны внимательно относиться к проблемам окружающей среды.
+FrontExample3::: Sie hörte ihm sehr aufmerksam zu.
+BackExample3::: Она слушала его очень внимательно.
+Tags:::  chatgpt 
+guid::: k{dT&+1i}M

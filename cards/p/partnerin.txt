@@ -1,0 +1,10 @@
+Word::: Partnerin
+WordTranslation::: <ul><li>партнёрша, напарница</li><li>сожительница, любовница, спутница</li></ul>
+DerDieDas::: die
+Plural::: Partnerinnen
+FrontExample::: Sie ist meine Partnerin.
+BackExample::: Она моя партнёрша.
+FrontExample2::: Das ist Anna, meine Geschäftspartnerin.
+BackExample2::: Это Анна, моя деловая партнёрша.
+Tags:::  A1 chatgpt 
+guid::: j3XHHHu7LW

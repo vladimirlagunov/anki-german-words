@@ -1,0 +1,10 @@
+Word::: und
+WordTranslation::: и (союз)
+FrontExample::: Peter und Helmut sind meine Söhne.
+BackExample::: Петер и Хельмут мои сыновья.
+FrontExample2::: Ich habe einen Hund und eine Katze.
+BackExample2::: У меня есть собака и кот.
+FrontExample3::: Ich trinke Wasser und esse Brot.
+BackExample3::: Я пью воду и ем хлеб.
+Tags:::  A1 chatgpt 
+guid::: P2{-?rW,_y

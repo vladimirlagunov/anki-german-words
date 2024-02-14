@@ -1,0 +1,12 @@
+Word::: Urkunde
+WordTranslation::: свидетельство, документ, удостоверение
+DerDieDas::: die
+Plural::: Urkunden
+FrontExample::: Die Heiratsurkunde wurde vom Standesamt ausgestellt.
+BackExample::: Свидетельство о браке было выдано загсом.
+FrontExample2::: Er hat seine Urkunde verloren und muss eine neue beantragen.
+BackExample2::: Он потерял своё удостоверение и должен подать заявление на получение нового.
+FrontExample3::: Die historische Urkunde wurde im Museum zur Schau gestellt.
+BackExample3::: Исторический документ был выставлен в музее.
+Tags:::  chatgpt 
+guid::: Pc((weJn>L

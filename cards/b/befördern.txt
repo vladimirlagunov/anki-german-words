@@ -1,0 +1,9 @@
+Word::: befördern
+WordTranslation::: <ul><li>транспортировать, перевозить</li><li>продвигать, способствовать</li></ul>
+DrittenPerson::: befördert
+Perfekt::: haben befördert
+Präteritum::: beförderte
+FrontExample::: Dieser Aufzug kann bis zu 10 Personen gleichzeitig befördern.
+BackExample::: Этот лифт может одновременно перевозить до 10 человек.
+Tags:::  chatgpt 
+guid::: z-CK>Aw?s,

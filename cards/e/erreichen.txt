@@ -1,5 +1,5 @@
 Word::: erreichen
-WordTranslation::: достигать, добираться, получать, дозваниваться по телефону
+WordTranslation::: <ul><li>достигать, добираться, получать</li><li>дозваниваться по телефону</li></ul>
 FrontExample::: Du kannst mich unter dieser Nummer erreichen.
 
 BackExample::: Ты можешь связаться со мной по этому номеру.

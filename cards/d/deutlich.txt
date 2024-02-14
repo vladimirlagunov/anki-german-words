@@ -1,0 +1,10 @@
+Word::: deutlich
+WordTranslation::: <ul><li>ясный, чёткий</li><li>заметный, различимый</li></ul>
+FrontExample::: Er sprach deutlich langsamer, um besser verstanden zu werden.
+BackExample::: Он говорил значительно медленнее, чтобы его лучше понимали.
+FrontExample2::: Der Unterschied zwischen den Produkten ist deutlich sichtbar.
+BackExample2::: Различие между продуктами заметно невооруженным взглядом.
+FrontExample3::: Nach der Renovierung ist die Qualität des Zimmers deutlich besser.
+BackExample3::: После ремонта качество комнаты значительно улучшилось.
+Tags:::  chatgpt 
+guid::: HIr%,<7ESE

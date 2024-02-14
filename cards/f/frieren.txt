@@ -1,0 +1,13 @@
+Word::: frieren
+WordTranslation::: замерзать, мёрзнуть
+DrittenPerson::: friert
+Perfekt::: haben gefroren
+Präteritum::: fror
+FrontExample::: Mir ist kalt, ich friere.
+BackExample::: Мне холодно, я замерзаю.
+FrontExample2::: Im Winter friert der See immer zu.
+BackExample2::: Зимой озеро всегда замерзает.
+FrontExample3::: Wenn du nicht genug anziehst, wirst du draußen schnell frieren.
+BackExample3::: Если ты не оденешься теплее, на улице быстро замерзнешь.
+Tags:::  chatgpt 
+guid::: A0.${.ebr0

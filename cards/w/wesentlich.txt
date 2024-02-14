@@ -1,0 +1,10 @@
+Word::: wesentlich
+WordTranslation::: существенный, значительный, основной, важный
+FrontExample::: Das ist wesentlich einfacher, als ich es erwartet hatte.
+BackExample::: Это намного проще, чем я ожидал.
+FrontExample2::: Ihre Meinung ist für den Erfolg des Projekts wesentlich.
+BackExample2::: Её мнение важно для успеха проекта.
+FrontExample3::: Zwischen diesen beiden Theorien gibt es wesentliche Unterschiede.
+BackExample3::: Между этими двумя теориями есть существенные различия.
+Tags:::  chatgpt 
+guid::: jB5W5[3rB&

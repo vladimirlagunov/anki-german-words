@@ -1,0 +1,13 @@
+Word::: hervorragen
+WordTranslation::: выдаваться, выступать, торчать, возвышаться
+DrittenPerson::: ragt hervor
+Perfekt::: haben hervorgeragt
+Präteritum::: ragte hervor
+FrontExample::: Der Turm ragt hervorragend über die anderen Gebäude hinaus.
+BackExample::: Башня превосходно выделяется среди других зданий.
+FrontExample2::: Ihre Leistungen in der Schule sind hervorragend.
+BackExample2::: Её успехи в школе выдающиеся.
+FrontExample3::: Dieses Restaurant ist bekannt für seine hervorragende Küche.
+BackExample3::: Этот ресторан известен своей выдающейся кухней.
+Tags:::  chatgpt 
+guid::: zk52|7{^bj

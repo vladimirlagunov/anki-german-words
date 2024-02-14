@@ -1,0 +1,8 @@
+Word::: Anmeldung
+WordTranslation::: регистрация, заявка
+DerDieDas::: die
+Plural::: Anmeldungen
+FrontExample::: Eine Anmeldung für diesen Kurs ist nicht mehr möglich.
+BackExample::: Регистрация на этот курс больше не возможна.
+Tags:::  A1 chatgpt 
+guid::: hl4ORc5,+e

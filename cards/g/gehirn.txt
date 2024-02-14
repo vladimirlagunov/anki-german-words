@@ -1,0 +1,12 @@
+Word::: Gehirn
+WordTranslation::: мозг
+DerDieDas::: das
+Plural::: Gehirne
+FrontExample::: Das menschliche Gehirn ist sehr komplex.
+BackExample::: Человеческий мозг очень сложен.
+FrontExample2::: Die Forscher studieren die Funktionen des Gehirns.
+BackExample2::: Исследователи изучают функции мозга.
+FrontExample3::: Die Durchblutung des Gehirns ist für das Gedächtnis wesentlich.
+BackExample3::: Кровоснабжение мозга имеет решающее значение для памяти.
+Tags:::  chatgpt 
+guid::: O`&Ub-D+Zo

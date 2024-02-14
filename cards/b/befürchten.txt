@@ -1,0 +1,11 @@
+Word::: befürchten
+WordTranslation::: опасаться, бояться
+DrittenPerson::: befürchtet
+Perfekt::: haben befürchtet
+Präteritum::: befürchtete
+FrontExample::: Ich befürchte, es wird morgen regnen.
+BackExample::: Я опасаюсь, что завтра пойдет дождь.
+FrontExample2::: Sie befürchtet, sie hat den Schlüssel verloren.
+BackExample2::: Она боится, что потеряла ключ.
+Tags:::  chatgpt 
+guid::: iY!hsMui{`

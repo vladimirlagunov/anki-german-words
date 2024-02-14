@@ -1,0 +1,11 @@
+Word::: herausfinden
+WordTranslation::: выяснять, обнаруживать
+DrittenPerson::: findet heraus
+Perfekt::: haben herausgefunden
+Präteritum::: fand heraus
+FrontExample::: Ich muss noch herausfinden, wie das Gerät funktioniert.
+BackExample::: Мне еще нужно выяснить, как работает это устройство.
+FrontExample2::: Kannst du herausfinden, wann der nächste Zug abfährt?
+BackExample2::: Ты можешь узнать, когда отправляется следующий поезд?
+Tags:::  chatgpt 
+guid::: j-_w:jw>3u

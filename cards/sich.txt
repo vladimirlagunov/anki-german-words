@@ -1,0 +1,10 @@
+Word::: sich
+WordTranslation::: себя, себе, собой
+FrontExample::: Sie müssen sich erst anmelden.
+BackExample::: Вы должны сначала зарегистрироваться.
+FrontExample2::: Er wäscht sich.
+BackExample2::: Он умывается.
+FrontExample3::: Sie zieht sich an.
+BackExample3::: Она одевается.
+Tags:::  A1 chatgpt 
+guid::: H3wtZ;19]L

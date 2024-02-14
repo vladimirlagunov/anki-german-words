@@ -1,0 +1,8 @@
+Word::: Laune
+WordTranslation::: настроение
+DerDieDas::: die
+Plural::: Launen
+FrontExample::: Ich lasse mir nicht die Laune verderben.
+BackExample::: Я не позволю испортить себе настроение.
+Tags::: 
+guid::: g7]TSVH%NA

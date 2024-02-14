@@ -1,0 +1,6 @@
+Word::: Beet
+WordTranslation::: грядка, клумба
+DerDieDas::: das
+Plural::: Beete
+Tags::: 
+guid::: fhn[{*(X]v

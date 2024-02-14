@@ -1,0 +1,13 @@
+Word::: Muster
+WordTranslation::: <ul>
+<li>образец</li>
+<li>узор</li><li>схема, закономерность, паттерн</li>
+</ul>
+DerDieDas::: das
+Plural::: Muster
+FrontExample::: Das Kleid hat ein schönes Blumenmuster.
+BackExample::: Платье имеет красивый цветочный узор.
+FrontExample2::: Die Kriminalpolizei sucht nach einem Muster hinter den Verbrechen.
+BackExample2::: Криминальная полиция ищет закономерность за преступлениями.
+Tags:::  chatgpt 
+guid::: M5CKOtMC1i

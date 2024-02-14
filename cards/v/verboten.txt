@@ -1,0 +1,8 @@
+Word::: verboten
+WordTranslation::: запрещённый
+FrontExample::: Hier ist Rauchen verboten.
+BackExample::: Здесь курить запрещено.
+FrontExample2::: Das Schwimmen ist im See verboten.
+BackExample2::: Купаться в озере запрещено.
+Tags:::  A1 chatgpt 
+guid::: G@PBHTji}S

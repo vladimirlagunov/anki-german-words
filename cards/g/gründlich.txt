@@ -1,0 +1,10 @@
+Word::: gründlich
+WordTranslation::: тщательный, основательный, детальный
+FrontExample::: Er hat sein Zimmer gründlich aufgeräumt.
+BackExample::: Он тщательно убрал свою комнату.
+FrontExample2::: Die Polizei hat eine gründliche Untersuchung des Tatorts durchgeführt.
+BackExample2::: Полиция провела тщательное расследование места преступления.
+FrontExample3::: Vor der Operation muss eine gründliche Desinfektion vorgenommen werden.
+BackExample3::: Перед операцией должна быть произведена тщательная дезинцекция.
+Tags:::  chatgpt 
+guid::: A~*{JXj)EC

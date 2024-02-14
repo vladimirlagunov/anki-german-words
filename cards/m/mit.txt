@@ -1,0 +1,10 @@
+Word::: mit
+WordTranslation::: с, вместе с, при помощи (предлог)
+FrontExample::: Trinken Sie den Kaffee mit Milch?
+BackExample::: Вы пьёте кофе с молоком?
+FrontExample2::: Ich gehe mit meinem Freund ins Kino.
+BackExample2::: Я иду с моим другом в кино.
+FrontExample3::: Kommst du mit dem Bus?
+BackExample3::: Ты едешь автобусом?
+Tags:::  A1 chatgpt 
+guid::: wSNPVQO_O;

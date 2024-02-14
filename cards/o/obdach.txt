@@ -1,0 +1,10 @@
+Word::: Obdach
+WordTranslation::: убежище
+DerDieDas::: das
+Plural::: —
+FrontExample::: Viele obdachlose Menschen suchen nach einem warmen Obdach für die Nacht.
+BackExample::: Многие бездомные люди ищут теплое укрытие на ночь.
+FrontExample2::: Nach dem Erdbeben benötigten Hunderte von Menschen vorübergehendes Obdach.
+BackExample2::: После землетрясения сотни людей нуждались во временном приюте.
+Tags:::  chatgpt 
+guid::: j7-Hj]#<VO

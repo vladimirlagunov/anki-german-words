@@ -1,0 +1,6 @@
+Word::: Kürbis
+WordTranslation::: тыква
+DerDieDas::: der
+Plural::: Kürbisse
+Tags::: 
+guid::: jw({(}|P+e

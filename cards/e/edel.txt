@@ -1,0 +1,8 @@
+Word::: edel
+WordTranslation::: благородный, изысканный, драгоценный
+FrontExample::: Sie hat edle Prinzipien und handelt immer ehrenhaft.
+BackExample::: У неё благородные принципы, и она всегда поступает почётно.
+FrontExample2::: In diesem Restaurant servieren sie nur edle Weine.
+BackExample2::: В этом ресторане подают только изысканные вина.
+Tags:::  chatgpt 
+guid::: kMY`=U5n]e

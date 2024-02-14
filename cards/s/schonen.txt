@@ -1,0 +1,13 @@
+Word::: schonen
+WordTranslation::: беречь, щадить, сберегать
+DrittenPerson::: schont
+Perfekt::: haben geschont
+Präteritum::: schonte
+FrontExample::: Ich will die Umwelt schonen und benutze deshalb öffentliche Verkehrsmittel.
+BackExample::: Я хочу беречь окружающую среду, поэтому пользуюсь общественным транспортом.
+FrontExample2::: Du solltest deinen Rücken schonen und nicht so schwer heben.
+BackExample2::: Тебе следует беречь свою спину и не поднимать тяжести.
+FrontExample3::: Wir müssen unsere Ressourcen schonen, um sie für zukünftige Generationen zu erhalten.
+BackExample3::: Мы должны беречь наши ресурсы, чтобы сохранить их для будущих поколений.
+Tags:::  chatgpt 
+guid::: L&!JE[]_<N

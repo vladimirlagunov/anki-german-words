@@ -1,0 +1,12 @@
+Word::: verabschieden
+WordTranslation::: <ul><li>прощаться</li><li>увольняться, отклонять
+</li><li>принимать (закон)</li></ul>
+DrittenPerson::: verabschiedet
+Perfekt::: haben verabschiedet
+Präteritum::: verabschiedete
+FrontExample::: Ich möchte mich von allen Kollegen persönlich verabschieden, bevor ich in Rente gehe.
+BackExample::: Я хочу лично попрощаться со всеми коллегами, прежде чем уйти на пенсию.
+FrontExample2::: Der Bundestag hat ein neues Gesetz verabschiedet.
+BackExample2::: Бундестаг принял новый закон.
+Tags:::  chatgpt 
+guid::: v,0OhKjW1X

@@ -1,0 +1,10 @@
+Word::: normal
+WordTranslation::: нормальный, обычный, стандартный
+FrontExample::: 75 kg. Sein Gewicht ist normal.
+BackExample::: 75 кг. Его вес нормальный.
+FrontExample2::: Das Essen schmeckt normal, nicht besonders gut.
+BackExample2::: Еда на вкус обычная, не особенно хорошая.
+FrontExample3::: Das Wetter ist heute normal für April.
+BackExample3::: Погода сегодня нормальная для апреля.
+Tags:::  A1 chatgpt 
+guid::: L+/lw^1R15

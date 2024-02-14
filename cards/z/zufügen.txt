@@ -1,0 +1,10 @@
+Word::: zufügen
+WordTranslation::: <ul><li>причинять (вред, боль)</li><li>добавлять, вставлять</li></ul>
+Explanation::: <ol><li><div><strong>Zufügen</strong>: Этот глагол чаще всего используется в контексте причинения чего-либо, например, вреда или боли. Пример: "jemandem Schmerzen zufügen" означает причинить кому-то боль.</div></li><li><div><strong>Hinzufügen</strong>: Этот глагол используется в более общем смысле добавления. Он часто употребляется в контексте добавления информации, ингредиентов в рецепте и так далее. Пример: "eine Zutat hinzufügen" означает добавить ингредиент.</div></li></ol>
+DrittenPerson::: fügt zu
+Perfekt::: haben zugefügt
+Präteritum::: fügte zu
+FrontExample::: Das Missgeschick hat seinem Ruf keinen Schaden zugefügt.
+BackExample::: Этот несчастный случай не нанес вреда его репутации.
+Tags:::  chatgpt 
+guid::: HK!v=YF[tm

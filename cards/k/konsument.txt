@@ -1,0 +1,6 @@
+Word::: Konsument
+WordTranslation::: потребитель
+DerDieDas::: der
+Plural::: Konsumenten
+Tags:::  chatgpt 
+guid::: I>_b_!ZY}b

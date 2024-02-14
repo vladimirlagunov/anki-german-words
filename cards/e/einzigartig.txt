@@ -1,0 +1,10 @@
+Word::: einzigartig
+WordTranslation::: уникальный, неповторимый, единственный в своем роде
+FrontExample::: Das Konzert war einzigartig und unvergesslich.
+BackExample::: Концерт был уникальным и незабываемым.
+FrontExample2::: Die Landschaft in dieser Region ist wirklich einzigartig.
+BackExample2::: Пейзаж в этом регионе действительно уникален.
+FrontExample3::: Ihr Stil ist einzigartig; man erkennt ihre Kunstwerke sofort.
+BackExample3::: Её стиль уникален; её произведения искусства узнаются сразу.
+Tags:::  chatgpt 
+guid::: Nce)J`rKSn

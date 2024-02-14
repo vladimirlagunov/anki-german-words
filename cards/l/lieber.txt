@@ -1,0 +1,10 @@
+Word::: lieber
+WordTranslation::: <ul><li>охотнее, лучше</li><li>любезный, дорогой</li></ul>охотнее, лучше<br>любезный, дорогой<br>
+FrontExample::: Sie fährt lieber mit der Bahn.
+BackExample::: Она предпочитает ездить на поезде.
+FrontExample2::: Lieber Peter, wie geht es dir?
+BackExample2::: Дорогой Петр, как у тебя дела?
+FrontExample3::: Magst du Kaffee? - Nein, ich trinke lieber Tee.
+BackExample3::: Ты любишь кофе? - Нет, я предпочитаю чай.
+Tags:::  A1 chatgpt 
+guid::: pa%Zo]bWKx

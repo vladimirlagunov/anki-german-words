@@ -1,0 +1,14 @@
+Word::: zusenden
+WordTranslation::: высылать, отправлять (кому-то определённому)
+Explanation::: <ol><li><div><strong>Senden</strong> - Этот глагол чаще всего используется в контексте официальной или формальной отправки, особенно в области связи или трансляции. Например, он часто употребляется в контексте телевидения или радио ("eine Sendung senden" - "транслировать программу").</div></li><li><div><strong>Schicken</strong> - Это более общий термин для отправки чего-либо или кого-то. Он может использоваться в более неформальных или повседневных ситуациях ("Ich schicke dir ein Paket" - "Я отправляю тебе посылку").</div></li><li><div><strong>Zusenden</strong> - Этот глагол подразумевает отправку чего-либо адресату, часто с намеком на формальность или официальность. Он часто используется в контексте документов или важных писем ("Dokumente zusenden" - "отправить документы").</div></li><li><div><strong>Zuschicken</strong> - Похож на "schicken", но с добавлением префикса "zu", который придаёт действию более конкретный или целенаправленный характер. Он может использоваться в более неформальном контексте, подразумевая отправку чего-либо конкретному адресату ("Ich werde dir das Buch zuschicken" - "Я отправлю тебе эту книгу").</div></li></ol>
+DrittenPerson::: sendet zu
+Perfekt::: haben zugesandt
+Präteritum::: sandte zu
+FrontExample::: Können Sie mir bitte die Unterlagen per E-Mail zusenden?
+BackExample::: Можете ли вы мне, пожалуйста, отправить документы по электронной почте?
+FrontExample2::: Wir werden Ihnen die gewünschten Informationen umgehend zusenden.
+BackExample2::: Мы немедленно отправим вам запрашиваемую информацию.
+FrontExample3::: Bitte zusenden der Rechnungskopie an unsere Buchhaltungsabteilung.
+BackExample3::: Пожалуйста, отправьте копию счета в нашу бухгалтерию.
+Tags:::  chatgpt 
+guid::: A>n{=X#}K*

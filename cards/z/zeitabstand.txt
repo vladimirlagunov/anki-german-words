@@ -1,0 +1,8 @@
+Word::: Zeitabstand
+WordTranslation::: интервал времени
+DerDieDas::: der
+Plural::: Zeitabstände
+FrontExample::: Der Zeitabstand zwischen den Zügen beträgt 10 Minuten.
+BackExample::: Временной интервал между поездами составляет 10 минут.
+Tags:::  chatgpt 
+guid::: D0&=$:YJ<(

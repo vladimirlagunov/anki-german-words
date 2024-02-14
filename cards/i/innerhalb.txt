@@ -1,0 +1,10 @@
+Word::: innerhalb
+WordTranslation::: в течение, в пределах
+FrontExample::: Innerhalb von zwei Wochen müssen wir das Projekt abschließen.
+BackExample::: В течение двух недель мы должны завершить проект.
+FrontExample2::: Sie sollen innerhalb der Stadtgrenzen bleiben.
+BackExample2::: Вам следует оставаться в пределах городских границ.
+FrontExample3::: Innerhalb des Unternehmens gibt es klare Hierarchien.
+BackExample3::: Внутри компании существует чёткая иерархия.
+Tags:::  chatgpt 
+guid::: fq^-fro`ZX

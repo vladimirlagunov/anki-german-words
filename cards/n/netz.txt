@@ -1,0 +1,10 @@
+Word::: Netz
+WordTranslation::: сеть
+DerDieDas::: das
+Plural::: Netze
+FrontExample::: Das Mobilfunknetz ist in dieser Region sehr schwach.
+BackExample::: Сотовая сеть в этом регионе очень слабая.
+FrontExample2::: Der Fisch ist im Netz gefangen.
+BackExample2::: Рыба попалась в сеть.
+Tags:::  chatgpt 
+guid::: yBXt82lO$&

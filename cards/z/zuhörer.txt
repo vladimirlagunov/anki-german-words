@@ -1,0 +1,8 @@
+Word::: Zuhörer
+WordTranslation::: слушатель
+DerDieDas::: der
+Plural::: Zuhörer
+FrontExample::: Bei dem Konzert hatten wir über tausend begeisterte Zuhörer.
+BackExample::: На концерте у нас было более тысячи восторженных слушателей.
+Tags:::  chatgpt 
+guid::: M`:KHKcyPY

@@ -1,0 +1,13 @@
+Word::: unterstützen
+WordTranslation::: поддерживать, помогать, содействовать, финансировать, способствовать
+DrittenPerson::: unterstützt
+Perfekt::: haben unterstützt
+Präteritum::: unterstützte
+FrontExample::: Ich werde dich bei deinem Projekt unterstützen.
+BackExample::: Я буду поддерживать тебя в твоем проекте.
+FrontExample2::: Diese Software kann die Arbeitsprozesse effektiv unterstützen.
+BackExample2::: Это программное обеспечение может эффективно помогать в рабочих процессах.
+FrontExample3::: Viele Menschen unterstützen die Hilfsorganisation mit Spenden.
+BackExample3::: Многие люди поддерживают благотворительную организацию пожертвованиями.
+Tags:::  chatgpt 
+guid::: cU2$%CqduQ

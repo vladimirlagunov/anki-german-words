@@ -1,0 +1,13 @@
+Word::: wecken
+WordTranslation::: будить
+DrittenPerson::: weckt
+Perfekt::: haben geweckt
+Präteritum::: weckte
+FrontExample::: Der laute Alarm hat mich heute Morgen geweckt.
+BackExample::: Громкий будильник разбудил меня сегодня утром.
+FrontExample2::: Der Film hat ihr Interesse für die Kunstgeschichte geweckt.
+BackExample2::: Фильм пробудил ее интерес к истории искусства.
+FrontExample3::: Der Duft von frisch gebackenem Brot weckt bei vielen Menschen Hunger.
+BackExample3::: Аромат свежевыпеченного хлеба пробуждает у многих людей чувство голода.
+Tags:::  chatgpt 
+guid::: j#(l+VKmVO

@@ -1,0 +1,13 @@
+Word::: wachen
+WordTranslation::: <ul>
+<li>охранять, наблюдать, следить</li><li>бодрствовать</li>
+</ul>
+DrittenPerson::: wacht
+Perfekt::: haben gewacht
+Präteritum::: wachte
+FrontExample::: Er wacht jede Nacht, um zu studieren.
+BackExample::: Он бодрствует каждую ночь, чтобы учиться.
+FrontExample2::: Die Polizei wacht über die öffentliche Sicherheit.
+BackExample2::: Полиция стоит на страже общественной безопасности.
+Tags:::  chatgpt 
+guid::: gYuzfi>MID

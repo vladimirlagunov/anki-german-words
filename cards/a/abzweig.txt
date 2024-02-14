@@ -1,0 +1,12 @@
+Word::: Abzweig
+WordTranslation::: развилка, ответвление, ветвь
+DerDieDas::: der
+Plural::: Abzweige
+FrontExample::: Der Wanderweg hat einen Abzweig zum Gipfel.
+BackExample::: Пешеходная тропа имеет ответвление к вершине.
+FrontExample2::: An diesem Abzweig musst du links abbiegen.
+BackExample2::: На этом развилке тебе нужно повернуть налево.
+FrontExample3::: Die neue Stromleitung benötigt einen Abzweig zu dem Gebäude.
+BackExample3::: Новая линия электропередач требует отвода к зданию.
+Tags:::  chatgpt 
+guid::: u2{qFO;@D6

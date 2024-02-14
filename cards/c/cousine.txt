@@ -1,0 +1,12 @@
+Word::: Cousine
+WordTranslation::: двоюродная сестра
+DerDieDas::: die
+Plural::: Cousinen
+FrontExample::: Meine Cousine besucht mich am Wochenende.
+BackExample::: Моя двоюродная сестра приедет ко мне в гости на выходных.
+FrontExample2::: Ich habe meine Cousine schon seit Jahren nicht mehr gesehen.
+BackExample2::: Я не видел свою двоюродную сестру уже много лет.
+FrontExample3::: Unsere Cousins und Cousinen treffen sich jedes Jahr zu einem Familienfest.
+BackExample3::: Наши двоюродные братья и сёстры собираются каждый год на семейный праздник.
+Tags:::  chatgpt 
+guid::: eb$7:FZ?ra

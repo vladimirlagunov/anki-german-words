@@ -1,0 +1,11 @@
+Word::: einnehmen
+WordTranslation::: <ul><li>захватывать, занимать</li><li>принимать (например, лекарства)</li></ul>
+DrittenPerson::: nimmt ein
+Perfekt::: haben eingenommen
+Präteritum::: nahm ein
+FrontExample::: Ich muss dreimal täglich meine Medikamente einnehmen.
+BackExample::: Мне нужно принимать мои лекарства три раза в день.
+FrontExample2::: Die Heimatmannschaft konnte schnell die Führung einnehmen.
+BackExample2::: Домашняя команда быстро смогла занять лидирующую позицию.
+Tags:::  chatgpt 
+guid::: piO>=MR`Q&

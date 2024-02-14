@@ -1,0 +1,10 @@
+Word::: wenig
+WordTranslation::: мало, немного
+FrontExample::: Ich habe leider nur wenig verstanden.
+BackExample::: К сожалению, я понял лишь немного.
+FrontExample2::: Ich habe wenig Zeit.
+BackExample2::: У меня мало времени.
+FrontExample3::: Er verdient wenig.
+BackExample3::: Он зарабатывает мало.
+Tags:::  A1 chatgpt 
+guid::: yl)cUAF>c%

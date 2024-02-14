@@ -1,0 +1,13 @@
+Word::: zerstören
+WordTranslation::: разрушать
+DrittenPerson::: zerstört
+Perfekt::: haben zerstört
+Präteritum::: zerstörte
+FrontExample::: Der Krieg hat die ganze Stadt zerstört.
+BackExample::: Война полностью разрушила весь город.
+FrontExample2::: Die Umweltverschmutzung könnte das Ökosystem zerstören.
+BackExample2::: Загрязнение окружающей среды может уничтожить экосистему.
+FrontExample3::: Das Feuer hat das alte Herrenhaus komplett zerstört.
+BackExample3::: Пожар полностью уничтожил старинный особняк.
+Tags:::  chatgpt 
+guid::: NwN0qW=![z

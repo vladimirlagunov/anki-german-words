@@ -1,0 +1,10 @@
+Word::: hoch
+WordTranslation::: высокий, высоко
+FrontExample::: Der Mount Everest ist 8.880 Meter hoch.
+BackExample::: Гора Эверест имеет высоту 8 880 метров.
+FrontExample2::: Das Haus ist vier Stockwerke hoch.
+BackExample2::: Дом имеет четыре этажа.
+FrontExample3::: Die Preise sind zu hoch.
+BackExample3::: Цены слишком высокие.
+Tags:::  A1 chatgpt 
+guid::: kcy@=0a;0O

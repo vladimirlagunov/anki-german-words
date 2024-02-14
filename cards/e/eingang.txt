@@ -1,0 +1,12 @@
+Word::: Eingang
+WordTranslation::: вход
+DerDieDas::: der
+Plural::: Eingänge
+FrontExample::: Der Eingang ist um die Ecke.
+BackExample::: Вход находится за углом.
+FrontExample2::: Der Eingang zum Museum ist um 10:00 Uhr.
+BackExample2::: Вход в музей открывается в 10:00.
+FrontExample3::: Wo ist der Eingang zum Park?
+BackExample3::: Где находится вход в парк?
+Tags:::  A1 chatgpt 
+guid::: f$]?M#q_CS

@@ -1,0 +1,13 @@
+Word::: nachschlagen
+WordTranslation::: посмотреть (в справочнике)
+DrittenPerson::: schlägt nach
+Perfekt::: haben nachgeschlagen
+Präteritum::: schlug nach
+FrontExample::: Wenn du die Bedeutung des Wortes nicht kennst, solltest du im Wörterbuch nachschlagen.
+BackExample::: Если ты не знаешь значение слова, тебе следует посмотреть в словаре.
+FrontExample2::: Ich weiß nicht, wie diese Pflanze heißt, lass uns im Pflanzenführer nachschlagen.
+BackExample2::: Я не знаю, как называется это растение, давай поищем в справочнике по растениям.
+FrontExample3::: Bevor du den Kuchen backst, schlage bitte das Rezept im Kochbuch nach.
+BackExample3::: Прежде чем печь торт, пожалуйста, найди рецепт в кулинарной книге.
+Tags:::  chatgpt 
+guid::: EJbnV,[KV;

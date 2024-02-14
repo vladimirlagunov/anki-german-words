@@ -1,0 +1,10 @@
+Word::: Überfall
+WordTranslation::: нападение, ограбление, налет
+DerDieDas::: der
+Plural::: Überfälle
+FrontExample::: Die Polizei sucht Zeugen nach einem brutalen Überfall auf einen Juwelier.
+BackExample::: Полиция ищет свидетелей после жестокого нападения на ювелирный магазин.
+FrontExample2::: Der Überfall auf die Bank wurde von einer Überwachungskamera aufgezeichnet.
+BackExample2::: Ограбление банка было зафиксировано камерой видеонаблюдения.
+Tags:::  chatgpt 
+guid::: Otg,oUd8HY

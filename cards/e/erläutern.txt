@@ -1,0 +1,14 @@
+Word::: erläutern
+WordTranslation::: пояснять, разъяснять
+Explanation::: <ul><li><div><strong>Erklären</strong>: Это слово обычно используется в контексте объяснения или разъяснения чего-то в более общем смысле. Оно может применяться, например, когда кто-то объясняет факт, концепцию, своё мнение или решение. "Erklären" также может использоваться в более формальных или научных контекстах, где требуется точность и ясность.</div></li><li><div><strong>Erläutern</strong>: Это слово чаще всего означает подробное или углубленное объяснение. "Erläutern" подразумевает развёрнутое изложение или разъяснение, которое помогает лучше понять сложный материал или концепции. Этот термин можно часто встретить в академических или интеллектуальных обсуждениях, где требуется детальное разъяснение.</div></li></ul>
+DrittenPerson::: erläutert
+Perfekt::: haben erläutert
+Präteritum::: erläuterte
+FrontExample::: Der Professor erläuterte die Theorie mit einfachen Worten.
+BackExample::: Профессор объяснил теорию простыми словами.
+FrontExample2::: Können Sie bitte erläutern, was Sie mit dieser Aussage meinen?
+BackExample2::: Можете ли вы, пожалуйста, пояснить, что вы имеете в виду под этим утверждением?
+FrontExample3::: Im Museum erläuterte der Führer die Geschichte hinter den Kunstwerken.
+BackExample3::: В музее гид пояснил историю, стоящую за произведениями искусства.
+Tags:::  chatgpt 
+guid::: Ix9xF[Oay|

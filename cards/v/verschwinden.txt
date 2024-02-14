@@ -1,0 +1,13 @@
+Word::: verschwinden
+WordTranslation::: исчезать, пропадать
+DrittenPerson::: verschwindet
+Perfekt::: sein verschwunden
+Präteritum::: verschwand
+FrontExample::: Der Schlüssel ist verschwunden.
+BackExample::: Ключ пропал.
+FrontExample2::: Die Sonne verschwand hinter den Wolken.
+BackExample2::: Солнце скрылось за облаками.
+FrontExample3::: Seine Ängste verschwanden nach und nach.
+BackExample3::: Его страхи потихоньку исчезали.
+Tags:::  chatgpt 
+guid::: eNk>QEQ[X3

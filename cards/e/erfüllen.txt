@@ -1,0 +1,13 @@
+Word::: erfüllen
+WordTranslation::: осуществлять, выполнять, исполнять, удовлетворять
+DrittenPerson::: erfüllt
+Perfekt::: haben erfüllt
+Präteritum::: erfüllte
+FrontExample::: Er hat alle meine Wünsche erfüllt.
+BackExample::: Он исполнил все мои желания.
+FrontExample2::: Der Film hat meine Erwartungen nicht erfüllt.
+BackExample2::: Фильм не оправдал моих ожиданий.
+FrontExample3::: Sie erfüllt ihre Pflichten sehr gewissenhaft.
+BackExample3::: Она очень добросовестно выполняет свои обязанности.
+Tags:::  chatgpt 
+guid::: sM)4*92)_5

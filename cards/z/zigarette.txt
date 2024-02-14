@@ -1,0 +1,12 @@
+Word::: Zigarette
+WordTranslation::: сигарета
+DerDieDas::: die
+Plural::: Zigaretten
+FrontExample::: Wie teuer sind die Zigaretten?
+BackExample::: Сколько стоят сигареты?
+FrontExample2::: Kannst du mir bitte eine Zigarette geben?
+BackExample2::: Можешь дать мне, пожалуйста, сигарету?
+FrontExample3::: Ich möchte eine Packung Zigaretten kaufen.
+BackExample3::: Я хочу купить пачку сигарет.
+Tags:::  A1 chatgpt 
+guid::: bSTV>I$`s?

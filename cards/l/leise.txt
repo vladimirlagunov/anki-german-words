@@ -1,0 +1,8 @@
+Word::: leise
+WordTranslation::: <ul><li>тихий</li><li>легкий, слабый</li></ul>
+FrontExample::: Seid leise. Die anderen schlafen schon.
+BackExample::: Будьте тихо. Остальные уже спят.
+FrontExample2::: Kannst du bitte leise sprechen?
+BackExample2::: Можешь говорить потише, пожалуйста?
+Tags:::  A1 chatgpt 
+guid::: d*&qa0O~Ca

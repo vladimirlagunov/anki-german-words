@@ -1,0 +1,8 @@
+Word::: Kapazität
+WordTranslation::: ёмкость
+DerDieDas::: die
+Plural::: Kapazitäten
+FrontExample::: Der Akku hat eine Kapazität von 4000 mAh.
+BackExample::: Аккумулятор имеет ёмкость 4000 мАч.
+Tags:::  chatgpt 
+guid::: PE5>UMzS,a

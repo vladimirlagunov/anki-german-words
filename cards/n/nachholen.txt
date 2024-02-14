@@ -1,0 +1,9 @@
+Word::: nachholen
+WordTranslation::: догонять, наверстывать, делать впоследствии
+DrittenPerson::: holt nach
+Perfekt::: haben nachgeholt
+Präteritum::: holte nach
+FrontExample::: Ich muss den Stoff von letzter Woche nachholen, da ich krank war.
+BackExample::: Я должен наверстать материал прошлой недели, так как я был болен.
+Tags:::  chatgpt 
+guid::: cVg%MiF<.Q

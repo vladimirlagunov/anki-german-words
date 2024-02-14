@@ -1,0 +1,8 @@
+Word::: Krise
+WordTranslation::: кризис
+DerDieDas::: die
+Plural::: Krisen
+FrontExample::: Die Weltwirtschaft steckt in einer tiefen Krise.
+BackExample::: Мировая экономика находится в глубоком кризисе.
+Tags:::  chatgpt 
+guid::: s42Ll&@NCv

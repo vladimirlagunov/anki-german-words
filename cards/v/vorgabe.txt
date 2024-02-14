@@ -1,0 +1,10 @@
+Word::: Vorgabe
+WordTranslation::: предписание, требование, директива, задание
+DerDieDas::: die
+Plural::: Vorgaben
+FrontExample::: Die Vorgabe der Firma ist es, den CO2-Ausstoß bis 2025 um 50% zu reduzieren.
+BackExample::: Цель компании - сократить выбросы CO2 на 50% к 2025 году.
+FrontExample2::: Laut der Vorgabe des Lehrers muss die Hausarbeit mindestens 20 Seiten umfassen.
+BackExample2::: Согласно требованию учителя, курсовая работа должна содержать не менее 20 страниц.
+Tags:::  chatgpt 
+guid::: JK^$5HC,G6

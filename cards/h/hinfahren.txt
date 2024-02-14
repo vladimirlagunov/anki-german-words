@@ -1,0 +1,7 @@
+Word::: hinfahren
+WordTranslation::: отвозить (куда-либо)
+DrittenPerson::: fährt hin
+Perfekt::: sein hingefahren
+Präteritum::: fuhr hin
+Tags::: 
+guid::: JN}[ODDkGD

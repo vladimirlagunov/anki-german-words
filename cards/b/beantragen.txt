@@ -1,0 +1,14 @@
+Word::: beantragen
+WordTranslation::: подать заявление, запросить, просить
+Explanation::: <ul><li><div><strong>Beantragen</strong>: Это слово переводится как "подать заявление" или "запросить". Используется, когда человек обращается за официальным разрешением или правом, например, подача заявления на получение визы, лицензии, социальных пособий и т.д. Подразумевается, что будет процесс рассмотрения заявления с последующим решением, утвердить его или отклонить.</div></li><li><div><strong>Einreichen</strong>: Это слово означает "представить" или "подать" в более общем смысле. Оно может использоваться, когда речь идет о подаче документов, докладов, заявлений и т.д., не обязательно связанных с процессом официального утверждения. Например, einreichen может использоваться, когда вы подаете документы в университет, доклад на конференцию или жалобу в службу поддержки.</div></li></ul>
+DrittenPerson::: beantragt
+Perfekt::: haben beantragt
+Präteritum::: beantragte
+FrontExample::: Ich werde beim Amt einen neuen Reisepass beantragen.
+BackExample::: Я подам заявку на получение нового паспорта в ведомстве.
+FrontExample2::: Sie hat Elternzeit bei ihrem Arbeitgeber beantragt.
+BackExample2::: Она запросила отпуск по уходу за ребенком у своего работодателя.
+FrontExample3::: Man kann online eine Förderung für das Studium beantragen.
+BackExample3::: Можно подать онлайн-заявление на получение стипендии для обучения.
+Tags:::  chatgpt 
+guid::: K{0`P@D(ik

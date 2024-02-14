@@ -1,0 +1,10 @@
+Word::: Abstand
+WordTranslation::: расстояние, дистанция
+DerDieDas::: der
+Plural::: Abstände
+FrontExample::: Halten Sie bitte immer einen Abstand von mindestens 1,5 Metern zu anderen Personen.
+BackExample::: Пожалуйста, всегда соблюдайте расстояние не менее 1,5 метров от других людей.
+FrontExample2::: Beim Parken muss ein angemessener Abstand zur Kreuzung eingehalten werden.
+BackExample2::: При парковке необходимо соблюдать достаточное расстояние до перекрёстка.
+Tags:::  chatgpt 
+guid::: G&;S#o).uv

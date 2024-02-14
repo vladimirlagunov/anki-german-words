@@ -1,0 +1,10 @@
+Word::: Quotient
+WordTranslation::: коэффициент
+DerDieDas::: der
+Plural::: Quotienten
+FrontExample::: Der Intelligenzquotient ist ein Maß für die intellektuelle Leistungsfähigkeit einer Person.
+BackExample::: Интеллектуальный коэффициент - это мера интеллектуальной способности человека.
+FrontExample2::: Der Body-Mass-Index ist der Quotient aus dem Gewicht einer Person und dem Quadrat ihrer Körpergröße.
+BackExample2::: Индекс массы тела - это отношение веса человека к квадрату его роста.
+Tags:::  chatgpt 
+guid::: frY&W]/pm2

@@ -1,0 +1,11 @@
+Word::: beteiligen
+WordTranslation::: <ul><li>участвовать, принимать участие</li><li>вносить вклад</li></ul>
+DrittenPerson::: beteiligt
+Perfekt::: haben beteiligt
+Präteritum::: beteiligte
+FrontExample::: Er möchte sich an der Diskussion beteiligen.
+BackExample::: Он хочет принять участие в дискуссии.
+FrontExample2::: Sie beteiligte sich aktiv an dem Projekt.
+BackExample2::: Она активно участвовала в проекте.
+Tags:::  chatgpt 
+guid::: h%x|a)YHSR

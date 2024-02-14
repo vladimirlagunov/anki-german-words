@@ -1,0 +1,12 @@
+Word::: Vorsicht
+WordTranslation::: осторожность, внимание, предосторожность
+DerDieDas::: die
+Plural::: wird nur im Singular verwendet
+FrontExample::: Vorsicht! Da kommt ein Auto.
+BackExample::: Осторожно! Там идет машина.
+FrontExample2::: Vorsicht an der Kante, du könntest fallen.
+BackExample2::: Будь осторожен у края, ты можешь упасть.
+FrontExample3::: Vorsicht beim Überqueren der Straße!
+BackExample3::: Будь осторожен, переходя улицу!
+Tags:::  A1 chatgpt 
+guid::: vI}KxhFjT5

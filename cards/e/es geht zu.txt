@@ -1,0 +1,10 @@
+Word::: es geht zu
+WordTranslation::: дело идет, происходит, творится
+FrontExample::: Es geht zu wie auf einem belebten Markt.
+BackExample::: Тут творится то же, что на оживлённом рынке.
+FrontExample2::: Im Karneval geht es wild zu.
+BackExample2::: На карнавале [дела идут] дико.
+FrontExample3::: Etwas ruhiger als heute ging es am Anfang der Berliner U-Bahn zu.
+BackExample3::: В начале работы Берлинского метро было несколько спокойнее, чем сегодня.
+Tags:::  chatgpt 
+guid::: ndDl?K:*ma

@@ -1,0 +1,6 @@
+Word::: Pronomen
+WordTranslation::: местоимение
+DerDieDas::: das
+Plural::: Pronomen, Pronomina
+Tags::: 
+guid::: Eng%5_e*n=

@@ -1,0 +1,11 @@
+Word::: erweitern
+WordTranslation::: расширять, увеличивать
+DrittenPerson::: erweitert
+Perfekt::: haben erweitert
+Präteritum::: erweiterte
+FrontExample::: Die Firma plant, ihr Sortiment zu erweitern.
+BackExample::: Компания планирует расширить свой ассортимент.
+FrontExample2::: Um dein Vokabular zu erweitern, solltest du regelmäßig neue Wörter lernen.
+BackExample2::: Чтобы расширить свой словарный запас, тебе следует регулярно учить новые слова.
+Tags:::  chatgpt 
+guid::: vRc)iQ!n*C

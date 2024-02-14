@@ -1,0 +1,8 @@
+Word::: erfolgreich
+WordTranslation::: успешный, удачный
+FrontExample::: Er ist ein sehr erfolgreicher Geschäftsmann.
+BackExample::: Он очень успешный бизнесмен.
+FrontExample2::: Die Operation war erfolgreich.
+BackExample2::: Операция прошла успешно.
+Tags:::  chatgpt 
+guid::: KI{2K$Q]sz

@@ -1,0 +1,6 @@
+Word::: zu sein
+WordTranslation::: быть закрытым, выключенным
+FrontExample::: Die Tür ist zu.
+BackExample::: Дверь закрыта.
+Tags:::  A1 chatgpt 
+guid::: f#L0!5ns(_

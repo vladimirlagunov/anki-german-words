@@ -1,0 +1,13 @@
+Word::: gelangen
+WordTranslation::: достигать, добираться
+DrittenPerson::: gelangt
+Perfekt::: sein gelangt
+Präteritum::: gelangte
+FrontExample::: Wie gelange ich zum Bahnhof?
+BackExample::: Как мне добраться до вокзала?
+FrontExample2::: Nach vielen Jahren harter Arbeit ist es ihm gelungen, sein eigenes Unternehmen zu gründen.
+BackExample2::: После многих лет упорной работы ему удалось основать собственную компанию.
+FrontExample3::: Die vertraulichen Dokumente sollten nicht in falsche Hände gelangen.
+BackExample3::: Конфиденциальные документы не должны попасть в чужие руки.
+Tags:::  chatgpt 
+guid::: Hk}f$`baA;

@@ -1,0 +1,10 @@
+Word::: Gehäuse
+WordTranslation::: корпус, оболочка, кожух, раковина/ракушка
+DerDieDas::: das
+Plural::: Gehäuse
+FrontExample::: Das Gehäuse des Smartphones ist aus Aluminium gefertigt.
+BackExample::: Корпус смартфона изготовлен из алюминия.
+FrontExample2::: Die Schnecke zieht sich bei Gefahr in ihr Gehäuse zurück.
+BackExample2::: Улитка при опасности прячется в свою раковину.
+Tags:::  chatgpt 
+guid::: zR@%2ystKc

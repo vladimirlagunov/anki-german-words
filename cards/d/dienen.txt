@@ -1,0 +1,11 @@
+Word::: dienen
+WordTranslation::: служить
+DrittenPerson::: dient
+Perfekt::: haben gedient
+Präteritum::: diente
+FrontExample::: Er diente als Soldat in der Armee.
+BackExample::: Он служил солдатом в армии.
+FrontExample2::: Die Erfahrungen aus diesem Projekt können uns in Zukunft dienen.
+BackExample2::: Опыт из этого проекта может нам послужить в будущем.
+Tags:::  chatgpt 
+guid::: n7||yvXcf

@@ -1,0 +1,6 @@
+Word::: Vernetzung
+WordTranslation::: связывание, интеграция, соединение
+FrontExample::: Die Vernetzung aller Verkehrsträger kann zu einer Verbesserung der Mobilität in der Stadt beitragen.
+BackExample::: Интеграция всех видов транспорта может способствовать улучшению мобильности в городе.
+Tags:::  chatgpt 
+guid::: x=)1+dBLKp

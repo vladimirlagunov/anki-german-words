@@ -1,0 +1,6 @@
+Word::: Gesellschaft
+WordTranslation::: общество
+FrontExample::: In dieser Gesellschaft ist es wichtig, Toleranz zu üben.
+BackExample::: В этом обществе важно практиковать толерантность.
+Tags:::  chatgpt 
+guid::: F+6F8w`f:E

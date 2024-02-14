@@ -1,0 +1,6 @@
+Word::: Limonade
+WordTranslation::: лимонад
+DerDieDas::: die
+Plural::: Limonaden
+Tags:::  chatgpt 
+guid::: yYTKgl{iPU

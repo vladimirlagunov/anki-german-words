@@ -1,0 +1,12 @@
+Word::: Geist
+WordTranslation::: <ul><li>разум, ум</li><li>дух, призрак</li></ul>
+DerDieDas::: der
+Plural::: Geister
+FrontExample::: Der Geist der Weihnacht liegt in der Luft.
+BackExample::: Дух Рождества витает в воздухе.
+FrontExample2::: Der alte Mann wird oft als Geist gesehen, der durch das Schloss wandert.
+BackExample2::: Старика часто видят как призрака, блуждающего по замку.
+FrontExample3::: Er ist ein brillanter Wissenschaftler mit einem scharfen Geist.
+BackExample3::: Он блестящий ученый с острым умом.
+Tags:::  chatgpt 
+guid::: It#NCQGY,^

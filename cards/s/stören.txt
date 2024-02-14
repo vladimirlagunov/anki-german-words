@@ -1,0 +1,13 @@
+Word::: stören
+WordTranslation::: мешать, нарушать, беспокоить
+DrittenPerson::: stört
+Perfekt::: haben gestört
+Präteritum::: störte
+FrontExample::: Entschuldigen Sie, ich möchte Sie nicht beim Arbeiten stören.
+BackExample::: Простите, я не хочу вас беспокоить во время работы.
+FrontExample2::: Könnt ihr bitte leiser sein? Ihr stört die Nachbarn.
+BackExample2::: Не могли бы вы говорить потише? Вы мешаете соседям.
+FrontExample3::: Lärm in der Bibliothek kann andere Besucher stören.
+BackExample3::: Шум в библиотеке может мешать другим посетителям.
+Tags:::  chatgpt 
+guid::: cw&A?C]`=Z

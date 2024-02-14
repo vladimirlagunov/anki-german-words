@@ -1,0 +1,6 @@
+Word::: vorübergehend
+WordTranslation::: временно
+FrontExample::: Die Straße ist wegen Bauarbeiten vorübergehend gesperrt.
+BackExample::: Улица временно перекрыта из-за строительных работ.
+Tags:::  chatgpt 
+guid::: h_f;]sJ44H

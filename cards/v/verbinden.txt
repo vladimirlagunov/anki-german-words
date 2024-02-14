@@ -1,0 +1,15 @@
+Word::: verbinden
+WordTranslation::: <ul>
+<li>связывать, соединять<br></li><li>бинтовать, перевязывать</li>
+</ul>
+DrittenPerson::: verbindet
+Perfekt::: haben verbunden
+Präteritum::: verband
+FrontExample::: Ich werde dich später mit Herr Müller verbinden.
+BackExample::: Позже я соединю тебя с господином Мюллером.
+FrontExample2::: Um die beiden Räume zu verbinden, haben wir eine Tür eingebaut.
+BackExample2::: Чтобы соединить обе комнаты, мы установили дверь.
+FrontExample3::: Der Arzt muss die Wunde schnell verbinden, um die Blutung zu stoppen.
+BackExample3::: Врач должен быстро перевязать рану, чтобы остановить кровотечение.
+Tags:::  chatgpt 
+guid::: B9iuFfW0s{

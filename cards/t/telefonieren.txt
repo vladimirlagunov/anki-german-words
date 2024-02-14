@@ -1,0 +1,13 @@
+Word::: telefonieren
+WordTranslation::: звонить, телефонировать
+DrittenPerson::: telefoniert
+Perfekt::: haben telefoniert
+Präteritum::: telefonierte
+FrontExample::: Darf ich mal telefonieren?
+BackExample::: Я могу позвонить?
+FrontExample2::: Ich telefoniere gerade, bitte warte einen Moment.
+BackExample2::: Я сейчас разговариваю по телефону, пожалуйста, подожди минутку.
+FrontExample3::: Kannst du mich später noch einmal telefonieren?
+BackExample3::: Ты можешь позвонить мне по телефону еще раз позже?
+Tags:::  A1 chatgpt 
+guid::: LuDP]NFYa:

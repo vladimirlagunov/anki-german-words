@@ -1,5 +1,5 @@
 Word::: Achtung
-WordTranslation::: Внимание, уважение, осторожность
+WordTranslation::: внимание, уважение, осторожность
 DerDieDas::: die
 Plural::: —
 FrontExample::: Achtung! Das dürfen Sie nicht tun.

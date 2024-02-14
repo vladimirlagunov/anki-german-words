@@ -1,0 +1,11 @@
+Word::: starren
+WordTranslation::: пристально смотреть
+DrittenPerson::: starrt
+Perfekt::: haben gestarrt
+Präteritum::: starrte
+FrontExample::: Sie starrte ihn mit großen Augen an.
+BackExample::: Она уставилась на него широко раскрытыми глазами.
+FrontExample2::: Die Katze saß da und starrte auf die leere Wand.
+BackExample2::: Кот сидел там и уставился на пустую стену.
+Tags:::  chatgpt 
+guid::: N>aRD7TWUi

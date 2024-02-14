@@ -1,0 +1,13 @@
+Word::: vermuten
+WordTranslation::: предполагать, догадываться
+DrittenPerson::: vermutet
+Perfekt::: haben vermutet
+Präteritum::: vermutete
+FrontExample::: Ich vermute, dass er bald zurückkommen wird.
+BackExample::: Я предполагаю, что он скоро вернётся.
+FrontExample2::: Man vermutet, dass in diesem Wald Wölfe leben.
+BackExample2::: Предполагают, что в этом лесу живут волки.
+FrontExample3::: Die Polizei vermutet einen Zusammenhang zwischen den beiden Verbrechen.
+BackExample3::: Полиция предполагает связь между этими двумя преступлениями.
+Tags:::  chatgpt 
+guid::: Jltyi4uPFE

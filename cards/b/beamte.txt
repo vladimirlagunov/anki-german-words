@@ -1,0 +1,6 @@
+Word::: Beamte
+Explanation::: Der Beamte – чиновник мужского пола. Die Beamtin – чиновница. Изредка встречается die Beamte.
+DerDieDas::: der
+Plural::: Beamte, Beamten
+Tags:::  A1 
+guid::: ohfPn-Y%z)

@@ -1,0 +1,10 @@
+Word::: Wahrzeichen
+WordTranslation::: символ, знак, достопримечательность
+DerDieDas::: das
+Plural::: Wahrzeichen
+FrontExample::: Der Eiffelturm ist ein Wahrzeichen von Paris.
+BackExample::: Эйфелева башня является символом Парижа.
+FrontExample2::: Das Brandenburger Tor ist nicht nur ein Wahrzeichen Berlins, sondern auch ein Symbol der deutschen Einheit.
+BackExample2::: Бранденбургские ворота являются не только достопримечательностью Берлина, но и символом немецкого единства.
+Tags:::  chatgpt 
+guid::: MvCD@{;rJV

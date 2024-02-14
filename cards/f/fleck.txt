@@ -1,0 +1,12 @@
+Word::: Fleck
+WordTranslation::: пятно
+DerDieDas::: der
+Plural::: Flecken, Flecke
+FrontExample::: Ich habe einen Fleck auf meiner Bluse.
+BackExample::: На моей блузке пятно.
+FrontExample2::: <div>Fleck ist nicht gleich Fleck</div>
+BackExample2::: Не все пятна одинаковы.
+FrontExample3::: Dieser kleine Fleck auf der Landkarte ist mein Heimatdorf.
+BackExample3::: Это маленькое пятнышко на карте - моя родная деревня.
+Tags:::  chatgpt 
+guid::: b;8&jezaSN

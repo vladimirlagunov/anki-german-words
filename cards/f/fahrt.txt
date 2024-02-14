@@ -1,0 +1,12 @@
+Word::: Fahrt
+WordTranslation::: поездка, движение, рейс
+DerDieDas::: die
+Plural::: Fahrten
+FrontExample::: Die Fahrt dauert drei Stunden.
+BackExample::: Поездка занимает три часа.
+FrontExample2::: Während der Fahrt bitte nicht rauchen.
+BackExample2::: Во время поездки, пожалуйста, не курите.
+FrontExample3::: Die Fahrt mit dem Schiff war sehr entspannend.
+BackExample3::: Путешествие на корабле было очень расслабляющим.
+Tags:::  chatgpt 
+guid::: z2?*n]T9*&

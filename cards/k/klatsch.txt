@@ -1,0 +1,12 @@
+Word::: Klatsch
+WordTranslation::: сплетня, болтовня
+DerDieDas::: der
+Plural::: Klatsche
+FrontExample::: Hast du den neuesten Klatsch über die Nachbarn gehört?
+BackExample::: Ты слышал последние сплетни о соседях?
+FrontExample2::: Bei der Arbeit gibt es immer viel Klatsch in der Pause.
+BackExample2::: На работе всегда много сплетен во время перерыва.
+FrontExample3::: Ich mag diese Klatschzeitschriften nicht, weil sie oft nicht die Wahrheit schreiben.
+BackExample3::: Мне не нравятся эти сплетнические журналы, потому что они часто пишут не правду.
+Tags:::  chatgpt 
+guid::: N_$IFh@,nS

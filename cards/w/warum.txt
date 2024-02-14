@@ -1,0 +1,10 @@
+Word::: warum
+WordTranslation::: почему, зачем
+FrontExample::: Warum kommt er nicht?
+BackExample::: Почему он не приходит?
+FrontExample2::: Warum lernst du Deutsch?
+BackExample2::: Почему ты учишь немецкий?
+FrontExample3::: Warum ist der Himmel blau?
+BackExample3::: Почему небо голубое?
+Tags:::  A1 chatgpt 
+guid::: Qrs20;+lK=

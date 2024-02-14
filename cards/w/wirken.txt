@@ -1,0 +1,13 @@
+Word::: wirken
+WordTranslation::: <ul><li>воздействовать, срабатывать</li><li>производить впечатление</li><li>казаться, выглядеть</li></ul>
+DrittenPerson::: wirkt
+Perfekt::: haben gewirkt
+Präteritum::: wirkte
+FrontExample::: Das Medikament wirkt schnell.
+BackExample::: Медикамент действует быстро.
+FrontExample2::: Seine Worte wirkten beruhigend auf sie.
+BackExample2::: Его слова действовали на неё успокаивающе.
+FrontExample3::: Die Werbekampagne hat nicht wie erwartet gewirkt.
+BackExample3::: Рекламная кампания не подействовала так, как ожидалось.
+Tags:::  chatgpt 
+guid::: Ij077nH_U6

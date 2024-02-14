@@ -1,0 +1,10 @@
+Word::: Leistung
+WordTranslation::: <ul><li>производительность, эффективность, мощность</li><li>достижение, успех</li></ul>
+FrontExample::: Die Leistung dieses neuen Autos ist beeindruckend.
+BackExample::: Мощность этого нового автомобиля впечатляет.
+FrontExample2::: Er erbrachte eine hervorragende Leistung im Mathematikwettbewerb.
+BackExample2::: Он показал превосходный результат на математической олимпиаде.
+FrontExample3::: Die Verbesserung der Leistungen von Schülern ist das Ziel jedes Lehrers.
+BackExample3::: Повышение успеваемости учеников – это цель каждого учителя.
+Tags:::  chatgpt 
+guid::: h#gyK8]I_,

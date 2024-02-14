@@ -1,0 +1,12 @@
+Word::: Miete
+WordTranslation::: арендная плата, квартплата
+DerDieDas::: die
+Plural::: Mieten
+FrontExample::: Die Miete für diese Wohnung ist 600 Euro.
+BackExample::: Арендная плата за эту квартиру составляет 600 евро.
+FrontExample2::: Ich bezahle die Miete am ersten Tag des Monats.
+BackExample2::: Я плачу аренду в первый день месяца.
+FrontExample3::: Wie hoch ist die Miete für diese Wohnung?
+BackExample3::: Какая стоимость аренды этой квартиры?
+Tags:::  A1 chatgpt 
+guid::: PrEQWu1<,]

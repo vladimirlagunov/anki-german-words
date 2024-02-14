@@ -1,0 +1,10 @@
+Word::: nächst
+WordTranslation::: следующий, ближайший
+FrontExample::: Sehen wir uns nächste Woche?
+BackExample::: Увидимся на следующей неделе?
+FrontExample2::: Wir haben nächste Woche einen Termin beim Arzt.
+BackExample2::: На следующей неделе у нас назначен визит к врачу.
+FrontExample3::: Ich besuche dich nächstes Wochenende.
+BackExample3::: Я навещу тебя на следующих выходных.
+Tags:::  A1 chatgpt 
+guid::: hv0*QAltlx

@@ -1,0 +1,13 @@
+Word::: verschmutzen
+WordTranslation::: загрязнять, пачкать
+DrittenPerson::: verschmutzt
+Perfekt::: haben verschmutzt
+Präteritum::: verschmutzte
+FrontExample::: Die Fabrikabgase verschmutzen die Luft.
+BackExample::: Выбросы заводов загрязняют воздух.
+FrontExample2::: Plastikmüll verschmutzt die Ozeane.
+BackExample2::: Пластиковый мусор загрязняет океаны.
+FrontExample3::: Touristen sollten darauf achten, die Natur nicht zu verschmutzen.
+BackExample3::: Туристам следует следить за тем, чтобы не загрязнять природу.
+Tags:::  chatgpt 
+guid::: LVy)qh_ro`

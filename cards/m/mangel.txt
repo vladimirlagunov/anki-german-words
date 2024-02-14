@@ -1,0 +1,8 @@
+Word::: Mangel
+WordTranslation::: дефицит, недостаток, нехватка
+DerDieDas::: der
+Plural::: Mängel
+FrontExample::: Es herrscht ein Mangel an qualifizierten Arbeitskräften.
+BackExample::: Существует недостаток квалифицированных рабочих кадров.
+Tags:::  chatgpt 
+guid::: JSdz=Fo,W_

@@ -1,0 +1,6 @@
+Word::: andernfalls
+WordTranslation::: в противном случае, иначе
+FrontExample::: Du solltest dich jetzt ausruhen, andernfalls bist du morgen nicht fit.
+BackExample::: Тебе следует отдохнуть сейчас, иначе завтра ты не будешь в форме.
+Tags:::  chatgpt 
+guid::: ybr2bd{p<i

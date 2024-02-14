@@ -1,0 +1,10 @@
+Word::: Rest
+WordTranslation::: <ul><li>остаток</li><li>перерыв</li></ul>
+DerDieDas::: der
+Plural::: Reste
+FrontExample::: Ich habe noch einen Rest Suppe im Kühlschrank.
+BackExample::: У меня ещё осталось немного супа в холодильнике.
+FrontExample2::: Der Rest des Geldes ist für dich.
+BackExample2::: Остаток денег – для тебя.
+Tags:::  chatgpt 
+guid::: h!k0ws~#V;

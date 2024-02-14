@@ -1,0 +1,14 @@
+Word::: Grund
+WordTranslation::: <ul>
+<li>основание, причина, повод</li><li>почва<br></li>
+</ul>
+DerDieDas::: der
+Plural::: Gründe
+FrontExample::: Ich habe allen Grund zur Freude.
+BackExample::: У меня есть все основания для радости.
+FrontExample2::: Das Haus wurde auf festem Grund gebaut.
+BackExample2::: Дом был построен на твердой основе.
+FrontExample3::: Aus diesem Grund werde ich die Party früher verlassen müssen.
+BackExample3::: По этой причине мне придется раньше покинуть вечеринку.
+Tags:::  chatgpt 
+guid::: D#}@uhzTkW

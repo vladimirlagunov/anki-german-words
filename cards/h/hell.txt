@@ -1,0 +1,10 @@
+Word::: hell
+WordTranslation::: светлый, яркий
+FrontExample::: Im Sommer ist es bis 21 Uhr hell.
+BackExample::: Летом светло до 21 часа.
+FrontExample2::: Das Zimmer ist sehr hell.
+BackExample2::: Комната очень светлая.
+FrontExample3::: Ich mag hellblaue Farben.
+BackExample3::: Мне нравятся светло-голубые цвета.
+Tags:::  A1 chatgpt 
+guid::: CqGHxMD}^]

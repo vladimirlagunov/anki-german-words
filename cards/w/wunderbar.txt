@@ -1,0 +1,10 @@
+Word::: wunderbar
+WordTranslation::: чудесный, замечательный, великолепный
+FrontExample::: Das Essen schmeckt wunderbar.
+BackExample::: Еда вкусно пахнет.
+FrontExample2::: Das Wetter ist heute wunderbar.
+BackExample2::: Погода сегодня чудесная.
+FrontExample3::: Das ist ein wunderbarer Tag.
+BackExample3::: Это чудесный день.
+Tags:::  A1 chatgpt 
+guid::: hFZqg4+!GN

@@ -1,0 +1,11 @@
+Word::: bellen
+WordTranslation::: лаять
+DrittenPerson::: bellt
+Perfekt::: haben gebellt
+Präteritum::: bellte
+FrontExample::: Der Hund bellt den ganzen Tag.
+BackExample::: Собака лает весь день.
+FrontExample3::: Wenn jemand an der Tür klingelt, fängt mein Hund sofort an zu bellen.
+BackExample3::: Когда кто-то звонит в дверь, моя собака сразу начинает лаять.
+Tags:::  chatgpt 
+guid::: DT8!,}o8$2

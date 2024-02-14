@@ -1,0 +1,13 @@
+Word::: lächeln
+WordTranslation::: улыбаться
+DrittenPerson::: lächelt
+Perfekt::: haben gelächelt
+Präteritum::: lächelte
+FrontExample::: Er konnte nicht anders, als zu lächeln, als er das Geschenk sah.
+BackExample::: Он не смог удержаться от улыбки, когда увидел подарок.
+FrontExample2::: Trotz ihrer Nervosität versuchte sie freundlich zu lächeln.
+BackExample2::: Несмотря на свое волнение, она попыталась улыбнуться дружелюбно.
+FrontExample3::: Wenn du lächelst, sieht die Welt gleich viel heller aus.
+BackExample3::: Когда ты улыбаешься, мир сразу становится ярче.
+Tags:::  chatgpt 
+guid::: D-hC:<dmD.

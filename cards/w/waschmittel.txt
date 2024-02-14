@@ -1,0 +1,9 @@
+Word::: Waschmittel
+WordTranslation::: <ul>
+<li>моющее средство</li>
+<li>средство для стирки, стиральный порошок</li>
+</ul>
+DerDieDas::: das
+Plural::: Waschmittel
+Tags:::  chatgpt 
+guid::: FVdWv~RVgw

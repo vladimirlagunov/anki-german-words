@@ -1,0 +1,11 @@
+Word::: anschließen
+WordTranslation::: подключить, присоединить, включить в состав
+DrittenPerson::: schließt an
+Perfekt::: haben angeschlossen
+Präteritum::: schloss an
+FrontExample::: Ich möchte meinen Computer an das Netzwerk anschließen.
+BackExample::: Я хочу подключить мой компьютер к сети.
+FrontExample2::: Nach der Konferenz können wir uns der Gruppe anschließen.
+BackExample2::: После конференции мы можем присоединиться к группе.
+Tags:::  chatgpt 
+guid::: IJY5<?,{^p

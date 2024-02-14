@@ -1,0 +1,8 @@
+Word::: Name
+WordTranslation::: имя
+DerDieDas::: der
+Plural::: Namen
+FrontExample::: Mein Name ist Thomas Schmidt. Mein Vorname ist Thomas; Schmidt ist der Familienname.
+BackExample::: Меня зовут Томас Шмидт. Томас - это моё имя; Шмидт - это фамилия.
+Tags:::  A1 chatgpt 
+guid::: mgn,>g?J]+

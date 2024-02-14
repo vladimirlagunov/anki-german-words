@@ -1,0 +1,8 @@
+Word::: anhand
+WordTranslation::: с помощью, используя, на основе (предлог)
+FrontExample::: Anhand der Symptome konnte der Arzt schnell die richtige Diagnose stellen.
+BackExample::: Опираясь на симптомы, врач смог быстро поставить правильный диагноз.
+FrontExample2::: Anhand dieses Beispiels möchte ich die Problematik verdeutlichen.
+BackExample2::: На основе этого примера я хочу проиллюстрировать проблему.
+Tags:::  chatgpt 
+guid::: C2t58^x$br

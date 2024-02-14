@@ -1,0 +1,10 @@
+Word::: zufrieden
+WordTranslation::: довольный
+FrontExample::: Ich bin mit der Wohnung zufrieden.
+BackExample::: Я доволен квартирой.
+FrontExample2::: Ich habe ein neues Auto gekauft und bin sehr zufrieden damit.
+BackExample2::: Я купил новую машину и очень доволен ею.
+FrontExample3::: Sie ist mit ihrem Testergebnis zufrieden.
+BackExample3::: Она довольна своим результатом теста.
+Tags:::  A1 chatgpt 
+guid::: i1u7^8.Nr~

@@ -1,0 +1,8 @@
+Word::: hilfreich
+WordTranslation::: полезный, ценный, дельный
+FrontExample::: Dein Rat war hilfreich, vielen Dank dafür.
+BackExample::: Твой совет был полезен, большое спасибо за это.
+FrontExample2::: Es ist hilfreich, eine Liste beim Einkaufen dabei zu haben.
+BackExample2::: Полезно иметь при себе список при покупках.
+Tags:::  chatgpt 
+guid::: J~e=fd6-S.

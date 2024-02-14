@@ -1,0 +1,12 @@
+Word::: Bahn
+WordTranslation::: Дорога, путь, железная дорога, колея, траектория
+DerDieDas::: die
+Plural::: Bahnen
+FrontExample::: Wir fahren lieber mit der Bahn.&nbsp;
+BackExample::: Мы предпочитаем ехать на поезде.
+FrontExample2::: Ich fahre heute mit der Bahn zur Arbeit.
+BackExample2::: Сегодня я еду на работу на поезде.
+FrontExample3::: Ich nehme die nächste Bahn.
+BackExample3::: Я сяду на следующий поезд.
+Tags:::  A1 chatgpt 
+guid::: I4N^FnV72V

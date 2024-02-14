@@ -1,0 +1,11 @@
+Word::: erleichtern
+WordTranslation::: облегчать
+DrittenPerson::: erleichtert
+Perfekt::: haben erleichtert
+Präteritum::: erleichterte
+FrontExample::: Moderne Technologien erleichtern den Alltag.
+BackExample::: Современные технологии облегчают повседневную жизнь.
+FrontExample2::: Diese Tipps werden Ihnen die Arbeit sicherlich erleichtern.
+BackExample2::: Эти советы наверняка облегчат вам работу.
+Tags:::  chatgpt 
+guid::: A,Axokb:Ez

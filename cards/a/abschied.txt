@@ -1,0 +1,10 @@
+Word::: Abschied
+WordTranslation::: расставание
+DerDieDas::: der
+Plural::: Abschiede
+FrontExample::: Der Abschied von der Familie war schwer.
+BackExample::: Прощание с семьей было тяжелым.
+FrontExample2::: Bei der Abschiedsfeier wurde viel gelacht und geweint.
+BackExample2::: На прощальной вечеринке много смеялись и плакали.
+Tags:::  chatgpt 
+guid::: v6.shH>@hr

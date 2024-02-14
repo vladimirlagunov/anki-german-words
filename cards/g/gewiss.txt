@@ -1,0 +1,10 @@
+Word::: gewiss
+WordTranslation::: конечно, безусловно, определённо
+FrontExample::: Gewiss, ich werde dir helfen.
+BackExample::: Конечно, я тебе помогу.
+FrontExample2::: Das ist gewiss keine leichte Aufgabe.
+BackExample2::: Это, безусловно, не легкая задача.
+FrontExample3::: Sie war sich ihres Erfolgs nicht gewiss.
+BackExample3::: Она не была уверена в своем успехе.
+Tags:::  chatgpt 
+guid::: Ga7vTK6qlP

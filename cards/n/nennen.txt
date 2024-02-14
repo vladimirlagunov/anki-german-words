@@ -1,0 +1,13 @@
+Word::: nennen
+WordTranslation::: называть, указывать, именовать
+DrittenPerson::: nennt
+Perfekt::: haben genannt
+Präteritum::: nannte
+FrontExample::: Wie nennst du diesen Begriff auf Englisch?
+BackExample::: Как ты называешь это понятие по-английски?
+FrontExample2::: Ich kann dir viele Gründe nennen, warum wir das Projekt starten sollten.
+BackExample2::: Я могу назвать тебе множество причин, почему мы должны начать этот проект.
+FrontExample3::: Sie nennt ihn liebevoll ihren kleinen Sonnenschein.
+BackExample3::: Она ласково называет его своим маленьким солнышком.
+Tags:::  chatgpt 
+guid::: Cp2AA<,)Iv

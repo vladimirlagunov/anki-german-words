@@ -1,0 +1,10 @@
+Word::: leider
+WordTranslation::: к сожалению, увы
+FrontExample::: Leider kann ich nicht kommen. Ich muss zum Arzt.
+BackExample::: К сожалению, я не приду. Мне нужно к врачу.
+FrontExample2::: Ich habe leider kein Geld.
+BackExample2::: К сожалению, у меня нет денег.
+FrontExample3::: Leider ist das Wetter schlecht.
+BackExample3::: К сожалению, плохая погода.
+Tags:::  A1 chatgpt 
+guid::: w4_4a%!6T_

@@ -1,0 +1,12 @@
+Word::: Cousin
+WordTranslation::: двоюродный брат, кузен
+DerDieDas::: der
+Plural::: Cousins
+FrontExample::: Mein Cousin wohnt in Berlin und arbeitet dort als Ingenieur.
+BackExample::: Мой двоюродный брат живет в Берлине и работает там инженером.
+FrontExample2::: Ich habe meinen Cousin seit Jahren nicht gesehen, aber wir schreiben uns regelmäßig.
+BackExample2::: Я не видел своего двоюродного брата много лет, но мы регулярно переписываемся.
+FrontExample3::: Zum Geburtstag habe ich meinem Cousin ein Buch geschenkt.
+BackExample3::: На день рождения я подарил своему двоюродному брату книгу.
+Tags:::  chatgpt 
+guid::: Q<pc7Pl0}@

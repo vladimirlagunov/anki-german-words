@@ -1,0 +1,11 @@
+Word::: landen
+WordTranslation::: <ul><li>приходить в конечный результат</li><li>оказываться, попасть (например, куда-то случайно)</li><li>приземляться, посадить (например, о самолете)</li></ul>
+DrittenPerson::: landet
+Perfekt::: sein gelandet
+Präteritum::: landete
+FrontExample::: Wir werden in einer Stunde am Flughafen Frankfurt landen.
+BackExample::: Мы приземлимся в аэропорту Франкфурта через один час.
+FrontExample2::: Die Diskussion ist im Streit gelandet.
+BackExample2::: Обсуждение закончилось ссорой.
+Tags:::  chatgpt 
+guid::: p<iC$DF+jr

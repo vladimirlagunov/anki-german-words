@@ -1,0 +1,13 @@
+Word::: ausgehen
+WordTranslation::: <ul><li>выходить</li><li>предполагать,&nbsp;исходить</li><li>заканчиваться, истощаться</li></ul>
+DrittenPerson::: geht aus
+Perfekt::: sein ausgegangen
+Präteritum::: ging aus
+FrontExample::: Wir gehen heute Abend ins Kino aus.
+BackExample::: Сегодня вечером мы собираемся сходить в кино.
+FrontExample2::: Das Licht ist ausgegangen.
+BackExample2::: Свет погас.
+FrontExample3::: Ich gehe davon aus, dass wir pünktlich ankommen werden.
+BackExample3::: Я исхожу из предположения, что мы прибудем вовремя.
+Tags:::  chatgpt 
+guid::: dE2Qq3~_{x

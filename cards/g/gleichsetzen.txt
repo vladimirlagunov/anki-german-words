@@ -1,0 +1,13 @@
+Word::: gleichsetzen
+WordTranslation::: приравнивать, уравнивать
+DrittenPerson::: setzt gleich
+Perfekt::: haben gleichgesetzt
+Präteritum::: setzte gleich
+FrontExample::: Viele Menschen gleichsetzen Glück mit Reichtum.
+BackExample::: Многие люди отождествляют счастье с богатством.
+FrontExample2::: Wir dürfen Fortschritt nicht mit dem Verbrauch von Ressourcen gleichsetzen.
+BackExample2::: Мы не должны отождествлять прогресс с потреблением ресурсов.
+FrontExample3::: In der Mathematik gleichsetzen wir oft x mit einer unbekannten Zahl.
+BackExample3::: В математике мы часто приравниваем&nbsp;x к неизвестному числу.
+Tags:::  chatgpt 
+guid::: 2~>fWK*mu

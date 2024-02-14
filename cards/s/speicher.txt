@@ -1,0 +1,12 @@
+Word::: Speicher
+WordTranslation::: <ul><li>склад, хранилище, память<br></li><li>чердак</li></ul>
+DerDieDas::: der
+Plural::: Speicher
+FrontExample::: Der Computer hat einen Arbeitsspeicher von 16 GB.
+BackExample::: Компьютер имеет оперативную память на 16 ГБ.
+FrontExample2::: Wir haben alte Möbel auf dem Dachboden-Speicher gelagert.
+BackExample2::: Мы храним старую мебель на чердаке.
+FrontExample3::: Die Stadt plant den Bau eines neuen Wasserspeichers.
+BackExample3::: Город планирует строительство нового водохранилища.
+Tags:::  chatgpt 
+guid::: xxO8~SH[!O

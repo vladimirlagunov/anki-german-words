@@ -8,6 +8,6 @@ BackExample::: Убедитесь сами в качестве нашей про
 FrontExample2::: Ich konnte ihn davon überzeugen, dass es die beste Entscheidung war.
 BackExample2::: Мне удалось убедить его в том, что это было лучшее решение.
 FrontExample3::: Ihre Argumente waren stark und überzeugend.
-BackExample3::: Ваши аргументы были убедительными и вескими.
+BackExample3::: Ваши аргументы были сильными и убедительными.
 Tags:::  chatgpt 
 guid::: bU1R#>?gh9

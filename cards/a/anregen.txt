@@ -1,0 +1,13 @@
+Word::: anregen
+WordTranslation::: <ul><li>стимулировать, побуждать, вдохновлять</li><li>предлагать, поднимать (тему)</li></ul>
+DrittenPerson::: regt an
+Perfekt::: haben angeregt
+Präteritum::: regte an
+FrontExample::: Die Farben im Bild regen meine Fantasie an.
+BackExample::: Краски на картине возбуждают мое воображение.
+FrontExample2::: Dieses Buch regt zum Nachdenken an.
+BackExample2::: Эта книга побуждает к размышлениям.
+FrontExample3::: Der Lehrer will seine Schüler dazu anregen, selbstständig zu arbeiten.
+BackExample3::: Учитель хочет стимулировать своих учеников к самостоятельной работе.
+Tags:::  chatgpt 
+guid::: DD:clBXuf:

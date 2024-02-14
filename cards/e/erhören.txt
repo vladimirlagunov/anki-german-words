@@ -1,0 +1,13 @@
+Word::: erhören
+WordTranslation::: <ul><li>откликнуться, услышать</li><li>исполнить (о просьбе)</li><li>внять (молитве)</li></ul>
+DrittenPerson::: erhört
+Perfekt::: haben erhört
+Präteritum::: erhörte
+FrontExample::: Gott hat mein Gebet erhört.
+BackExample::: Бог услышал мою молитву.
+FrontExample2::: Der Richter hat ihre Bitte schließlich erhört.
+BackExample2::: Судья, наконец, удовлетворил её просьбу.
+FrontExample3::: Er erhörte ihren Hilferuf nicht.
+BackExample3::: Он не откликнулся на её крик о помощи.
+Tags:::  chatgpt 
+guid::: J8G&Lii;Fy

@@ -1,0 +1,13 @@
+Word::: fordern
+WordTranslation::: требовать
+DrittenPerson::: fordert
+Perfekt::: haben gefordert
+Präteritum::: forderte
+FrontExample::: Wir fordern mehr Gerechtigkeit für alle.
+BackExample::: Мы требуем большей справедливости для всех.
+FrontExample2::: Die Organisation fordert einen sofortigen Stopp der Abholzung.
+BackExample2::: Организация требует немедленной остановки вырубки лесов.
+FrontExample3::: Die Mitarbeiter fordern bessere Arbeitsbedingungen.
+BackExample3::: Сотрудники требуют лучших условий труда.
+Tags:::  chatgpt 
+guid::: xYCqVF}#>@

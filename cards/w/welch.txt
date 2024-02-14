@@ -1,0 +1,10 @@
+Word::: welch
+WordTranslation::: какой, какая, какие, какое
+FrontExample::: Welches Buch möchtest du?
+BackExample::: Какую книгу ты хочешь?
+FrontExample2::: Welches Kleid gefällt dir?
+BackExample2::: Какое платье тебе нравится?
+FrontExample3::: Welche Farbe hat dein Auto?
+BackExample3::: Какого цвета у тебя автомобиль?
+Tags:::  A1 chatgpt 
+guid::: MH*(=-wf;:

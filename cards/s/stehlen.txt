@@ -1,0 +1,13 @@
+Word::: stehlen
+WordTranslation::: воровать, красть
+DrittenPerson::: stiehlt
+Perfekt::: haben gestohlen
+Präteritum::: stahl
+FrontExample::: Er wurde erwischt, als er versuchte, ein Auto zu stehlen.
+BackExample::: Его поймали, когда он пытался украсть автомобиль.
+FrontExample2::: Sie kann nicht glauben, dass ihr bester Freund ihr Geld gestohlen hat.
+BackExample2::: Она не может поверить, что её лучший друг украл у неё деньги.
+FrontExample3::: In der Legende gibt es einen Helden, der den Armen hilft, indem er den Reichen stiehlt.
+BackExample3::: В легенде есть герой, который помогает беднякам, крадя у богатых.
+Tags:::  chatgpt 
+guid::: CxQ-,>Gv)@

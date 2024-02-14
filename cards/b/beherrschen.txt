@@ -1,0 +1,13 @@
+Word::: beherrschen
+WordTranslation::: владеть, управлять, контролировать
+DrittenPerson::: beherrscht
+Perfekt::: haben beherrscht
+Präteritum::: beherrschte
+FrontExample::: Sie beherrscht fünf Sprachen fließend.
+BackExample::: Она свободно владеет пятью языками.
+FrontExample2::: Um ein Instrument zu beherrschen, muss man viel üben.
+BackExample2::: Чтобы овладеть инструментом, нужно много практиковаться.
+FrontExample3::: Er beherrscht die Kunst der Rhetorik meisterhaft.
+BackExample3::: Он мастерски владеет искусством риторики.
+Tags:::  chatgpt 
+guid::: s}(6=b/Uth

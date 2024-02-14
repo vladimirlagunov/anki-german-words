@@ -1,7 +1,10 @@
 Word::: üblich
-WordTranslation::: обычный, обыкновенный<br><ul>
-</ul>
-FrontExample::: Wie üblich kommt Merkel eine entscheidende Rolle zu
-BackExample::: Как обычно, Меркель отводится решающая роль
-Tags::: 
+WordTranslation::: обычный, обыкновенный
+FrontExample::: Es ist üblich, zu Geburtstagen Geschenke zu machen.
+BackExample::: На дни рождения обычно дарят подарки.
+FrontExample2::: In vielen Ländern ist es üblich, die Schuhe vor dem Betreten der Wohnung auszuziehen.
+BackExample2::: Во многих странах принято снимать обувь перед входом в квартиру.
+FrontExample3::: In der Firma ist es üblich, dass Überstunden bezahlt werden.
+BackExample3::: В компании положено, что сверхурочные оплачиваются.
+Tags:::  chatgpt 
 guid::: vuK2{)/FH)

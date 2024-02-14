@@ -1,0 +1,10 @@
+Word::: Geisel
+WordTranslation::: заложник
+DerDieDas::: der – заложник<br>die – заложница
+Plural::: Geisel – заложницы<br>Geiseln – заложники
+FrontExample::: Die Terroristen nahmen mehrere Geiseln in der Botschaft.
+BackExample::: Террористы захватили несколько заложников в посольстве.
+FrontExample2::: Der Entführer verlangte ein Lösegeld für die Freilassung der Geisel.
+BackExample2::: Похититель потребовал выкуп за освобождение заложника.
+Tags:::  chatgpt 
+guid::: cv|9:DUsul

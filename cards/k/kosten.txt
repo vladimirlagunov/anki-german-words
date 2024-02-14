@@ -1,0 +1,12 @@
+Word::: Kosten
+WordTranslation::: издержки, расходы
+DerDieDas::: Pl.
+Plural::: Kosten
+FrontExample::: Die Kosten für das neue Stadion sind enorm.
+BackExample::: Затраты на новый стадион огромны.
+FrontExample2::: Er trägt alle Kosten für die Reparatur.
+BackExample2::: Он несет все расходы на ремонт.
+FrontExample3::: Können wir die genauen Kosten berechnen?
+BackExample3::: Можем ли мы рассчитать точные издержки?
+Tags:::  chatgpt 
+guid::: ueswI`XsHd

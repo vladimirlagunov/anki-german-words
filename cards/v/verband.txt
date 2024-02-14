@@ -1,0 +1,10 @@
+Word::: Verband
+WordTranslation::: <ul><li>бандаж, бинт, повязка</li><li>ассоциация, союз, объединение</li><li>связка, пакет, комплект</li></ul>
+DerDieDas::: der
+Plural::: Verbände
+FrontExample::: Er legte einen sterilen Verband an die Wunde.
+BackExample::: Он наложил стерильную повязку на рану.
+FrontExample2::: Der Verband hat die neuen Regeln für die Liga bekanntgegeben.
+BackExample2::: Ассоциация объявила новые правила для лиги.
+Tags:::  chatgpt 
+guid::: m^vOAe/:Tj

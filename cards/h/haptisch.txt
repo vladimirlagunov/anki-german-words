@@ -1,0 +1,8 @@
+Word::: haptisch
+WordTranslation::: тактильный, осязательный
+FrontExample::: Das haptische Feedback der neuen Konsole verbessert das Spielerlebnis.
+BackExample::: Тактильная обратная связь новой консоли улучшает игровой опыт.
+FrontExample2::: Die haptische Wahrnehmung ist besonders wichtig, wenn man im Dunkeln nach dem Lichtschalter sucht.
+BackExample2::: Осязательное восприятие особенно важно, когда ты в темноте ищешь выключатель света.
+Tags:::  chatgpt 
+guid::: v+<g#?Mp-{

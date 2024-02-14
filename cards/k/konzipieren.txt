@@ -1,0 +1,11 @@
+Word::: konzipieren
+WordTranslation::: концептуализировать, составлять концепцию, разрабатывать
+DrittenPerson::: konzipiert
+Perfekt::: haben konzipiert
+Präteritum::: konzipierte
+FrontExample::: Der Lehrer konzipierte einen interaktiven Unterrichtsplan, um die Schüler mehr zu motivieren.
+BackExample::: Учитель разработал интерактивный учебный план для повышения мотивации учащихся.
+FrontExample2::: Die Marketingabteilung konzipierte eine neue Werbekampagne, um jüngere Kunden anzusprechen.
+BackExample2::: Маркетинговый отдел разработал новую рекламную кампанию с целью привлечь молодежную аудиторию.
+Tags:::  chatgpt 
+guid::: zITi$*@UY;

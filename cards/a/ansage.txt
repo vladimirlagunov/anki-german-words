@@ -1,0 +1,10 @@
+Word::: Ansage
+WordTranslation::: объявление, анонс, сообщение
+DerDieDas::: die
+Plural::: Ansagen
+FrontExample::: Hören Sie die Ansagen.
+BackExample::: Слушайте объявления.
+FrontExample2::: Die Ansage im Zug ist schwer zu verstehen.
+BackExample2::: Объявление в поезде трудно понять.
+Tags:::  A1 chatgpt 
+guid::: AE@hCt}03j
