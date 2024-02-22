@@ -235,6 +235,30 @@ from typing import List, Dict, Tuple
          [('Meine Verwandten kommen zu Besuch.', 'Мои родственники приезжают в гости.'),
           ('Ich habe viele Verwandte in Berlin.', 'У меня много родственников в Берлине.'),
           ('Peter besucht seine Verwandten in Polen.', 'Петр навещает своих родственников в Польше.')]
+    ],
+    [
+        {'choices': [{'finish_reason': 'stop',
+                      'index': 0,
+                      'logprobs': None,
+                      'message': {'content': '```csv\n'
+                                             '"Deine Leistungen im Sport imponieren '
+                                             'mir sehr.", "Твои успехи в спорте меня '
+                                             'очень впечатляют."\n'
+                                             '"Ihr Mut hat allen Anwesenden '
+                                             'imponiert.", "Ее смелость произвела '
+                                             'впечатление на всех присутствующих."\n'
+                                             '"Das neue Gebäude imponiert durch seine '
+                                             'außergewöhnliche Architektur.", "Новое '
+                                             'здание впечатляет своей необычной '
+                                             'архитектурой."\n'
+                                             '```',
+                                  'role': 'assistant'}}]},
+         [('Deine Leistungen im Sport imponieren mir sehr.',
+           'Твои успехи в спорте меня очень впечатляют.'),
+          ('Ihr Mut hat allen Anwesenden imponiert.',
+           'Ее смелость произвела впечатление на всех присутствующих.'),
+          ('Das neue Gebäude imponiert durch seine außergewöhnliche Architektur.',
+           'Новое здание впечатляет своей необычной архитектурой.')],
     ]
 ])
 def test_examples_from_chatgpt_responses(response: Dict, expected: List[Tuple[str, str]]):

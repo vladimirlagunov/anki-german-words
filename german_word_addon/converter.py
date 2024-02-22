@@ -219,7 +219,7 @@ def examples_from_chatgpt_responses(responses: Dict) -> Iterable[Tuple[str, str]
         csv_tables = re.findall('```csv(.+?)```', content, flags)
         if csv_tables:
             for table in csv_tables:
-                for row in csv.reader(io.StringIO(table.strip())):
+                for row in csv.reader(io.StringIO(table.strip()), skipinitialspace=True):
                     yield tuple(row)
         else:
             content = content.replace("**", "")
