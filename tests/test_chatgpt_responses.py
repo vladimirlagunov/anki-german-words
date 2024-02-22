@@ -213,6 +213,28 @@ from typing import List, Dict, Tuple
          'usage': {'completion_tokens': 18, 'prompt_tokens': 158, 'total_tokens': 176}},
         [('Es regnet in Strömen.',
           'Льёт как из ведра.')]
+    ],
+    [
+        {'choices': [{'finish_reason': 'stop',
+                      'index': 0,
+                      'logprobs': None,
+                      'message': {'content': '```csv\n'
+                                             '"Meine Verwandten kommen zu '
+                                             'Besuch.","Мои родственники приезжают в '
+                                             'гости."\n'
+                                             '"Ich habe viele Verwandte in Berlin.","У '
+                                             'меня много родственников в Берлине."\n'
+                                             '```\n'
+                                             '\n'
+                                             '```csv\n'
+                                             '"Peter besucht seine Verwandten in '
+                                             'Polen.","Петр навещает своих '
+                                             'родственников в Польше."\n'
+                                             '```',
+                                  'role': 'assistant'}}]},
+         [('Meine Verwandten kommen zu Besuch.', 'Мои родственники приезжают в гости.'),
+          ('Ich habe viele Verwandte in Berlin.', 'У меня много родственников в Берлине.'),
+          ('Peter besucht seine Verwandten in Polen.', 'Петр навещает своих родственников в Польше.')]
     ]
 ])
 def test_examples_from_chatgpt_responses(response: Dict, expected: List[Tuple[str, str]]):
