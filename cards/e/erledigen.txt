@@ -1,0 +1,11 @@
+Word::: erledigen
+WordTranslation::: закончить, выполнить, решить, уладить, закончить
+DrittenPerson::: erledigt
+Perfekt::: haben erledigt
+Präteritum::: erledigte
+FrontExample::: Ich muss meine Aufgaben bis Freitag erledigen.
+BackExample::: Я должен выполнить свои задачи до пятницы.
+FrontExample2::: Kannst du bitte den Müll rausbringen? Das muss heute noch erledigt werden.
+BackExample2::: Ты не мог бы вынести мусор? Это нужно выполнить сегодня.
+Tags:::  chatgpt 
+guid::: ln?iP~w3zZ

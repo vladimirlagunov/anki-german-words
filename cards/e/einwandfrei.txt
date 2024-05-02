@@ -1,0 +1,10 @@
+Word::: einwandfrei
+WordTranslation::: безупречно, идеально, отлично, без нареканий
+FrontExample::: Das Auto funktioniert einwandfrei.
+BackExample::: Автомобиль работает безупречно.
+FrontExample2::: Die Ware wurde einwandfrei geliefert.
+BackExample2::: Товар был доставлен в отличном состоянии.
+FrontExample3::: Ihr Argument ist einwandfrei und überzeugend.
+BackExample3::: Ваш аргумент безупречен и убедителен.
+Tags:::  chatgpt 
+guid::: s~*n#]|+`E

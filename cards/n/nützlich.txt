@@ -1,0 +1,9 @@
+Word::: nützlich
+WordTranslation::: полезный
+Explanation::: <ul><li><strong>für</strong> (A) - означает "для", указывает на полезность чего-либо или кого-либо для кого-то или чего-то. Пример: Dieses Werkzeug ist sehr nützlich für die Reparatur. - Этот инструмент очень полезен для ремонта.</li><li><strong>bei</strong> (D) - означает "при", указывает на обстоятельства или ситуации, в которых что-то или кто-то может быть полезным. Пример: Eine gute Planung ist nützlich bei der Organisation eines Events. - Хорошее планирование полезно при организации мероприятия.</li></ul>
+FrontExample::: Dieses Buch ist sehr nützlich für mein Studium.
+BackExample::: Эта книга очень полезна для моего обучения.
+FrontExample2::: Es könnte nützlich sein, einen Stadtplan dabei zu haben.
+BackExample2::: Может быть полезно иметь при себе карту города.
+Tags:::  chatgpt 
+guid::: jEDXZ?zAWv

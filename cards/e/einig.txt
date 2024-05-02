@@ -1,0 +1,8 @@
+Word::: einig
+WordTranslation::: единодушный, согласный, единый
+FrontExample::: Die Gruppe konnte sich auf kein einiges Thema einigen
+BackExample::: Группе не удалось прийти к единой теме
+FrontExample2::: Wir müssen uns einig sein, bevor wir weitermachen
+BackExample2::: Мы должны быть согласны, прежде чем продолжать
+Tags:::  chatgpt 
+guid::: e/x*32Y]g`

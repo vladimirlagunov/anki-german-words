@@ -1,0 +1,8 @@
+Word::: Nachfrage
+WordTranslation::: спрос
+DerDieDas::: die
+Plural::: Nachfragen
+FrontExample::: Die Nachfrage nach Elektroautos steigt stetig an.
+BackExample::: Спрос на электромобили постоянно растет.
+Tags:::  chatgpt 
+guid::: vQT6Z7x_lA

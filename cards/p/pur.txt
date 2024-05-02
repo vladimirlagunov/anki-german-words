@@ -1,5 +1,5 @@
 Word::: pur
-WordTranslation::: чистый
+WordTranslation::: чистый (без примесей)
 Explanation::: Syn: rein, geläutert
 FrontExample::: Der Pokal war aus purem Silber.
 BackExample::: Чаша была из чистого серебра.

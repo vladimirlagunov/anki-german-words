@@ -1,0 +1,6 @@
+Word::: gefühlsbetont
+WordTranslation::: эмоциональный, чувствительный
+FrontExample::: Dieser Film ist besonders gefühlsbetont und hat mich zum Weinen gebracht.
+BackExample::: Этот фильм особенно эмоциональный и заставил меня заплакать.
+Tags:::  chatgpt 
+guid::: Ceb_(`$b<9

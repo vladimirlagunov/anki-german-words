@@ -1,0 +1,11 @@
+Word::: ausstrahlen
+WordTranslation::: испускать, излучать, транслировать
+DrittenPerson::: strahlt aus
+Perfekt::: haben ausgestrahlt
+Präteritum::: strahlte aus
+FrontExample::: Der Schauspieler strahlte eine beeindruckende Ruhe aus.
+BackExample::: Актер излучал впечатляющее спокойствие.
+FrontExample2::: Das Licht der Laterne strahlte durch den Nebel.
+BackExample2::: Свет фонаря проникал сквозь туман.
+Tags:::  chatgpt 
+guid::: Lg[PBDf=@E

@@ -1,0 +1,9 @@
+Word::: neidisch
+WordTranslation::: завистливый
+Explanation::: <ul><li><div><strong>auf</strong> (A) - указывает на объект или лицо, к которому испытывается зависть. Пример: "Ich bin neidisch auf seinen Erfolg" (Я завидую его успеху).</div></li><li><div><strong>über</strong> (A) - иногда используется аналогично предлогу "auf", чтобы выразить чувство зависти к чьему-либо достижению или владению. Пример: "Sie ist neidisch über ihre Kollegin" (Она завидует своей коллеге).</div></li></ul>
+FrontExample::: Sie ist immer so neidisch, wenn jemand anders im Mittelpunkt steht.
+BackExample::: Она всегда такая завистливая, когда кто-то другой находится в центре внимания.
+FrontExample2::: Er wurde neidisch auf die Erfolge seines Kollegen.
+BackExample2::: Он стал завидовать успехам своего коллеги.
+Tags:::  chatgpt 
+guid::: AmUBjV3&}3

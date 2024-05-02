@@ -1,0 +1,6 @@
+Word::: Wassermann
+WordTranslation::: Водолей (созвездие, знак Зодиака)
+DerDieDas::: der
+Plural::: Wassermänner
+Tags:::  chatgpt 
+guid::: lE*CXM1]iK

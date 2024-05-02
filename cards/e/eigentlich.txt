@@ -1,6 +1,5 @@
 Word::: eigentlich
-WordTranslation::: на самом деле, собственно говоря<br><ul>
-</ul>
+WordTranslation::: на самом деле, собственно говоря
 Explanation::: Syn: tatsächlich, wirklich, überhaupt
 FrontExample::: Wir wollten eigentlich Freunde besuchen, aber dann sind wir doch zu Hause geblieben.
 BackExample::: Мы должны были навестить друзей, но потом остались дома.

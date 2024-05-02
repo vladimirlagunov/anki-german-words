@@ -1,0 +1,6 @@
+Word::: Zimt
+WordTranslation::: <ul><li>корица</li><li>(уничижительно) глупость, ерунда</li></ul>
+DerDieDas::: <div>der</div>
+Plural::: <ul><li>Zimte -- корица</li><li>wird nur im Singular verwendet – (уничижительно) глупость, ерунда</li></ul>
+Tags:::  chatgpt 
+guid::: LbMHxeI|>8

@@ -1,0 +1,11 @@
+Word::: drohen
+WordTranslation::: угрожать, грозить
+DrittenPerson::: droht
+Perfekt::: haben gedroht
+Präteritum::: drohte
+FrontExample::: Sie drohen mit Streiks, wenn ihre Forderungen nicht erfüllt werden.
+BackExample::: Они угрожают забастовками, если их требования не будут выполнены.
+FrontExample2::: Dem Unternehmen drohen hohe Verluste.
+BackExample2::: Компании угрожают большие убытки.
+Tags:::  chatgpt 
+guid::: Afzb5Gb-d+

@@ -1,0 +1,12 @@
+Word::: Hülsenfrüchtler
+WordTranslation::: бобовые
+DerDieDas::: der
+Plural::: Hülsenfrüchtler
+FrontExample::: Linsen sind beliebte Hülsenfrüchtler in vielen Kulturen.
+BackExample::: Чечевица - популярный представитель бобовых во многих культурах.
+FrontExample2::: Sojabohnen gehören zu den nährstoffreichsten Hülsenfrüchtlern.
+BackExample2::: Соевые бобы относятся к наиболее богатым питательными веществами бобовым.
+FrontExample3::: Erbsen zählen zu den ältesten kultivierten Hülsenfrüchtlern weltweit.
+BackExample3::: Горох является одним из древнейших культивируемых бобовых в мире.
+Tags:::  chatgpt 
+guid::: H+Fh>7D5gO

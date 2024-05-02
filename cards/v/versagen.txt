@@ -1,0 +1,10 @@
+Word::: Versagen
+WordTranslation::: неудача, провал, несостоятельность
+DerDieDas::: das
+Plural::: wird nur im Singular verwendet
+FrontExample::: Ihre ständigen Versagen demotivieren das gesamte Team.
+BackExample::: Ее постоянные неудачи демотивируют всю команду.
+FrontExample2::: Die Maschine war ein technisches Versagen.
+BackExample2::: Машина была техническим провалом.
+Tags:::  chatgpt 
+guid::: IIa=A1f_pc

@@ -1,0 +1,11 @@
+Word::: mischen
+WordTranslation::: смешивать, перемешивать
+DrittenPerson::: mischt
+Perfekt::: haben gemischt
+Präteritum::: mischte
+FrontExample::: Kannst du die Karten mischen?
+BackExample::: Ты можешь перемешать карты?
+FrontExample2::: Ich werde die Zutaten für den Salat mischen.
+BackExample2::: Я перемешаю ингредиенты для салата.
+Tags:::  chatgpt 
+guid::: s;/upJ5h0]

@@ -1,5 +1,5 @@
 Word::: unterstützen
-WordTranslation::: поддерживать, помогать, содействовать, финансировать, способствовать
+WordTranslation::: <ul><li>поддерживать, помогать, содействовать, способствовать</li><li>финансировать</li></ul>
 DrittenPerson::: unterstützt
 Perfekt::: haben unterstützt
 Präteritum::: unterstützte

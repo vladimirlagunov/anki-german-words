@@ -1,0 +1,11 @@
+Word::: bewundern
+WordTranslation::: <ul><li>восхищаться</li><li>любоваться</li></ul>
+DrittenPerson::: bewundert
+Perfekt::: haben bewundert
+Präteritum::: bewunderte
+FrontExample::: Ich bewundere die Künstler für ihre Kreativität.
+BackExample::: Я восхищаюсь художниками за их творчество.
+FrontExample2::: Wir bewunderten den Sonnenuntergang am Meer.
+BackExample2::: Мы любовались закатом на море.
+Tags:::  chatgpt 
+guid::: jyo({W|gCF

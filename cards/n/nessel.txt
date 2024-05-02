@@ -1,0 +1,8 @@
+Word::: Nessel
+WordTranslation::: крапива
+DerDieDas::: die
+Plural::: Nesseln
+FrontExample::: Die Brennnessel ist eine Pflanze, die bei Berührung brennt.
+BackExample::: Крапива – это растение, которое при касании жжёт.
+Tags:::  chatgpt 
+guid::: dS?N|/J<y-

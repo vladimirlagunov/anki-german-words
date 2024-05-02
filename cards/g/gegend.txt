@@ -1,0 +1,12 @@
+Word::: Gegend
+WordTranslation::: район, окрестность, местность
+DerDieDas::: die
+Plural::: Gegenden
+FrontExample::: In dieser Gegend gibt es viele Wanderwege.
+BackExample::: В этой местности много пешеходных троп.
+FrontExample2::: Er kennt sich gut in der Gegend aus.
+BackExample2::: Он хорошо ориентируется на местности.
+FrontExample3::: Wir suchen ein Haus in einer ruhigen Gegend.
+BackExample3::: Мы ищем дом в тихом районе.
+Tags:::  chatgpt 
+guid::: G-Oz-kH1f3

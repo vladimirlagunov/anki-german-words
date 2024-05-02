@@ -1,0 +1,11 @@
+Word::: erzeugen
+WordTranslation::: производить, создавать, генерировать
+DrittenPerson::: erzeugt
+Perfekt::: haben erzeugt
+Präteritum::: erzeugte
+FrontExample::: Die Windräder erzeugen Strom.
+BackExample::: Ветряные турбины вырабатывают электричество.
+FrontExample2::: Diese Maschine kann täglich bis zu 100 Einheiten des Produkts erzeugen.
+BackExample2::: Эта машина может производить до 100 единиц продукции ежедневно.
+Tags:::  chatgpt 
+guid::: s_</6#_%s?

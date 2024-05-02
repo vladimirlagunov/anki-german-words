@@ -1,0 +1,10 @@
+Word::: Sucht
+WordTranslation::: зависимость, тяга, страсть
+DerDieDas::: die
+Plural::: Süchte
+FrontExample::: Er leidet an einer Spielsucht.
+BackExample::: Он страдает от игровой зависимости.
+FrontExample2::: Diese Person hat eine starke Sucht nach Schokolade entwickelt.
+BackExample2::: Этот человек развил сильную тягу к шоколаду.
+Tags:::  chatgpt 
+guid::: tGHHbUryz

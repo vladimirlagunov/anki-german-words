@@ -1,0 +1,12 @@
+Word::: träumen
+WordTranslation::: мечтать
+Explanation::: <ul><li><strong>von</strong> (D) - означает "о", указывает на то, о чем или о ком кто-то мечтает. Пример: Ich träume von einem Leben ohne Sorgen. - Я мечтаю о жизни без забот.</li></ul>
+DrittenPerson::: träumt
+Perfekt::: haben geträumt
+Präteritum::: träumte
+FrontExample::: Ich träume jede Nacht von einem Urlaub am Meer.
+BackExample::: Каждую ночь я мечтаю о отпуске на море.
+FrontExample2::: Manchmal träume ich davon, durch die Zeit zu reisen.
+BackExample2::: Иногда я мечтаю о путешествии во времени.
+Tags:::  chatgpt 
+guid::: r|,)(h[&-G

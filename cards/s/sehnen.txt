@@ -1,0 +1,9 @@
+Word::: sehnen
+WordTranslation::: тосковать, скучать, жаждать
+DrittenPerson::: sehnt
+Perfekt::: haben gesehnt
+Präteritum::: sehnte
+FrontExample::: Ich sehne mich nach meiner Familie, wenn ich auf Reisen bin.
+BackExample::: Когда я в путешествии, я скучаю по своей семье.
+Tags:::  chatgpt 
+guid::: M42SL*m(!L

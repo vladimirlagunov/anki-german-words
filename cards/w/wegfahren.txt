@@ -1,0 +1,11 @@
+Word::: wegfahren
+WordTranslation::: уезжать, отъезжать
+DrittenPerson::: fährt weg
+Perfekt::: sein weggefahren
+Präteritum::: fuhr weg
+FrontExample::: Ich werde morgen früh wegfahren, um den Verkehr zu meiden.
+BackExample::: Завтра рано утром я уеду, чтобы избежать пробок.
+FrontExample2::: Wir können nicht wegfahren, das Auto ist kaputt.
+BackExample2::: Мы не можем уехать, машина сломана.
+Tags:::  chatgpt 
+guid::: fiIE|NN@<:

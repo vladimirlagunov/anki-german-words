@@ -1,0 +1,8 @@
+Word::: Backware
+WordTranslation::: выпечка
+DerDieDas::: die
+Plural::: Backwaren
+FrontExample::: Die Bäckerei hat ein vielfältiges Angebot an frischen Backwaren.
+BackExample::: В пекарне есть разнообразный ассортимент свежей выпечки.
+Tags:::  chatgpt 
+guid::: H_058MQPwm

@@ -1,0 +1,11 @@
+Word::: imponieren
+WordTranslation::: впечатлять, производить впечатление, импонировать
+DrittenPerson::: imponiert
+Perfekt::: haben imponiert
+Präteritum::: imponierte
+FrontExample::: Diese neue Technologie wird Ihnen sicherlich imponieren.
+BackExample::: Эта новая технология вас наверняка впечатлит.
+FrontExample2::: Es imponiert mir, wie ruhig er in schwierigen Situationen bleibt.
+BackExample2::: Меня впечатляет, как он остаётся спокойным в сложных ситуациях.
+Tags:::  chatgpt 
+guid::: u1IvCoZU2E

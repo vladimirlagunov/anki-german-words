@@ -1,0 +1,8 @@
+Word::: heutig
+WordTranslation::: сегодняшний
+FrontExample::: Die heutige Sitzung wurde auf morgen verschoben.
+BackExample::: Сегодняшнее заседание было перенесено на завтра.
+FrontExample2::: Die heutigen Jugendlichen sind mit Technologie aufgewachsen.
+BackExample2::: Современная молодёжь выросла вместе с технологиями.
+Tags:::  chatgpt 
+guid::: Qcdpugm?iR

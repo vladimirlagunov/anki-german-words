@@ -1,0 +1,9 @@
+Word::: vereinheitlichen
+WordTranslation::: унифицировать, стандартизировать, приводить к единому стандарту
+DrittenPerson::: vereinheitlicht
+Perfekt::: haben vereinheitlicht
+Präteritum::: vereinheitlichte
+FrontExample::: Die Regeln in allen Filialen wurden vereinheitlicht.
+BackExample::: Правила во всех филиалах были унифицированы.
+Tags:::  chatgpt 
+guid::: uCZ8E6(B*r

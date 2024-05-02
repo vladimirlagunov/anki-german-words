@@ -1,10 +1,15 @@
 Word::: laut
-WordTranslation::: громко
+WordTranslation::: <ul><li>громко</li><li>согласно (чему-то)</li></ul>
 FrontExample::: Nicht so laut! Das Baby schläft.
 BackExample::: Не так громко! Младенец спит.
 FrontExample2::: Die Musik ist sehr laut.
 BackExample2::: Музыка очень громкая.
-FrontExample3::: Sprich nicht so laut!
-BackExample3::: Не говори так громко!
+FrontExample3::: <div>
+<div>
+<div>
+<div>Laut einer Studie sind nur 50 Prozent der Deutschen glucklich.&nbsp;</div>
+</div>
+</div></div>
+BackExample3::: Согласно исследованию, только 50 процентов немцев счастливы.
 Tags:::  A1 chatgpt 
 guid::: b>8/e#1fB6

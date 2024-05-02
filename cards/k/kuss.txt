@@ -1,0 +1,8 @@
+Word::: Kuss
+WordTranslation::: поцелуй
+DerDieDas::: der
+Plural::: Küsse
+FrontExample::: Fiona, nur ein Kuss trennt uns von unserem Glück.
+BackExample::: Фиона, только один поцелуй отделяет нас от счастья.
+Tags::: 
+guid::: w-nQG$,)!U

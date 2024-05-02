@@ -1,0 +1,11 @@
+Word::: einfangen
+WordTranslation::: поймать, захватить, уловить
+DrittenPerson::: fängt ein
+Perfekt::: haben eingefangen
+Präteritum::: fing ein
+FrontExample::: Das Team versuchte die entlaufene Katze zu einfangen.
+BackExample::: Команда пыталась поймать сбежавшую кошку.
+FrontExample2::: Der Fotograf konnte die Schönheit der Landschaft perfekt einfangen.
+BackExample2::: Фотограф сумел идеально запечатлеть красоту пейзажа.
+Tags:::  chatgpt 
+guid::: DBhV(@/LXt

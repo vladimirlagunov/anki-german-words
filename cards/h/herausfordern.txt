@@ -1,0 +1,11 @@
+Word::: herausfordern
+WordTranslation::: бросать вызов, вызывать, провоцировать
+DrittenPerson::: fordert heraus
+Perfekt::: haben herausgefordert
+Präteritum::: forderte heraus
+FrontExample::: Dieses Computerspiel wird selbst erfahrene Spieler herausfordern.
+BackExample::: Эта компьютерная игра бросит вызов даже опытным игрокам.
+FrontExample2::: Die Besteigung des Mount Everest fordert jeden Alpinisten heraus.
+BackExample2::: Восхождение на Эверест представляет собой вызов для каждого альпиниста.
+Tags:::  chatgpt 
+guid::: od)r/N6BQ+

@@ -1,0 +1,6 @@
+Word::: Gebäude
+WordTranslation::: здание
+DerDieDas::: das
+Plural::: Gebäude
+Tags::: 
+guid::: pLQ(~ub#*r

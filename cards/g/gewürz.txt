@@ -1,0 +1,10 @@
+Word::: Gewürz
+WordTranslation::: приправа, пряность, специи
+DerDieDas::: das
+Plural::: Gewürze
+FrontExample::: Curry ist ein Gewürz, das häufig in der indischen Küche verwendet wird.
+BackExample::: Карри – это специя, которую часто используют в индийской кухне.
+FrontExample2::: Ich kaufe oft frisches Gewürz auf dem Markt.
+BackExample2::: Я часто покупаю свежие специи на рынке.
+Tags:::  chatgpt 
+guid::: H]=&;PcIo7

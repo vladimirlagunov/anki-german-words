@@ -1,0 +1,11 @@
+Word::: wehren
+WordTranslation::: сопротивляться, защищаться, обороняться
+DrittenPerson::: wehrt
+Perfekt::: haben gewehrt
+Präteritum::: wehrte
+FrontExample::: Er wehrte sich nach Kräften, konnte sich aber nicht befreien.
+BackExample::: Он сопротивлялся изо всех сил, но не смог освободиться.
+FrontExample2::: Er wehrt sich gegen die Anschuldigungen.
+BackExample2::: Он защищается от обвинений.
+Tags:::  chatgpt 
+guid::: C-A`.;>9Nu

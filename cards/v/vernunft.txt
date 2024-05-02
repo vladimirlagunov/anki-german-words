@@ -1,0 +1,12 @@
+Word::: Vernunft
+WordTranslation::: разум, рассудок, здравый смысл
+DerDieDas::: die
+Plural::: wird nur im Singular verwendet
+FrontExample::: Er handelte aus reiner Vernunft und nicht aus Emotion.
+BackExample::: Он действовал исключительно по здравому разуму, а не под влиянием эмоций.
+FrontExample2::: Manchmal muss man seiner Vernunft mehr trauen als seinem Herzen.
+BackExample2::: Иногда нужно больше доверять своему уму, чем своему сердцу.
+FrontExample3::: Die Vernunft sagt mir, dass ich früh ins Bett gehen sollte, aber ich bin noch nicht müde.
+BackExample3::: Здравый смысл подсказывает мне, что нужно ложиться спать пораньше, но я ещё не устал.
+Tags:::  chatgpt 
+guid::: e8oBsy`9SH

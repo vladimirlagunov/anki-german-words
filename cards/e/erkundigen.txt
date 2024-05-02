@@ -1,0 +1,12 @@
+Word::: erkundigen
+WordTranslation::: узнавать, справляться, осведомляться
+Explanation::: <ul><li><div><strong>nach + D (sich nach etwas erkundigen)</strong> - означает "спрашивать о чем-то", указывая на интерес к конкретной информации или объекту. Пример: "Ich erkundige mich nach dem Weg." - "Я спрашиваю о дороге."</div></li><li><div><strong>bei + D (sich bei jemandem erkundigen)</strong> - переводится как "спрашивать у кого-то", обозначает действие получения информации у конкретного лица. Пример: "Er erkundigt sich bei seinem Lehrer nach den Hausaufgaben." - "Он спрашивает у своего учителя о домашнем задании."</div></li><li><div><strong>über + A (sich über etwas erkundigen)</strong> - используется для выражения запроса информации о чем-то, подчеркивая широкий интерес к теме или объекту. Пример: "Sie erkundigt sich über die Öffnungszeiten." - "Она узнает о времени работы."</div></li></ul>
+DrittenPerson::: erkundigt
+Perfekt::: haben erkundigt
+Präteritum::: erkundigte
+FrontExample::: Du solltest dich erstmal bei den Kollegen nach den Richtlinien erkundigen.
+BackExample::: Тебе следует сначала поинтересоваться у коллег о правилах.
+FrontExample2::: Erkundige dich bitte, wann der Zug abfährt.
+BackExample2::: Пожалуйста, поинтересуйся, когда отправляется поезд.
+Tags:::  chatgpt 
+guid::: sxy7N.CgMk

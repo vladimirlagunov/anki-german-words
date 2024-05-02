@@ -1,0 +1,6 @@
+Word::: Nelke
+WordTranslation::: гвоздика (приправа)
+DerDieDas::: die
+Plural::: Nelken
+Tags:::  chatgpt 
+guid::: Qflx9;{LZN

@@ -1,0 +1,11 @@
+Word::: teilhaben
+WordTranslation::: <ul><li>участвовать, быть участником</li><li>иметь долю</li></ul>
+DrittenPerson::: hat teil
+Perfekt::: haben teilgehabt
+Präteritum::: hatte teil
+FrontExample::: Alle Mitarbeiter sollen an der Entscheidungsfindung teilhaben.
+BackExample::: Все сотрудники должны принимать участие в процессе принятия решений.
+FrontExample2::: Sie möchte an meinem Glück teilhaben und unterstützt mich, wo sie kann.
+BackExample2::: Она хочет разделить со мной моё счастье и поддерживает меня, как только может.
+Tags:::  chatgpt 
+guid::: PMHW[%wJ-z

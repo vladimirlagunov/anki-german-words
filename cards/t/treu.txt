@@ -1,0 +1,10 @@
+Word::: treu
+WordTranslation::: верный, преданный, надежный
+FrontExample::: Er ist seiner Freundin sehr treu.
+BackExample::: Он очень верен своей подруге.
+FrontExample2::: Sie bleibt ihren Prinzipien immer treu.
+BackExample2::: Она всегда остаётся верной своим принципам.
+FrontExample3::: Mein Hund ist das treueste Wesen auf der Welt.
+BackExample3::: Моя собака – самое преданное существо в мире.
+Tags:::  chatgpt 
+guid::: k,uZ]YU9QO

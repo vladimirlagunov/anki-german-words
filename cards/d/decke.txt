@@ -1,0 +1,10 @@
+Word::: Decke
+WordTranslation::: <ul><li>одеяло, покрывало</li><li>потолок</li></ul>
+DerDieDas::: die
+Plural::: Decken
+FrontExample::: Kannst du mir bitte die Decke geben?
+BackExample::: Можешь мне, пожалуйста, дать одеяло?
+FrontExample2::: Die Decke in diesem Zimmer ist sehr hoch.
+BackExample2::: Потолок в этой комнате очень высокий.
+Tags:::  chatgpt 
+guid::: zngfW[ft.G

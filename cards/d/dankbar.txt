@@ -1,0 +1,9 @@
+Word::: dankbar
+WordTranslation::: благодарный
+Explanation::: <ul><li><strong>für</strong> (A) - означает "за", выражает благодарность за что-либо. Пример: Ich bin dir für deine Hilfe sehr dankbar. - Я очень благодарен тебе за твою помощь.</li><li><strong>über</strong> (A) - означает "за", выражает благодарность за событие или действие. Пример: Sie ist sehr dankbar über das Geschenk. - Она очень благодарна за подарок.</li></ul>
+FrontExample::: Ich bin dir sehr dankbar für deine Hilfe.
+BackExample::: Я очень благодарен тебе за твою помощь.
+FrontExample2::: Wir sollten für das, was wir haben, dankbar sein.
+BackExample2::: Мы должны быть благодарны за то, что у нас есть.
+Tags:::  chatgpt 
+guid::: xo6,&gc[Uz

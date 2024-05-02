@@ -1,0 +1,9 @@
+Word::: friedfertig
+WordTranslation::: миролюбивый, спокойный
+
+FrontExample::: Er ist ein friedfertiger Mensch, der Konflikte vermeiden will.
+BackExample::: Он миролюбивый человек, стремящийся избегать конфликтов.
+FrontExample2::: Sie setzt sich immer für eine friedfertige Lösung ein.
+BackExample2::: Она всегда выступает за мирное решение проблемы.
+Tags:::  chatgpt 
+guid::: KU{,HKXZs?

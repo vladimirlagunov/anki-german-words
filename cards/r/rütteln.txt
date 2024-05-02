@@ -1,0 +1,9 @@
+Word::: rütteln
+WordTranslation::: трясти, встряхивать
+DrittenPerson::: rüttelt
+Perfekt::: haben gerüttelt
+Präteritum::: rüttelte
+FrontExample::: Du musst den Orangensaft vor dem Trinken gut rütteln.
+BackExample::: Тебе следует хорошо встряхнуть апельсиновый сок перед употреблением.
+Tags:::  chatgpt 
+guid::: FLVe:[K|lT

@@ -1,0 +1,10 @@
+Word::: niemals
+WordTranslation::: никогда, ни разу
+FrontExample::: Ich werde das niemals verstehen.
+BackExample::: Я никогда этого не пойму.
+FrontExample2::: Du solltest niemals aufgeben.
+BackExample2::: Ты никогда не должен сдаваться.
+FrontExample3::: Sie hat versprochen, niemals zu lügen.
+BackExample3::: Она пообещала никогда не лгать.
+Tags:::  chatgpt 
+guid::: y#ET_y%M7n

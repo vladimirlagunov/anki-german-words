@@ -1,0 +1,10 @@
+Word::: Vertreter
+WordTranslation::: представитель
+DerDieDas::: der
+Plural::: Vertreter
+FrontExample::: Ich war krank, deshalb kam ein Vertreter für mich zum Meeting.
+BackExample::: Я был болен, поэтому на встречу пришёл мой заместитель.
+FrontExample2::: Der Vertreter spricht auf der Konferenz.
+BackExample2::: Представитель выступает на конференции.
+Tags:::  chatgpt 
+guid::: FCDM~}xm_B

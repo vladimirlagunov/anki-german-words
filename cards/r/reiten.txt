@@ -1,0 +1,9 @@
+Word::: reiten
+WordTranslation::: ездить верхом
+DrittenPerson::: reitet
+Perfekt::: sein geritten
+Präteritum::: ritt
+FrontExample::: Ich habe als Kind gelernt, zu reiten.
+BackExample::: Я научился ездить верхом ещё в детстве.
+Tags:::  chatgpt 
+guid::: i4bc2/I,uk

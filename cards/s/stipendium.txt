@@ -1,0 +1,6 @@
+Word::: Stipendium
+WordTranslation::: стипендия
+DerDieDas::: das
+Plural::: Stipendien
+Tags:::  chatgpt 
+guid::: svR,4nPiYz

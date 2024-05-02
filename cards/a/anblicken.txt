@@ -1,0 +1,11 @@
+Word::: anblicken
+WordTranslation::: смотреть на, взглянуть на
+DrittenPerson::: blickt an
+Perfekt::: haben angeblickt
+Präteritum::: blickte an
+FrontExample::: Sie anblickte das Gemälde mit großer Bewunderung.
+BackExample::: Она с большим восхищением смотрела на картину.
+FrontExample2::: Die Katze anblickte den leeren Futternapf und miaute kläglich.
+BackExample2::: Кот посмотрел на пустую миску с едой и жалобно замяукал.
+Tags:::  chatgpt 
+guid::: pLMA:H?HJ$

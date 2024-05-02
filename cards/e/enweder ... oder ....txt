@@ -1,0 +1,6 @@
+Word::: enweder ... oder ...
+WordTranslation::: либо ... либо ...
+FrontExample::: Entweder wir gehen jetzt, oder wir kommen zu spät.
+BackExample::: Либо мы идем сейчас, либо мы опоздаем.
+Tags:::  chatgpt 
+guid::: uTL77,]D#4

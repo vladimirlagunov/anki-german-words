@@ -1,0 +1,6 @@
+Word::: zunächst
+WordTranslation::: сначала, прежде всего
+FrontExample::: Zunächst müssen wir die genauen Anforderungen klären.
+BackExample::: Прежде всего, нам нужно выяснить точные требования.
+Tags:::  chatgpt 
+guid::: qdnD0L)]^N

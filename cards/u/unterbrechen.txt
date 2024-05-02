@@ -1,0 +1,14 @@
+Word::: unterbrechen
+WordTranslation::: <ul>
+<li>перебивать</li>
+<li>прерывать</li>
+</ul>
+DrittenPerson::: unterbricht
+Perfekt::: haben unterbrochen
+Präteritum::: unterbrach
+FrontExample::: Ich möchte dich nicht unterbrechen, aber ich habe eine wichtige Nachricht.
+BackExample::: Я не хочу тебя перебивать, но у меня есть важное сообщение.
+FrontExample2::: Die Produktion musste aufgrund von technischen Problemen unterbrochen werden.
+BackExample2::: Производство пришлось приостановить из-за технических проблем.
+Tags:::  chatgpt 
+guid::: m:SyONu|N/

@@ -1,0 +1,13 @@
+Word::: spüren
+WordTranslation::: чувствовать, ощущать
+DrittenPerson::: spürt
+Perfekt::: haben gespürt
+Präteritum::: spürte
+FrontExample::: Ich spüre eine starke Müdigkeit nach der langen Wanderung.
+BackExample::: Я чувствую сильную усталость после долгой прогулки.
+FrontExample2::: Hast du das Erdbeben gespürt?
+BackExample2::: Ты ощущал землетрясение?
+FrontExample3::: Sie spürte sofort, dass etwas nicht stimmte.
+BackExample3::: Она сразу почувствовала, что что-то не так.
+Tags:::  chatgpt 
+guid::: z-G_mxfw%`

@@ -1,0 +1,13 @@
+Word::: verleihen
+WordTranslation::: <ul><li>одолжить, давать напрокат</li><li>придавать (вид)</li><li>награждать</li></ul>
+DrittenPerson::: verleiht
+Perfekt::: haben verliehen
+Präteritum::: verlieh
+FrontExample::: Er hat mir sein Fahrrad für das Wochenende verliehen.
+BackExample::: Он одолжил мне свой велосипед на выходные.
+FrontExample2::: Der Schauspieler wurde für seine Rolle mit einem Oscar ausgezeichnet.
+BackExample2::: Актер был награжден Оскаром за свою роль.
+FrontExample3::: Dieses Kleid verleiht ihr ein besonders elegantes Aussehen.
+BackExample3::: Это платье придает ей особенно элегантный вид.
+Tags:::  chatgpt 
+guid::: pQ/wF?S->4

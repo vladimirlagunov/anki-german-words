@@ -1,4 +1,4 @@
-Word::: sich unterhalten
+Word::: unterhalten
 WordTranslation::: поговорить, поболтать, общаться, развлекаться
 DrittenPerson::: unterhält sich
 Perfekt::: hat sich unterhalten

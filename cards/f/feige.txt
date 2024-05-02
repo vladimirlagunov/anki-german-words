@@ -1,0 +1,8 @@
+Word::: feige
+WordTranslation::: трусливый
+FrontExample::: Er ist zu feige, um die Wahrheit zu sagen.
+BackExample::: Он слишком труслив, чтобы сказать правду.
+FrontExample2::: Sie nannte ihn einen feigen Verräter.
+BackExample2::: Она назвала его трусливым предателем.
+Tags:::  chatgpt 
+guid::: e1f,.3j{~Y

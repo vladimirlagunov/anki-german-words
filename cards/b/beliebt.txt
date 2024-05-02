@@ -1,0 +1,11 @@
+Word::: beliebt
+WordTranslation::: <ul><li>любимый, популярный</li><li>востребованный</li></ul>
+Explanation::: <ul><li><div><strong>bei</strong> (D): означает "при", "у", "в", используется для обозначения причастности или местоположения. Пример: "Sie ist besonders bei Jugendlichen beliebt." - "Она особенно популярна среди молодежи."</div></li></ul>
+FrontExample::: Dieses Buch ist bei Kindern sehr beliebt.
+BackExample::: Эта книга очень популярна среди детей.
+FrontExample2::: Sie ist eine beliebte Lehrerin in unserer Schule.
+BackExample2::: Она популярный учитель в нашей школе.
+FrontExample3::: Das Restaurant ist wegen seines guten Essens beliebt.
+BackExample3::: Ресторан популярен благодаря своей вкусной еде.
+Tags:::  chatgpt 
+guid::: CFuQUbh%k7

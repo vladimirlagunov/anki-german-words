@@ -1,0 +1,13 @@
+Word::: überfluten
+WordTranslation::: <ul><li>затопить, наводнить</li><li>переполнить</li></ul>
+DrittenPerson::: überflutet
+Perfekt::: haben überflutet
+Präteritum::: überflutete
+FrontExample::: Das Gebiet wurde nach dem Sturm überflutet.
+BackExample::: Территория была затоплена после шторма.
+FrontExample2::: Nachrichten über den Skandal haben die Medien überflutet.
+BackExample2::: Новости о скандале переполнили средства массовой информации.
+FrontExample3::: Die Fans überfluteten das Stadion, um ihre Mannschaft zu unterstützen.
+BackExample3::: Фанаты заполонили стадион, чтобы поддержать свою команду.
+Tags:::  chatgpt 
+guid::: if$yIu:m|.

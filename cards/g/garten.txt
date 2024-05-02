@@ -1,0 +1,12 @@
+Word::: Garten
+WordTranslation::: сад, огород
+DerDieDas::: der
+Plural::: Gärten
+FrontExample::: Wir haben leider keinen Garten.
+BackExample::: К сожалению, у нас нет сада.
+FrontExample2::: Ich pflanze Blumen in meinem Garten.
+BackExample2::: Я сажаю цветы в моем саду.
+FrontExample3::: Im Garten steht ein alter Baum.
+BackExample3::: В саду стоит старое дерево.
+Tags:::  A1 chatgpt 
+guid::: C?}9v6ZFE~

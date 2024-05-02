@@ -1,0 +1,6 @@
+Word::: Gaststätte
+WordTranslation::: бистро, кафе, заведение общественного питания (проще чем ресторан)
+DerDieDas::: die
+Plural::: Gaststätten
+Tags:::  chatgpt 
+guid::: QBk<1.~3|6

@@ -1,0 +1,8 @@
+Word::: knackig
+WordTranslation::: <ul><li>хрустящий, свежий</li><li>привлекательный (о человеке)</li></ul>
+FrontExample::: Der Apfel ist schön knackig.
+BackExample::: Яблоко очень сочное.
+FrontExample2::: Sie hat eine knackige Figur.
+BackExample2::: У неё стройная фигура.
+Tags:::  chatgpt 
+guid::: PtfI:[mA9O

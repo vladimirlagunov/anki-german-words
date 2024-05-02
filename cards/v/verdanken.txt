@@ -1,0 +1,11 @@
+Word::: verdanken
+WordTranslation::: быть обязанным, быть благодарным
+DrittenPerson::: verdankt
+Perfekt::: haben verdankt
+Präteritum::: verdankte
+FrontExample::: Ich verdanke ihm mein Leben
+BackExample::: Я обязан ему своей жизнью
+FrontExample2::: Wir verdanken unseren Wohlstand harter Arbeit
+BackExample2::: Мы обязаны нашим благосостоянием упорной работой
+Tags:::  chatgpt 
+guid::: wQ&!&sg~r!

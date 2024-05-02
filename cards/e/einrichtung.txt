@@ -1,0 +1,8 @@
+Word::: Einrichtung
+WordTranslation::: <ul><li>обстановка, оборудование, меблировка</li><li>создание, открытие (учреждения)</li></ul>
+FrontExample::: Die Einrichtung des Büros dauerte mehrere Wochen.
+BackExample::: Обустройство офиса заняло несколько недель.
+FrontExample2::: Sie haben eine neue Einrichtung für die Werkstatt gekauft.
+BackExample2::: Они купили новое оборудование для мастерской.
+Tags:::  chatgpt 
+guid::: D4/6w0wT[f

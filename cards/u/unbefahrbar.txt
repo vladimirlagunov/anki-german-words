@@ -1,0 +1,6 @@
+Word::: unbefahrbar
+WordTranslation::: непроходимый
+FrontExample::: Nach dem heftigen Schneesturm ist die Straße komplett unbefahrbar.
+BackExample::: После сильного снегопада дорога полностью стала непроездной.
+Tags:::  chatgpt 
+guid::: A&Ef@!UvIu

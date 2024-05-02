@@ -1,0 +1,9 @@
+Word::: zugunsten
+WordTranslation::: в пользу, в интересах
+Explanation::: zugunsten + G
+FrontExample::: Sie verzichtet zugunsten ihres Bruders auf das Erbe.
+BackExample::: Она отказывается от наследства в пользу своего брата.
+FrontExample2::: Das Konzert findet zugunsten der Opfer der Naturkatastrophe statt.
+BackExample2::: Концерт пройдет в пользу жертв стихийного бедствия.
+Tags:::  chatgpt 
+guid::: y{at<GIt*/

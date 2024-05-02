@@ -1,0 +1,8 @@
+Word::: ausdauernd
+WordTranslation::: выносливый, стойкий, упорный
+FrontExample::: Er ist ein ausdauernder Läufer.
+BackExample::: Он выносливый бегун.
+FrontExample2::: Sie arbeitete ausdauernd an ihrem Projekt.
+BackExample2::: Она упорно работала над своим проектом.
+Tags:::  chatgpt 
+guid::: zppR(|>CPe

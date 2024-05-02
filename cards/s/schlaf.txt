@@ -1,0 +1,10 @@
+Word::: Schlaf
+WordTranslation::: сон
+DerDieDas::: der
+Plural::: —
+FrontExample::: Ich brauche mehr Schlaf, um mich besser zu fühlen.
+BackExample::: Мне нужно больше сна, чтобы чувствовать себя лучше.
+FrontExample2::: Ich muss früher aufstehen, aber ich kann einfach keinen Schlaf halten.
+BackExample2::: Мне нужно вставать раньше, но я просто не могу уснуть.
+Tags:::  chatgpt 
+guid::: OYLv%62ZKK

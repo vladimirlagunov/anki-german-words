@@ -1,0 +1,14 @@
+Word::: verursachen
+WordTranslation::: причинять, вызывать, провоцировать
+Explanation::: <ul><li><div><strong>Verursachen</strong>&nbsp;означает "причинять" или "вызывать" в самом общем смысле. Это слово используется для указания на причинно-следственную связь между действиями или событиями и их последствиями, часто без указания на механизм или намерение.</div><ul><li>Пример: "Rauchen verursacht Lungenkrebs." (Курение вызывает рак легких.)</li></ul></li><li><div><strong>Hervorrufen</strong>&nbsp;переводится как "вызывать", "пробуждать" и часто используется для обозначения реакций, чувств, или ответных действий, которые были спровоцированы каким-либо событием, действием или заявлением. Это слово подчеркивает результат действия, при этом акцентируется внимание на внутренней реакции или изменениях.</div><ul><li>Пример: "Seine Worte riefen große Begeisterung hervor." (<span style="color: rgb(13, 13, 13); background-color: rgb(255, 255, 255);">Его слова вызвали большой восторг.</span>)</li></ul></li><li><div><strong>Auslösen</strong>&nbsp;означает "вызывать", но с акцентом на запуск процесса или реакции, часто используется в контекстах, где речь идет о триггере или катализаторе событий. Это слово подходит для описания начала цепной реакции или активации какого-либо процесса, когда одно действие приводит к последовательности других действий или изменений.</div><ul><li>Пример: "Ein Funke kann eine Explosion auslösen." (Искра может вызвать взрыв.)</li></ul></li></ul>
+DrittenPerson::: verursacht
+Perfekt::: haben verursacht
+Präteritum::: verursachte
+FrontExample::: Falsche Ernährung kann Gesundheitsprobleme verursachen.
+BackExample::: Неправильное питание может вызвать проблемы со здоровьем.
+FrontExample2::: Übermäßige Geschwindigkeit kann Unfälle verursachen.
+BackExample2::: Чрезмерная скорость может привести к авариям.
+FrontExample3::: Medikamente können Nebenwirkungen verursachen.
+BackExample3::: Медикаменты могут вызывать побочные эффекты.
+Tags:::  chatgpt 
+guid::: E1O6sW=9-)

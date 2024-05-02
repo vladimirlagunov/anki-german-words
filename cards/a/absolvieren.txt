@@ -1,0 +1,13 @@
+Word::: absolvieren
+WordTranslation::: пройти (обучение), окончить, выполнить
+DrittenPerson::: absolviert
+Perfekt::: haben absolviert
+Präteritum::: absolvierte
+FrontExample::: Er hat erfolgreich sein Studium absolviert.
+BackExample::: Он успешно закончил своё обучение.
+FrontExample2::: Sie absolviert gerade ein Praktikum bei einer renommierten Firma.
+BackExample2::: Она сейчас проходит стажировку в престижной компании.
+FrontExample3::: Nachdem er den Kurs absolviert hatte, erhielt er das Zertifikat.
+BackExample3::: После того как он закончил курс, он получил сертификат.
+Tags:::  chatgpt 
+guid::: Q2Ho>m2;Po

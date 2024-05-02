@@ -1,0 +1,8 @@
+Word::: großzügig
+WordTranslation::: щедрый, великодушный, просторный
+FrontExample::: Er hat großzügig angeboten, die Kosten für die Hochzeit zu übernehmen.
+BackExample::: Он щедро предложил покрыть расходы на свадьбу.
+FrontExample2::: Unser Gastgeber war sehr großzügig und hat für alles bezahlt.
+BackExample2::: Наш хозяин был очень щедрым и оплатил все расходы.
+Tags:::  chatgpt 
+guid::: fZpxg?_I!m

@@ -1,0 +1,7 @@
+Word::: Möhre
+WordTranslation::: морковь
+Explanation::: <ul><li>"Möhre" чаще используется в северных и западных регионах Германии, а также в некоторых частях Швейцарии.</li><li>"Karotte" предпочитают в южных регионах Германии, Австрии и других частях Швейцарии.</li></ul>
+DerDieDas::: die
+Plural::: Möhren
+Tags:::  chatgpt 
+guid::: w4Wo}ae`.#

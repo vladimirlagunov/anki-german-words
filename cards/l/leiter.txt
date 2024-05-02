@@ -1,0 +1,20 @@
+Word::: Leiter
+WordTranslation::: <ul>
+<li>проводник</li><li>лестница-стремянка</li>
+</ul>
+DerDieDas::: <ul>
+<li>der – проводник</li>
+<li>die – лестница-стремянка</li>
+</ul>
+Plural::: <ul>
+<li>Leiter – проводники</li>
+<li>Leitern – лестницы-стремянки</li>
+</ul>
+FrontExample::: Er kletterte die Leiter nach oben um das Dach zu reparieren.
+BackExample::: Он забрался по стремянке наверх, чтобы починить крышу.
+FrontExample2::: Der Leiter der Abteilung wird heute eine Besprechung durchführen.
+BackExample2::: Руководитель отдела сегодня проведет совещание.
+FrontExample3::: Ich brauche eine Leiter, um die Glühbirne auszutauschen.
+BackExample3::: Мне нужна стремянка, чтобы поменять лампочку.
+Tags:::  chatgpt 
+guid::: Hd:]6g//Ra

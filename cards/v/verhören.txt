@@ -1,0 +1,9 @@
+Word::: verhören
+WordTranslation::: допросить, расспросить
+DrittenPerson::: verhört
+Perfekt::: haben verhört
+Präteritum::: verhörte
+FrontExample::: Er wurde stundenlang von der Polizei verhört.
+BackExample::: Он был допрошен полицией в течение многих часов.
+Tags:::  chatgpt 
+guid::: ljD(*ijr?|

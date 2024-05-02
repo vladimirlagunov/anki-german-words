@@ -1,0 +1,14 @@
+Word::: bescheiden (Verb)
+WordTranslation::: <ul><li>скромничать
+</li><li>занижать, ограничиваться</li></ul>
+DrittenPerson::: bescheidet
+Perfekt::: haben beschieden
+Präteritum::: beschied
+FrontExample::: Sie hat ihre Ansprüche bescheiden.
+BackExample::: Она сократила свои требования.
+FrontExample2::: Er bescheidet sich mit wenigem.
+BackExample2::: Он удовлетворяется малым.
+FrontExample3::: Sie müssen sich in Ihrer Kritik etwas mehr bescheiden.
+BackExample3::: Вам следует быть более сдержанными в вашей критике.
+Tags:::  chatgpt 
+guid::: xmG4GPZQRU

@@ -1,0 +1,11 @@
+Word::: schädlich
+WordTranslation::: вредный, пагубный, вредоносный
+Explanation::: <div><div><div><div><div><ul><li><strong>für</strong> (A) - означает "для", указывает на то, что является вредным для кого-то или чего-то. Пример: Rauchen ist schädlich für die Gesundheit. - Курение вредно для здоровья.</li></ul></div></div></div></div></div>
+FrontExample::: Rauchen ist schädlich für Ihre Gesundheit.
+BackExample::: Курение вредно для вашего здоровья.
+FrontExample2::: Diese Chemikalien sind schädlich für die Umwelt.
+BackExample2::: Эти химические вещества вредны для окружающей среды.
+FrontExample3::: Zu viel Zucker kann schädlich für die Zähne sein.
+BackExample3::: Слишком много сахара может быть вредно для зубов.
+Tags:::  chatgpt 
+guid::: f>aSd0E>ma

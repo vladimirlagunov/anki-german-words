@@ -1,0 +1,14 @@
+Word::: überwinden
+WordTranslation::: преодолеть, побороть
+Explanation::: <ul><li><div><strong>Überwinden</strong>&nbsp;подразумевает преодоление препятствия или барьера, часто с упором на преодоление чего-то, что физически или ментально блокирует прогресс. Это слово может использоваться для обозначения преодоления физических препятствий, таких как гора или река, а также более абстрактных препятствий, таких как страх или внутренние сопротивления. Например, преодолеть страх (eine Angst überwinden) или преодолеть сопротивление (Widerstand überwinden).</div></li><li><div><strong>Bewältigen</strong>&nbsp;обычно используется в контексте успешного справления с задачей, проблемой или трудной ситуацией. Это может означать нахождение решения или способа справиться с чем-то, требующим усилий или работы. "Bewältigen" часто используется, когда речь идет о психологических, эмоциональных проблемах или сложных задачах. Например, справиться с потерей (einen Verlust bewältigen) или справиться с большим объемом работы (eine große Arbeitsmenge bewältigen).</div></li></ul>
+DrittenPerson::: überwindet
+Perfekt::: haben überwunden
+Präteritum::: überwand
+FrontExample::: Sie musste ihre Angst überwinden, um die Rede zu halten.
+BackExample::: Она должна была преодолеть свой страх, чтобы выступить с речью.
+FrontExample2::: Er hat die Schwierigkeiten erfolgreich überwunden.
+BackExample2::: Он успешно преодолел трудности.
+FrontExample3::: Wir müssen viele Hindernisse überwinden, um unsere Ziele zu erreichen.
+BackExample3::: Нам нужно преодолеть множество препятствий, чтобы достичь наших целей.
+Tags:::  chatgpt 
+guid::: v64ahrH@G|

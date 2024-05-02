@@ -1,0 +1,10 @@
+Word::: Zwilling
+WordTranslation::: близнец
+DerDieDas::: der
+Plural::: Zwillinge
+FrontExample::: Sie hat Zwillinge bekommen und ist jetzt sehr beschäftigt.
+BackExample::: Она родила близнецов и теперь очень занята.
+FrontExample2::: Der Sternbild des Zwillings ist im Mai gut sichtbar.
+BackExample2::: Созвездие Близнецов хорошо видно в мае.
+Tags:::  chatgpt 
+guid::: k2l8yIW,Qe

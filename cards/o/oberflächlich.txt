@@ -1,0 +1,6 @@
+Word::: oberflächlich
+WordTranslation::: поверхностный, неглубокий
+FrontExample::: Sie hat nur ein oberflächliches Verständnis von Physik.
+BackExample::: Она имеет лишь поверхностное понимание физики.
+Tags:::  chatgpt 
+guid::: Ch@/.IF~vY

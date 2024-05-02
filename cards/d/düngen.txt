@@ -1,0 +1,11 @@
+Word::: düngen
+WordTranslation::: удобрять
+DrittenPerson::: düngt
+Perfekt::: haben gedüngt
+Präteritum::: düngte
+FrontExample::: Im Frühling sollte man den Garten düngen.
+BackExample::: Весной следует удобрять сад.
+FrontExample2::: Der Bauer hat das Feld mit Kompost gedüngt.
+BackExample2::: Фермер удобрил поле компостом.
+Tags:::  chatgpt 
+guid::: zR{bl(+(e<

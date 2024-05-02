@@ -1,0 +1,10 @@
+Word::: Volk
+WordTranslation::: народ
+DerDieDas::: das
+Plural::: Völker
+FrontExample::: Einheit des Volkes
+BackExample::: Единство народа
+FrontExample2::: Das Wohl des Volkes steht an erster Stelle.
+BackExample2::: Благо народа стоит на первом месте.
+Tags:::  chatgpt 
+guid::: e&WBS6}D8}

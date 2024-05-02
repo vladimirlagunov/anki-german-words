@@ -1,0 +1,11 @@
+Word::: erstaunt
+WordTranslation::: удивлённый, изумлённый
+Explanation::: <ul><li><div><strong>über</strong> (A) - означает "о", "над", используется для выражения удивления по поводу чего-либо. Требует аккузатив.</div><ul><li>Пример: Er ist erstaunt über die Nachricht. (Он удивлён новостью.)</li></ul></li><li><div><strong>von</strong> (D) - означает "от", используется для указания на источник удивления или информации.</div><ul><li>Пример: Sie ist erstaunt von seiner Reaktion. (Она удивлена его реакцией.)</li></ul></li><li><div><strong>durch</strong> (A) - переводится как "через", "по", может использоваться для выражения причины удивления, вызванного каким-либо событием или действием. Требует аккузатив.</div><ul><li>Пример: Wir sind erstaunt durch seine schnelle Genesung. (Мы удивлены его быстрым выздоровлением.)</li></ul></li></ul>
+FrontExample::: Er war erstaunt über die Schnelligkeit der Entscheidung.
+BackExample::: Он был удивлён скоростью принятия решения.
+FrontExample2::: Sie blickte erstaunt auf die vielen Geschenke.
+BackExample2::: Она с удивлением смотрела на множество подарков.
+FrontExample3::: Die Kinder waren erstaunt über das Feuerwerk am Himmel.
+BackExample3::: Дети были удивлены фейерверком на небе.
+Tags:::  chatgpt 
+guid::: Q*!D_/E;=u

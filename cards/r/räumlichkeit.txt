@@ -1,0 +1,6 @@
+Word::: Räumlichkeit
+WordTranslation::: помещение, пространство
+FrontExample::: Bitte sorgen Sie für eine gute Belüftung der Räumlichkeit.
+BackExample::: Пожалуйста, обеспечьте хорошую вентиляцию помещения.
+Tags:::  chatgpt 
+guid::: btilv3,rDS

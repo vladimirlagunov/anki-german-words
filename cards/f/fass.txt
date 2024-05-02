@@ -1,0 +1,8 @@
+Word::: Fass
+WordTranslation::: бочка
+DerDieDas::: das
+Plural::: Fässer
+FrontExample::: Das Fass Wein ist fast leer.
+BackExample::: Бочка вина почти пуста.
+Tags:::  chatgpt 
+guid::: C]G?z)r9/s

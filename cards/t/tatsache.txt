@@ -1,0 +1,10 @@
+Word::: Tatsache
+WordTranslation::: факт
+DerDieDas::: die
+Plural::: Tatsachen
+FrontExample::: Es ist eine Tatsache, dass die Erde um die Sonne kreist.
+BackExample::: Это факт, что Земля вращается вокруг Солнца.
+FrontExample2::: Die Tatsache, dass du spät bist, macht alles komplizierter.
+BackExample2::: Тот факт, что ты опоздал, всё усложняет.
+Tags:::  chatgpt 
+guid::: N_3},(I)(A

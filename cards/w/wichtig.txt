@@ -1,10 +1,11 @@
 Word::: wichtig
 WordTranslation::: важный
+Explanation::: <ul><li><strong>für</strong> (A) - означает "для", указывает на то, что является важным для кого-то или чего-то. Пример: Diese Informationen sind wichtig für die Entscheidung. - Эта информация важна для принятия решения.</li><li><strong>bei</strong> (D) - означает "при", указывает на обстоятельства, в которых что-то или кто-то является важным. Пример: Teamwork ist wichtig bei der Zusammenarbeit. - Командная работа важна при сотрудничестве.</li></ul>
 FrontExample::: Dieses Formular ist sehr wichtig.
 BackExample::: Эта форма очень важна.
 FrontExample2::: Es ist wichtig, pünktlich zu sein.
 BackExample2::: Это важно быть пунктуальным.
-FrontExample3::: Trinken ist wichtig für die Gesundheit.
-BackExample3::: Питье важно для здоровья.
+FrontExample3::: Wichtig bei dem Rezept ist, dass du genau die Mengen benutzt.
+BackExample3::: Важно в этом рецепте использовать точно указанные количества ингредиентов.
 Tags:::  A1 chatgpt 
 guid::: l@97>(=I>O

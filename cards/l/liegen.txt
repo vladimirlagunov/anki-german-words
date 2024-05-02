@@ -4,7 +4,7 @@ DrittenPerson::: liegt
 Perfekt::: haben gelegen
 Präteritum::: lag
 FrontExample::: Um neun Uhr liegt Judith noch im Bett.
-BackExample::: В девять часов Джудит все еще в постели. 
+BackExample::: В девять часов Джудит все ещё лежит в постели. 
 FrontExample2::: Frankfurt liegt am Main.
 BackExample2::: Франкфурт расположен на реке Майн.
 Tags:::  A1 

@@ -1,0 +1,8 @@
+Word::: Adlige
+WordTranslation::: дворянин, аристократ
+DerDieDas::: der/die
+Plural::: Adlige, Adligen
+FrontExample::: Im Mittelalter hatte der Adlige viele Privilegien.
+BackExample::: В средневековье аристократ обладал множеством привилегий.
+Tags:::  chatgpt 
+guid::: O5Te5$lcrl

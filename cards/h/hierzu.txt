@@ -1,0 +1,8 @@
+Word::: hierzu
+WordTranslation::: для этого, по этому поводу,&nbsp;
+FrontExample::: Hierzu müssen wir zunächst alle Fakten sammeln.
+BackExample::: Для этого сначала нам необходимо собрать все факты.
+FrontExample2::: Ich habe ein Dokument vorbereitet, hierzu findet ihr alle notwendigen Daten.
+BackExample2::: Я подготовил документ, для этого у вас есть все необходимые данные.
+Tags:::  chatgpt 
+guid::: fY1t+x;O-:

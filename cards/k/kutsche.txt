@@ -1,0 +1,8 @@
+Word::: Kutsche
+WordTranslation::: карета, экипаж
+DerDieDas::: die
+Plural::: Kutschen
+FrontExample::: Der König fuhr in einer goldenen Kutsche zur Zeremonie.
+BackExample::: Король прибыл на церемонию в золотой карете.
+Tags:::  chatgpt 
+guid::: l;oRV1(nGK

@@ -1,0 +1,10 @@
+Word::: vernünftig
+WordTranslation::: благоразумный, рассудительный, здравомыслящий
+FrontExample::: Du solltest eine vernünftige Entscheidung treffen.
+BackExample::: Тебе следует принять разумное решение.
+FrontExample2::: Es wäre vernünftig, einen Regenschirm mitzunehmen, da es regnen könnte.
+BackExample2::: Было бы разумно взять зонт, потому что может пойти дождь.
+FrontExample3::: Er ernährt sich nicht vernünftig; fast food ist keine gute Wahl.
+BackExample3::: Он питается неразумно; фаст-фуд – не лучший выбор.
+Tags:::  chatgpt 
+guid::: hbDYt0!Y/a

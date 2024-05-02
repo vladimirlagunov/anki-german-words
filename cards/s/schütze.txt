@@ -1,0 +1,11 @@
+Word::: Schütze
+WordTranslation::: <ul>
+<li>Стрелец (созвездие)</li>
+<li>стрелок</li>
+</ul>
+DerDieDas::: der
+Plural::: Schützen
+FrontExample::: Er ist ein guter Schütze.
+BackExample::: Он хороший стрелок.
+Tags:::  chatgpt 
+guid::: i~I1_Rl=]w

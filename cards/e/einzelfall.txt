@@ -1,0 +1,8 @@
+Word::: Einzelfall
+WordTranslation::: единичный случай
+DerDieDas::: der
+Plural::: Einzelfälle
+FrontExample::: Dieser Unfall war ein Einzelfall und keineswegs ein Hinweis auf ein generelles Problem.
+BackExample::: Эта авария была единичным случаем и отнюдь не указывала на общую проблему.
+Tags:::  chatgpt 
+guid::: qq7p+v4mF#

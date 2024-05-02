@@ -1,0 +1,11 @@
+Word::: freinehmen
+WordTranslation::: взять выходной, уйти с работы
+DrittenPerson::: nimmt frei
+Perfekt::: haben freigenommen
+Präteritum::: nahm frei
+FrontExample::: Ich möchte mir nächsten Freitag freinehmen, um zu meinem Arzttermin zu gehen.
+BackExample::: Я хочу взять выходной в следующую пятницу, чтобы пойти на прием к врачу.
+FrontExample2::: Kannst du dir für unser Treffen einen Tag freinehmen?
+BackExample2::: Ты можешь взять день отгула для нашей встречи?
+Tags:::  chatgpt 
+guid::: rtp:e#L%SP

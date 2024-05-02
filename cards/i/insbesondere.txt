@@ -1,0 +1,6 @@
+Word::: insbesondere
+WordTranslation::: особенно, в частности
+FrontExample::: Sie interessiert sich insbesondere für moderne Kunst.
+BackExample::: Она интересуется, в особенности, современным искусством.
+Tags:::  chatgpt 
+guid::: l?lO)YKDEf

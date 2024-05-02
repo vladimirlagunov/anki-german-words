@@ -1,0 +1,9 @@
+Word::: zulasten
+WordTranslation::: за счет, в ущерб
+Explanation::: zulasten + G
+FrontExample::: Die Kosten gehen zulasten des Mieters.
+BackExample::: Расходы ложатся на плечи арендатора.
+FrontExample2::: Diese Entscheidung ist zulasten der Umwelt.
+BackExample2::: Это решение ведет к ущербу для окружающей среды.
+Tags:::  chatgpt 
+guid::: Bi`DQc@Hc;

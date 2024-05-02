@@ -1,0 +1,10 @@
+Word::: weder ... noch ...
+WordTranslation::: ни ..., ни ...
+FrontExample::: Er mag weder Kaffee noch Tee.
+BackExample::: Он не любит ни кофе, ни чай.
+FrontExample2::: Ich habe weder das Buch gelesen noch den Film gesehen.
+BackExample2::: Я не читал книгу и не видел фильма.
+FrontExample3::: Sie spricht weder Deutsch noch Englisch.
+BackExample3::: Она не говорит ни по-немецки, ни по-английски.
+Tags:::  chatgpt 
+guid::: t>hB2,||Nl

@@ -1,0 +1,8 @@
+Word::: gerecht
+WordTranslation::: <ul><li>справедливый, честный, правильный</li><li>соразмерный, подходящий</li></ul>
+FrontExample::: Das Urteil ist nicht gerecht.
+BackExample::: Приговор несправедлив.
+FrontExample2::: Er kämpft für eine gerechte Welt.
+BackExample2::: Он борется за справедливый мир.
+Tags:::  chatgpt 
+guid::: jK18vk/@F5

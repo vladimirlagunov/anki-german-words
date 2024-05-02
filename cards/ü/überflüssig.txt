@@ -1,0 +1,8 @@
+Word::: überflüssig
+WordTranslation::: лишний, избыточный, ненужный
+FrontExample::: Diese Information ist völlig überflüssig.
+BackExample::: Эта информация полностью лишняя.
+FrontExample2::: Für das einfache Rezept sind viele Gewürze einfach überflüssig.
+BackExample2::: Для простого рецепта множество специй просто излишне.
+Tags:::  chatgpt 
+guid::: cyXekL50O:

@@ -1,0 +1,8 @@
+Word::: geizig
+WordTranslation::: скупой, жадный
+FrontExample::: Er wird nicht viel spenden, er ist ziemlich geizig.
+BackExample::: Он не будет много жертвовать, он довольно скупой.
+FrontExample2::: Ihre geizige Art hat dazu geführt, dass sie kaum Freunde hat.
+BackExample2::: Ее скупость привела к тому, что у нее почти нет друзей.
+Tags:::  chatgpt 
+guid::: HfqRQkV,Hl

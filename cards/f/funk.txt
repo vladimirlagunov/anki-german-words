@@ -1,0 +1,10 @@
+Word::: Funk
+WordTranslation::: радио
+DerDieDas::: der
+Plural::: wird nur im Singular verwendet
+FrontExample::: Der Radiosender hat die ganze Nacht Funk-Pause.
+BackExample::: Радиостанция всю ночь не вела радиовещание.
+FrontExample2::: Die Polizei hat per Funk um Verstärkung gebeten.
+BackExample2::: Полиция запросила подкрепление через радиосвязь.
+Tags:::  chatgpt 
+guid::: KXiAwqr]}z

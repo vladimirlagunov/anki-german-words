@@ -1,0 +1,10 @@
+Word::: Reichtum
+WordTranslation::: богатство
+DerDieDas::: der
+Plural::: Reichtümer
+FrontExample::: Viele Menschen träumen von Reichtum und Erfolg.
+BackExample::: Многие люди мечтают о богатстве и успехе.
+FrontExample2::: Reichtum ist nicht nur in Geld zu messen.
+BackExample2::: Богатство не измеряется только деньгами.
+Tags:::  chatgpt 
+guid::: ipZ>g@9$i?

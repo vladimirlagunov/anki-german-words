@@ -1,0 +1,6 @@
+Word::: zeitlich
+WordTranslation::: временной, по времени
+FrontExample::: Die Veranstaltung ist zeitlich begrenzt und endet um 22 Uhr.
+BackExample::: Мероприятие ограничено по времени и заканчивается в 22 часа.
+Tags:::  chatgpt 
+guid::: zL6hPA3h]I

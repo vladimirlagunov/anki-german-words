@@ -1,0 +1,8 @@
+Word::: reichhaltig
+WordTranslation::: обильный, богатый, питательный
+FrontExample::: Das Frühstücksbuffet im Hotel war sehr reichhaltig.
+BackExample::: Шведский стол на завтрак в отеле был очень разнообразным.
+FrontExample2::: Diese Creme hat eine reichhaltige Textur und nährt die Haut tief.
+BackExample2::: Этот крем имеет плотную текстуру и глубоко питает кожу.
+Tags:::  chatgpt 
+guid::: p}}x:uNRkp

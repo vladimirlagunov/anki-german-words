@@ -1,0 +1,8 @@
+Word::: Gefrierfach
+WordTranslation::: морозильная камера
+DerDieDas::: das
+Plural::: Gefrierfächer
+FrontExample::: Kannst du das Eis bitte ins Gefrierfach legen?
+BackExample::: Можешь положить мороженое, пожалуйста, в морозильную камеру?
+Tags:::  chatgpt 
+guid::: FX|X6tL/{4

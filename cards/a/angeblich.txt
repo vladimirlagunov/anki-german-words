@@ -1,0 +1,10 @@
+Word::: angeblich
+WordTranslation::: якобы, предполагаемый, мнимый
+FrontExample::: Er hat angeblich das Geld nicht erhalten.
+BackExample::: Он якобы не получил деньги.
+FrontExample2::: Sie ist angeblich krank und kann deshalb nicht zur Arbeit kommen.
+BackExample2::: Она якобы болеет и поэтому не может прийти на работу.
+FrontExample3::: Das angeblich echte Gemälde stellte sich als Fälschung heraus.
+BackExample3::: Якобы подлинная картина оказалась подделкой.
+Tags:::  chatgpt 
+guid::: EMe8*]1Q$#

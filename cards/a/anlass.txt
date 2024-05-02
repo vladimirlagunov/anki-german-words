@@ -1,0 +1,12 @@
+Word::: Anlass
+WordTranslation::: повод, мотив
+DerDieDas::: der
+Plural::: Anlässe
+FrontExample::: Es gibt keinen Anlass zur Beunruhigung.
+BackExample::: Нет повода для беспокойства.
+FrontExample2::: Zu diesem besonderen Anlass trug sie ihr schönstes Kleid.
+BackExample2::: По этому особому случаю она надела свое самое красивое платье.
+FrontExample3::: Der Anlass für die Versammlung war die Wahl des neuen Vorstands.
+BackExample3::: Поводом для собрания послужил выбор нового председателя.
+Tags:::  chatgpt 
+guid::: nLBY?*HQEc

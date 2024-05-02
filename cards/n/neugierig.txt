@@ -1,0 +1,11 @@
+Word::: neugierig
+WordTranslation::: любопытный, пытливый
+Explanation::: <ul><li><strong>auf (A)</strong> - выражает интерес к чему-либо или желание узнать что-то, используется с аккузативом. Пример: "Sie ist neugierig auf die neuen Filme." (Она любопытна к новым фильмам).</li></ul>
+FrontExample::: Er ist sehr neugierig auf das neue Buch seines Lieblingsautors.
+BackExample::: Он очень любопытен по поводу новой книги его любимого автора.
+FrontExample2::: Die neugierige Katze schlich sich in den leeren Karton.
+BackExample2::: Любопытная кошка забралась в пустую коробку.
+FrontExample3::: Kleine Kinder sind oft sehr neugierig und stellen viele Fragen.
+BackExample3::: Маленькие дети часто очень любопытны и задают много вопросов.
+Tags:::  chatgpt 
+guid::: hx7w1X+ncU

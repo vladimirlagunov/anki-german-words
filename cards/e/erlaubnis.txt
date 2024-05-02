@@ -1,0 +1,8 @@
+Word::: Erlaubnis
+WordTranslation::: разрешение, дозволение
+DerDieDas::: die
+Plural::: Erlaubnisse
+FrontExample::: Hast du die Erlaubnis, hier zu parken?
+BackExample::: У тебя есть разрешение парковаться здесь?
+Tags:::  chatgpt 
+guid::: L9Bsn>.:b<

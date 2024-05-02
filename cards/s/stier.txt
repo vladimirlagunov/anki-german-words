@@ -1,0 +1,8 @@
+Word::: Stier
+WordTranslation::: <ul><li>бык</li><li>телец</li></ul>
+DerDieDas::: der
+Plural::: Stiere
+FrontExample::: Der Stier in der Arena sah sehr aggressiv aus.
+BackExample::: Бык на арене выглядел очень агрессивно.
+Tags:::  chatgpt 
+guid::: ILu^@3E#bu

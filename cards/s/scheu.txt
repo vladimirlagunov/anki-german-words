@@ -1,0 +1,8 @@
+Word::: scheu
+WordTranslation::: застенчивый, робкий, скромный
+FrontExample::: Er hat eine scheue Art, die manchmal missverstanden wird.
+BackExample::: У него застенчивый нрав, который иногда неправильно понимают.
+FrontExample2::: Sei nicht so scheu und sprich mit ihr!
+BackExample2::: Не будь таким стеснительным и поговори с ней!
+Tags:::  chatgpt 
+guid::: x50JCk|MDW

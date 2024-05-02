@@ -1,0 +1,12 @@
+Word::: Katze
+WordTranslation::: кошка
+DerDieDas::: die
+Plural::: Katzen
+FrontExample::: Meine Katze schläft auf dem Sofa.
+BackExample::: Моя кошка спит на диване.
+FrontExample2::: Hast du die schwarze Katze gesehen?
+BackExample2::: Ты видел черную кошку?
+FrontExample3::: Die Katze jagt die Maus im Garten.
+BackExample3::: Кошка охотится на мышь в саду.
+Tags:::  chatgpt 
+guid::: OC-Obab<J:

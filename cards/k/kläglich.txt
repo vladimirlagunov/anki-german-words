@@ -1,0 +1,8 @@
+Word::: kläglich
+WordTranslation::: жалкий, несчастный, плачевный, убогий
+FrontExample::: Sein Versuch, den Marathon zu laufen, endete kläglich.
+BackExample::: Его попытка пробежать марафон закончилась плачевно.
+FrontExample2::: Das Team verlor kläglich mit einem Ergebnis von 0:5.
+BackExample2::: Команда проиграла унизительно со счетом 0:5.
+Tags:::  chatgpt 
+guid::: tVkPoP7SX_

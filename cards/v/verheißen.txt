@@ -1,0 +1,13 @@
+Word::: verheißen
+WordTranslation::: предвещать
+DrittenPerson::: verheißt
+Perfekt::: haben verheißen
+Präteritum::: verhieß
+FrontExample::: Die alten Legenden verheißen große Reichtümer.
+BackExample::: Старые легенды обещают великие богатства.
+FrontExample2::: Dieser Blick verheißt nichts Gutes.
+BackExample2::: Этот взгляд не сулит ничего хорошего.
+FrontExample3::: Das kommende Zeitalter verheißt bedeutende technologische Fortschritte.
+BackExample3::: Приближающаяся эпоха обещает значительные технологические прорывы.
+Tags:::  chatgpt 
+guid::: A^H}3o4wc2

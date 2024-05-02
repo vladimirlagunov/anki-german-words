@@ -1,0 +1,9 @@
+Word::: begeistern
+WordTranslation::: вдохновлять, воодушевлять
+DrittenPerson::: begeistert
+Perfekt::: haben begeistert
+Präteritum::: begeisterte
+FrontExample::: Die neue Technologie begeistert Wissenschaftler weltweit.
+BackExample::: Новая технология восхищает ученых по всему миру.
+Tags:::  chatgpt 
+guid::: t?D{E?=+$:

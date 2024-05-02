@@ -1,0 +1,6 @@
+Word::: Bekanntheit
+WordTranslation::: известность, популярность, знаменитость
+FrontExample::: Die Bekanntheit der Marke ist entscheidend für den Verkaufserfolg.
+BackExample::: Узнаваемость бренда критически важна для успеха продаж.
+Tags:::  chatgpt 
+guid::: yq2n>xw`0c

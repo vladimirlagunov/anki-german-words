@@ -1,0 +1,6 @@
+Word::: Fallschirm
+WordTranslation::: парашют
+DerDieDas::: der
+Plural::: Fallschirme
+Tags::: 
+guid::: FS~wB=#v~i

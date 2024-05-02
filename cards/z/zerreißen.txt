@@ -1,0 +1,9 @@
+Word::: zerreißen
+WordTranslation::: рвать
+DrittenPerson::: zerreißt
+Perfekt::: haben zerrissen
+Präteritum::: zerriss
+FrontExample::: Der Stoff ist so schwach, dass er leicht zerreißen kann. Todo подходит ли ключевое слово?
+BackExample::: Ткань настолько слабая, что она может легко разорваться.&nbsp;
+Tags:::  chatgpt 
+guid::: lE/t<SMfVf

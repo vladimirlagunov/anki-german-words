@@ -1,0 +1,11 @@
+Word::: wünschen
+WordTranslation::: желать
+DrittenPerson::: wünscht
+Perfekt::: haben gewünscht
+Präteritum::: wünschte
+FrontExample::: Ich wünsche dir alles Gute zum Geburtstag!
+BackExample::: Я желаю тебе всего наилучшего к дню рождения!
+FrontExample2::: Sie wünscht sich ein neues Fahrrad.
+BackExample2::: Она хочет новый велосипед.
+Tags:::  chatgpt 
+guid::: u[Q!9;<JSO

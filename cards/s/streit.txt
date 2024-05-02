@@ -1,0 +1,10 @@
+Word::: Streit
+WordTranslation::: спор
+DerDieDas::: der
+Plural::: Streite
+FrontExample::: Sie hatten gestern einen großen Streit.
+BackExample::: Вчера у них был большой спор.
+FrontExample2::: Der Streit um die Grenzziehung zwischen den Ländern dauert schon Jahre an.
+BackExample2::: Спор по поводу определения границ между странами длится уже много лет.
+Tags:::  chatgpt 
+guid::: tmr-Un}$Pa

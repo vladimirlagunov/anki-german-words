@@ -1,0 +1,8 @@
+Word::: berechenbar
+WordTranslation::: предсказуемый, рассчитываемый
+FrontExample::: Die Reaktion des Stoffes ist bei diesen Bedingungen berechenbar.
+BackExample::: Реакция вещества при этих условиях предсказуема.
+FrontExample2::: Das Wetter ist leider nicht immer berechenbar.
+BackExample2::: К сожалению, погода не всегда предсказуема.
+Tags:::  chatgpt 
+guid::: O)#i8mLg,>

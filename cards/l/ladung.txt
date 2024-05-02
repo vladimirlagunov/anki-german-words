@@ -1,0 +1,10 @@
+Word::: Ladung
+WordTranslation::: <ul><li>груз</li><li>заряд, зарядка</li></ul>
+DerDieDas::: die
+Plural::: Ladungen
+FrontExample::: Wir müssen sicherstellen, dass die Ladung richtig gesichert ist.
+BackExample::: Мы должны убедиться, что груз правильно закреплен.
+FrontExample2::: Die Ladung des Kondensators erfolgt sehr schnell.
+BackExample2::: Зарядка конденсатора происходит очень быстро.
+Tags:::  chatgpt 
+guid::: znNg3%<_U.

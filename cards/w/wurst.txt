@@ -1,0 +1,6 @@
+Word::: Wurst
+WordTranslation::: <div>колбаса, сосиска</div>
+DerDieDas::: die
+Plural::: Würste
+Tags::: 
+guid::: h&~9;J^3*w

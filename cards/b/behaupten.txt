@@ -1,10 +1,13 @@
 Word::: behaupten
-WordTranslation::: утверждать<br><ul>
-</ul>
+WordTranslation::: утверждать
 DrittenPerson::: behauptet
 Perfekt::: haben behauptet
 Präteritum::: behauptete
 FrontExample::: „Ich bin der beste Radfahrer dieser Stadt“, behauptet Peter.
 BackExample::: „Я лучший велосипедист в этом городе", - утверждает Питер.
-Tags::: 
+FrontExample2::: Er behauptet, er hätte den Mount Everest bestiegen.
+BackExample2::: Он утверждает, что взошел на Эверест.
+FrontExample3::: Sie behauptet, dass ihr Idee die beste sei.
+BackExample3::: Она утверждает, что её идея лучшая.
+Tags:::  chatgpt 
 guid::: r+]I/u^9)%

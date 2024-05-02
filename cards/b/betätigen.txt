@@ -1,0 +1,13 @@
+Word::: betätigen
+WordTranslation::: <ul><li>заниматься, действовать, работать</li><li>включать, активировать, управлять</li></ul>
+DrittenPerson::: betätigt
+Perfekt::: haben betätigt
+Präteritum::: betätigte
+FrontExample::: Er betätigte den Alarmknopf.
+BackExample::: Он нажал кнопку тревоги.
+FrontExample2::: Sie betätigt sich in ihrer Freizeit als Künstlerin.
+BackExample2::: В свободное время она занимается искусством.
+FrontExample3::: Um die Maschine zu starten, müssen Sie den grünen Knopf betätigen.
+BackExample3::: Чтобы запустить машину, вам нужно нажать на зеленую кнопку.
+Tags:::  chatgpt 
+guid::: Abyc]M)eOO

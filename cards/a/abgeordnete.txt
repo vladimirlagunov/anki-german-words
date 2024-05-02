@@ -1,0 +1,8 @@
+Word::: Abgeordnete
+WordTranslation::: депутат
+DerDieDas::: der / die
+Plural::: Abgeordnete, Abgeordneten
+FrontExample::: Die Abgeordneten werden in den nächsten Wahlen gewählt.
+BackExample::: Депутаты будут избраны на следующих выборах.
+Tags:::  chatgpt 
+guid::: K{93L(-h`|

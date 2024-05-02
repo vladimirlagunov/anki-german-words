@@ -1,0 +1,11 @@
+Word::: falten
+WordTranslation::: складывать, сгибать
+DrittenPerson::: faltet
+Perfekt::: haben gefaltet
+Präteritum::: faltete
+FrontExample::: Er kann ein Papierflugzeug falten.
+BackExample::: Он умеет складывать бумажный самолётик.
+FrontExample2::: Die Oma kann wegen der Arthritis ihre Hände nicht mehr richtig falten.
+BackExample2::: Бабушка из-за артрита не может правильно сгибать руки.
+Tags:::  chatgpt 
+guid::: L+)vJD+@<N

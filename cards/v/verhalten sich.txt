@@ -1,0 +1,11 @@
+Word::: verhalten sich
+WordTranslation::: вести себя
+DrittenPerson::: verhält
+Perfekt::: haben verhalten
+Präteritum::: verhielt
+FrontExample::: Die Kinder verhalten sich in der Schule gut.
+BackExample::: Дети ведут себя хорошо в школе.
+FrontExample2::: Wildtiere können sich unberechenbar verhalten.
+BackExample2::: Дикие животные могут вести себя непредсказуемо.
+Tags:::  chatgpt 
+guid::: o?UdV+[>~l

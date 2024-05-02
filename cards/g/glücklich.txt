@@ -1,7 +1,8 @@
 Word::: glücklich
 WordTranslation::: счастливый, удачливый, благополучный
-FrontExample::: Meine Kinder sind glücklich verheiratet.
-BackExample::: Мои дети счастливо женаты.
+Explanation::: glücklich sein über A
+FrontExample::: Sie ist glücklich über das Geschenk.
+BackExample::: Она счастлива из-за подарка.
 FrontExample2::: Ich bin glücklich.
 BackExample2::: Я счастлив.
 FrontExample3::: Sie fühlt sich glücklich heute.

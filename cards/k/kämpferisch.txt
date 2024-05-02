@@ -1,0 +1,6 @@
+Word::: kämpferisch
+WordTranslation::: боевой, агрессивный, воинствующий
+FrontExample::: Das Team zeigte eine kämpferische Leistung trotz der Niederlage.
+BackExample::: Команда показала боевой дух, несмотря на поражение.
+Tags:::  chatgpt 
+guid::: 1w`!mvfdW

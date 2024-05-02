@@ -1,4 +1,4 @@
-Word::: mithilfe
+Word::: mithilfe + G
 WordTranslation::: с помощью, при помощи
 FrontExample::: Mithilfe seiner Freunde konnte er das Auto reparieren.
 BackExample::: Благодаря помощи своих друзей, он смог починить машину.

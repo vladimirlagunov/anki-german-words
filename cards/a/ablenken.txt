@@ -1,0 +1,11 @@
+Word::: ablenken
+WordTranslation::: <ul><li>отвлекать, переводить внимание</li><li>отклонить (сменить чьё-то направление)</li><li>рассеиваться</li></ul>
+DrittenPerson::: lenkt ab
+Perfekt::: haben abgelenkt
+Präteritum::: lenkte ab
+FrontExample::: Musik kann mich von meinen Sorgen ablenken.
+BackExample::: Музыка может отвлечь меня от моих забот.
+FrontExample2::: Ich versuche, die Kinder mit Spielzeug abzulenken, während ich koche.
+BackExample2::: Я стараюсь отвлечь детей игрушками, пока готовлю.
+Tags:::  chatgpt 
+guid::: i-l_y|ZKV~

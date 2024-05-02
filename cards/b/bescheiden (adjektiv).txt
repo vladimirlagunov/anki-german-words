@@ -1,0 +1,10 @@
+Word::: bescheiden (Adjektiv)
+WordTranslation::: скромный, умеренный, застенчивый
+FrontExample::: Er hat bescheidene Wünsche und ist mit wenig zufrieden.
+BackExample::: У него скромные желания, и он доволен малым.
+FrontExample2::: Sie verhalten sich immer sehr bescheiden.
+BackExample2::: Они всегда ведут себя очень скромно.
+FrontExample3::: Sein Gehalt ist ziemlich bescheiden, aber er kommt damit aus.
+BackExample3::: Его зарплата довольно скромная, но он справляется с этим.
+Tags:::  chatgpt 
+guid::: k3V*Sv{fZ5

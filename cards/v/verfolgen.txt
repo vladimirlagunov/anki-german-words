@@ -1,12 +1,9 @@
 Word::: verfolgen
-WordTranslation::: преследовать, отследить, отслеживать, следить за
-Explanation::: Syn: jagen, folgen, beobachten
+WordTranslation::: преследовать, следить, отслеживать, наблюдать
 DrittenPerson::: verfolgt
 Perfekt::: haben verfolgt
 Präteritum::: verfolgte
-FrontExample::: Zum weiteren Zeitplan: Die Kommission soll 1998 verfolgen, was geschieht.
-BackExample::: В дальнейшем расписании: Комиссия должна следить за тем, что произойдет в 1998 году.
-FrontExample2::: Ihre Medienresonanz verfolgen wir für Sie auch in den elektronischen Medien.
-BackExample2::: Мы также следим за их реакцией в электронных СМИ.
-Tags::: 
+FrontExample::: Ich habe die Nachrichten nicht verfolgt, daher weiß ich nicht, was passiert ist.
+BackExample::: Я не следил за новостями, поэтому не знаю, что произошло.
+Tags:::  chatgpt 
 guid::: nna>C-b}5Q

@@ -1,0 +1,9 @@
+Word::: Steinbock
+WordTranslation::: <ul>
+<li>Козерог</li>
+<li>горный альпийский козел</li>
+</ul>
+DerDieDas::: der
+Plural::: Steinböcke
+Tags:::  chatgpt 
+guid::: nx%D3F}H%2

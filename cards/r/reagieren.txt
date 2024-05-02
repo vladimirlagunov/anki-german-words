@@ -1,0 +1,11 @@
+Word::: reagieren
+WordTranslation::: реагировать
+DrittenPerson::: reagiert
+Perfekt::: haben reagiert
+Präteritum::: reagierte
+FrontExample::: Ich weiß noch nicht, wie ich darauf reagieren soll.
+BackExample::: Я еще не знаю, как мне на это реагировать.
+FrontExample2::: Die Aktienmärkte reagierten sofort auf die Nachrichten.
+BackExample2::: Фондовые рынки немедленно отреагировали на новости.
+Tags:::  chatgpt 
+guid::: N6r1gm[}vB

@@ -1,0 +1,6 @@
+Word::: Waage
+WordTranslation::: весы
+DerDieDas::: die
+Plural::: Waagen
+Tags:::  chatgpt 
+guid::: P3/w+W{BI!

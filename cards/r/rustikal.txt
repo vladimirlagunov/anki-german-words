@@ -1,0 +1,8 @@
+Word::: rustikal
+WordTranslation::: деревенский, простой, грубый
+FrontExample::: Wir genießen die rustikale Landschaft auf unserer Wanderung.
+BackExample::: Мы наслаждаемся деревенским пейзажем во время нашего путешествия.
+FrontExample2::: Die rustikale Einrichtung des Cafés schafft eine warme und einladende Atmosphäre.
+BackExample2::: Деревенский интерьер кафе создает теплую и приветливую атмосферу.
+Tags:::  chatgpt 
+guid::: CJL+gc=D|n

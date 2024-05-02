@@ -1,0 +1,11 @@
+Word::: bekämpfen
+WordTranslation::: бороться, противодействовать, искоренять
+DrittenPerson::: bekämpft
+Perfekt::: haben bekämpft
+Präteritum::: bekämpfte
+FrontExample::: Wir müssen gemeinsam den Klimawandel bekämpfen.
+BackExample::: Мы должны вместе бороться с изменением климата.
+FrontExample2::: Das Medikament hilft dabei, die Infektion zu bekämpfen.
+BackExample2::: Лекарство помогает бороться с инфекцией.
+Tags:::  chatgpt 
+guid::: en#0Yr49:L

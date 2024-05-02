@@ -1,0 +1,11 @@
+Word::: böse
+WordTranslation::: злой, плохой, сердитый, недобрый
+Explanation::: <ul><li><strong>auf</strong> (D): используется для выражения негодования или разочарования в ком-то, например, "Ich bin böse auf dich" (Я злюсь на тебя).</li><li><strong>mit</strong> (D): может использоваться в контексте разделяемого негодования или когда кто-то разделяет чувство разочарования, например, "Ich bin böse mit dir" (Я разделяю твоё негодование).</li><li><strong>über</strong> (A): выражает разочарование или гнев по поводу чего-либо, например, "Ich bin böse über das Ergebnis" (Я злюсь из-за результата).</li></ul>
+FrontExample::: Sie ist böse auf mich.
+BackExample::: Она злится на меня.
+FrontExample2::: Der Hund sieht böse aus.
+BackExample2::: Собака выглядит злой.
+FrontExample3::: Warum bist du so böse?
+BackExample3::: Почему ты такой злой?
+Tags:::  A1 chatgpt 
+guid::: wLK16/d(~|

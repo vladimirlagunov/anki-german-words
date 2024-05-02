@@ -1,0 +1,9 @@
+Word::: rauben
+WordTranslation::: грабить, отбирать
+DrittenPerson::: raubt
+Perfekt::: haben geraubt
+Präteritum::: raubte
+FrontExample::: Die Bank wurde mitten am Tag ausgeraubt.
+BackExample::: Банк ограбили прямо днём.
+Tags:::  chatgpt 
+guid::: C=,{:k+Y>g

@@ -1,0 +1,9 @@
+Word::: interessiert sein
+WordTranslation::: быть заинтересованным
+Explanation::: sein&nbsp;<b>an Dativ&nbsp;</b>interessiert<br><br>но:<br><br>interessieren <b>für Akkusativ</b>
+FrontExample::: Ich bin sehr an der Kunstgeschichte interessiert sein.
+BackExample::: Я очень заинтересован историей искусства.
+FrontExample2::: Er ist nicht daran interessiert sein, früher aufzustehen.
+BackExample2::: Он не заинтересован в том, чтобы вставать раньше.
+Tags:::  chatgpt 
+guid::: qtpPxqs:QH

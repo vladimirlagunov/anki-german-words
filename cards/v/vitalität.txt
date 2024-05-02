@@ -1,0 +1,10 @@
+Word::: Vitalität
+WordTranslation::: жизненная сила, жизненная энергия
+DerDieDas::: die
+Plural::: Vitalitäten
+FrontExample::: Der ältere Herr beeindruckte alle mit seiner Vitalität.
+BackExample::: Пожилой джентльмен произвел впечатление на всех своей жизненной энергией.
+FrontExample2::: Ein gesunder Lebensstil ist entscheidend für die Erhaltung der Vitalität.
+BackExample2::: Здоровый образ жизни имеет решающее значение для поддержания жизненной силы.
+Tags:::  chatgpt 
+guid::: qjncguB|n]

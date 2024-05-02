@@ -1,0 +1,6 @@
+Word::: Kommentar
+WordTranslation::: комментарий
+DerDieDas::: der
+Plural::: Kommentare
+Tags:::  chatgpt 
+guid::: e9S8_Kq`Jp

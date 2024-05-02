@@ -1,0 +1,8 @@
+Word::: spontan
+WordTranslation::: спонтанный
+FrontExample::: Er hat spontan beschlossen, eine Weltreise zu machen
+BackExample::: Он спонтанно решил отправиться в кругосветное путешествие
+FrontExample2::: Wir haben spontan eine Party veranstaltet
+BackExample2::: Мы спонтанно устроили вечеринку
+Tags:::  chatgpt 
+guid::: t^m6Vetlvj

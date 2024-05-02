@@ -1,0 +1,9 @@
+Word::: marschieren
+WordTranslation::: маршировать
+DrittenPerson::: marschiert
+Perfekt::: sein marschiert
+Präteritum::: marschierte
+FrontExample::: Die Soldaten marschieren in Reih und Glied.
+BackExample::: Солдаты маршируют в строю один за другим.
+Tags:::  chatgpt 
+guid::: v~YY.dr*0S

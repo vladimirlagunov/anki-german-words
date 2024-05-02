@@ -1,0 +1,11 @@
+Word::: riskieren
+WordTranslation::: рисковать
+DrittenPerson::: riskiert
+Perfekt::: haben riskiert
+Präteritum::: riskierte
+FrontExample::: Sie riskiert ihren Job, wenn sie weiterhin zu spät kommt.
+BackExample::: Она рискует потерять работу, если будет продолжать опаздывать.
+FrontExample2::: Man sollte nicht seine Gesundheit riskieren, nur um schneller an sein Ziel zu kommen.
+BackExample2::: Не следует рисковать своим здоровьем ради того, чтобы быстрее достичь цели.
+Tags:::  chatgpt 
+guid::: pn|.Z<E#37

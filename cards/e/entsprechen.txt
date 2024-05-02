@@ -1,0 +1,13 @@
+Word::: entsprechen
+WordTranslation::: соответствовать, отвечать
+DrittenPerson::: entspricht
+Perfekt::: haben entsprochen
+Präteritum::: entsprach
+FrontExample::: Das entspricht nicht meinen Erwartungen.
+BackExample::: Это не соответствует моим ожиданиям.
+FrontExample2::: Ihr Vorschlag entspricht genau unseren Anforderungen.
+BackExample2::: Ваше предложение точно соответствует нашим требованиям.
+FrontExample3::: Die gelieferte Ware entspricht nicht der Bestellung.
+BackExample3::: Поставленный товар не соответствует заказу.
+Tags:::  chatgpt 
+guid::: sEIC49=+2)

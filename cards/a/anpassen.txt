@@ -1,0 +1,13 @@
+Word::: anpassen
+WordTranslation::: приспосабливать, подгонять, подстраивать, адаптировать
+DrittenPerson::: passt an
+Perfekt::: haben angepasst
+Präteritum::: passte an
+FrontExample::: Die Brille muss an dein Gesicht angepasst werden.
+BackExample::: Очки должны быть подогнаны под твоё лицо.
+FrontExample2::: Unternehmen müssen sich an die neuen Marktbedingungen anpassen.
+BackExample2::: Компании должны адаптироваться к новым рыночным условиям.
+FrontExample3::: Du kannst die Helligkeit des Bildschirms an deine Vorlieben anpassen.
+BackExample3::: Ты можешь настроить яркость экрана в соответствии со своими предпочтениями.
+Tags:::  chatgpt 
+guid::: rl|a8G]y*-

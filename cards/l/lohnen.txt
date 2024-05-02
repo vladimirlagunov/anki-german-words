@@ -1,0 +1,11 @@
+Word::: lohnen
+WordTranslation::: стоить (того), окупаться, вознаграждать
+DrittenPerson::: lohnt
+Perfekt::: haben gelohnt
+Präteritum::: lohnte
+FrontExample::: Es lohnt sich, früh aufzustehen, um den Sonnenaufgang zu sehen.
+BackExample::: Стоит встать пораньше, чтобы увидеть восход солнца.
+FrontExample2::: Für diesen Preis lohnt sich der Kauf nicht.
+BackExample2::: За эту цену покупка не стоит того.
+Tags:::  chatgpt 
+guid::: tzeREwVofy

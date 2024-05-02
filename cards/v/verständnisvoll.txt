@@ -1,0 +1,6 @@
+Word::: verständnisvoll
+WordTranslation::: понимающий, сочувствующий
+FrontExample::: Sie blickte ihn verständnisvoll an, als er von seinem schweren Tag erzählte.
+BackExample::: Она смотрела на него с пониманием, когда он рассказывал о своем тяжелом дне.
+Tags:::  chatgpt 
+guid::: P(hyw7}klK

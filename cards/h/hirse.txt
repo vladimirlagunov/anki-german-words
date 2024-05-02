@@ -1,0 +1,6 @@
+Word::: Hirse
+WordTranslation::: просо, пшено
+DerDieDas::: die
+Plural::: Hirsen
+Tags:::  chatgpt 
+guid::: he#7$87Y&N

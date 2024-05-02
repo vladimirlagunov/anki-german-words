@@ -1,0 +1,8 @@
+Word::: Einbruch
+WordTranslation::: взлом, проникновение, ограбление
+DerDieDas::: der
+Plural::: Einbrüche
+FrontExample::: Nach dem Einbruch hat die Polizei Spuren gesichert.
+BackExample::: После ограбления полиция обеспечила сохранность следов.
+Tags:::  chatgpt 
+guid::: f$9VE3{|xY

@@ -1,0 +1,9 @@
+Word::: regieren
+WordTranslation::: править, управлять
+DrittenPerson::: regiert
+Perfekt::: haben regiert
+Präteritum::: regierte
+FrontExample::: Königin Elisabeth regierte über 60 Jahre lang das Vereinigte Königreich.
+BackExample::: Королева Елизавета правила Великобританией более 60 лет.
+Tags:::  chatgpt 
+guid::: okTIXuaq14

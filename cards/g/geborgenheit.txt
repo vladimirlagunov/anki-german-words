@@ -1,0 +1,10 @@
+Word::: Geborgenheit
+WordTranslation::: безопасность, защищённость, уверенность
+DerDieDas::: die
+Plural::: —
+FrontExample::: Kinder brauchen Geborgenheit, um sich gut zu entwickeln.
+BackExample::: Детям необходимо чувство защищенности для их хорошего развития.
+FrontExample2::: Ein eigenes Zuhause gibt vielen Menschen das Gefühl von Geborgenheit.
+BackExample2::: Собственный дом дает многим людям чувство безопасности.
+Tags:::  chatgpt 
+guid::: zK=>6@w.#C

@@ -1,0 +1,9 @@
+Word::: Jungfrau
+WordTranslation::: <ul>
+<li>Дева (созвездие, знак Зодиака)<br></li>
+<li>девственница<br></li>
+</ul>
+DerDieDas::: die
+Plural::: Jungfrauen
+Tags:::  chatgpt 
+guid::: o^Vfp7%5nK

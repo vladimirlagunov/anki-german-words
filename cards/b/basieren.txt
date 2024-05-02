@@ -1,0 +1,9 @@
+Word::: basieren
+WordTranslation::: основываться, базироваться
+DrittenPerson::: basiert
+Perfekt::: haben basiert
+Präteritum::: basierte
+FrontExample::: Seine Argumentation basiert auf falschen Annahmen.
+BackExample::: Его аргументация базируется на неверных предположениях.
+Tags:::  chatgpt 
+guid::: mQta<q;Jn<

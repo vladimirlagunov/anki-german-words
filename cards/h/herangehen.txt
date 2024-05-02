@@ -1,5 +1,5 @@
 Word::: herangehen
-WordTranslation::: <ul><li>подходить, приближаться</li><li>приступать задачам или вопросам</li></ul>
+WordTranslation::: <ul><li>подходить, приближаться</li><li>приступать к задачам или вопросам</li></ul>
 DrittenPerson::: geht heran
 Perfekt::: sein herangegangen
 Präteritum::: ging heran

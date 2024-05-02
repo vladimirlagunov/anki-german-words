@@ -1,0 +1,13 @@
+Word::: Falte
+WordTranslation::: <ul>
+<li>морщина</li>
+<li>складка</li>
+</ul>
+DerDieDas::: die
+Plural::: Falten
+FrontExample::: Sie glättete die Falte in ihrem Kleid.
+BackExample::: Она разгладила складку на своем платье.
+FrontExample2::: Die Falten unter seinen Augen verraten sein Alter.
+BackExample2::: Морщины под его глазами выдают его возраст.
+Tags:::  chatgpt 
+guid::: C8#nOarLO.

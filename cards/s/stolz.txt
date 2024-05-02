@@ -1,0 +1,11 @@
+Word::: stolz
+WordTranslation::: гордый
+Explanation::: <ul><li><strong>auf</strong> (D): означает "на, о" в смысле гордости по поводу чего-либо. Используется для выражения гордости за достижения или качества. Пример: "Ich bin stolz auf meine Kinder."</li></ul>
+FrontExample::: Sie ist stolz auf ihre Kinder.
+BackExample::: Она гордится своими детьми.
+FrontExample2::: Er ging stolz durch den Saal.
+BackExample2::: Он гордо шел через зал.
+FrontExample3::: Ich bin stolz darauf, das Projekt erfolgreich abgeschlossen zu haben.
+BackExample3::: Я горжусь тем, что успешно завершил проект.
+Tags:::  chatgpt 
+guid::: v>HxsW#fe)

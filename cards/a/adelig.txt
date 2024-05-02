@@ -1,0 +1,6 @@
+Word::: adelig
+WordTranslation::: дворянский, аристократический
+FrontExample::: Sie stammt aus einer adeligen Familie.
+BackExample::: Она происходит из аристократической семьи.
+Tags:::  chatgpt 
+guid::: d]Qg~@x**P

@@ -1,0 +1,6 @@
+Word::: herrlich
+WordTranslation::: великолепный, прекрасный, чудесный, отличный
+FrontExample::: Das Wetter ist heute einfach herrlich!
+BackExample::: Погода сегодня просто великолепная!
+Tags:::  chatgpt 
+guid::: h1f@;$d1Sm

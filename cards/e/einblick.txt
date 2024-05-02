@@ -1,0 +1,12 @@
+Word::: Einblick
+WordTranslation::: представление, понимание, взгляд
+DerDieDas::: der
+Plural::: Einblicke
+FrontExample::: Dieses Buch gibt einen guten Einblick in die Geschichte Europas.
+BackExample::: Эта книга дает хорошее представление об истории Европы.
+FrontExample2::: Der Artikel verschafft einen detaillierten Einblick in die Thematik.
+BackExample2::: Статья предоставляет детальное понимание темы.
+FrontExample3::: Ich erhielt einen Einblick in den Alltag der Menschen dort.
+BackExample3::: Я получил представление о повседневной жизни людей там.
+Tags:::  chatgpt 
+guid::: fnIZ>~sLhZ

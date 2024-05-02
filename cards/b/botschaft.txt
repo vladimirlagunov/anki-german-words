@@ -1,0 +1,9 @@
+Word::: Botschaft
+WordTranslation::: <ul><li>посольство
+</li><li>весть, сообщение, послание</li></ul>
+FrontExample::: Die Botschaft der Vereinigten Staaten befindet sich in Berlin.
+BackExample::: Посольство Соединённых Штатов находится в Берлине.
+FrontExample2::: Der Präsident hat eine wichtige Botschaft an das Volk gerichtet.
+BackExample2::: Президент направил важное послание народу.
+Tags:::  chatgpt 
+guid::: r^S&J:?HKq

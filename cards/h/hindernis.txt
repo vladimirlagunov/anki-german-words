@@ -1,0 +1,8 @@
+Word::: Hindernis
+WordTranslation::: препятствие
+DerDieDas::: das
+Plural::: Hindernisse
+FrontExample::: Die fehlende Brücke war ein unerwartetes Hindernis auf unserem Wanderweg.
+BackExample::: Отсутствие моста стало неожиданным препятствием на нашем пути.
+Tags:::  chatgpt 
+guid::: j94l~f(j4s

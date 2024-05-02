@@ -1,0 +1,8 @@
+Word::: arrogant
+WordTranslation::: высокомерный, надменный
+FrontExample::: Sie verhält sich sehr arrogant, das gefällt mir nicht.
+BackExample::: Она ведет себя очень высокомерно, это мне не нравится.
+FrontExample2::: Das arrogante Lächeln auf seinem Gesicht war kaum zu übersehen.
+BackExample2::: Высокомерную улыбку на его лице было трудно не заметить.
+Tags:::  chatgpt 
+guid::: JKS$r(Gw+|

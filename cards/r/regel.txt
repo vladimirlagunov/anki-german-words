@@ -1,0 +1,10 @@
+Word::: Regel
+WordTranslation::: правило
+DerDieDas::: die
+Plural::: Regeln
+FrontExample::: Die Ausnahme bestätigt die Regel.
+BackExample::: Исключение подтверждает правило.
+FrontExample2::: Nach der Regel müssten wir jetzt eine Pause machen.
+BackExample2::: Согласно правилу, мы должны сейчас сделать перерыв.
+Tags:::  chatgpt 
+guid::: m?9%Z8+n#C

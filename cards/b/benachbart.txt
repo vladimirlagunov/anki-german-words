@@ -1,0 +1,8 @@
+Word::: benachbart
+WordTranslation::: соседний, прилегающий
+FrontExample::: Sie wohnen in einer benachbarten Straße.
+BackExample::: Они живут на соседней улице.
+FrontExample2::: Unsere Büros liegen in benachbarten Gebäuden.
+BackExample2::: Наши офисы находятся в соседних зданиях.
+Tags:::  chatgpt 
+guid::: q7`g[q9AS`

@@ -1,0 +1,10 @@
+Word::: Löwe
+WordTranslation::: лев
+DerDieDas::: der
+Plural::: Löwen
+FrontExample::: Der Löwe brüllt in der Nacht.
+BackExample::: Лев рычит ночью.
+FrontExample2::: Das Sternbild Löwe ist leicht am Nachthimmel zu erkennen.
+BackExample2::: Созвездие Льва легко узнать на ночном небе.
+Tags:::  chatgpt 
+guid::: cX:keeE#8&

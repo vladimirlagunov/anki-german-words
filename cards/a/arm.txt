@@ -1,0 +1,6 @@
+Word::: arm
+WordTranslation::: бедный
+FrontExample::: Die Familie ist sehr arm und kann sich kaum Essen leisten.
+BackExample::: Семья очень бедна и едва может позволить себе еду.
+Tags:::  chatgpt 
+guid::: m9.oDTT`ec

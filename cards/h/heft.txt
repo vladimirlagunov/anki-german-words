@@ -1,8 +1,8 @@
 Word::: Heft
-WordTranslation::: номер, тетрадь
+WordTranslation::: тетрадь, журнал
 DerDieDas::: das
 Plural::: Hefte
 FrontExample::: Ich hätte gern ein Schreibheft.
 BackExample::: Я бы хотел блокнот.
 Tags:::  A1 
-guid::: f,G|:t,Zr=
+guid::: heMCX(ao?a

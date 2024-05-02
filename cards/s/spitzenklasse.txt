@@ -1,0 +1,8 @@
+Word::: Spitzenklasse
+WordTranslation::: высший класс, элита
+DerDieDas::: die
+Plural::: Spitzenklassen
+FrontExample::: Das Restaurant wurde für seine Spitzenklasse Küche mehrfach ausgezeichnet.
+BackExample::: Ресторан неоднократно был награжден за свою кухню высшего класса.
+Tags:::  chatgpt 
+guid::: xI,aO4<5yL

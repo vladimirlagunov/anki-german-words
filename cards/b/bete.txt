@@ -1,0 +1,8 @@
+Word::: Bete
+WordTranslation::: свекла
+DerDieDas::: die
+Plural::: Beten
+FrontExample::: Die (rote) Bete im Gemüsebeet sind schon reif.
+BackExample::: Свёкла на огороде уже созрела.
+Tags:::  chatgpt 
+guid::: Aw{QMBGMjF

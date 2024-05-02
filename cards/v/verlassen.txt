@@ -1,0 +1,13 @@
+Word::: verlassen
+WordTranslation::: <ul><li>покидать, уходить, оставлять, бросать, завершать</li><li>полагаться, доверять</li></ul>
+DrittenPerson::: verlässt
+Perfekt::: haben verlassen
+Präteritum::: verließ
+FrontExample::: Sie können sich auf mich verlassen.
+BackExample::: Вы можете положиться на меня.
+FrontExample2::: Er hat das Land verlassen.
+BackExample2::: Он покинул страну.
+FrontExample3::: Bitte verlassen Sie den Raum!
+BackExample3::: Пожалуйста, покиньте комнату!
+Tags:::  chatgpt 
+guid::: h!EUIW#]?b

@@ -1,0 +1,10 @@
+Word::: Krebs
+WordTranslation::: рак
+DerDieDas::: der
+Plural::: Krebse
+FrontExample::: Mein Onkel hat leider Krebs bekommen.
+BackExample::: К сожалению, мой дядя заболел раком.
+FrontExample2::: Der Koch bereitet einen frischen Krebs zu.
+BackExample2::: Повар готовит свежего рака.
+Tags:::  chatgpt 
+guid::: fl3+wpyr;I

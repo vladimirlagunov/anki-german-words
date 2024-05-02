@@ -1,0 +1,10 @@
+Word::: Körper
+WordTranslation::: тело, корпус, фигура
+DerDieDas::: der
+Plural::: Körper
+FrontExample::: Sein Körper benötigt mehr Ruhe nach dem langen Lauf.
+BackExample::: Его тело требует больше отдыха после долгого бега.
+FrontExample2::: Die Wärme verteilt sich gleichmäßig im ganzen Körper.
+BackExample2::: Тепло равномерно распределяется по всему телу.
+Tags:::  chatgpt 
+guid::: pBQB>==m4M

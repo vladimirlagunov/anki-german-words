@@ -1,0 +1,8 @@
+Word::: zuverlässig
+WordTranslation::: <ul><li>надежный, верный</li><li>достоверный</li></ul>
+FrontExample::: Er ist ein zuverlässiger Mitarbeiter.
+BackExample::: Он надежный сотрудник.
+FrontExample2::: Mein Auto ist alt, aber immer noch sehr zuverlässig.
+BackExample2::: Мой автомобиль стар, но все еще очень надежен.
+Tags:::  chatgpt 
+guid::: `9fay@1vb

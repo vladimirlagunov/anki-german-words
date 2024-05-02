@@ -1,0 +1,10 @@
+Word::: zurückhaltend
+WordTranslation::: сдержанный, скромный
+FrontExample::: Er verhält sich immer sehr zurückhaltend auf Partys.
+BackExample::: Он всегда ведет себя очень сдержанно на вечеринках.
+FrontExample2::: Sie gab eine zurückhaltende Schätzung ihres Erfolgs ab.
+BackExample2::: Она дала сдержанный прогноз своего успеха.
+FrontExample3::: Seine zurückhaltende Art macht es schwer, ihn kennenzulernen.
+BackExample3::: Его сдержанный нрав затрудняет возможность познакомиться с ним.
+Tags:::  chatgpt 
+guid::: gY2,(@/)iQ

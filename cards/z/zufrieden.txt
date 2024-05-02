@@ -1,5 +1,6 @@
 Word::: zufrieden
 WordTranslation::: довольный
+Explanation::: zufrieden sein mit D
 FrontExample::: Ich bin mit der Wohnung zufrieden.
 BackExample::: Я доволен квартирой.
 FrontExample2::: Ich habe ein neues Auto gekauft und bin sehr zufrieden damit.

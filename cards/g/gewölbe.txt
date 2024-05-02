@@ -1,0 +1,10 @@
+Word::: Gewölbe
+WordTranslation::: свод, арка, изогнутый потолок
+DerDieDas::: das
+Plural::: Gewölbe
+FrontExample::: Das Gewölbe der Kathedrale ist beeindruckend.
+BackExample::: Свод собора поражает своей величественностью.
+FrontExample2::: In alten Kellern findet man häufig steinerne Gewölbe.
+BackExample2::: В старинных погребах часто можно найти каменные своды.
+Tags:::  chatgpt 
+guid::: d9P6nULGmb

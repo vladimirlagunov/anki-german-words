@@ -1,0 +1,13 @@
+Word::: Bank
+WordTranslation::: <div><ul><li>банк</li><li>скамейка</li></ul></div>
+DerDieDas::: die
+Plural::: <ul>
+<li>Bänke – скамейка</li>
+<li>Banken – банк</li>
+</ul>
+FrontExample::: Die Bank schließt schon um vier Uhr.
+BackExample::: Банк закрывается уже в четыре часа.
+FrontExample2::: Er sitzt im Park auf einer Bank und liest.
+BackExample2::: Он сидит в парке на скамейке и читает.
+Tags:::  A1 chatgpt 
+guid::: z0P+wygLCZ

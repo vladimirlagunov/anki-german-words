@@ -1,0 +1,6 @@
+Word::: damalig
+WordTranslation::: тогдашний
+FrontExample::: Unser damaliges Auto war sehr unzuverlässig.
+BackExample::: Наш тогдашний автомобиль был очень ненадежным.
+Tags:::  chatgpt 
+guid::: PrqvHR{:6A

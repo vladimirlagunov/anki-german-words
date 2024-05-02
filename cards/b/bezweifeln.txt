@@ -1,0 +1,9 @@
+Word::: bezweifeln
+WordTranslation::: сомневаться
+DrittenPerson::: bezweifelt
+Perfekt::: haben bezweifelt
+Präteritum::: bezweifelte
+FrontExample::: Ich bezweifle, dass er die Wahrheit sagt.
+BackExample::: Я сомневаюсь в том, что он говорит правду.
+Tags:::  chatgpt 
+guid::: tWS@vfSwY$

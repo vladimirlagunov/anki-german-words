@@ -1,0 +1,12 @@
+Word::: fürchten
+WordTranslation::: бояться, опасаться
+Explanation::: <ul><li><strong>vor</strong> (D) - означает "перед", указывает на то, что кто-то боится. Пример: Ich fürchte mich vor Spinnen. - Я боюсь пауков.</li><li><strong>um</strong> (A) - означает "из-за", указывает на причину страха или источник страха. Пример: Sie fürchtet sich um ihre Sicherheit. - Она боится за свою безопасность.</li></ul>
+DrittenPerson::: fürchtet
+Perfekt::: haben gefürchtet
+Präteritum::: fürchtete
+FrontExample::: Er fürchtet sich vor Spinnen.
+BackExample::: Он боится пауков.
+FrontExample2::: Sie fürchtete, dass sie zu spät kommen würde.
+BackExample2::: Она боялась, что опоздает.
+Tags:::  chatgpt 
+guid::: MMuSoVOdVO

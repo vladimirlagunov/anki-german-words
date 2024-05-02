@@ -1,0 +1,10 @@
+Word::: Angeklagte
+WordTranslation::: подсудимый, обвиняемый
+DerDieDas::: der / die
+Plural::: Angeklagte, Angeklagten
+FrontExample::: Der Angeklagte plädierte auf nicht schuldig.
+BackExample::: Подсудимый заявил о своей невиновности.
+FrontExample2::: Die Angeklagte wurde zu einer fünfjährigen Haftstrafe verurteilt.
+BackExample2::: Подсудимая была приговорена к пятилетнему тюремному заключению.
+Tags:::  chatgpt 
+guid::: q.Z{JKq|Xm

@@ -1,0 +1,16 @@
+Word::: Gehalt
+WordTranslation::: <ul><li>зарплата</li><li>содержание, концентрация</li></ul>
+DerDieDas::: <ul>
+<li>der – содержание</li>
+<li>der/das – зарплата</li>
+</ul>
+Plural::: <ul>
+<li>Gehalte – содержание</li>
+<li>Gehälter – зарплата</li>
+</ul>
+FrontExample::: Der Gehalt dieses Jobs ist sehr attraktiv.
+BackExample::: Заработная плата на этой работе очень привлекательная.
+FrontExample2::: Der Gehalt an Vitamin C in Orangen ist besonders hoch.
+BackExample2::: Содержание витамина С в апельсинах особенно высоко.
+Tags:::  chatgpt 
+guid::: beey$+NZmt

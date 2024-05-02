@@ -1,0 +1,13 @@
+Word::: wegkommen
+WordTranslation::: <ul><li>уходить, уезжать, отходить</li><li>избавляться</li></ul>
+DrittenPerson::: kommt weg
+Perfekt::: sein weggekommen
+Präteritum::: kam weg
+FrontExample::: Ich hoffe, wir kommen rechtzeitig zum Flughafen weg.
+BackExample::: Я надеюсь, что мы уедем в аэропорт вовремя.
+FrontExample2::: Von diesen Flecken wird er nie wegkommen.
+BackExample2::: С этих пятен он никогда не избавится.
+FrontExample3::: Sie ist traurig, weil ihr Hund weggelaufen ist.
+BackExample3::: Она грустит, потому что её собака убежала.
+Tags:::  chatgpt 
+guid::: P6J?iH}[*#

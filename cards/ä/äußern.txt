@@ -1,0 +1,13 @@
+Word::: äußern
+WordTranslation::: высказывать, выражать, изъявлять (мнение, предположение)
+DrittenPerson::: äußert
+Perfekt::: haben geäußert
+Präteritum::: äußerte
+FrontExample::: Er möchte seine Meinung zum neuen Buch äußern.
+BackExample::: Он хочет выразить свое мнение о новой книге.
+FrontExample2::: Die Regierung hat sich noch nicht zu den Vorfällen geäußert.
+BackExample2::: Правительство еще не высказалось по поводу происшествий.
+FrontExample3::: Darf ich eine Vermutung äußern?
+BackExample3::: Могу ли я высказать предположение?
+Tags:::  chatgpt 
+guid::: JJJZpXM(UA

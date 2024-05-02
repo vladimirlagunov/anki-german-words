@@ -1,0 +1,9 @@
+Word::: wütend
+WordTranslation::: яростный, злой
+Explanation::: <ul><li><div><strong>über (A)</strong>: означает "о" или "из-за", используется для выражения причины чувства.</div><ul><li>Beispiel: Er ist wütend über den verpassten Zug.</li><li>Перевод: Он злится из-за пропущенного поезда.</li></ul></li><li><div><strong>auf (A)</strong>: означает "на кого-то/что-то", используется для указания объекта гнева.</div><ul><li>Beispiel: Sie ist wütend auf ihren Bruder.</li><li>Перевод: Она злится на своего брата.</li></ul></li><li><div><strong>wegen (G)</strong>: означает "из-за", указывает на причину гнева, требует употребления существительного в родительном падеже.</div><ul><li>Beispiel: Sie sind wütend wegen des schlechten Wetters.</li><li>Перевод: Они злятся из-за плохой погоды.</li></ul></li></ul>
+FrontExample::: Er ist wütend aus dem Zimmer gegangen.
+BackExample::: Он в ярости вышел из комнаты.
+FrontExample2::: Sie wurde wütend, als sie die Nachricht hörte.
+BackExample2::: Она разозлилась, когда услышала новость.
+Tags:::  chatgpt 
+guid::: C/QSjGHOIx

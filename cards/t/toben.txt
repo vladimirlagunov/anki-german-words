@@ -1,0 +1,13 @@
+Word::: toben
+WordTranslation::: <ul><li>бушевать, свирепствовать</li><li>резвиться, шумно играть (редко)</li></ul>
+DrittenPerson::: tobt
+Perfekt::: haben getobt
+Präteritum::: tobte
+FrontExample::: Die Kinder tobten den ganzen Tag im Garten.
+BackExample::: Дети резвились в саду целый день.
+FrontExample2::: Nach dem Tor begannen die Fans im Stadion zu toben.
+BackExample2::: После забитого гола фанаты на стадионе взорвались от восторга.
+FrontExample3::: Der Sturm tobte draußen mit voller Kraft.
+BackExample3::: Снаружи бушевала буря с полной силой.
+Tags:::  chatgpt 
+guid::: r>zx[#uLSL

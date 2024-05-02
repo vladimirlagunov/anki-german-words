@@ -1,0 +1,12 @@
+Word::: würzen
+WordTranslation::: приправлять, добавлять специи
+Explanation::: <ul><li><div><strong>mit + D (würzen mit etwas)</strong> - означает "приправлять чем-то", указывая на использование конкретного ингредиента для добавления вкуса блюду. Пример: "Er würzt das Gericht mit Salz und Pfeffer." - "Он приправляет блюдо солью и перцем."</div></li><li><div><strong>nach + D (würzen nach Geschmack)</strong> - переводится как "приправлять по вкусу", подразумевая добавление специй или приправ согласно личным предпочтениям вкуса. Пример: "Sie würzt die Suppe nach Geschmack." - "Она приправляет суп по вкусу."</div></li></ul>
+DrittenPerson::: würzt
+Perfekt::: haben gewürzt
+Präteritum::: würzte
+FrontExample::: Die Suppe muss noch gewürzt werden.
+BackExample::: Суп еще нужно приправить.
+FrontExample2::: Sie würzt das Fleisch mit Salz und Pfeffer.
+BackExample2::: Она приправляет мясо солью и перцем.
+Tags:::  chatgpt 
+guid::: maczT,9Foa

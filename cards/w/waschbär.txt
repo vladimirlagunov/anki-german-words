@@ -1,0 +1,8 @@
+Word::: Waschbär
+WordTranslation::: енот
+DerDieDas::: der
+Plural::: Waschbären
+FrontExample::: Waschbären sind nachtaktive Tiere.
+BackExample::: Еноты - ночные животные.
+Tags:::  chatgpt 
+guid::: AmU||_s}{7

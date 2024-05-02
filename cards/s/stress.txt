@@ -1,0 +1,6 @@
+Word::: Stress
+WordTranslation::: стресс
+DerDieDas::: der
+Plural::: Stresse
+Tags:::  chatgpt 
+guid::: E#/JmS2.S#

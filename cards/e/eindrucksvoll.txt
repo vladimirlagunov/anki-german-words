@@ -1,0 +1,6 @@
+Word::: eindrucksvoll
+WordTranslation::: впечатляющий, эффектный
+FrontExample::: Ihr eindrucksvolles Portfolio überzeugte den Arbeitgeber sofort.
+BackExample::: Её впечатляющее портфолио сразу убедило работодателя.
+Tags:::  chatgpt 
+guid::: d#;&Au&PE&

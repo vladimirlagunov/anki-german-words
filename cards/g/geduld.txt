@@ -1,0 +1,12 @@
+Word::: Geduld
+WordTranslation::: терпение
+DerDieDas::: die
+Plural::: wird nur im Singular verwendet
+FrontExample::: Deine Geduld wird sich auszahlen.
+BackExample::: Твоё терпение вознаградится.
+FrontExample2::: Er verlor seine Geduld und schrie laut.
+BackExample2::: Он потерял терпение и громко закричал.
+FrontExample3::: Wir müssen Geduld haben; gute Dinge brauchen Zeit.
+BackExample3::: Нам нужно быть терпеливыми; хорошим вещам требуется время.
+Tags:::  chatgpt 
+guid::: dfC}bKJ?6~

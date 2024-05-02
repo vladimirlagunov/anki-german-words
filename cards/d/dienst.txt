@@ -1,0 +1,10 @@
+Word::: Dienst
+WordTranslation::: <ul><li>служба, сервис</li><li>дежурство</li></ul>
+DerDieDas::: der
+Plural::: Dienste
+FrontExample::: Er ist im Dienst.
+BackExample::: Он на службе.
+FrontExample2::: Der Kundendienst ist heute nicht erreichbar.
+BackExample2::: Сегодня служба поддержки клиентов недоступна.
+Tags:::  chatgpt 
+guid::: jOcmw+/=|L

@@ -1,0 +1,11 @@
+Word::: überfordern
+WordTranslation::: перегружать, перенапрягать
+DrittenPerson::: überfordert
+Perfekt::: haben überfordert
+Präteritum::: überforderte
+FrontExample::: Es ist wichtig, dass wir unsere Kollegen nicht mit unrealistischen Zielen überfordern.
+BackExample::: Важно, чтобы мы не перегружали наших коллег нереалистичными целями.
+FrontExample2::: Bitte überfordern Sie sich nicht mit zu viel Arbeit.
+BackExample2::: Пожалуйста, не перегружайте себя слишком большим объемом работы.
+Tags:::  chatgpt 
+guid::: uL_SD9Dk4M

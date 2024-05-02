@@ -1,0 +1,10 @@
+Word::: nötig
+WordTranslation::: необходимый, нужный
+FrontExample::: Es ist nötig, jeden Tag genug Wasser zu trinken.
+BackExample::: Необходимо пить достаточно воды каждый день.
+FrontExample2::: Ich finde es nicht nötig, immer das neueste Smartphone zu haben.
+BackExample2::: Я не считаю нужным всегда иметь самый новый смартфон.
+FrontExample3::: Wenn es nötig wird, können wir das Meeting verschieben.
+BackExample3::: Если потребуется, мы можем перенести встречу.
+Tags:::  chatgpt 
+guid::: tn2#:y%5^[

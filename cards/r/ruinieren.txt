@@ -1,0 +1,9 @@
+Word::: ruinieren
+WordTranslation::: разорять, губить, портить
+DrittenPerson::: ruiniert
+Perfekt::: haben ruiniert
+Präteritum::: ruinierte
+FrontExample::: Dieser Skandal könnte seine Karriere ruinieren.
+BackExample::: Этот скандал может разрушить его карьеру.
+Tags:::  chatgpt 
+guid::: C0(_+E5#j-

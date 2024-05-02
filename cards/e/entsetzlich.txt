@@ -1,0 +1,8 @@
+Word::: entsetzlich
+WordTranslation::: ужасный, отвратительный
+FrontExample::: Das ist ja eine entsetzliche Nachricht!
+BackExample::: Это ужасная новость!
+FrontExample2::: Die Zerstörung nach dem Erdbeben war entsetzlich.
+BackExample2::: Разрушение после землетрясения были ужасающими.
+Tags:::  chatgpt 
+guid::: E16[HE4Zc9

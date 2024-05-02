@@ -1,0 +1,11 @@
+Word::: vorlegen
+WordTranslation::: предъявлять, представлять, подавать, показывать
+DrittenPerson::: legt vor
+Perfekt::: haben vorgelegt
+Präteritum::: legte vor
+FrontExample::: Bitte legen Sie Ihre Ausweise vor.
+BackExample::: Пожалуйста, предъявите ваши удостоверения.
+FrontExample2::: Der Angeklagte muss Beweise für seine Unschuld vorlegen.
+BackExample2::: Подсудимый должен предъявить доказательства своей невиновности.
+Tags:::  chatgpt 
+guid::: yr8o4yX9oF

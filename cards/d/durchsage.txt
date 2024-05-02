@@ -1,0 +1,8 @@
+Word::: Durchsage
+WordTranslation::: сообщение
+DerDieDas::: die
+Plural::: Durchsagen
+FrontExample::: Bitte achten Sie auf die nächste Durchsage.
+BackExample::: Пожалуйста, прислушайтесь к следующему объявлению.
+Tags:::  A1 chatgpt 
+guid::: NC{!{#nnu;

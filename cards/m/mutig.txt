@@ -1,0 +1,6 @@
+Word::: mutig
+WordTranslation::: смелый, отважный
+FrontExample::: Sie war mutig genug, ihre Meinung laut auszusprechen.
+BackExample::: Она была достаточно смелой, чтобы высказать своё мнение вслух.
+Tags:::  chatgpt 
+guid::: y=`;;1~_WB

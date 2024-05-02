@@ -1,0 +1,10 @@
+Word::: Wirklichkeit
+WordTranslation::: реальность, действительность
+DerDieDas::: die
+Plural::: Wirklichkeiten
+FrontExample::: In der Wirklichkeit können wir nicht fliegen.
+BackExample::: На самом деле мы не можем летать.
+FrontExample2::: Die Wirklichkeit sieht anders aus, als wir es uns vorgestellt haben.
+BackExample2::: Реальность выглядит иначе, чем мы себе представляли.
+Tags:::  chatgpt 
+guid::: sJ}N*Iw0=.

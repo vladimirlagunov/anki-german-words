@@ -1,0 +1,12 @@
+Word::: bewältigen
+WordTranslation::: преодолеть, справиться, осилить
+Explanation::: <ul><li><div><strong>Bewältigen</strong> обычно используется в контексте успешного справления с задачей, проблемой или трудной ситуацией. Это может означать нахождение решения или способа справиться с чем-то, требующим усилий или работы. "Bewältigen" часто используется, когда речь идет о психологических, эмоциональных проблемах или сложных задачах. Например, справиться с потерей (einen Verlust bewältigen) или справиться с большим объемом работы (eine große Arbeitsmenge bewältigen).</div></li><li><div><strong>Überwinden</strong> подразумевает преодоление препятствия или барьера, часто с упором на преодоление чего-то, что физически или ментально блокирует прогресс. Это слово может использоваться для обозначения преодоления физических препятствий, таких как гора или река, а также более абстрактных препятствий, таких как страх или внутренние сопротивления. Например, преодолеть страх (eine Angst überwinden) или преодолеть сопротивление (Widerstand überwinden).</div></li></ul>
+DrittenPerson::: bewältigt
+Perfekt::: haben bewältigt
+Präteritum::: bewältigte
+FrontExample::: <span style="color: rgb(13, 13, 13); background-color: rgb(255, 255, 255);">Sie muss noch lernen, ihre Emotionen zu bewältigen.</span>
+BackExample::: <span style="color: rgb(13, 13, 13); background-color: rgb(255, 255, 255);">Ей ещё нужно научиться справляться со своими эмоциями.</span>
+FrontExample2::: Wir müssen gemeinsam diese Krise bewältigen.
+BackExample2::: Мы должны совместно преодолеть этот кризис.
+Tags:::  chatgpt 
+guid::: Bd5uN3q2I;

@@ -1,0 +1,12 @@
+Word::: erfreuen
+WordTranslation::: радовать, доставлять удовольствие
+Explanation::: <ul><li><div><strong>Freuen</strong> обычно используется в рефлексивной форме (sich freuen) и означает "радоваться", "испытывать радость". Это слово выражает личное ощущение удовольствия или счастья от чего-то. Пример: "Ich freue mich auf das Wochenende" (Я с нетерпением жду выходных).</div></li><li><div><strong>Erfreuen</strong> обозначает действие вызывать радость, делать кого-то счастливым, часто используется в структурах, где субъект действия приносит радость объекту. Пример: "Seine Leistung erfreute den Lehrer" (Его успехи радовали учителя).</div></li></ul>
+DrittenPerson::: erfreut
+Perfekt::: haben erfreut
+Präteritum::: erfreute
+FrontExample::: Das Konzert hat das Publikum sehr erfreut.
+BackExample::: Концерт очень порадовал публику.
+FrontExample2::: Der Anblick des Frühlings erfreut mein Herz.
+BackExample2::: Вид весны радует мое сердце.
+Tags:::  chatgpt 
+guid::: o+VM%rP7lj
