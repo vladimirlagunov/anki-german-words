@@ -1,0 +1,7 @@
+Word::: Zentimeter
+WordTranslation::: сантиметр
+Plural::: Zentimeter
+FrontExample::: In einem Fuß sind 30,48 Zentimeter.
+BackExample::: В одном футе 30.48 сантиметра.
+Tags:::  A1 chatgpt 
+guid::: j92uSLSS|h

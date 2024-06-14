@@ -1,0 +1,8 @@
+Word::: Hütte
+WordTranslation::: хижина
+DerDieDas::: die
+Plural::: Hütten
+FrontExample::: Wir übernachten in der Hütte auf dem Berg.
+BackExample::: Мы переночуем в хижине на горе.
+Tags::: 
+guid::: fuL=O`.STj

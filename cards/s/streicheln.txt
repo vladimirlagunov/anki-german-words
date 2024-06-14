@@ -1,0 +1,9 @@
+Word::: streicheln
+WordTranslation::: гладить, ласкать, поглаживать
+DrittenPerson::: streichelt
+Perfekt::: haben gestreichelt
+Präteritum::: streichelte
+FrontExample::: Er streichelte sanft die Katze.
+BackExample::: Он нежно погладил кошку.
+Tags:::  chatgpt 
+guid::: p<i-hgYavh

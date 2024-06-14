@@ -1,10 +1,12 @@
 Word::: errichten
 WordTranslation::: возводить, устанавливать
-Explanation::: Syn: aufbauen, einrichten
+Explanation::: <ul><li><div><strong>Errichten</strong>:</div><ul><li>Перевод: сооружать, возводить, устанавливать.</li><li>Употребление: чаще используется в контексте строительства крупных объектов, таких как здания, памятники или инфраструктура.</li></ul></li><li><div><strong>Aufbauen</strong>:</div><ul><li>Перевод: строить, собирать, устанавливать.</li><li>Употребление: подразумевает процесс сборки или создания чего-то, часто из отдельных частей. Может использоваться как в буквальном смысле (строительство), так и в переносном (создание чего-то нематериального, например, компании или системы).</li></ul></li><li><div><strong>Einrichten</strong>:</div><ul><li>Перевод: обставлять, оборудовать, настраивать.</li><li>Употребление: обычно относится к обустройству внутреннего пространства, оборудования или настройки чего-то для использования. Может также означать организацию или установку чего-то в определённом порядке.</li></ul></li></ul>
 DrittenPerson::: errichtet
 Perfekt::: haben errichtet
 Präteritum::: errichtete
-FrontExample::: Sie denken, sie beschützen sie, indem sie eine Wand um sie herum errichten.
-BackExample::: Они думают, что защищают их, возводя вокруг них стену.
-Tags::: 
+FrontExample::: Sie haben beschlossen, ein Monument zu errichten.
+BackExample::: Они решили воздвигнуть памятник.
+FrontExample2::: Die Stadt plant, ein neues Krankenhaus zu errichten.
+BackExample2::: Город планирует построить новую больницу.
+Tags:::  chatgpt 
 guid::: d2Ox0$7!S|

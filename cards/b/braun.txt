@@ -1,0 +1,6 @@
+Word::: braun
+WordTranslation::: коричневый
+FrontExample::: Er hat braune Augen.
+BackExample::: У него коричневые глаза.
+Tags:::  A1 chatgpt 
+guid::: esa0F%&oiJ

@@ -1,0 +1,6 @@
+Word::: dabei
+WordTranslation::: при этом, к тому же
+FrontExample::: Ich gehe gerne spazieren und dabei höre ich gerne Musik.
+BackExample::: Мне нравится гулять, и при этом я люблю слушать музыку.
+Tags::: 
+guid::: CkshEQ1F<N

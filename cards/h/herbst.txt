@@ -1,0 +1,6 @@
+Word::: Herbst
+WordTranslation::: осень
+DerDieDas::: der
+Plural::: Herbste
+Tags:::  A1 
+guid::: }vZ@4gWrG

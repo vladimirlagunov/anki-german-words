@@ -1,0 +1,12 @@
+Word::: Abschnitt
+WordTranslation::: <ul><li>раздел, отрезок, участок, фрагмент</li><li>абзац</li><li>период, этап</li></ul>
+DerDieDas::: der
+Plural::: Abschnitte
+FrontExample::: Lesen Sie bitte den zweiten Abschnitt.
+BackExample::: Пожалуйста, прочитайте второй раздел.
+FrontExample2::: Lesen Sie bitte den ersten Abschnitt des Buches.
+BackExample2::: Пожалуйста, прочтите первый раздел книги.
+FrontExample3::: An diesem Abschnitt der Autobahn ist die Geschwindigkeit begrenzt.
+BackExample3::: На этом участке автострады ограничена скорость.
+Tags:::  chatgpt 
+guid::: yF%Cdi#_(C

@@ -1,0 +1,10 @@
+Word::: Feier
+WordTranslation::: праздник
+DerDieDas::: die
+Plural::: Feiern
+FrontExample::: Morgen ist ein Feiertag.
+BackExample::: Завтра праздничный день.
+FrontExample2::: Heute ist eine Feier im Büro.
+BackExample2::: Сегодня в офисе праздник.
+Tags:::  A1 chatgpt 
+guid::: wLa%CnPo:A

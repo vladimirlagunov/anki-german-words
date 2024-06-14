@@ -1,0 +1,8 @@
+Word::: ander
+WordTranslation::: другой, иной
+FrontExample::: WiIlst du diese Jacke? – Nein, ich möchte die andere.
+BackExample::: Ты хочешь эту куртку? – Нет, я хочу другую.
+FrontExample3::: In dieser Box sind meine Schuhe, in der anderen sind meine Bücher.
+BackExample3::: В этой коробке мои туфли, а в другой мои книги.
+Tags:::  A1 chatgpt 
+guid::: gG?oW)hARA

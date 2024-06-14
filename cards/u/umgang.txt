@@ -2,8 +2,8 @@ Word::: Umgang
 WordTranslation::: взаимодействие, общение
 DerDieDas::: der
 Plural::: Umgänge
-FrontExample::: Kinder sollten früh lernen, wie der Umgang mit Geld funktioniert.
-BackExample::: Дети должны рано учиться, как обращаться с деньгами.
+FrontExample::: Er hat einen guten Umgang mit seinen Mitarbeitern.
+BackExample::: Он хорошо обращается со своими сотрудниками.
 FrontExample2::: Der Umgang mit chemischen Substanzen erfordert besondere Vorsicht.
 BackExample2::: Обращение с химическими веществами требует особой осторожности.
 Tags:::  chatgpt 

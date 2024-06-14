@@ -1,0 +1,13 @@
+Word::: bitten
+WordTranslation::: просить
+DrittenPerson::: bittet
+Perfekt::: haben gebeten
+Präteritum::: bat
+FrontExample::: Darf ich Sie um etwas bitten?
+BackExample::: Могу ли я попросить вас о чем-то?
+FrontExample2::: Kann ich dich um einen Gefallen bitten?
+BackExample2::: Могу ли я попросить тебя об одолжении?
+FrontExample3::: Ich möchte Sie um Informationen bitten.
+BackExample3::: Я хотел бы попросить у вас информацию.
+Tags:::  A1 chatgpt 
+guid::: A+*zm6&[Y~

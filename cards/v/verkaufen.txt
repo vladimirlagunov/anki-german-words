@@ -1,0 +1,11 @@
+Word::: verkaufen
+WordTranslation::: продавать
+DrittenPerson::: verkauft
+Perfekt::: haben verkauft
+Präteritum::: verkaufte
+FrontExample::: Er verkauft sein altes Auto.
+BackExample::: Он продает свою старую машину.
+FrontExample2::: Ich verkaufe mein altes Fahrrad.
+BackExample2::: Я продаю свой старый велосипед.
+Tags:::  A1 chatgpt 
+guid::: PX=We)z-WL

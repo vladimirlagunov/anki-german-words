@@ -1,0 +1,15 @@
+Word::: Bahnhof
+WordTranslation::: <ul>
+<li>вокзал</li>
+<li>железнодорожная станция</li>
+</ul>
+DerDieDas::: der
+Plural::: Bahnhöfe
+FrontExample::: Komme ich hier zum Bahnhof?
+BackExample::: Могу ли я добраться до вокзала здесь?
+FrontExample2::: Wir treffen uns am Bahnhof.
+BackExample2::: Мы встретимся на вокзале.
+FrontExample3::: Ich warte vor dem Bahnhof.
+BackExample3::: Я жду перед вокзалом.
+Tags:::  A1 chatgpt 
+guid::: ughN(bE>+!

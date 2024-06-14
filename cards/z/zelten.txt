@@ -1,0 +1,11 @@
+Word::: zelten
+WordTranslation::: ходить в поход с палаткой
+DrittenPerson::: zeltet
+Perfekt::: haben gezeltet
+Präteritum::: zeltete
+FrontExample::: Wir gehen jedes Jahr im Sommer zelten.
+BackExample::: Мы каждый год летом ходим с палатками.
+FrontExample2::: Letztes Wochenende haben wir im Wald gezeltet.
+BackExample2::: В прошлые выходные мы разбили лагерь в лесу.
+Tags:::  chatgpt 
+guid::: P@=9MSlo`Y

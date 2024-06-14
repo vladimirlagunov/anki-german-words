@@ -1,0 +1,12 @@
+Word::: vorübergehen
+WordTranslation::: проходить, пройти, миновать
+Explanation::: <ul><li><div><strong>vorübergehen</strong>:</div><ul><li>Значение: проходить мимо (в физическом смысле), миновать (во временном смысле).</li><li>Пример: Der Schmerz wird vorübergehen. (Боль пройдет.)</li><li>Контекст: Чаще используется в контексте временного состояния, которое пройдет, или в физическом смысле, когда кто-то или что-то проходит мимо.</li></ul></li><li><div><strong>vorbeigehen</strong>:</div><ul><li>Значение: проходить мимо (физически).</li><li>Пример: Er geht jeden Tag an diesem Haus vorbei. (Он каждый день проходит мимо этого дома.)</li><li>Контекст: Используется в основном, когда речь идет о физическом движении, когда кто-то или что-то проходит мимо определенного места или объекта.</li></ul></li><li><div><strong>vergehen</strong>:</div><ul><li>Значение: проходить, исчезать (о времени, чувствах).</li><li>Пример: Die Zeit vergeht schnell. (Время проходит быстро.)</li><li>Контекст: Чаще всего относится к течению времени или исчезновению чего-либо со временем (например, эмоций, боли).</li></ul></li><li><div><strong>verstreichen</strong>:</div><ul><li>Значение: истекать, проходить (о времени).</li><li>Пример: Eine Woche ist seitdem verstrichen. (С тех пор прошла неделя.)</li><li>Контекст: Используется для обозначения истечения определенного времени или срока, часто в официальном или формальном контексте.</li></ul></li></ul>
+DrittenPerson::: geht vorüber
+Perfekt::: sein vorübergegangen
+Präteritum::: ging vorüber
+FrontExample::: Der Sommer geht viel zu schnell vorüber.
+BackExample::: Лето проходит слишком быстро.
+FrontExample2::: Dies ist eine vorübergehende Maßnahme.
+BackExample2::: Это временная мера.
+Tags::: 
+guid::: lr.1kxF-If

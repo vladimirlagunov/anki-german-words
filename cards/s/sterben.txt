@@ -3,5 +3,5 @@ WordTranslation::: умереть
 DrittenPerson::: stirbt
 Perfekt::: sein gestorben
 Präteritum::: starb
-Tags::: 
+Tags:::  A1 
 guid::: d*%NZRw(9q

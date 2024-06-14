@@ -1,7 +1,7 @@
 Word::: einigermaßen
 WordTranslation::: более или менее, в некоторой степени
-FrontExample::: Er hat sich einigermaßen erholt.
-BackExample::: Он в некоторой степени поправился.
+FrontExample::: Das Wetter ist heute einigermaßen gut.
+BackExample::: Погода сегодня более-менее хорошая.
 FrontExample2::: Das Ergebnis ist einigermaßen zufriedenstellend.
 BackExample2::: Результат в какой-то степени удовлетворительный.
 FrontExample3::: Ich verstehe die Regeln einigermaßen.

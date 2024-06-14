@@ -1,0 +1,12 @@
+Word::: Eltern 
+WordTranslation::: родители
+DerDieDas::: Pl.
+Plural::: Eltern
+FrontExample::: Meine Eltern leben in Spanien.
+BackExample::: Мои родители живут в Испании.
+FrontExample2::: Ich liebe meine Eltern sehr.
+BackExample2::: Я очень люблю своих родителей.
+FrontExample3::: Deine Eltern sind sehr nett.
+BackExample3::: Твои родители очень милые.
+Tags:::  A1 chatgpt 
+guid::: J(J}H0CXe5

@@ -1,0 +1,11 @@
+Word::: kennenlernen
+WordTranslation::: узнать, познакомиться, ознакомиться
+DrittenPerson::: lernt kennen
+Perfekt::: haben kennengelernt
+Präteritum::: lernte kennen
+FrontExample::: Wir sind neu hier. Wir möchten Sie kennenlernen.
+BackExample::: Мы здесь новенькие. Мы хотели бы с вами познакомиться.
+FrontExample2::: Anna möchte heute ihre neue Klasse kennenlernen.
+BackExample2::: Анна хочет сегодня познакомиться со своим новым классом.
+Tags:::  A1 chatgpt 
+guid::: e8)OCPpAr0

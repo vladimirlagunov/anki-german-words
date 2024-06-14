@@ -1,11 +1,11 @@
 Word::: behalten
-WordTranslation::: сохранять, оставлять, памятовать, приберегать
+WordTranslation::: придержать, приберечь, оставить при себе
 Explanation::: &nbsp;1.	“Behalten” означает “сохранять” или “удерживать”. Это слово используется, когда вы хотите сказать, что что-то остается у вас или удерживается вами.<div>&nbsp;2.	“Erhalten” означает “получать” или “сохранять”. Это слово используется, когда вы говорите о получении чего-либо или сохранении чего-либо в неизменном состоянии.</div>
 FrontExample::: Behalt den Kassenbon, falls du das Produkt umtauschen möchtest.
 BackExample::: Сохрани чек, в случае если захочешь обменять товар.
 FrontExample2::: Er kann sich Zahlen und Daten leicht behalten, es ist erstaunlich!
 BackExample2::: Он легко запоминает числа и данные, это удивительно!
 FrontExample3::: Behalte diesen Ratschlag im Hinterkopf, wenn du deine Entscheidung triffst.
-BackExample3::: Держи этот совет в уме, когда будешь принимать свое решение.
+BackExample3::: Держи этот совет в голове, когда будешь принимать свое решение.
 Tags:::  chatgpt 
 guid::: L,nP(W0Rcm

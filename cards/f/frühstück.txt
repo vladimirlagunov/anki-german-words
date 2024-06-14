@@ -1,0 +1,12 @@
+Word::: Frühstück
+WordTranslation::: завтрак
+DerDieDas::: das
+Plural::: Frühstücke
+FrontExample::: Möchtest du ein Ei zum Frühstück?
+BackExample::: Ты хотел бы яйцо на завтрак?
+FrontExample2::: Zum Frühstück esse ich Müsli.
+BackExample2::: На завтрак я ем мюсли.
+FrontExample3::: Ich habe heute kein Frühstück gehabt.
+BackExample3::: Сегодня я не завтракал.
+Tags:::  A1 chatgpt 
+guid::: k5wAL=&fA,

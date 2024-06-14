@@ -1,0 +1,13 @@
+Word::: erklären
+WordTranslation::: объяснять, разъяснять, объявлять
+DrittenPerson::: erklärt
+Perfekt::: haben erklärt
+Präteritum::: erklärte
+FrontExample::: Kannst du mir das erklären?
+BackExample::: Ты можешь мне это объяснить?
+FrontExample2::: Der Lehrer erklärt die Grammatik.
+BackExample2::: Учитель объясняет грамматику.
+FrontExample3::: Kannst du mir erklären, wie das funktioniert?
+BackExample3::: Можешь объяснить мне, как это работает?
+Tags:::  A1 chatgpt 
+guid::: Mt=]S^l`TY

@@ -1,0 +1,7 @@
+Word::: schwierig
+WordTranslation::: трудный, сложный
+Explanation::: Syn: kompliziert
+FrontExample::: Diese Matheaufgabe ist sehr schwierig.
+BackExample::: Эта математическая задача очень сложная.
+Tags:::  chatgpt 
+guid::: NNcao^Hwdm

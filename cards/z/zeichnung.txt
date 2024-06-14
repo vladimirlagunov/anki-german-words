@@ -1,0 +1,8 @@
+Word::: Zeichnung
+WordTranslation::: чертёж, рисунок, подпись
+DerDieDas::: die
+Plural::: Zeichnungen
+FrontExample::: Die Zeichnung des Kindes hängt nun an der Wand.
+BackExample::: Рисунок ребёнка теперь висит на стене.
+Tags:::  chatgpt 
+guid::: E>&K827LU1

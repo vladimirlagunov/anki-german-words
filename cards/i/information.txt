@@ -1,0 +1,10 @@
+Word::: Information
+WordTranslation::: информация
+DerDieDas::: die
+Plural::: Informationen
+FrontExample::: Wir haben hier wichtige Informationen für Sie.
+BackExample::: У нас здесь есть важная информация для вас.
+FrontExample2::: Ich brauche eine Information zum Zugabfahrt.
+BackExample2::: Мне нужна информация о времени отправления поезда.
+Tags:::  A1 chatgpt 
+guid::: t,8f.Ia6So

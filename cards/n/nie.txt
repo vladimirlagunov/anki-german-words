@@ -1,0 +1,10 @@
+Word::: nie
+WordTranslation::: никогда
+FrontExample::: Er kommt nie pünktlich.
+BackExample::: Он никогда не приходит вовремя.
+FrontExample2::: Ich habe dich nie gesehen.
+BackExample2::: Я никогда тебя не видел.
+FrontExample3::: Sie liest nie Bücher.
+BackExample3::: Она никогда не читает книги.
+Tags:::  A1 chatgpt 
+guid::: gEt@#Oyd|<

@@ -1,0 +1,9 @@
+Word::: schwimmen
+WordTranslation::: плавать, купаться
+DrittenPerson::: schwimmt
+Perfekt::: sein geschwommen
+Präteritum::: schwamm
+FrontExample::: Ich schwimme jeden Tag einen Kilometer.
+BackExample::: Я проплываю каждый день один километр.
+Tags:::  A1 chatgpt 
+guid::: v8/800<+}a

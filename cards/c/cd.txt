@@ -1,0 +1,8 @@
+Word::: CD
+WordTranslation::: лазерный диск
+DerDieDas::: die
+Plural::: CDs
+FrontExample::: Bring bitte deine Lieblings-CD mit.
+BackExample::: Пожалуйста, возьмите с собой ваш любимый компакт-диск.
+Tags:::  A1 
+guid::: zJr-3-iUP0

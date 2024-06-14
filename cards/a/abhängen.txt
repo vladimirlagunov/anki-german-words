@@ -4,12 +4,12 @@ WordTranslation::: <ul>
 </ul>
 DrittenPerson::: hängt ab
 Perfekt::: <ul>
-<li>haben abgehangen</li>
-<li>haben abgehängt</li>
+<li>haben abgehangen – зависеть от</li>
+<li>haben abgehängt – проводить время, расслабляться, отдыхать</li>
 </ul>
 Präteritum::: <ul>
-<li>hing ab</li>
-<li>hängte ab</li>
+<li>hing ab&nbsp;– зависеть от</li>
+<li>hängte ab&nbsp;– проводить время, расслабляться, отдыхать</li>
 </ul>
 FrontExample::: Nach der Arbeit hängt er gerne mit seinen Freunden ab.
 

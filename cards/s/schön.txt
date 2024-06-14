@@ -1,0 +1,10 @@
+Word::: schön
+WordTranslation::: красивый, хороший, приятный, прекрасный
+FrontExample::: Schönen Urlaub!
+BackExample::: Хорошего отпуска!
+FrontExample2::: Das ist ein schönes Haus.
+BackExample2::: Это красивый дом.
+FrontExample3::: Sie hat schöne Blumen gekauft.
+BackExample3::: Она купила красивые цветы.
+Tags:::  A1 chatgpt 
+guid::: N7q(tIT-AY

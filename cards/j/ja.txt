@@ -1,0 +1,6 @@
+Word::: ja
+WordTranslation::: да
+FrontExample::: Sind Sie Herr Watanabe? – Ja.
+BackExample::: Вы господин Ватанабэ? - Да.
+Tags:::  A1 
+guid::: w+*0_L=geT

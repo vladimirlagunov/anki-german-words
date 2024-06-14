@@ -1,0 +1,6 @@
+Word::: Süßigkeit
+WordTranslation::: сладость
+DerDieDas::: die
+Plural::: Süßigkeiten
+Tags::: 
+guid::: @W?A%7s_s

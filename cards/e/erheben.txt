@@ -3,9 +3,11 @@ WordTranslation::: <ul><li>поднимать</li><li>взимать</li><li>п�
 DrittenPerson::: erhebt
 Perfekt::: haben erhoben
 Präteritum::: erhob
-FrontExample::: Erheben Sie bitte Ihre Gläser auf das Brautpaar!
-BackExample::: Пожалуйста, поднимите ваши бокалы за молодожёнов!
+FrontExample::: Der König erhebt sich von seinem Thron.
+BackExample::: Король поднимается со своего трона.
 FrontExample2::: Gegen den Beschuldigten wurden schwere Vorwürfe erhoben.
 BackExample2::: Против обвиняемого были выдвинуты серьёзные обвинения.
+FrontExample3::: Die Regierung wird die Steuern nächstes Jahr erheben.
+BackExample3::: Правительство введёт налоги в следующем году.
 Tags:::  chatgpt 
 guid::: bNVwW+4|1w

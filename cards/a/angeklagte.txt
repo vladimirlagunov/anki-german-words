@@ -1,6 +1,6 @@
 Word::: Angeklagte
 WordTranslation::: подсудимый, обвиняемый
-DerDieDas::: der / die
+DerDieDas::: der/die
 Plural::: Angeklagte, Angeklagten
 FrontExample::: Der Angeklagte plädierte auf nicht schuldig.
 BackExample::: Подсудимый заявил о своей невиновности.

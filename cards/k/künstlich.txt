@@ -1,0 +1,6 @@
+Word::: künstlich
+WordTranslation::: искусственный, синтетический
+FrontExample::: Ich mag kein künstliches Licht.
+BackExample::: Я не люблю искусственный свет.
+Tags::: 
+guid::: E;keJ<tNw,

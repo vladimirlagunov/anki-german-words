@@ -1,0 +1,13 @@
+Word::: mitkommen
+WordTranslation::: сопроводить
+DrittenPerson::: kommt mit
+Perfekt::: sein mitgekommen
+Präteritum::: kam mit
+FrontExample::: Ich gehe ins Kino. Kommst du mit?
+BackExample::: Я иду в кино. Идешь со мной?
+FrontExample2::: Kannst du heute nach der Schule mitkommen?
+BackExample2::: Ты можешь сегодня после школы пойти со мной?
+FrontExample3::: Möchtest du mit uns ins Schwimmbad mitkommen?
+BackExample3::: Хочешь пойти с нами в бассейн?
+Tags:::  A1 chatgpt 
+guid::: g*>~Fj6,[%

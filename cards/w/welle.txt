@@ -1,0 +1,6 @@
+Word::: Welle
+WordTranslation::: волна
+DerDieDas::: die
+Plural::: Wellen
+Tags:::  chatgpt 
+guid::: rZ>uZM5bzD

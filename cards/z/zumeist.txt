@@ -1,0 +1,10 @@
+Word::: zumeist
+WordTranslation::: в основном, преимущественно
+FrontExample::: Die Studenten wohnen zumeist in Wohnheimen.
+BackExample::: Студенты преимущественно живут в общежитиях.
+FrontExample2::: In diesem Wald gibt es zumeist Kiefern.
+BackExample2::: В этом лесу преимущественно [растут] сосны.
+FrontExample3::: Sie nutzt zumeist öffentliche Verkehrsmittel, um zur Arbeit zu kommen.
+BackExample3::: Она в основном использует общественный транспорт, чтобы добраться до работы.
+Tags:::  chatgpt 
+guid::: e-H}Xts8X^

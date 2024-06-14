@@ -1,0 +1,6 @@
+Word::: zusätzlich
+WordTranslation::: дополнительно
+FrontExample::: Könnten Sie mir bitte zusätzliches Besteck bringen?
+BackExample::: Не могли бы вы принести мне дополнительные столовые приборы?
+Tags:::  chatgpt 
+guid::: Cj^iInT0B_

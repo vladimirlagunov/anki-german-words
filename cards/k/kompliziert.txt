@@ -1,0 +1,7 @@
+Word::: kompliziert
+WordTranslation::: сложный, запутанный
+Explanation::: Syn: schwierig
+FrontExample::: Die Anleitung zum Aufbau ist kompliziert.
+BackExample::: Инструкция по сборке сложная.
+Tags:::  chatgpt 
+guid::: s%R+gcC(^@

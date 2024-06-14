@@ -1,0 +1,8 @@
+Word::: sicher
+WordTranslation::: безопасный, уверенный, надёжный
+FrontExample::: Bist du sicher, dass du das machen willst?
+BackExample::: Ты уверен, что хочешь это сделать?
+FrontExample2::: Ich fühle mich hier nicht sicher.
+BackExample2::: Я чувствую себя здесь не в безопасности.
+Tags:::  chatgpt 
+guid::: LJTowG~i-X

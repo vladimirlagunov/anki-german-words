@@ -1,0 +1,12 @@
+Word::: Welt
+WordTranslation::: мир, вселенная
+DerDieDas::: die
+Plural::: Welten
+FrontExample::: Es gibt viele Probleme auf der Welt.
+BackExample::: В мире много проблем.
+FrontExample2::: Die Welt ist groß.
+BackExample2::: Мир огромен.
+FrontExample3::: Sie träumt von einer Reise um die Welt.
+BackExample3::: Она мечтает о путешествии вокруг света.
+Tags:::  A1 chatgpt 
+guid::: t9=SL31Qw;

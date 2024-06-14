@@ -1,0 +1,14 @@
+Word::: erleben
+WordTranslation::: переживать, испытывать, проживать
+Explanation::: Syn: erfahren, durchleben, entdecken
+DrittenPerson::: erlebt
+Perfekt::: haben erlebt
+Präteritum::: erlebte
+FrontExample::: In unserem Urlaub haben wir viel Schönes erlebt.
+BackExample::: Во время нашего отпуска мы испытали много прекрасного.
+FrontExample2::: Manchmal frage ich mich, ob ich so etwas je erleben werde.
+BackExample2::: Иногда я задаюсь вопросом, испытаю ли я когда-нибудь нечто подобное.
+FrontExample3::: Wir werden gemeinsam viele Abenteuer erleben.
+BackExample3::: Мы вместе переживем много приключений.
+Tags:::  chatgpt 
+guid::: vww]>+1b&}

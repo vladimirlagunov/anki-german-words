@@ -1,0 +1,12 @@
+Word::: Meer
+WordTranslation::: море
+DerDieDas::: das
+Plural::: Meere
+FrontExample::: Wir machen Urlaub am Meer.
+BackExample::: Мы проводим отпуск на море.
+FrontExample2::: Das Meer ist blau.
+BackExample2::: Море голубое.
+FrontExample3::: Ich sehe das Meer von hier.
+BackExample3::: Я вижу море отсюда.
+Tags:::  A1 chatgpt 
+guid::: N$X^3|+w|6

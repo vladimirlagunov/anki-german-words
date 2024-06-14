@@ -1,0 +1,9 @@
+Word::: verstehen
+WordTranslation::: понимать, осознавать, постигать
+DrittenPerson::: versteht
+Perfekt::: haben verstanden
+Präteritum::: verstand
+FrontExample::: Können Sie mich verstehen?
+BackExample::: Вы меня понимаете?
+Tags:::  A1 chatgpt 
+guid::: L>,Z]`!1ow

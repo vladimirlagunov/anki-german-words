@@ -1,0 +1,11 @@
+Word::: Erwachsene
+WordTranslation::: взрослый, взрослые
+DerDieDas::: der/die
+FrontExample::: Dieser Film ist nur für Erwachsene.
+BackExample::: Этот фильм только для взрослых.
+FrontExample2::: Kinder zahlen die Hälfte, aber Erwachsene müssen den vollen Preis bezahlen.
+BackExample2::: Дети платят половину, но взрослые должны платить полную стоимость.
+FrontExample3::: Erwachsene lesen oft Zeitungen.
+BackExample3::: Взрослые часто читают газеты.
+Tags:::  A1 chatgpt 
+guid::: nXGyI/8fPf

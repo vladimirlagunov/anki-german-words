@@ -1,0 +1,13 @@
+Word::: herstellen
+WordTranslation::: изготавливать, производить, создавать
+DrittenPerson::: stellt her
+Perfekt::: haben hergestellt
+Präteritum::: stellte her
+FrontExample::: Die Fabrik stellt Autos her.
+BackExample::: Завод производит автомобили.
+FrontExample2::: Kannst du die Verbindung noch einmal herstellen?
+BackExample2::: Можешь ещё раз установить соединение?
+FrontExample3::: Sie hat den Kontakt zu ihrer Familie wieder hergestellt.
+BackExample3::: Она восстановила контакт со своей семьёй.
+Tags:::  chatgpt 
+guid::: b+)yLfC`m,

@@ -1,0 +1,9 @@
+Word::: wahrscheinlich
+WordTranslation::: вероятно, возможно, скорее всего
+Explanation::: <ul><li><div><strong>Wahrscheinlich</strong>:</div><ul><li><strong>Значение</strong>: вероятно, скорее всего.</li><li><strong>Уровень уверенности</strong>: более высокий уровень уверенности по сравнению с "vielleicht".</li><li><strong>Пример</strong>: Es wird morgen wahrscheinlich regnen. (Завтра, вероятно, будет дождь.)</li><li><strong>Использование</strong>: когда говорящий считает, что событие или действие скорее всего произойдет.</li></ul></li><li><div><strong>Vielleicht</strong>:</div><ul><li><strong>Значение</strong>: возможно, может быть.</li><li><strong>Уровень уверенности</strong>: более низкий уровень уверенности по сравнению с "wahrscheinlich".</li><li><strong>Пример</strong>: Vielleicht komme ich später. (Возможно, я приду позже.)</li><li><strong>Использование</strong>: когда говорящий считает, что событие или действие может произойти, но нет уверенности.</li></ul></li></ul>
+FrontExample::: Es wird wahrscheinlich morgen regnen.
+BackExample::: Вероятно, завтра будет дождь.
+FrontExample2::: Ich komme wahrscheinlich etwas später zum Treffen.
+BackExample2::: Вероятно, я немного опоздаю на встречу.
+Tags:::  chatgpt 
+guid::: P%OHinFu.<

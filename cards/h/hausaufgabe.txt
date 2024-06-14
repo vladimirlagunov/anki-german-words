@@ -1,0 +1,12 @@
+Word::: Hausaufgabe
+WordTranslation::: домашнее задание
+DerDieDas::: die
+Plural::: Hausaufgaben
+FrontExample::: Kannst du mir bei den Hausaufgaben helfen?
+BackExample::: Ты можешь помочь мне с домашним заданием?
+FrontExample2::: Ich muss meine Hausaufgaben machen.
+BackExample2::: Мне нужно сделать домашнее задание.
+FrontExample3::: Hast du deine Hausaufgaben schon gemacht?
+BackExample3::: Ты уже сделал домашнее задание?
+Tags:::  A1 chatgpt 
+guid::: t/(3rtB(1o

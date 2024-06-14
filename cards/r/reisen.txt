@@ -1,0 +1,13 @@
+Word::: reisen
+WordTranslation::: путешествовать
+DrittenPerson::: reist
+Perfekt::: sein gereist
+Präteritum::: reiste
+FrontExample::: Ich reise gern.
+BackExample::: Мне нравится путешествовать.
+FrontExample2::: Wir reisen nach Italien.
+BackExample2::: Мы путешествуем в Италию.
+FrontExample3::: Ich reise mit dem Zug.
+BackExample3::: Я путешествую на поезде.
+Tags:::  A1 chatgpt 
+guid::: q2>>7D~)j(

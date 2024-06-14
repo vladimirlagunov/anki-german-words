@@ -1,0 +1,6 @@
+Word::: häufig
+WordTranslation::: часто
+FrontExample::: Haben Sie häufig Kopfschmerzen? Dann sollten Sie nicht so lange am Computer sitzen.
+BackExample::: Часто ли у вас бывают головные боли? Тогда вам не следует так долго сидеть за компьютером.
+Tags::: 
+guid::: B**.zvmdBX

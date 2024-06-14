@@ -1,0 +1,6 @@
+Word::: grün
+WordTranslation::: зелёный
+FrontExample::: Das Gras ist grün.
+BackExample::: Трава зелёная.
+Tags:::  A1 chatgpt 
+guid::: G!kp4aiF(v

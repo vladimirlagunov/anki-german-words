@@ -1,0 +1,12 @@
+Word::: Wetter
+WordTranslation::: погода
+DerDieDas::: das
+Plural::: Wetter
+FrontExample::: Wir hatten schlechtes Wetter.
+BackExample::: У нас была плохая погода.
+FrontExample2::: Wie wird das Wetter morgen?
+BackExample2::: Какая будет погода завтра?
+FrontExample3::: Das Wetter ist heute schön.
+BackExample3::: Сегодня хорошая погода.
+Tags:::  A1 chatgpt 
+guid::: eoZ$Q9?A.0

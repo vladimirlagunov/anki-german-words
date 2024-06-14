@@ -1,0 +1,8 @@
+Word::: E-Mail
+WordTranslation::: электронное письмо, электронная почта
+DerDieDas::: die
+Plural::: <div>E-Mails</div>
+FrontExample::: Ich habe Ihre E-Mail nicht bekommen.
+BackExample::: Я не получил Ваше письмо.
+Tags:::  A1 
+guid::: hiz1[&a7cA

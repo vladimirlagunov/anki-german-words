@@ -4,7 +4,7 @@ DerDieDas::: der
 Plural::: Reize
 FrontExample::: Ihr Lächeln hat einen gewissen Reiz.
 BackExample::: Её улыбка обладает неким очарованием.
-FrontExample2::: Ich verstehe den Reiz dieses Spiels nicht.
-BackExample2::: Я просто не вижу привлекательности этой игры.
+FrontExample2::: Er konnte dem Reiz des Spiels nicht widerstehen.
+BackExample2::: Он не смог устоять перед соблазном игры.
 Tags:::  chatgpt 
 guid::: h?ahtpNj?)

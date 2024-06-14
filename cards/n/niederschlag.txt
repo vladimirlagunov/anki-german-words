@@ -5,7 +5,5 @@ Plural::: Niederschläge
 FrontExample::: Die Landwirte hoffen auf ausreichenden Niederschlag, um ihre Felder zu bewässern.
 
 BackExample::: Фермеры надеются на достаточное количество осадков, чтобы орошать свои поля.
-FrontExample2::: Die Wettervorhersage zeigt an, dass in den nächsten Tagen kein Niederschlag erwartet wird. Todo почему-то не daran?
-BackExample2::: Прогноз погоды показывает, что в следующие дни не ожидается осадков.
 Tags:::  chatgpt 
 guid::: OJTD`r)?!X

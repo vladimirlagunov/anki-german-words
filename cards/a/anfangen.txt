@@ -1,0 +1,13 @@
+Word::: anfangen
+WordTranslation::: <ul><li>начинать</li><li>начинаться</li></ul>
+DrittenPerson::: fängt an
+Perfekt::: haben angefangen
+Präteritum::: fing an
+FrontExample::: Hier fängt die Bahnhofstraße an.
+BackExample::: Здесь начинается улица Банхофштрассе.
+FrontExample2::: Der Unterricht fängt gleich an.
+BackExample2::: Урок начнётся совсем скоро.
+FrontExample3::: Wann fängst du mit der Arbeit an?
+BackExample3::: Когда ты начинаешь работать?
+Tags:::  A1 chatgpt 
+guid::: beQweN%tA[

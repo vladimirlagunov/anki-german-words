@@ -1,0 +1,11 @@
+Word::: meinen
+WordTranslation::: подразумевать, иметь мнение
+DrittenPerson::: meint
+Perfekt::: haben gemeint
+Präteritum::: meinte
+FrontExample::: Dieser Film ist gut. Was meinst du?
+BackExample::: Этот фильм хорош. Что ты думаешь?
+FrontExample2::: Ich meine, du solltest weniger rauchen.
+BackExample2::: Я считаю, тебе нужно меньше курить.
+Tags::: 
+guid::: I[PVHiDJpn

@@ -1,0 +1,10 @@
+Word::: sie
+WordTranslation::: <ul><li>она</li><li>они</li></ul>
+FrontExample::: Wie heißt sie?
+BackExample::: Как её зовут?
+FrontExample2::: Wie heißen sie?
+BackExample2::: Как их зовут?
+FrontExample3::: Sie liest ein Buch.
+BackExample3::: Она читает книгу.
+Tags:::  A1 chatgpt 
+guid::: -SWd7NJ;U

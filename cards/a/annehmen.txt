@@ -1,0 +1,13 @@
+Word::: annehmen
+WordTranslation::: принимать, предполагать, допускать
+DrittenPerson::: nimmt an
+Perfekt::: haben angenommen
+Präteritum::: nahm an
+FrontExample::: Ich nehme das Geschenk an.
+BackExample::: Я принимаю подарок.
+FrontExample2::: Er nahm den Vorschlag an.
+BackExample2::: Он принял предложение.
+FrontExample3::: Sie müssen das Risiko annehmen.
+BackExample3::: Вам нужно принять риск.
+Tags:::  chatgpt 
+guid::: Gos8q**Y.;

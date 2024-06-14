@@ -1,0 +1,6 @@
+Word::: Wochenzeitschrift
+WordTranslation::: еженедельный журнал
+DerDieDas::: die
+Plural::: Wochenzeitschriften
+Tags::: 
+guid::: AC=rvbUau)

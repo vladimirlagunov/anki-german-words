@@ -1,0 +1,11 @@
+Word::: vermieten
+WordTranslation::: сдавать в аренду, сдавать в наём
+DrittenPerson::: vermietet
+Perfekt::: haben vermietet
+Präteritum::: vermietete
+FrontExample::: Die Wohnung ist schon vermietet.
+BackExample::: Квартира уже сдана в аренду.
+FrontExample2::: Kann man hier ein Auto vermieten?
+BackExample2::: Можно здесь арендовать автомобиль?
+Tags:::  A1 chatgpt 
+guid::: i`r+:a}0^c

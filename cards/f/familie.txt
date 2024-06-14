@@ -1,0 +1,8 @@
+Word::: Familie
+WordTranslation::: семья
+DerDieDas::: die
+Plural::: Familien
+FrontExample::: Meine Familie lebt in Spanien.
+BackExample::: Моя семья живёт в Испании.
+Tags:::  A1 chatgpt 
+guid::: zb%7EjYFDk

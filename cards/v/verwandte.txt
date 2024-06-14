@@ -1,0 +1,12 @@
+Word::: Verwandte
+WordTranslation::: родственники, родные
+DerDieDas::: der, die
+Plural::: Verwandte, Verwandten
+FrontExample::: Peter besucht seine Verwandten in Polen.
+BackExample::: Петер посещает своих родственников в Польше.
+FrontExample2::: Meine Verwandten kommen heute zu Besuch.
+BackExample2::: Мои родственники приходят сегодня в гости.
+FrontExample3::: Ich habe viele Verwandte in Deutschland.
+BackExample3::: У меня много родственников в Германии.
+Tags:::  A1 chatgpt 
+guid::: dguasi^X0M

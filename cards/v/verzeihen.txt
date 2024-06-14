@@ -1,9 +1,8 @@
 Word::: verzeihen
-WordTranslation::: прощать<br><ul>
-</ul>
+WordTranslation::: прощать
+Explanation::: Глагол <strong>verzeihen</strong> в немецком языке обычно употребляется с дательным падежом. Это значит, что если в предложении есть объект, которому прощают, этот объект будет в дательном падеже. Например, в предложении "Ich verzeihe dir" (Я прощаю тебе), слово "dir" стоит в дательном падеже.
 DrittenPerson::: verzeiht
-Perfekt::: haben  verziehen<br><ul>
-</ul>
+Perfekt::: haben  verziehen
 Präteritum::: verzieh
 FrontExample::: Es war ein Fehler, aber ich hoffe, du kannst mir (?) verzeihen.
 BackExample::: Это была ошибка, но я надеюсь, ты можешь меня простить.

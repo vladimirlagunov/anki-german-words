@@ -1,0 +1,6 @@
+Word::: ich
+WordTranslation::: я
+FrontExample::: Ich heiße Veronika.
+BackExample::: Меня зовут Вероника.
+Tags:::  A1 
+guid::: QU0c~v%nr3

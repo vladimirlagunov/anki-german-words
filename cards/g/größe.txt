@@ -1,0 +1,10 @@
+Word::: Größe
+WordTranslation::: размер
+DerDieDas::: die
+Plural::: Größen
+FrontExample::: Haben Sie das auch in Größe 40?
+BackExample::: У вас есть это также в размере 40?
+FrontExample2::: Ich brauche Schuhe in Größe 38
+BackExample2::: Мне нужны обувь 38 размера
+Tags:::  A1 chatgpt 
+guid::: Hbqr_}3yCq

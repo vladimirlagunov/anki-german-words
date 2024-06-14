@@ -1,0 +1,6 @@
+Word::: Bescheinigung
+WordTranslation::: расписка, квитанция
+DerDieDas::: die
+Plural::: Bescheinigungen
+Tags::: 
+guid::: f#p:*uR#<m

@@ -1,0 +1,8 @@
+Word::: geradeaus
+WordTranslation::: прямо
+FrontExample::: Gehen Sie immer geradeaus!
+BackExample::: Идите всегда прямо!
+FrontExample2::: Um zum Bahnhof zu kommen, gehen Sie einfach immer geradeaus.
+BackExample2::: Чтобы добраться до вокзала, просто идите прямо.
+Tags:::  A1 chatgpt 
+guid::: JAg2M.42aU

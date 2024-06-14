@@ -11,7 +11,7 @@
       <env name="QTWEBENGINE_CHROMIUM_FLAGS" value="--remote-debugging-port=13580" />
     </envs>
     <option name="SDK_HOME" value="" />
-    <option name="SDK_NAME" value="interpreter of anki" />
+    <option name="SDK_NAME" value="Python 3.9 virtualenv at ~/src/my/anki-german-words/anki/out/pyenv" />
     <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/" />
     <option name="IS_MODULE_SDK" value="false" />
     <option name="ADD_CONTENT_ROOTS" value="true" />

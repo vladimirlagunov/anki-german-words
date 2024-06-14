@@ -1,0 +1,10 @@
+Word::: Mehl
+WordTranslation::: мука
+DerDieDas::: das
+Plural::: Mehle
+FrontExample::: Ich brauche Mehl für den Kuchen.
+BackExample::: Мне нужно мука для пирога.
+FrontExample2::: Das Mehl ist im Schrank.
+BackExample2::: Мука находится в шкафу.
+Tags:::  chatgpt 
+guid::: J?4W*3m!P/

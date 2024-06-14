@@ -1,0 +1,15 @@
+Word::: Grad
+WordTranslation::: <ul>
+<li>градус</li>
+<li>степень</li>
+</ul>
+DerDieDas::: der
+Plural::: Grade
+FrontExample::: Es sind 20 Grad draußen.
+BackExample::: На улице 20 градусов.
+FrontExample2::: Sie hat ihren Master-Abschluss mit dem besten Grad gemacht.
+BackExample2::: Она получила степень магистра с отличием.
+FrontExample3::: Der Winkel beträgt 90 Grad.
+BackExample3::: Угол составляет 90 градусов.
+Tags:::  A1 chatgpt 
+guid::: ms]D}0_?va

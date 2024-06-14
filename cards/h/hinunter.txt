@@ -1,0 +1,10 @@
+Word::: hinunter
+WordTranslation::: вниз
+FrontExample::: Sie lief die Treppe hinunter.
+BackExample::: Она спустилась по лестнице.
+FrontExample2::: Wir müssen den Berg hinunterwandern.
+BackExample2::: Мы должны спуститься с горы.
+FrontExample3::: Schau hinunter in das Tal!
+BackExample3::: Посмотри вниз, в долину!
+Tags:::  chatgpt 
+guid::: u@EZ_M^L7_
