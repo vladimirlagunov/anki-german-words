@@ -2,7 +2,7 @@ import argparse
 import os
 import re
 import shutil
-from anki.collection import Collection
+from anki.collection import Collection, ExportAnkiPackageOptions
 from aqt import ProfileManager
 from german_word_addon.filler import universal_german_word_template_name, _fill_note_from_wiktionary
 from tempfile import mkdtemp
@@ -46,6 +46,7 @@ def handle_a1_cards():
 
     col.save()
 
+
 def main():
     parser = argparse.ArgumentParser()
     subparsers = parser.add_subparsers()
@@ -87,9 +88,10 @@ def main():
         col.export_anki_package(
             out_path=os.path.join(args.path, 'export.apkg'),
             limit=None,
-            with_scheduling=False,
-            with_media=True,
-            legacy_support=False,
+            options=ExportAnkiPackageOptions(
+                with_scheduling=False,
+                with_media=True,
+            )
         )
     finally:
         try:
