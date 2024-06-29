@@ -1,6 +1,6 @@
 Word::: verantwortlich
 WordTranslation::: ответственный
-Explanation::: <ul><li><strong>für</strong> (A) - означает "за", указывает на то, за что или за кого кто-то несет ответственность. Пример: Sie ist verantwortlich für das Projekt. - Она ответственна за проект.</li><li><strong>gegenüber</strong> (D) - означает "по отношению к", указывает на кого-то или что-то, к кому или к чему кто-то несет ответственность. Пример: Der Manager ist verantwortlich gegenüber seinen Mitarbeitern. - Менеджер несет ответственность перед своими сотрудниками.</li></ul>
+Explanation::: <ul><li><strong class="spoiler">für (A)</strong> - означает "за", указывает на то, за что или за кого кто-то несет ответственность. Пример: Sie ist verantwortlich für das Projekt. - Она ответственна за проект.</li><li><strong class="spoiler">gegenüber (D)</strong> - означает "по отношению к", указывает на кого-то или что-то, к кому или к чему кто-то несет ответственность. Пример: Der Manager ist verantwortlich gegenüber seinen Mitarbeitern. - Менеджер несет ответственность перед своими сотрудниками.</li></ul>
 FrontExample::: Er ist verantwortlich für das Projektmanagement.
 BackExample::: Он ответственный за управление проектом.
 FrontExample2::: Eltern sind verantwortlich gegenüber ihren Kindern für deren Erziehung und Wohlergehen.

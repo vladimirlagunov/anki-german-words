@@ -1,6 +1,6 @@
 Word::: interessiert sein
 WordTranslation::: быть заинтересованным
-Explanation::: sein&nbsp;<b>an Dativ&nbsp;</b>interessiert<br><br>но:<br><br>interessieren <b>für Akkusativ</b>
+Explanation::: sein&nbsp;<b class="spoiler">an (D)</b>interessiert<br><br>но:<br><br>interessieren <b class="spoiler">für (A)</b>
 FrontExample::: Ich bin sehr an der Kunstgeschichte interessiert.
 BackExample::: Я очень заинтересован историей искусства.
 FrontExample2::: Er ist nicht daran interessiert, früher aufzustehen.

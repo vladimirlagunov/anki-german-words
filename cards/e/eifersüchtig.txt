@@ -1,6 +1,6 @@
 Word::: eifersüchtig
 WordTranslation::: ревнивый
-Explanation::: <ul><li><strong>auf</strong> (A) – указывает на объект ревности. Пример: Sie ist eifersüchtig auf ihren Kollegen. (Она ревнует своего коллегу.)</li><li><strong>über</strong> (A) – обозначает причину или повод для ревности. Пример: Er ist eifersüchtig über den Erfolg seines Freundes. (Он ревнует к успеху своего друга.)</li></ul>
+Explanation::: <ul><li><strong class="spoiler">auf (A)</strong> – указывает на объект ревности. Пример: Sie ist eifersüchtig auf ihren Kollegen. (Она ревнует своего коллегу.)</li><li><strong class="spoiler">über (A)</strong> – обозначает причину или повод для ревности. Пример: Er ist eifersüchtig über den Erfolg seines Freundes. (Он ревнует к успеху своего друга.)</li></ul>
 FrontExample::: Ich werde nicht eifersüchtig auf deine Erfolge; ich bin stolz auf dich!
 BackExample::: Я не ревную к твоим успехам; я горжусь тобой!
 Tags:::  chatgpt 

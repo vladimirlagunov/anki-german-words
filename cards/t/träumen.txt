@@ -1,6 +1,6 @@
 Word::: träumen
 WordTranslation::: мечтать
-Explanation::: <ul><li><strong>von</strong> (D) - означает "о", указывает на то, о чем или о ком кто-то мечтает. Пример: Ich träume von einem Leben ohne Sorgen. - Я мечтаю о жизни без забот.</li></ul>
+Explanation::: <ul><li><strong class="spoiler">von (D)</strong> - означает "о", указывает на то, о чем или о ком кто-то мечтает. Пример: Ich träume von einem Leben ohne Sorgen. - Я мечтаю о жизни без забот.</li></ul>
 DrittenPerson::: träumt
 Perfekt::: haben geträumt
 Präteritum::: träumte

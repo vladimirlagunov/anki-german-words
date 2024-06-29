@@ -1,6 +1,6 @@
 Word::: beginnen
 WordTranslation::: начинать
-Explanation::: <div><div><div><div><div><ul><li><strong>mit</strong> (D) - означает "с", указывает на то, с чего начинается действие. Пример: Ich beginne mit der Arbeit um 8 Uhr. - Я начинаю работу в 8 часов.</li></ul></div></div></div></div></div>
+Explanation::: <div><div><div><div><div><ul><li><strong class="spoiler">mit (D)</strong> - означает "с", указывает на то, с чего начинается действие. Пример: Ich beginne mit der Arbeit um 8 Uhr. - Я начинаю работу в 8 часов.</li></ul></div></div></div></div></div>
 DrittenPerson::: beginnt
 Perfekt::: haben begonnen
 Präteritum::: begann

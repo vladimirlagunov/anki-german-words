@@ -1,6 +1,6 @@
 Word::: finden zu
 WordTranslation::: иметь мнение о чём-то
-Explanation::: <ul><li><strong>finden zu</strong>: иметь определенное мнение или отношение к чему-либо.</li><li><strong>finden + Akkusativ</strong>: найти что-либо.</li></ul>
+Explanation::: <ul><li><strong class="spoiler">finden zu</strong>: иметь определенное мнение или отношение к чему-либо.</li><li><strong class="spoiler">finden + Akkusativ</strong>: найти что-либо.</li></ul>
 FrontExample::: Was findest du zu dieser Idee?
 
 BackExample::: Что ты думаешь об этой идее?

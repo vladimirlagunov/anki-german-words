@@ -1,6 +1,6 @@
 Word::: begeistert
 WordTranslation::: восторженный, воодушевленный
-Explanation::: <ul><li><strong>von</strong> (D) - означает "от", указывает на источник восторга или вдохновения. Пример: Ich bin von dem Konzert begeistert. - Я в восторге от концерта.</li><li><strong>über</strong> (A) - означает "на", указывает на предмет или ситуацию, вызывающую восторг или интерес. Пример: Er ist über das Ergebnis begeistert. - Он в восторге от результата.</li></ul>
+Explanation::: <ul><li><strong class="spoiler">von (D)</strong> - означает "от", указывает на источник восторга или вдохновения. Пример: Ich bin von dem Konzert begeistert. - Я в восторге от концерта.</li><li><strong class="spoiler">über (A)</strong> - означает "на", указывает на предмет или ситуацию, вызывающую восторг или интерес. Пример: Er ist über das Ergebnis begeistert. - Он в восторге от результата.</li></ul>
 FrontExample::: Die Kinder waren von den neuen Spielzeugen begeistert.
 BackExample::: Дети были в восторге от новых игрушек.
 FrontExample2::: Ich bin begeistert von deiner Idee!

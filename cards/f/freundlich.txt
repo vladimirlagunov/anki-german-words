@@ -1,6 +1,6 @@
 Word::: freundlich
 WordTranslation::: дружелюбный, приветливый, любезный
-Explanation::: <ul><li><strong>zu</strong> (D) - означает "к" (кому-либо) в смысле направления действия или чувства. Пример: Er ist immer freundlich zu mir. - Он всегда дружелюбен ко мне.</li><li><strong>mit</strong> (D) - означает "с" (кем-то), указывает на совместное или общее действие. Пример: Sie ist freundlich mit ihren Kollegen. - Она дружелюбна со своими коллегами.</li><li><strong>gegenüber</strong> (D) - означает "по отношению к", указывает на отношение к кому-то. Пример: Der Chef war sehr freundlich gegenüber den neuen Mitarbeitern. - Шеф был очень дружелюбен по отношению к новым сотрудникам.</li></ul>
+Explanation::: <ul><li><strong class="spoiler">zu (D)</strong> - означает "к" (кому-либо) в смысле направления действия или чувства. Пример: Er ist immer freundlich zu mir. - Он всегда дружелюбен ко мне.</li><li><strong class="spoiler">mit (D)</strong> - означает "с" (кем-то), указывает на совместное или общее действие. Пример: Sie ist freundlich mit ihren Kollegen. - Она дружелюбна со своими коллегами.</li><li><strong class="spoiler">gegenüber (D)</strong> - означает "по отношению к", указывает на отношение к кому-то. Пример: Der Chef war sehr freundlich gegenüber den neuen Mitarbeitern. - Шеф был очень дружелюбен по отношению к новым сотрудникам.</li></ul>
 FrontExample::: Die Verkäuferin war sehr freundlich.
 BackExample::: Продавщица была очень дружелюбной.
 FrontExample2::: Er hat uns freundlich begrüßt.

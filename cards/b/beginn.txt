@@ -1,6 +1,6 @@
 Word::: Beginn
 WordTranslation::: начало
-Explanation::: Syn: def Anfang<br><br><ol><li><div><strong>"Anfang"</strong>:</div><ul><li>Обычно относится к началу в пространственном или временном смысле.</li></ul></li><li><div><strong>"Beginn"</strong>:</div><ul><li>Чаще всего используется для обозначения начала события или действия.</li></ul></li></ol>
+Explanation::: Syn: def Anfang<br><br><ol><li><div><strong class="spoiler">"Anfang"</strong>:</div><ul><li>Обычно относится к началу в пространственном или временном смысле.</li></ul></li><li><div><strong class="spoiler">"Beginn"</strong>:</div><ul><li>Чаще всего используется для обозначения начала события или действия.</li></ul></li></ol>
 DerDieDas::: der
 Plural::: Beginne
 FrontExample::: Der Beginn der Veranstaltung

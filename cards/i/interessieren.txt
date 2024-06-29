@@ -1,6 +1,6 @@
 Word::: interessieren
 WordTranslation::: интересовать
-Explanation::: <ul><li><div><strong class="spoiler">für + A (sich interessieren für etwas)</strong> - означает "интересоваться чем-либо", подразумевая наличие интереса к конкретной теме, объекту или деятельности. Пример: "Ich interessiere mich für Kunst." - "Я интересуюсь искусством."</div></li><li><div><strong class="spoiler">an + D (sich interessieren an etwas)</strong> - используется реже и может означать "проявлять интерес к чему-то", схоже с "für", но с акцентом на процессе участия или вовлеченности. Пример: "Sie interessiert sich sehr an Politik." - "Она очень интересуется политикой."</div></li></ul><div>но:</div><div><br></div><div>sein&nbsp;<b>an Dativ&nbsp;</b>interessiert<br></div>
+Explanation::: <ul><li><div><strong class="spoiler">für + A (sich interessieren für etwas)</strong> - означает "интересоваться чем-либо", подразумевая наличие интереса к конкретной теме, объекту или деятельности. Пример: "Ich interessiere mich für Kunst." - "Я интересуюсь искусством."</div></li><li><div><strong class="spoiler">an + D (sich interessieren an etwas)</strong> - используется реже и может означать "проявлять интерес к чему-то", схоже с "für", но с акцентом на процессе участия или вовлеченности. Пример: "Sie interessiert sich sehr an Politik." - "Она очень интересуется политикой."</div></li></ul><div>но:</div><div><br></div><div>sein&nbsp;<b class="spoiler">an Dativ&nbsp;</b>interessiert<br></div>
 DrittenPerson::: interessiert
 Perfekt::: haben interessiert
 Präteritum::: interessierte

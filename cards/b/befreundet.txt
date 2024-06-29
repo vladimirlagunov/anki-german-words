@@ -1,6 +1,6 @@
 Word::: befreundet
 WordTranslation::: дружественный, товарищеский
-Explanation::: <ul><li><b>mit (D)</b>: означает "с", используется для указания с кем кто-то дружит. Пример: Ich bin mit Peter befreundet. (Я дружу с Питером.)</li></ul>
+Explanation::: <ul><li><b class="spoiler">mit (D)</b>: означает "с", используется для указания с кем кто-то дружит. Пример: Ich bin mit Peter befreundet. (Я дружу с Питером.)</li></ul>
 FrontExample::: Sie sind seit der Grundschule befreundet.
 BackExample::: Они дружат со школьных лет.
 Tags:::  chatgpt 

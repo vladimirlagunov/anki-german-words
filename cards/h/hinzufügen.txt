@@ -1,6 +1,6 @@
 Word::: hinzufügen
 WordTranslation::: добавлять
-Explanation::: <ol><li><div><strong>Zufügen</strong>: Этот глагол чаще всего используется в контексте причинения чего-либо, например, вреда или боли. Пример: "jemandem Schmerzen zufügen" означает причинить кому-то боль.</div></li><li><div><strong>Hinzufügen</strong>: Этот глагол используется в более общем смысле добавления. Он часто употребляется в контексте добавления информации, ингредиентов в рецепте и так далее. Пример: "eine Zutat hinzufügen" означает добавить ингредиент.</div></li></ol>
+Explanation::: <ol><li><div><strong class="spoiler">Zufügen</strong>: Этот глагол чаще всего используется в контексте причинения чего-либо, например, вреда или боли. Пример: "jemandem Schmerzen zufügen" означает причинить кому-то боль.</div></li><li><div><strong class="spoiler">Hinzufügen</strong>: Этот глагол используется в более общем смысле добавления. Он часто употребляется в контексте добавления информации, ингредиентов в рецепте и так далее. Пример: "eine Zutat hinzufügen" означает добавить ингредиент.</div></li></ol>
 DrittenPerson::: fügt hinzu
 Perfekt::: haben hinzugefügt
 Präteritum::: fügte hinzu

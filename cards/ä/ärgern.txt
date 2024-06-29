@@ -1,6 +1,6 @@
 Word::: ärgern
 WordTranslation::: злить(ся), сердить(ся), раздражать
-Explanation::: <ul><li><strong>über</strong> (A) - означает "из-за", указывает на причину раздражения или источник раздражения. Пример: Ich ärgere mich über die Verspätung des Zuges. - Я раздражаюсь из-за опоздания поезда.</li></ul>
+Explanation::: <ul><li><strong class="spoiler">über (A)</strong> - означает "из-за", указывает на причину раздражения или источник раздражения. Пример: Ich ärgere mich über die Verspätung des Zuges. - Я раздражаюсь из-за опоздания поезда.</li></ul>
 DrittenPerson::: ärgert
 Perfekt::: haben geärgert
 Präteritum::: ärgerte

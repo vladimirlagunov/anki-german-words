@@ -1,6 +1,6 @@
 Word::: traurig
 WordTranslation::: грустный, печальный, унылый
-Explanation::: <ul><li><strong>über (A)</strong>: Обозначает причину или тему чувства, например, "traurig über den Verlust" (печален из-за потери). Используется с аккузативом.</li><li><div><strong>wegen (G)</strong>: Также указывает на причину, например, "traurig wegen des schlechten Wetters" (печален из-за плохой погоды). Требует генитив.</div></li><li><strong>vor (D)</strong>: Выражает причину в более образном или переносном смысле, например, "traurig vor Freude" (печален от радости). Используется с дативом.</li></ul>
+Explanation::: <ul><li><strong class="spoiler">über (A)</strong>: Обозначает причину или тему чувства, например, "traurig über den Verlust" (печален из-за потери). Используется с аккузативом.</li><li><div><strong class="spoiler">wegen (G)</strong>: Также указывает на причину, например, "traurig wegen des schlechten Wetters" (печален из-за плохой погоды). Требует генитив.</div></li><li><strong class="spoiler">vor (D)</strong>: Выражает причину в более образном или переносном смысле, например, "traurig vor Freude" (печален от радости). Используется с дативом.</li></ul>
 FrontExample::: Sie ist traurig über das Ende ihrer Freundschaft.
 BackExample::: Она грустит о конце своей дружбы.
 FrontExample2::: Warum bist du so traurig?

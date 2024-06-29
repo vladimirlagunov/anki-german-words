@@ -1,6 +1,6 @@
 Word::: nett
 WordTranslation::: приятный, милый, любезный, доброжелательный
-Explanation::: <ul><li><div><strong>zu (D)</strong> - означает "к" (кому-то), используется для выражения направленности действия или чувства к кому-либо.</div><ul><li>Пример: Sie ist immer nett zu ihren Kollegen.</li><li>Перевод: Она всегда добра к своим коллегам.</li></ul></li></ul>
+Explanation::: <ul><li><div><strong class="spoiler">zu (D)</strong> - означает "к" (кому-то), используется для выражения направленности действия или чувства к кому-либо.</div><ul><li>Пример: Sie ist immer nett zu ihren Kollegen.</li><li>Перевод: Она всегда добра к своим коллегам.</li></ul></li></ul>
 FrontExample::: Sie ist sehr nett zu mir gewesen.
 BackExample::: Она была ко мне очень мила.
 FrontExample2::: Das war ein netter Abend.

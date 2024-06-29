@@ -1,6 +1,6 @@
 Word::: berühren
 WordTranslation::: касаться, трогать
-Explanation::: <ul><li><div><strong>Berühren</strong>:</div><ul><li><strong>Значение</strong>: переводится как "касаться", "трогать".</li><li><strong>Использование</strong>: обычно используется в физическом смысле, когда речь идет о прикосновении к чему-либо или кому-либо.</li></ul></li><li><div><strong>Betreffen</strong>:</div><ul><li><strong>Значение</strong>: переводится как "касаться", "относиться к", "затрагивать".</li><li><strong>Использование</strong>: используется в абстрактном или общем смысле, когда речь идет о том, что какое-то событие или ситуация касается, затрагивает или влияет на кого-либо или что-либо.</li></ul></li></ul>
+Explanation::: <ul><li><div><strong class="spoiler">Berühren</strong>:</div><ul><li><strong class="spoiler">Значение</strong>: переводится как "касаться", "трогать".</li><li><strong class="spoiler">Использование</strong>: обычно используется в физическом смысле, когда речь идет о прикосновении к чему-либо или кому-либо.</li></ul></li><li><div><strong class="spoiler">Betreffen</strong>:</div><ul><li><strong class="spoiler">Значение</strong>: переводится как "касаться", "относиться к", "затрагивать".</li><li><strong class="spoiler">Использование</strong>: используется в абстрактном или общем смысле, когда речь идет о том, что какое-то событие или ситуация касается, затрагивает или влияет на кого-либо или что-либо.</li></ul></li></ul>
 DrittenPerson::: berührt
 Perfekt::: haben berührt
 Präteritum::: berührte

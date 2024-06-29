@@ -1,6 +1,6 @@
 Word::: überzeugt
 WordTranslation::: убежденный, уверенный
-Explanation::: <ul><li><strong>von</strong> (D) - означает "от", указывает на источник убеждения или причину уверенности. Пример: Ich bin von seiner Kompetenz überzeugt. - Я убежден в его компетентности.</li></ul>
+Explanation::: <ul><li><strong class="spoiler">von (D)</strong> - означает "от", указывает на источник убеждения или причину уверенности. Пример: Ich bin von seiner Kompetenz überzeugt. - Я убежден в его компетентности.</li></ul>
 FrontExample::: Er ist fest überzeugt von seiner Theorie.
 BackExample::: Он твердо убежден в своей теории.
 FrontExample2::: Sie war nicht vollständig überzeugt von der Idee.

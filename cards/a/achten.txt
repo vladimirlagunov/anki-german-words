@@ -3,7 +3,7 @@ WordTranslation::: <ul>
 <li>обращать внимание, наблюдать, следить за чем-то</li>
 <li>уважать</li>
 </ul>
-Explanation::: <ul><li><strong>auf</strong> (A) - означает "на", указывает на то, на что кто-то обращает внимание или что кто-то уважает. Пример: Er achtet auf seine Gesundheit. - Он заботится о своем здоровье.</li></ul>
+Explanation::: <ul><li><strong class="spoiler">achten auf (A)</strong> - означает "на", указывает на то, на что кто-то обращает внимание или что кто-то уважает. Пример: Er achtet auf seine Gesundheit. - Он заботится о своем здоровье.</li></ul>
 DrittenPerson::: achtet
 Perfekt::: haben geachtet
 Präteritum::: achtete

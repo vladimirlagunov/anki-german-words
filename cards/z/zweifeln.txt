@@ -1,6 +1,6 @@
 Word::: zweifeln
 WordTranslation::: сомневаться, усомниться
-Explanation::: <ul><li><div><div><div><div><div><b>an + D </b>- означает сомнение в чём-то или в ком-то. Пример: Ich zweifle an seiner Ehrlichkeit. - Я сомневаусь в его честности.</div></div></div></div></div></li><li><div><b>in + D</b> - используется реже, выражает сомнение внутри какой-то ситуации или контекста. Пример: Er zweifelt in seiner Entscheidung. - Он сомневается в своём решении.</div></li></ul>
+Explanation::: <ul><li><div><div><div><div><div><b class="spoiler">an + D </b>- означает сомнение в чём-то или в ком-то. Пример: Ich zweifle an seiner Ehrlichkeit. - Я сомневаусь в его честности.</div></div></div></div></div></li><li><div><b class="spoiler">in + D</b> - используется реже, выражает сомнение внутри какой-то ситуации или контекста. Пример: Er zweifelt in seiner Entscheidung. - Он сомневается в своём решении.</div></li></ul>
 DrittenPerson::: zweifelt
 Perfekt::: haben gezweifelt
 Präteritum::: zweifelte

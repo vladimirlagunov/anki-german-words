@@ -1,6 +1,6 @@
 Word::: enttäuscht (Adjektiv)
 WordTranslation::: разочарованный
-Explanation::: <ul><li><strong>von</strong>&nbsp;(D) - означает "от", указывает на источник разочарования. Пример: Er ist von seinem Freund enttäuscht. - Он разочарован своим другом.</li><li><strong>über</strong> (A) - означает "из-за", указывает на причину разочарования или источник разочарования. Пример: Sie ist über das schlechte Ergebnis enttäuscht. - Она разочарована из-за плохого результата.</li></ul>
+Explanation::: <ul><li><strong class="spoiler">von (D)</strong> - означает "от", указывает на источник разочарования. Пример: Er ist von seinem Freund enttäuscht. - Он разочарован своим другом.</li><li><strong class="spoiler">über (A)</strong> - означает "из-за", указывает на причину разочарования или источник разочарования. Пример: Sie ist über das schlechte Ergebnis enttäuscht. - Она разочарована из-за плохого результата.</li></ul>
 FrontExample::: Sie ist enttäuscht von dem Geschenk.
 BackExample::: Она разочарована подарком.
 FrontExample2::: Nach dem Spiel waren die Fans enttäuscht über die Niederlage.

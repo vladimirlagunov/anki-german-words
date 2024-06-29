@@ -1,6 +1,6 @@
 Word::: denken
 WordTranslation::: думать, мыслить, размышлять
-Explanation::: <ul><li><strong>an</strong> (A) - означает "о", указывает на объект мысли или о чем-то, о чем кто-то думает. Пример: Er denkt oft an seine Familie. - Он часто думает о своей семье.</li><li><strong>über</strong> (A) - означает "о", указывает на тему или предмет мысли. Пример: Sie denkt viel über die Zukunft nach. - Она много думает о будущем.</li></ul>
+Explanation::: <ul><li><strong class="spoiler">an (A)</strong> - означает "о", указывает на объект мысли или о чем-то, о чем кто-то думает. Пример: Er denkt oft an seine Familie. - Он часто думает о своей семье.</li><li><strong class="spoiler">über (A)</strong> - означает "о", указывает на тему или предмет мысли. Пример: Sie denkt viel über die Zukunft nach. - Она много думает о будущем.</li></ul>
 DrittenPerson::: denkt
 Perfekt::: haben gedacht
 Präteritum::: dachte
