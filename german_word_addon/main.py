@@ -2,7 +2,7 @@ import argparse
 import os
 import re
 import shutil
-from anki.collection import Collection, ExportAnkiPackageOptions
+from anki.collection import Collection
 from aqt import ProfileManager
 from german_word_addon.filler import universal_german_word_template_name, _fill_note_from_wiktionary
 from tempfile import mkdtemp
@@ -88,10 +88,9 @@ def main():
         col.export_anki_package(
             out_path=os.path.join(args.path, 'export.apkg'),
             limit=None,
-            options=ExportAnkiPackageOptions(
-                with_scheduling=False,
-                with_media=True,
-            )
+            with_scheduling=False,
+            with_media=True,
+            legacy_support=False,
         )
     finally:
         try:
