@@ -1,0 +1,10 @@
+Word::: Brotzeit
+WordTranslation::: перекус, ланч
+DerDieDas::: die
+Plural::: Brotzeiten
+FrontExample::: Wir machen eine kurze Brotzeit im Park.
+BackExample::: Мы устроим короткий перекус в парке.
+FrontExample2::: Zur Brotzeit essen wir oft Käse und Wurst.
+BackExample2::: На перекус мы часто едим сыр и колбасу.
+Tags:::  chatgpt 
+guid::: Po-y6:0xqI

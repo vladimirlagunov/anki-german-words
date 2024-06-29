@@ -1,0 +1,10 @@
+Word::: Nacken
+WordTranslation::: шея
+DerDieDas::: der
+Plural::: Nacken
+FrontExample::: Nacken,Du solltest Dir einen Schal um den Nacken legen, es ist kalt draußen.
+BackExample::: Тебе следует надеть шарф на шею, на улице холодно.
+FrontExample2::: Nach dem Training hatte er Schmerzen im Nacken.
+BackExample2::: После тренировки у него были боли в шее.
+Tags:::  chatgpt 
+guid::: gLRq>}Isfn

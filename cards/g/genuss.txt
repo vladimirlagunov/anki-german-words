@@ -1,0 +1,12 @@
+Word::: Genuss
+WordTranslation::: <ul><li>наслаждение, удовольствие</li><li>лакомство</li></ul>
+DerDieDas::: der
+Plural::: Genüsse
+FrontExample::: Das Essen war ein echter Genuss.
+BackExample::: Еда была настоящим наслаждением.
+FrontExample2::: Er fand großen Genuss am Lesen.
+BackExample2::: Он нашел большое удовольствие в чтении.
+FrontExample3::: Musik ist für sie ein lebenslanger Genuss.
+BackExample3::: Музыка для неё — это наслаждение всей жизни.
+Tags:::  chatgpt 
+guid::: x+Y8(!Oq_4

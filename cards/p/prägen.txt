@@ -1,0 +1,11 @@
+Word::: prägen
+WordTranslation::: <ul><li>формировать, чеканить</li><li>оказывать влияние</li></ul>
+DrittenPerson::: prägt
+Perfekt::: haben geprägt
+Präteritum::: prägte
+FrontExample2::: Die Münzen werden hier geprägt.
+BackExample2::: Здесь чеканят монеты.
+FrontExample3::: Die Erinnerungen an diese Zeit prägen sein ganzes Leben.
+BackExample3::: Воспоминания о том времени формируют всю его жизнь.
+Tags:::  chatgpt 
+guid::: FOm2wly1Dz

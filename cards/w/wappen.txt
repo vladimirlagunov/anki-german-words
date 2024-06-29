@@ -1,0 +1,8 @@
+Word::: Wappen
+WordTranslation::: герб
+DerDieDas::: das
+Plural::: Wappen
+FrontExample::: Auf dem Wappen des Vereins sind zwei Bären abgebildet.
+BackExample::: На гербе клуба изображены два медведя.
+Tags:::  chatgpt 
+guid::: dbB_}LhnQ,

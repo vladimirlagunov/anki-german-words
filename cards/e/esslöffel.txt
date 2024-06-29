@@ -1,0 +1,9 @@
+Word::: Esslöffel
+WordTranslation::: столовая ложка
+Explanation::: 1 EL = 12-15 ml
+DerDieDas::: der
+Plural::: Esslöffel
+FrontExample::: Fügen Sie einen Esslöffel Öl und einen Teelöffel Salz hinzu.
+BackExample::: Добавьте одну столовую ложку масла и одну чайную ложку соли.
+Tags:::  chatgpt 
+guid::: p!=5`%*4;e

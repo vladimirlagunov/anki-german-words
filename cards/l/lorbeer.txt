@@ -1,0 +1,10 @@
+Word::: Lorbeer
+WordTranslation::: лавр
+DerDieDas::: der
+Plural::: Lorbeeren
+FrontExample::: Er hat den Lorbeer für seine Leistungen erhalten.
+BackExample::: Он получил лавры за свои достижения.
+FrontExample2::: Der Koch fügte dem Gericht ein Lorbeerblatt hinzu.
+BackExample2::: Повар добавил в блюдо лавровый лист.
+Tags:::  chatgpt 
+guid::: vEMaO0$74F

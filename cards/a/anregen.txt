@@ -1,4 +1,4 @@
-Word::: anregen todo не работают примеры
+Word::: anregen
 WordTranslation::: <ul><li>стимулировать, побуждать, вдохновлять</li><li>предлагать, поднимать (тему)</li></ul>
 DrittenPerson::: regt an
 Perfekt::: haben angeregt

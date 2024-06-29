@@ -1,0 +1,6 @@
+Word::: unterirdisch
+WordTranslation::: подземный
+FrontExample::: Das unterirdische Parkhaus bietet Platz für 300 Autos.
+BackExample::: Подземная парковка вмещает 300 машин.
+Tags:::  chatgpt 
+guid::: FEA*4W|JPp

@@ -1,0 +1,10 @@
+Word::: Zubereitung
+WordTranslation::: приготовление
+DerDieDas::: die
+Plural::: Zubereitungen
+FrontExample::: Die Zubereitung des Essens dauert eine Stunde.
+BackExample::: Приготовление еды занимает один час.
+FrontExample2::: Zur Zubereitung des Salats brauchen wir frisches Gemüse.
+BackExample2::: Для приготовления салата нам нужны свежие овощи.
+Tags:::  chatgpt 
+guid::: q*~F*B{4e&

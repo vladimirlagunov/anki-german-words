@@ -1,7 +1,5 @@
 Word::: gelungen
 WordTranslation::: удачный, успешный
-FrontExample::: Das Fest war sehr gelungen.
-BackExample::: Праздник удался на славу.
 FrontExample2::: Ihre Präsentation war wirklich gelungen.
 BackExample2::: Её презентация действительно была успешной.
 FrontExample3::: Das ist ein gelungenes Beispiel für moderne Architektur.

@@ -1,0 +1,11 @@
+Word::: mitkriegen
+WordTranslation::: заметить, понять, узнать
+DrittenPerson::: kriegt mit
+Perfekt::: haben mitgekriegt
+Präteritum::: kriegte mit
+FrontExample::: Sie kriegen nichts mit, wenn sie ständig am Handy hängen.
+BackExample::: Они ничего не замечают, когда постоянно сидят в телефоне.
+FrontExample2::: Hast du das neue Update mitgekriegt?
+BackExample2::: Ты заметил новое обновление?
+Tags:::  chatgpt 
+guid::: B@|Uk.-dg|

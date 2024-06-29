@@ -1,0 +1,8 @@
+Word::: D + auf der Spur sein
+WordTranslation::: фразеологизм: следовать, сесть на хвост
+FrontExample::: Die Polizei ist dem Dieb auf der Spur.
+BackExample::: Полиция выходит на след вора.
+FrontExample2::: Der Wissenschaftler war der Entdeckung eines neuen Sternensystems auf der Spur.
+BackExample2::: Ученый был на пути к открытию новой звездной системы.
+Tags:::  chatgpt 
+guid::: vz;tM-G]&.

@@ -1,7 +1,10 @@
 Word::: erhalten
-WordTranslation::: получать, сохранять
+WordTranslation::: <ul><li>получить</li><li>сохранить, поддерживать</li></ul>
 Explanation::: Глагол "erhalten" означает получать, сохранять или сохранять что-либо, в том числе информацию, предметы, состояние или статус. Он может использоваться для описания получения чего-либо от кого-либо, поддержания или сохранения какого-либо состояния или ситуации.
-FrontExample::: Ich habe gestern einen Brief von meinem Freund bekommen.
+DrittenPerson::: erhält
+Perfekt::: haben erhalten
+Präteritum::: erhielt
+FrontExample::: Ich habe gestern einen Brief von meinem Freund erhalten.
 BackExample::: Вчера я получил письмо от моего друга.
 FrontExample2::: Es ist wichtig, die Umwelt zu schützen und zu erhalten.
 BackExample2::: Важно защищать и сохранять окружающую среду.

@@ -1,0 +1,9 @@
+Word::: schmoren
+WordTranslation::: тушить (еду), томить
+DrittenPerson::: schmort
+Perfekt::: haben geschmort
+Präteritum::: schmorte
+FrontExample::: Das Fleisch muss etwa zwei Stunden lang schmoren.
+BackExample::: Мясо должно тушиться около двух часов.
+Tags:::  chatgpt 
+guid::: dF/uDefD6E

@@ -1,0 +1,11 @@
+Word::: miteinander
+WordTranslation::: друг с другом, вместе
+Explanation::: <ul><li><div><strong>miteinander</strong>&nbsp;- Это слово обычно используется для описания взаимодействия или совместной деятельности между двумя или более людьми. Оно подчеркивает взаимное действие и обмен. Например: "Sie sprechen miteinander" ("Они говорят друг с другом").</div></li><li><div><strong>zusammen</strong>&nbsp;- Это слово означает "вместе" в буквальном или физическом смысле и может использоваться как для людей, так и для предметов. Оно часто используется для описания того, что что-то или кто-то находится или действует в одном месте. Например: "Wir gehen zusammen ins Kino" ("Мы идем вместе в кино").</div></li><li><div><strong>gemeinsam</strong>&nbsp;- Это слово подчеркивает наличие общих интересов или целей у группы людей. Оно часто используется для описания совместных усилий или кооперации. Например: "Wir haben gemeinsam ein Projekt gestartet" ("Мы совместно начали проект").</div></li></ul>
+FrontExample::: Wir haben oft miteinander gesprochen.
+BackExample::: Мы часто говорили друг с другом.
+FrontExample2::: Die Kinder spielen fröhlich miteinander im Park.
+BackExample2::: Дети весело играют друг с другом в парке.
+FrontExample3::: Wir müssen lernen, besser miteinander zu kommunizieren.
+BackExample3::: Нам нужно научиться лучше общаться друг с другом.
+Tags:::  chatgpt 
+guid::: J>Aw!EV2-D

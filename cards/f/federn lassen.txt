@@ -1,0 +1,6 @@
+Word::: Federn lassen
+WordTranslation::: фразеологизм: жертвовать, уступать, пострадать
+FrontExample::: Er hat bei der Verhandlung Federn lassen müssen.
+BackExample::: Ему пришлось уступить на переговорах.
+Tags:::  chatgpt 
+guid::: b39b<ds=l3

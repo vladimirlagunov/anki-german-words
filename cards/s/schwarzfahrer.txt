@@ -1,0 +1,8 @@
+Word::: Schwarzfahrer
+WordTranslation::: безбилетник, заяц
+DerDieDas::: der
+Plural::: Schwarzfahrer
+FrontExample::: Sie kontrollieren regelmäßig die Busse auf Schwarzfahrer.
+BackExample::: Они регулярно проверяют автобусы на безбилетников.
+Tags:::  chatgpt 
+guid::: CMVccz<2L<

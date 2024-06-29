@@ -1,0 +1,8 @@
+Word::: Senf
+WordTranslation::: горчица
+DerDieDas::: der
+Plural::: Senfe
+FrontExample::: Zum Grillfleisch passt immer ein bisschen Senf.
+BackExample::: К мясу на гриле всегда подходит немного горчицы.
+Tags:::  chatgpt 
+guid::: we.5v3&_[,

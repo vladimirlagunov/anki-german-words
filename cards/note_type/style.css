@@ -30,3 +30,17 @@ table.artikel-small td.artikel-small {
 .das {
 		color: green;
 }
+
+.spoiler {
+    display: inline-block;
+    border: 1px dotted rgba(0.5, 0.5, 0.5, 0.25);
+    border-radius: 10px;
+    padding: 2px;
+    margin-right: 5px;
+}
+.spoiler:before {
+    content: "▶️ ";
+}
+.spoiler.spoiler-open:before {
+    content: "🔽 ";
+}

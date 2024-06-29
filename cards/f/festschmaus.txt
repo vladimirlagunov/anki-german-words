@@ -1,0 +1,8 @@
+Word::: Festschmaus
+WordTranslation::: праздничный пир
+DerDieDas::: der
+Plural::: Festschmäuse
+FrontExample::: Nach dem Festschmaus gab es eine Rede vom Gastgeber.
+BackExample::: После праздничного пира была речь от хозяина.
+Tags:::  chatgpt 
+guid::: Q+07mt$8eX

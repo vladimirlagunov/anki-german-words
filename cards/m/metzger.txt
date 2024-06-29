@@ -1,0 +1,10 @@
+Word::: Metzger
+WordTranslation::: мясник, торговец мясом
+DerDieDas::: der
+Plural::: Metzger
+FrontExample::: Der Metzger schneidet das Fleisch.
+BackExample::: Мясник режет мясо.
+FrontExample2::: Der Metzger hat heute frische Würste.
+BackExample2::: У мясника сегодня свежие колбасы.
+Tags:::  chatgpt 
+guid::: i:bzUs!fU<

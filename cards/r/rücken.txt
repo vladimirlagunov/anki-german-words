@@ -1,0 +1,12 @@
+Word::: Rücken
+WordTranslation::: <ul><li>спина</li><li>задняя часть</li></ul>
+DerDieDas::: der
+Plural::: Rücken
+FrontExample::: Ich habe Schmerzen im Rücken.
+BackExample::: У меня болит спина.
+FrontExample2::: Er trägt einen schweren Rucksack auf dem Rücken.
+BackExample2::: Он несёт тяжёлый рюкзак на спине.
+FrontExample3::: Bitte drehen Sie sich um und zeigen Sie mir Ihren Rücken.
+BackExample3::: Пожалуйста, повернитесь и покажите мне вашу спину.
+Tags:::  chatgpt 
+guid::: xE`Cz_nzR.

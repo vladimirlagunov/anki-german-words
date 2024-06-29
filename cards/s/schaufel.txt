@@ -1,0 +1,7 @@
+Word::: Schaufel
+WordTranslation::: лопата
+Explanation::: Syn: Spaten
+DerDieDas::: die
+Plural::: Schaufeln
+Tags::: 
+guid::: BJ/7aGYq#g

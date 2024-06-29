@@ -1,0 +1,12 @@
+Word::: Schulter
+WordTranslation::: плечо
+DerDieDas::: die
+Plural::: Schultern
+FrontExample::: Er legte seine Hand auf meine Schulter.
+BackExample::: Он положил свою руку мне на плечо.
+FrontExample2::: Sie zuckte nur mit den Schultern und sagte nichts.
+BackExample2::: Она только пожала плечами и ничего не сказала.
+FrontExample3::: Der Rucksack drückte schwer auf seine Schultern.
+BackExample3::: Рюкзак сильно давил ему на плечи.
+Tags:::  chatgpt 
+guid::: L;DI=8;?=|

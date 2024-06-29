@@ -1,0 +1,8 @@
+Word::: Bezirk
+WordTranslation::: район, округ, область
+DerDieDas::: der
+Plural::: Bezirke
+FrontExample::: Jeder Bezirk hat seine eigenen Regeln.
+BackExample::: У каждого района свои правила.
+Tags:::  chatgpt 
+guid::: k]#miFg7OL

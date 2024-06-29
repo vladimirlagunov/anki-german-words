@@ -1,0 +1,9 @@
+Word::: Teelöffel
+WordTranslation::: чайная ложка
+Explanation::: 1 TL = 5 ml
+DerDieDas::: der
+Plural::: Teelöffel
+FrontExample::: Der Teelöffel liegt neben der Tasse.
+BackExample::: Чайная ложка лежит рядом с чашкой.
+Tags:::  chatgpt 
+guid::: MS-NQ9TH-R

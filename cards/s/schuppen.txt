@@ -1,0 +1,10 @@
+Word::: Schuppen
+WordTranslation::: <ul><li>сарай, навес</li><li>перхоть</li></ul>
+DerDieDas::: der
+Plural::: Schuppen
+FrontExample::: Ich habe den alten Schuppen im Garten repariert.
+BackExample::: Я починил старый сарай в саду.
+FrontExample2::: Er bemerkte Schuppen an seiner Kleidung.
+BackExample2::: Он заметил перхоть на своей одежде.
+Tags:::  chatgpt 
+guid::: p?yUHnREWy

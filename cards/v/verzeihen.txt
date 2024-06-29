@@ -4,7 +4,7 @@ Explanation::: Глагол <strong>verzeihen</strong> в немецком яз�
 DrittenPerson::: verzeiht
 Perfekt::: haben  verziehen
 Präteritum::: verzieh
-FrontExample::: Es war ein Fehler, aber ich hoffe, du kannst mir (?) verzeihen.
+FrontExample::: Es war ein Fehler, aber ich hoffe, du kannst mir verzeihen.
 BackExample::: Это была ошибка, но я надеюсь, ты можешь меня простить.
 FrontExample2::: Sie hat ihm verziehen und eine zweite Chance gegeben.
 BackExample2::: Она простила его и дала ему второй шанс.
