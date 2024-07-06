@@ -1110,9 +1110,6 @@ def on_make_universal_german_card(browser: Browser):
         old_note.tags.append("delete")
         old_note.col.update_note(old_note)
 
-    add_cards_dialog: AddCards = dialogs.open("AddCards", mw)
-    add_cards_dialog.set_note(new_note, None)
-
     old_note_dict = dict(old_note.items())
     pprint.pprint(old_note_dict)
     german_note = converter.convert(old_note_dict)
@@ -1135,4 +1132,5 @@ def on_make_universal_german_card(browser: Browser):
 
     _fill_note_from_wiktionary(new_note)
 
-    add_cards_dialog.editor.loadNote()
+    add_cards_dialog: AddCards = dialogs.open("AddCards", mw)
+    add_cards_dialog.set_note(new_note, None)

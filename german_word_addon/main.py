@@ -85,6 +85,8 @@ def main():
 
         _import_notes(col, deck, note_type, args.path)
 
+        col.media.add_file("_universal_german_cards.js")
+
         col.export_anki_package(
             out_path=os.path.join(args.path, 'export.apkg'),
             limit=None,
@@ -92,6 +94,22 @@ def main():
                 with_scheduling=False,
                 with_media=True,
             )
+        )
+
+        col.export_note_csv(
+            out_path=os.path.join(args.path, 'export.csv'),
+            limit=None,
+            with_html=True,
+            with_tags=True,
+            with_guid=True,
+            with_notetype=True,
+            with_deck=False,
+        )
+
+        col.export_collection_package(
+            out_path=os.path.join(args.path, 'export.colpkg'),
+            include_media=True,
+            legacy=False,
         )
     finally:
         try:
@@ -129,8 +147,10 @@ def _import_note_type(col, note_type_dir):
     note_type = col.models.new(universal_german_word_template_name)
 
     with open(os.path.join(note_type_dir, "fields.txt")) as f:
-        for line in f.readlines():
-            col.models.add_field(note_type, col.models.new_field(line.strip()))
+        for field_id, line in enumerate(f.readlines()):
+            field = col.models.new_field(line.strip())
+            field['ord'] = field_id
+            col.models.add_field(note_type, field)
 
     with open(os.path.join(note_type_dir, "style.css")) as f:
         note_type['css'] = f.read(1024 * 1024)
@@ -139,9 +159,11 @@ def _import_note_type(col, note_type_dir):
         (dir_name for dir_name in os.listdir(note_type_dir) if re.match(r'^template_(\d+)$', dir_name)),
         key=lambda dir_name: int(re.match(r'^template_(\d+)$', dir_name).groups()[0]),
     )
-    for dir_name in template_dirs:
+    for template_id, dir_name in enumerate(template_dirs):
         with open(os.path.join(note_type_dir, dir_name, "name.txt")) as f:
             template = col.models.new_template(f.read(1024).strip())
+
+        template['ord'] = template_id
 
         with open(os.path.join(note_type_dir, dir_name, "question_format.html")) as f:
             template['qfmt'] = f.read(1024 * 1024)
