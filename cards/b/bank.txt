@@ -1,8 +1,7 @@
 Word::: Bank
 WordTranslation::: <div><ul><li>банк</li><li>скамейка</li></ul></div>
 DerDieDas::: die
-Plural::: <ul>
-<li>Bänke – скамейка</li>
+Plural::: <ul><li>Bänke – скамейка</li>
 <li>Banken – банк</li>
 </ul>
 FrontExample::: Die Bank schließt schon um vier Uhr.

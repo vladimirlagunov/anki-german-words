@@ -1,6 +1,5 @@
 Word::: legen
-WordTranslation::: класть<br><ul>
-</ul>
+WordTranslation::: класть<br><ul></ul>
 DrittenPerson::: legt
 Perfekt::: haben gelegt
 Präteritum::: legte

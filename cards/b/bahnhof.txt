@@ -1,6 +1,5 @@
 Word::: Bahnhof
-WordTranslation::: <ul>
-<li>вокзал</li>
+WordTranslation::: <ul><li>вокзал</li>
 <li>железнодорожная станция</li>
 </ul>
 DerDieDas::: der

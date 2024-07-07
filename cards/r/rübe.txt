@@ -1,0 +1,8 @@
+Word::: Rübe
+WordTranslation::: репа, брюква, свёкла
+DerDieDas::: die
+Plural::: Rüben
+FrontExample::: Er hat eine Rübe zum Abendessen gekocht.
+BackExample::: Он приготовил брюкву на ужин.
+Tags:::  chatgpt 
+guid::: QI<CZLl$:q

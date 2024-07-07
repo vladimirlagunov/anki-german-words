@@ -1,6 +1,5 @@
 Word::: halten
-WordTranslation::: <ul>
-<li>остановить</li><li>держать</li>
+WordTranslation::: <ul><li>остановить</li><li>держать</li>
 </ul>
 DrittenPerson::: hält
 Perfekt::: haben gehalten

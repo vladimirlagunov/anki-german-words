@@ -1,7 +1,7 @@
 Word::: ernten
 WordTranslation::: пожинать, собирать урожай
 Explanation::: Syn: sammeln, pflücken, mähen, einheimsen, treffen
-Perfekt::: hat geerntet 
+Perfekt::: hat geerntet
 FrontExample::: Ich ernte die Früchte meiner Arbeit.
 BackExample::: Я пожинаю плоды своих дел.
 Tags::: 

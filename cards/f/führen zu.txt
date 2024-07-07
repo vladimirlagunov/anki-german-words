@@ -2,10 +2,8 @@ Word::: führen zu
 WordTranslation::: приводить к чему-либо
 Explanation::: <ul><li><strong class="spoiler">führen zu</strong>: приводить к чему-то.</li><li><strong class="spoiler">führen + Akkusativ</strong>: вести что-то или кого-то.</li></ul>
 FrontExample::: Rauchen kann zu Gesundheitsproblemen führen.
-
 BackExample::: Курение может привести к проблемам со здоровьем.
 FrontExample2::: Sein Verhalten führte zu seiner Entlassung.
-
 BackExample2::: Его поведение привело к его увольнению.
 Tags:::  chatgpt 
 guid::: kA0;km,a4W

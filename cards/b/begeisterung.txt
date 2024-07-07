@@ -1,6 +1,5 @@
 Word::: Begeisterung
-WordTranslation::: <ul>
-<li>воодушевление</li>
+WordTranslation::: <ul><li>воодушевление</li>
 <li>восхищение</li>
 </ul>
 FrontExample::: Sie sprach mit großer Begeisterung über ihr neues Projekt.

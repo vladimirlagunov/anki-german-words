@@ -1,6 +1,5 @@
 Word::: verabreden
-WordTranslation::: <ul>
-<li>устно договориться о встрече, месте встречи или совещании.</li><li>sich: принятие решения о совместной деятельности<br></li>
+WordTranslation::: <ul><li>устно договориться о встрече, месте встречи или совещании.</li><li>sich: принятие решения о совместной деятельности<br></li>
 </ul>
 Explanation::: Syn: vereinbaren, ausgehen
 DrittenPerson::: verabredet

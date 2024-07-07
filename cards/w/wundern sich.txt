@@ -1,6 +1,5 @@
 Word::: wundern sich
-WordTranslation::: удивлять(ся)<br><ul>
-</ul>
+WordTranslation::: удивлять(ся)<br><ul></ul>
 Explanation::: Syn: wundern, staunen, überraschen, erstaunen
 DrittenPerson::: wundert
 Perfekt::: haben gewundert

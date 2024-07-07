@@ -3,7 +3,6 @@ WordTranslation::: осадки (атмосферные)
 DerDieDas::: der
 Plural::: Niederschläge
 FrontExample::: Die Landwirte hoffen auf ausreichenden Niederschlag, um ihre Felder zu bewässern.
-
 BackExample::: Фермеры надеются на достаточное количество осадков, чтобы орошать свои поля.
 Tags:::  chatgpt 
 guid::: OJTD`r)?!X

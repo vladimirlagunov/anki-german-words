@@ -1,6 +1,5 @@
 Word::: Anspruch
-WordTranslation::: <ul>
-<li>претензия, иск</li>
+WordTranslation::: <ul><li>претензия, иск</li>
 <li>право</li>
 <li>притязание</li>
 </ul>

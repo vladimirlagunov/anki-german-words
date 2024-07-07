@@ -1,6 +1,5 @@
 Word::: bloß
-WordTranslation::: <ul>
-<li>голый</li>
+WordTranslation::: <ul><li>голый</li>
 <li>единственный</li>
 <li>только, лишь</li>
 </ul>

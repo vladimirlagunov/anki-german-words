@@ -2,7 +2,7 @@ Word::: Schürze
 WordTranslation::: фартук
 DerDieDas::: die
 Plural::: Schürzen
-FrontExample:::  Sie trug eine Schürze, während sie das Abendessen zubereitete.
+FrontExample::: Sie trug eine Schürze, während sie das Abendessen zubereitete.
 BackExample::: Она носила фартук, готовя ужин.
 FrontExample2::: Die Schürze hatte bunte Blumenmuster.
 BackExample2::: Фартук был украшен яркими цветочными узорами.

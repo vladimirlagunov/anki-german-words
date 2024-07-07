@@ -1,6 +1,5 @@
 Word::: Betrieb
-WordTranslation::: <ul>
-<li>движение, оживление</li>
+WordTranslation::: <ul><li>движение, оживление</li>
 <li>предприятие, производство, бизнес</li>
 <li>эксплуатация</li>
 </ul>

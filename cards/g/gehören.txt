@@ -5,10 +5,8 @@ DrittenPerson::: gehört
 Perfekt::: haben gehört
 Präteritum::: ich	gehörte
 FrontExample::: Das Buch gehört mir.
-
 BackExample::: Эта книга принадлежит мне.
 FrontExample2::: Diese Inseln gehören zu Australien.
-
 BackExample2::: Эти острова принадлежат Австралии.
 Tags:::  A1 chatgpt 
 guid::: uR6_e>[_(o

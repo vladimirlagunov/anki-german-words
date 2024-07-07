@@ -5,10 +5,8 @@ DrittenPerson::: passt
 Perfekt::: haben gepasst
 Präteritum::: ich	passte
 FrontExample::: Das Hemd passt dir gut.
-
 BackExample::: Эта рубашка тебе хорошо идет.
 FrontExample2::: Der Wein passt gut zum Essen.
-
 BackExample2::: Это вино хорошо подходит к еде.
 Tags:::  chatgpt 
 guid::: s[Tir}{chb

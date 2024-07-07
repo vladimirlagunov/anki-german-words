@@ -1,0 +1,10 @@
+Word::: Fälschung
+WordTranslation::: подделка, фальсификация
+DerDieDas::: die
+Plural::: Fälschungen
+FrontExample::: Diese Gemälde ist eine Fälschung.
+BackExample::: Эта картина подделка.
+FrontExample2::: Der Dokument war eine gut gemachte Fälschung.
+BackExample2::: Документ был хорошо сделанной подделкой.
+Tags:::  chatgpt 
+guid::: L>.MW+%hn;

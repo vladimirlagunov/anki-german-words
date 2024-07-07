@@ -1,6 +1,5 @@
 Word::: vertrauen
-WordTranslation::: доверять, полагаться<br><ul>
-</ul>
+WordTranslation::: доверять, полагаться<br><ul></ul>
 DrittenPerson::: vertraut
 Perfekt::: haben vertraut
 Präteritum::: vertraute

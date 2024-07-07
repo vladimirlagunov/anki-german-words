@@ -1,0 +1,10 @@
+Word::: Bauchgefühl
+WordTranslation::: интуиция, чутьё
+DerDieDas::: das
+Plural::: Bauchgefühle
+FrontExample::: Ich entscheide oft nach meinem Bauchgefühl.
+BackExample::: Я часто решаю на основе своего внутреннего чувства.
+FrontExample2::: Mein Bauchgefühl sagt mir, dass etwas nicht stimmt.
+BackExample2::: Мое внутреннее чувство говорит мне, что что-то не так.
+Tags:::  chatgpt 
+guid::: N:bV<b6]8V

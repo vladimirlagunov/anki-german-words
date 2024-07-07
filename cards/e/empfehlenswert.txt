@@ -1,0 +1,8 @@
+Word::: empfehlenswert
+WordTranslation::: рекомендуемый, достойный рекомендации
+FrontExample::: Es ist empfehlenswert, jeden Tag mindestens 30 Minuten Sport zu treiben.
+BackExample::: Рекомендуется заниматься спортом не менее 30 минут каждый день.
+FrontExample2::: Für Reisende ist es empfehlenswert, immer eine Reiseversicherung abzuschließen.
+BackExample2::: Путешественникам рекомендуется всегда оформлять страховку.
+Tags:::  chatgpt 
+guid::: n0%1E0C~K(

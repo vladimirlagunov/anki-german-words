@@ -1,6 +1,5 @@
 Word::: anmelden
-WordTranslation::: <ul>
-<li>зарегистрировать<br></li>
+WordTranslation::: <ul><li>зарегистрировать<br></li>
 <li>заявлять</li>
 <li>прописывать</li>
 </ul>

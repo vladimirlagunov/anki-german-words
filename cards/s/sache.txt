@@ -1,6 +1,5 @@
 Word::: Sache
-WordTranslation::: предмет, вещь, дело<br><ul>
-</ul>
+WordTranslation::: предмет, вещь, дело
 DerDieDas::: die
 Plural::: Sachen
 FrontExample::: Das ist nicht meine Sache.

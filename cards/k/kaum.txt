@@ -1,10 +1,8 @@
 Word::: kaum
 WordTranslation::: слишком, едва, с трудом, насилу
 FrontExample::: Ich bin so müde, dass ich kaum die Augen offenhalten kann.
-
 BackExample::: Я так устал, что едва могу держать глаза открытыми.
 FrontExample2::: Er spricht kaum Deutsch, aber er lernt fleißig.
-
 BackExample2::: Он едва говорит по-немецки, но усердно учится.
 Tags:::  chatgpt 
 guid::: JJ>TM[Ev8_

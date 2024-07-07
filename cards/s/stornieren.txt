@@ -1,6 +1,5 @@
 Word::: stornieren
-WordTranslation::: отменить, аннулировать<br><ul>
-</ul>
+WordTranslation::: отменить, аннулировать<br><ul></ul>
 Explanation::: Syn: absagen, annullieren, löschen, aufheben, widerrufen
 DrittenPerson::: storniert
 Perfekt::: haben storniert

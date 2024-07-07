@@ -1,6 +1,5 @@
 Word::: Ausbildung
-WordTranslation::: <ul>
-<li>формирование</li>
+WordTranslation::: <ul><li>формирование</li>
 <li>профессиональное образование</li>
 <li>образование</li>
 </ul>

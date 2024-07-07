@@ -1,6 +1,5 @@
 Word::: Besuch
-WordTranslation::: <ul>
-<li>визит, посещение</li>
+WordTranslation::: <ul><li>визит, посещение</li>
 <li>гость</li>
 </ul>
 DerDieDas::: der

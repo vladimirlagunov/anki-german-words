@@ -1,0 +1,11 @@
+Word::: entlasten
+WordTranslation::: <ul><li>разгружать, облегчать</li><li>оправдывать</li></ul>
+DrittenPerson::: entlastet
+Perfekt::: haben entlastet
+Präteritum::: entlastete
+FrontExample::: Wir können die Mitarbeiter durch den Einsatz von Technologien entlasten.
+BackExample::: Мы можем разгрузить сотрудников за счет использования технологий.
+FrontExample2::: Die neue Brücke wird den Verkehr in der Innenstadt deutlich entlasten.
+BackExample2::: Новый мост значительно разгрузит движение в центре города.
+Tags:::  chatgpt 
+guid::: n7$Ft.KY6R

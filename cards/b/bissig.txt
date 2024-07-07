@@ -1,0 +1,8 @@
+Word::: bissig
+WordTranslation::: злобный, язвительный, едкий
+FrontExample::: Er macht oft bissige Bemerkungen.
+BackExample::: Он часто делает язвительные замечания.
+FrontExample2::: Die Rezension war ziemlich bissig.
+BackExample2::: Рецензия была довольно колкая.
+Tags:::  chatgpt 
+guid::: y2@)~YVJ0r

@@ -3,10 +3,8 @@ WordTranslation::: собственность, имущество
 DerDieDas::: das
 Plural::: wird nur im Singular verwendet
 FrontExample::: Das Haus ist sein Eigentum, er hat es vor einigen Jahren gekauft.
-
 BackExample::: Дом является его имуществом, он купил его несколько лет назад.
 FrontExample2::: Diebstahl oder Beschädigung des Eigentums anderer Personen ist illegal.
-
 BackExample2::: Кража или повреждение имущества других лиц является незаконным.
 Tags:::  chatgpt 
 guid::: l[Q}U[=%l]

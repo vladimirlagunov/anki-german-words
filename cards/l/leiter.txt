@@ -1,13 +1,10 @@
 Word::: Leiter
-WordTranslation::: <ul>
-<li>проводник</li><li>лестница-стремянка</li>
+WordTranslation::: <ul><li>проводник</li><li>лестница-стремянка</li>
 </ul>
-DerDieDas::: <ul>
-<li>der – проводник</li>
+DerDieDas::: <ul><li>der – проводник</li>
 <li>die – лестница-стремянка</li>
 </ul>
-Plural::: <ul>
-<li>Leiter – проводники</li>
+Plural::: <ul><li>Leiter – проводники</li>
 <li>Leitern – лестницы-стремянки</li>
 </ul>
 FrontExample::: Er kletterte die Leiter nach oben um das Dach zu reparieren.

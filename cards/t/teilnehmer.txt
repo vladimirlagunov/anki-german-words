@@ -1,6 +1,5 @@
 Word::: Teilnehmer
-WordTranslation::: участник<br><ul>
-</ul>
+WordTranslation::: участник<br><ul></ul>
 DerDieDas::: der
 Plural::: Teilnehmer
 FrontExample::: Alle Teilnehmer der Konferenz haben ein Geschenk erhalten.

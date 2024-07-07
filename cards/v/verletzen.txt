@@ -1,6 +1,5 @@
 Word::: verletzen
-WordTranslation::: <ul>
-<li>ранить</li>
+WordTranslation::: <ul><li>ранить</li>
 <li>навредить, обидеть, ранить</li>
 <li>нарушать</li>
 </ul>

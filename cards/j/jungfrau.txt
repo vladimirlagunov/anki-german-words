@@ -1,6 +1,5 @@
 Word::: Jungfrau
-WordTranslation::: <ul>
-<li>Дева (созвездие, знак Зодиака)<br></li>
+WordTranslation::: <ul><li>Дева (созвездие, знак Зодиака)<br></li>
 <li>девственница<br></li>
 </ul>
 DerDieDas::: die

@@ -1,6 +1,5 @@
 Word::: aufhören
-WordTranslation::: <ul>
-<li>прекращать, переставать</li>
+WordTranslation::: <ul><li>прекращать, переставать</li>
 <li>закончить(ся)</li>
 </ul>
 DrittenPerson::: hört auf

@@ -1,6 +1,5 @@
 Word::: wählen
-WordTranslation::: <ul>
-<li>голосовать<br></li>
+WordTranslation::: <ul><li>голосовать<br></li>
 <li>набирать</li>
 <li>выбирать</li>
 </ul>

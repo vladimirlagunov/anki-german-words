@@ -1,6 +1,5 @@
 Word::: Soße
-WordTranslation::: <ul>
-<li>соус, подливка</li>
+WordTranslation::: <ul><li>соус, подливка</li>
 </ul>
 DerDieDas::: die
 Plural::: Soßen

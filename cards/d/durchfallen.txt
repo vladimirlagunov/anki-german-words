@@ -1,15 +1,12 @@
 Word::: durchfallen
 WordTranslation::: <ul><li>завалить (экзамен), не сдать</li><li>быть в свободном падении</li></ul>
-DrittenPerson::: <ul>
-<li>fällt durch – завалить (экзамен), не сдать</li>
+DrittenPerson::: <ul><li>fällt durch – завалить (экзамен), не сдать</li>
 <li>durchfällt – быть в свободном падении</li>
 </ul>
-Perfekt::: <ul>
-<li>sein durchgefallen – завалить (экзамен), не сдать</li>
+Perfekt::: <ul><li>sein durchgefallen – завалить (экзамен), не сдать</li>
 <li>haben durchfallen – быть в свободном падении</li>
 </ul>
-Präteritum::: <ul>
-<li>fiel durch – завалить (экзамен), не сдать</li>
+Präteritum::: <ul><li>fiel durch – завалить (экзамен), не сдать</li>
 <li>durchfiel – быть в свободном падении</li>
 </ul>
 FrontExample::: Ich habe Angst, dass ich bei der Prüfung durchfalle.

@@ -1,6 +1,5 @@
 Word::: verabschieden
-WordTranslation::: <ul><li>прощаться</li><li>увольняться, отклонять
-</li><li>принимать (закон)</li></ul>
+WordTranslation::: <ul><li>прощаться</li><li>увольняться, отклонять</li><li>принимать (закон)</li></ul>
 DrittenPerson::: verabschiedet
 Perfekt::: haben verabschiedet
 Präteritum::: verabschiedete

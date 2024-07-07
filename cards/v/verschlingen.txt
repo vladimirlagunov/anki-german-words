@@ -1,6 +1,5 @@
 Word::: verschlingen
-WordTranslation::: <ul><li>проглатывать, поглощать (еду), пожирать
-</li><li>поглощать (время, средства)</li></ul>
+WordTranslation::: <ul><li>проглатывать, поглощать (еду), пожирать</li><li>поглощать (время, средства)</li></ul>
 DrittenPerson::: verschlingt
 Perfekt::: haben verschlungen
 Präteritum::: verschlang

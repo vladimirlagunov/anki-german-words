@@ -1,6 +1,5 @@
 Word::: Stelle
-WordTranslation::: <ul>
-<li>должность</li>
+WordTranslation::: <ul><li>должность</li>
 <li>место</li>
 <li>рабочее место</li>
 </ul>

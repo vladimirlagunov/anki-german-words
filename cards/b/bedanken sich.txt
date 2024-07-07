@@ -1,6 +1,5 @@
 Word::: bedanken sich
-WordTranslation::: благодарить<br><ul>
-</ul>
+WordTranslation::: благодарить<br><ul></ul>
 DrittenPerson::: bedankt
 Perfekt::: haben bedankt
 Präteritum::: bedankte

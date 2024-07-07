@@ -1,6 +1,5 @@
 Word::: Stock
-WordTranslation::: <ul>
-<li>палка</li>
+WordTranslation::: <ul><li>палка</li>
 <li>этаж</li>
 <li>запас, резерв<br></li>
 </ul>

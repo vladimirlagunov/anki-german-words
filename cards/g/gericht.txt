@@ -1,6 +1,5 @@
 Word::: Gericht
-WordTranslation::: <ul>
-<li>блюдо</li>
+WordTranslation::: <ul><li>блюдо</li>
 <li>суд</li>
 </ul>
 DerDieDas::: das

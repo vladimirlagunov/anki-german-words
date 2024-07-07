@@ -1,6 +1,5 @@
 Word::: Oase
-WordTranslation::: оазис<br><ul>
-</ul>
+WordTranslation::: оазис<br><ul></ul>
 DerDieDas::: die
 Plural::: Oasen
 Tags::: 

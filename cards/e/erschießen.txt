@@ -1,6 +1,5 @@
 Word::: erschießen
-WordTranslation::: <ul>
-<li>расстрелять</li>
+WordTranslation::: <ul><li>расстрелять</li>
 <li>застрелить</li>
 </ul>
 DrittenPerson::: erschießt

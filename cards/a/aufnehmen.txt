@@ -1,6 +1,5 @@
 Word::: aufnehmen
-WordTranslation::: <ul>
-<li>записывать аудио, снимать видео</li><li>принимать (кого-то куда-то)</li><li>начинать</li><li>поднимать тему</li><li>всасывать, абсорбировать</li>
+WordTranslation::: <ul><li>записывать аудио, снимать видео</li><li>принимать (кого-то куда-то)</li><li>начинать</li><li>поднимать тему</li><li>всасывать, абсорбировать</li>
 </ul>
 DrittenPerson::: nimmt auf
 Perfekt::: haben aufgenommen

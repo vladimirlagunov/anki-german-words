@@ -1,4 +1,4 @@
-Word::: Eltern 
+Word::: Eltern
 WordTranslation::: родители
 DerDieDas::: Pl.
 Plural::: Eltern

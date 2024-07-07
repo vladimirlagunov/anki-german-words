@@ -4,8 +4,6 @@ DrittenPerson::: vertieft
 Perfekt::: haben vertieft
 Präteritum::: vertiefte
 FrontExample::: Ich möchte meine Kenntnisse in Mathematik vertiefen.
-
 BackExample::: Я хочу углубить свои знания в математике.
-
 Tags::: 
 guid::: h*:j~WEK$2

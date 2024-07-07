@@ -1,6 +1,5 @@
 Word::: zeigen
-WordTranslation::: <ul>
-<li>показывать, указывать</li>
+WordTranslation::: <ul><li>показывать, указывать</li>
 <li>продемонстрировать</li>
 </ul>
 DrittenPerson::: zeigt

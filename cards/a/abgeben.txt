@@ -1,6 +1,5 @@
 Word::: abgeben
-WordTranslation::: <ul>
-<li>отдавать, вручать, сдавать, передавать<br></li><li>возиться</li>
+WordTranslation::: <ul><li>отдавать, вручать, сдавать, передавать<br></li><li>возиться</li>
 </ul>
 DrittenPerson::: gibt ab
 Perfekt::: haben abgegeben

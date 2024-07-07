@@ -1,6 +1,5 @@
 Word::: schmecken
-WordTranslation::: <ul>
-<li>иметь вкус</li>
+WordTranslation::: <ul><li>иметь вкус</li>
 <li>пробовать</li>
 </ul>
 DrittenPerson::: schmeckt

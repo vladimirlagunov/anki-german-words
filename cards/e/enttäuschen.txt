@@ -1,11 +1,9 @@
 Word::: enttäuschen
-WordTranslation::: разочаровать<br><ul>
-</ul>
+WordTranslation::: разочаровать<br><ul></ul>
 DrittenPerson::: enttäuscht
 Perfekt::: haben enttäuscht
 Präteritum::: enttäuschte
 FrontExample::: Er möchte nicht, dass sie enttäuscht ist.
-
 BackExample::: Он не хочет, чтобы она была разочарована.
 Tags::: 
 guid::: BJos^Ay5:2

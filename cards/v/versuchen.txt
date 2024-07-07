@@ -4,7 +4,6 @@ Explanation::: <ul><li><b class="spoiler">versuchen</b>: Это общее сл�
 FrontExample::: Ich werde versuchen, pünktlich zum Treffen zu kommen.
 BackExample::: Я постараюсь прийти вовремя на встречу.
 FrontExample2::: Wir sollten verschiedene Lösungsansätze versuchen, um das Problem zu lösen.
-
 BackExample2::: Мы должны попробовать разные подходы к решению проблемы.
 Tags:::  chatgpt 
 guid::: kH=E`hJ]Cd

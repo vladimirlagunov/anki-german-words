@@ -1,6 +1,5 @@
 Word::: Ausrüstung
-WordTranslation::: снаряжение; вооружение; оснащение<br><ul>
-</ul>
+WordTranslation::: снаряжение; вооружение; оснащение<br><ul></ul>
 DerDieDas::: die
 Plural::: Ausrüstungen
 Tags::: 

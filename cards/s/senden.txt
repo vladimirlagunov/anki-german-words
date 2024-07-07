@@ -1,6 +1,5 @@
 Word::: senden
-WordTranslation::: <ul>
-<li>посылать</li>
+WordTranslation::: <ul><li>посылать</li>
 <li>передавать</li>
 </ul>
 DrittenPerson::: sendet

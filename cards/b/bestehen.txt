@@ -4,7 +4,7 @@ Perfekt::: hat bestanden
 Präteritum::: bestand
 FrontExample::: Und Sie bestehen zu 70% aus Wasser.
 BackExample::: И вы на 70% состоите из воды.
-FrontExample2::: Ich habe die Prüfung bestanden! 
+FrontExample2::: Ich habe die Prüfung bestanden!
 BackExample2::: Я сдал экзамен!
 Tags:::  Meine_Deutsch 
 guid::: F*3]/de=!D

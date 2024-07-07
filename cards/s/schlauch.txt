@@ -1,0 +1,8 @@
+Word::: Schlauch
+WordTranslation::: <div>шланг</div>
+DerDieDas::: der
+Plural::: Schläuche
+FrontExample::: Der Gärtner rollte den Schlauch zusammen.
+BackExample::: Садовник свернул шланг.
+Tags:::  chatgpt 
+guid::: t/A/M1k5pH

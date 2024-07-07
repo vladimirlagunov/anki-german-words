@@ -1,0 +1,8 @@
+Word::: momentan
+WordTranslation::: в настоящий момент, сейчас
+FrontExample::: Ich bin momentan beschäftigt.
+BackExample::: Я сейчас занят.
+FrontExample2::: Die Preise sind momentan sehr hoch.
+BackExample2::: Цены сейчас очень высокие.
+Tags:::  chatgpt 
+guid::: yW2f1&8>,/

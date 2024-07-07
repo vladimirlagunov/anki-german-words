@@ -1,6 +1,5 @@
 Word::: Steinbock
-WordTranslation::: <ul>
-<li>Козерог</li>
+WordTranslation::: <ul><li>Козерог</li>
 <li>горный альпийский козел</li>
 </ul>
 DerDieDas::: der

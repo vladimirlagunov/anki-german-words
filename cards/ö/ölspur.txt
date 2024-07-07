@@ -1,0 +1,10 @@
+Word::: Ölspur
+WordTranslation::: масляный след, нефтяной след
+DerDieDas::: die
+Plural::: Ölspuren
+FrontExample::: Eine lange Ölspur zog sich über die Autobahn.
+BackExample::: Длинный след масла тянулся по автостраде.
+FrontExample2::: Der Motorradfahrer ist auf der Ölspur ausgerutscht.
+BackExample2::: Мотоциклист поскользнулся на масляном пятне.
+Tags:::  chatgpt 
+guid::: jJ|vsNqIaZ

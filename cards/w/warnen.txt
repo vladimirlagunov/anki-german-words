@@ -1,6 +1,5 @@
 Word::: warnen
-WordTranslation::: <ul>
-<li>предупредить</li>
+WordTranslation::: <ul><li>предупредить</li>
 <li>предостерегать</li>
 </ul>
 DrittenPerson::: warnt

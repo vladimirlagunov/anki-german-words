@@ -1,6 +1,5 @@
 Word::: ausziehen
-WordTranslation::: <ul>
-<li>раздевать(ся), снимать<br></li>
+WordTranslation::: <ul><li>раздевать(ся), снимать<br></li>
 <li>выезжать, съезжать</li>
 </ul>
 DrittenPerson::: zieht aus

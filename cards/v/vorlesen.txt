@@ -1,6 +1,5 @@
 Word::: vorlesen
-WordTranslation::: прочитать, зачитать, читать вслух<br><ul>
-</ul>
+WordTranslation::: прочитать, зачитать, читать вслух<br><ul></ul>
 DrittenPerson::: liest vor
 Perfekt::: haben vorgelesen
 Präteritum::: las vor

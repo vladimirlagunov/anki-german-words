@@ -5,16 +5,10 @@ DrittenPerson::: lässt
 Perfekt::: hat gelassen
 Präteritum::: ließ
 FrontExample::: Kannst du mich bitte allein lassen?
-
 BackExample::: Можешь, пожалуйста, оставить меня одного?
-
 FrontExample2::: Ich lasse mein Auto reparieren.
-
 BackExample2::: Я отдам свою машину на ремонт (буквально: "я заставлю ремонтировать мою машину").
-
 FrontExample3::: Lass die Tür offen!
-
 BackExample3::: Оставь дверь открытой!
-
 Tags::: 
 guid::: Cschq`L7*G

@@ -1,6 +1,5 @@
 Word::: heißen
-WordTranslation::: <ul>
-<li>значить</li>
+WordTranslation::: <ul><li>значить</li>
 <li>называться, иметь имя</li>
 </ul>
 DrittenPerson::: heißt

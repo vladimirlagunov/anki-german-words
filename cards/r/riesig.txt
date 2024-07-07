@@ -1,6 +1,5 @@
 Word::: riesig
-WordTranslation::: огромный, гигантский<br><ul>
-</ul>
+WordTranslation::: огромный, гигантский<br><ul></ul>
 FrontExample::: Er hatte einen riesigen Hunger.
 BackExample::: У него был огромный голод.
 FrontExample2::: Sie sahen ein riesiges Gebäude vor sich.

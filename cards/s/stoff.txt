@@ -1,6 +1,5 @@
 Word::: Stoff
-WordTranslation::: <ul>
-<li>сюжет</li>
+WordTranslation::: <ul><li>сюжет</li>
 <li>материя</li>
 <li>вещество</li>
 </ul>

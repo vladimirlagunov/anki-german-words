@@ -1,6 +1,5 @@
 Word::: Vortrag
-WordTranslation::: <ul>
-<li>доклад</li>
+WordTranslation::: <ul><li>доклад</li>
 <li>лекция</li>
 </ul>
 Explanation::: Syn: die Rede, die Ansprache, die Darstellung, das Referat, die Vorlesung

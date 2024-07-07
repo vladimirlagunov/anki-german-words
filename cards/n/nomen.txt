@@ -2,8 +2,7 @@ Word::: Nomen
 WordTranslation::: существительное/прилагательное/числительное/местоимение
 Explanation::: <ol><li><div><strong class="spoiler">Nomen</strong>: Это более общий термин, который может включать в себя все типы именных слов в языке, включая существительные (Substantive), прилагательные (Adjektive), числительные (Numeralien) и местоимения (Pronomen).</div></li><li><div><strong class="spoiler">Substantiv</strong>: Этот термин более специфичен и относится исключительно к существительным. Он используется для обозначения слов, которые называют предметы, лица, явления, понятия и так далее.</div></li></ol>
 DerDieDas::: das
-Plural::: Nomen, Nomina<br><ul>
-</ul>
+Plural::: Nomen, Nomina<br><ul></ul>
 FrontExample::: In diesem Satz ist das Wort "Haus" ein Nomen.
 BackExample::: В этом предложении слово "дом" является существительным.
 Tags:::  chatgpt 

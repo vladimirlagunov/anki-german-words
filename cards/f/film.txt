@@ -1,6 +1,5 @@
 Word::: Film
-WordTranslation::: <ul>
-<li>кино, кинофильм</li>
+WordTranslation::: <ul><li>кино, кинофильм</li>
 <li>фотоплёнка</li>
 </ul>
 DerDieDas::: der

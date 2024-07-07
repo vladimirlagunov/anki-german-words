@@ -1,8 +1,6 @@
 Word::: erzählen
-WordTranslation::: рассказывать<br><ul>
-</ul>
-Explanation::: <ul>
-<li>
+WordTranslation::: рассказывать<br><ul></ul>
+Explanation::: <ul><li>
 <p><strong class="spoiler">Erzählen</strong>: Это слово часто переводится как "рассказывать". Оно подразумевает длительное и подробное изложение событий или историй.</p>
 <ul><li>Beispiel: "Er hat mir eine interessante Geschichte erzählt." ("Он рассказал мне интересную историю.")</li></ul>
 </li>

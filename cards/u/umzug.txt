@@ -1,6 +1,5 @@
 Word::: Umzug
-WordTranslation::: <ul>
-<li>переезд</li>
+WordTranslation::: <ul><li>переезд</li>
 <li>процессия</li>
 </ul>
 DerDieDas::: der

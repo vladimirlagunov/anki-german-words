@@ -1,0 +1,15 @@
+Word::: Kater
+WordTranslation::: <ul>
+<li>кот</li>
+<li>похмелье</li>
+</ul>
+DerDieDas::: der
+Plural::: Kater
+FrontExample::: Er hat einen Kater nach der Party.
+BackExample::: У него похмелье после вечеринки.
+FrontExample2::: Der Kater schläft den ganzen Tag auf dem Sofa.
+BackExample2::: Кот спит весь день на диване.
+FrontExample3::: Ich habe einem schwarzen Kater auf der Straße gesehen.
+BackExample3::: Я видел черного кота на улице.
+Tags:::  chatgpt 
+guid::: rs*?&.P;G3

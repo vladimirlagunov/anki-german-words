@@ -1,16 +1,10 @@
 Word::: erreichen
 WordTranslation::: <ul><li>достигать, добираться, получать</li><li>дозваниваться по телефону</li></ul>
 FrontExample::: Du kannst mich unter dieser Nummer erreichen.
-
 BackExample::: Ты можешь связаться со мной по этому номеру.
-
 FrontExample2::: Ich habe mein Ziel erreicht.
-
 BackExample2::: Я достиг своей цели.
-
 FrontExample3::: Die Kosten könnten 1 Million Euro erreichen.
-
 BackExample3::: Расходы могут достигнуть 1 миллиона евро.
-
 Tags:::  chatgpt 
 guid::: xulb6rAh[P

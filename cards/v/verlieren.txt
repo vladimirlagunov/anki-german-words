@@ -1,6 +1,5 @@
 Word::: verlieren
-WordTranslation::: <ul>
-<li>проиграть</li>
+WordTranslation::: <ul><li>проиграть</li>
 <li>терять<br></li>
 </ul>
 DrittenPerson::: verliert
@@ -9,8 +8,6 @@ Präteritum::: verlor
 FrontExample::: Der Fußballverein verliert das Spiel.
 BackExample::: Футбольный клуб проигрывает игру.
 FrontExample2::: Ich verliere meinen Schlüssel.
-
 BackExample2::: Я теряю свой ключ.
-
 Tags:::  chatgpt 
 guid::: F]*SD2MjWF

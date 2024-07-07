@@ -1,6 +1,5 @@
 Word::: Vorstellung
-WordTranslation::: <ul><li>представление, презентация
-</li><li>впечатление</li></ul>
+WordTranslation::: <ul><li>представление, презентация</li><li>впечатление</li></ul>
 FrontExample::: Die Vorstellung des neuen Produkts findet im Hauptsaal statt.
 BackExample::: Презентация нового продукта пройдет в главном зале.
 FrontExample2::: Ich hatte eine völlig andere Vorstellung von diesem Film.

@@ -1,18 +1,14 @@
 Word::: umziehen
-WordTranslation::: <ul>
-<li>переезжать</li>
+WordTranslation::: <ul><li>переезжать</li>
 <li>переодеваться</li><li>(редко) оборачивать, окружать</li>
 </ul>
-DrittenPerson::: <ul>
-<li>zieht um – переезжать, переодеваться</li>
+DrittenPerson::: <ul><li>zieht um – переезжать, переодеваться</li>
 <li>umzieht – оборачивать, окружать</li>
 </ul>
-Perfekt::: <ul>
-<li>sein umgezogen – переезжать, переодеваться</li>
+Perfekt::: <ul><li>sein umgezogen – переезжать, переодеваться</li>
 <li>haben umzogen – оборачивать, окружать</li>
 </ul>
-Präteritum::: <ul>
-<li>zog um – переезжать, переодеваться</li>
+Präteritum::: <ul><li>zog um – переезжать, переодеваться</li>
 <li>umzog – оборачивать, окружать</li>
 </ul>
 FrontExample::: Wir ziehen nächste Woche um.

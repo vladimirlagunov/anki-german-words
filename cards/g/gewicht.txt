@@ -1,6 +1,5 @@
 Word::: Gewicht
-WordTranslation::: <ul>
-<li>вес</li>
+WordTranslation::: <ul><li>вес</li>
 <li>гиря</li>
 </ul>
 DerDieDas::: das

@@ -1,6 +1,5 @@
 Word::: scheinen
-WordTranslation::: <ul>
-<li>светить</li>
+WordTranslation::: <ul><li>светить</li>
 <li>казаться</li>
 </ul>
 DrittenPerson::: scheint

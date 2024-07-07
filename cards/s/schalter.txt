@@ -1,6 +1,5 @@
 Word::: Schalter
-WordTranslation::: <ul>
-<li>выключатель</li>
+WordTranslation::: <ul><li>выключатель</li>
 <li>касса, окошечко кассы (на почте, в банке, на вокзале)<br></li>
 </ul>
 DerDieDas::: der

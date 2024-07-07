@@ -3,7 +3,6 @@ WordTranslation::: точно также
 FrontExample::: Sie mag Schokolade und ich genauso.
 BackExample::: Она любит шоколад, и я тоже.
 FrontExample2::: Die neue Wohnung ist genauso groß wie die alte.
-
 BackExample2::: Новая квартира такая же большая, как и старая.
 Tags::: 
 guid::: e9B&B)X6Ir

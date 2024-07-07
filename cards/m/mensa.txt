@@ -3,10 +3,8 @@ WordTranslation::: столовая
 DerDieDas::: die
 Plural::: Mensen
 FrontExample::: In unserer Firma haben wir eine Mitarbeitermensa, in der wir Mittagessen bekommen können.
-
-BackExample:::  В нашей компании у нас есть столовая для сотрудников, где мы можем пообедать.
+BackExample::: В нашей компании у нас есть столовая для сотрудников, где мы можем пообедать.
 FrontExample2::: Die Mensa bietet auch vegetarische und vegane Optionen für diejenigen an, die kein Fleisch essen.
-
 BackExample2::: В столовой также есть вегетарианские и веганские варианты для тех, кто не ест мясо.
 Tags:::  chatgpt 
 guid::: e6[yXCkfP!

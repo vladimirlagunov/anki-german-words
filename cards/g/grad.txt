@@ -1,6 +1,5 @@
 Word::: Grad
-WordTranslation::: <ul>
-<li>градус</li>
+WordTranslation::: <ul><li>градус</li>
 <li>степень</li>
 </ul>
 DerDieDas::: der

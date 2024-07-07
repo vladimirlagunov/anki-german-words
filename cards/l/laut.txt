@@ -4,8 +4,7 @@ FrontExample::: Nicht so laut! Das Baby schläft.
 BackExample::: Не так громко! Младенец спит.
 FrontExample2::: Die Musik ist sehr laut.
 BackExample2::: Музыка очень громкая.
-FrontExample3::: <div>
-<div>
+FrontExample3::: <div><div>
 <div>
 <div>Laut einer Studie sind nur 50 Prozent der Deutschen glucklich.&nbsp;</div>
 </div>

@@ -1,6 +1,5 @@
 Word::: beraten
-WordTranslation::: советовать, консультировать, совещаться<br><ul>
-</ul>
+WordTranslation::: советовать, консультировать, совещаться<br><ul></ul>
 Explanation::: Syn: diskutieren, erörtern, besprechen, debattieren
 DrittenPerson::: berät
 Perfekt::: haben beraten

@@ -1,6 +1,5 @@
 Word::: Eigenschaft
-WordTranslation::: свойство, характеристика, особенность<br><ul>
-</ul>
+WordTranslation::: свойство, характеристика, особенность<br><ul></ul>
 Explanation::: Syn: das Merkmal, die Charakteristik, die Besonderheit, das Attribut
 DerDieDas::: die
 Plural::: Eigenschaften

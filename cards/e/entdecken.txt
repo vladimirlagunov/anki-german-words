@@ -1,9 +1,7 @@
 Word::: entdecken
-WordTranslation::: <ul>
-<li>обнаружить</li><li>открыть</li><li>найти<br></li>
+WordTranslation::: <ul><li>обнаружить</li><li>открыть</li><li>найти<br></li>
 </ul>
-Explanation::: Syn: auffinden, finden, feststellen, herausfinden<br><br><ol><li><div><strong class="spoiler">Entdecken</strong> – обнаружить, открыть (что-то новое или неизвестное).
-Пример: Columbus entdeckte Amerika. (Колумб открыл Америку.)
+Explanation::: Syn: auffinden, finden, feststellen, herausfinden<br><br><ol><li><div><strong class="spoiler">Entdecken</strong> – обнаружить, открыть (что-то новое или неизвестное).Пример: Columbus entdeckte Amerika. (Колумб открыл Америку.)
 Этот глагол часто употребляется, когда речь идет о новых открытиях или обнаружении чего-то, что ранее не было известно широкой публике.</div></li><li><div><strong class="spoiler">Auffinden</strong> – находить, обнаруживать (часто что-то потерянное или то, что трудно было найти).
 Пример: Die Polizei hat die gestohlene Ware schnell aufgefunden. (Полиция быстро нашла похищенные товары.)
 Слово часто используется в формальном контексте или в новостях, когда говорят об обнаружении каких-либо вещей или людей.</div></li><li><div><strong class="spoiler">Finden</strong> – находить (в более общем и повседневном смысле).

@@ -1,0 +1,8 @@
+Word::: zart
+WordTranslation::: нежный, мягкий, тонкий
+FrontExample::: Sie hat eine zarte Stimme.
+BackExample::: У нее нежный голос.
+FrontExample2::: Die Blütenblätter sind so zart und empfindlich.
+BackExample2::: Лепестки такие нежные и хрупкие.
+Tags:::  chatgpt 
+guid::: MQ$ok**9Nj

@@ -1,6 +1,5 @@
 Word::: betonen
-WordTranslation::: <ul>
-<li>подчёркивать<br></li><li>делать ударение</li>
+WordTranslation::: <ul><li>подчёркивать<br></li><li>делать ударение</li>
 </ul>
 DrittenPerson::: betont
 Perfekt::: haben betont

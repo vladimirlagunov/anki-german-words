@@ -1,0 +1,6 @@
+Word::: Prozess
+WordTranslation::: процесс
+DerDieDas::: der
+Plural::: Prozesse
+Tags:::  chatgpt 
+guid::: pZgu%`@$<m

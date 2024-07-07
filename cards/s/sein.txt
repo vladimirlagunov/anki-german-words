@@ -1,6 +1,5 @@
 Word::: sein
-WordTranslation::: <ul>
-<li>быть</li>
+WordTranslation::: <ul><li>быть</li>
 <li>существовать<br></li>
 </ul>
 DrittenPerson::: ist

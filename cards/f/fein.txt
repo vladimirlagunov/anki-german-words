@@ -1,0 +1,8 @@
+Word::: fein
+WordTranslation::: <ul><li>хороший, изящный</li><li>тонкий, мелкий</li></ul>
+FrontExample::: Er hat eine feine Nase für guten Wein.
+BackExample::: У него тонкий вкус на хорошее вино
+FrontExample2::: Diese Schokolade ist wirklich fein.
+BackExample2::: Этот шоколад действительно великолепен.
+Tags:::  chatgpt 
+guid::: dz<%:E?8=s

@@ -1,6 +1,5 @@
 Word::: empfinden
-WordTranslation::: <ul>
-<li>воспринимать</li>
+WordTranslation::: <ul><li>воспринимать</li>
 <li>чувствовать</li>
 </ul>
 DrittenPerson::: empfindet

@@ -5,7 +5,6 @@ Plural::: Unterschiede
 FrontExample::: Die Eltern machten keinen Unterschied zwischen ihren drei Kindern, sie behandelten sie alle gleich.
 BackExample::: Родители не делали различий между своими тремя детьми, относились ко всем одинаково.
 FrontExample2::: Die kulturellen Unterschiede können zu Missverständnissen führen.
-
 BackExample2::: Культурные различия могут привести к недопониманиям.
 FrontExample3::: Es gibt keinen Unterschied.
 BackExample3::: Нет никакой разницы.

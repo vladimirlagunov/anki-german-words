@@ -1,6 +1,5 @@
 Word::: genesen
-WordTranslation::: выздоравливать<br><ul>
-</ul>
+WordTranslation::: выздоравливать<br><ul></ul>
 Explanation::: Syn: gesund machen
 DrittenPerson::: genest
 Perfekt::: sein genesen

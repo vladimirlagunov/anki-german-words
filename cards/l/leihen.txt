@@ -4,12 +4,8 @@ DrittenPerson::: leiht
 Perfekt::: haben geliehen
 Präteritum::: ich	lieh
 FrontExample::: Kannst du mir 10 Euro leihen?
-
 BackExample::: Можешь одолжить мне 10 евро?
-
 FrontExample2::: Sie leiht ihrem Bruder das Auto für das Wochenende.
-
 BackExample2::: Она одолжит своему брату машину на выходные.
-
 Tags:::  chatgpt 
 guid::: AjHu-=UTH

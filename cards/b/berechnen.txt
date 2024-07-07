@@ -1,0 +1,11 @@
+Word::: berechnen
+WordTranslation::: рассчитывать, вычислять, начислять
+DrittenPerson::: berechnet
+Perfekt::: haben berechnet
+Präteritum::: berechnete
+FrontExample::: Wir müssen die Kosten für das Projekt berechnen.
+BackExample::: Нам нужно рассчитать расходы на проект.
+FrontExample2::: Er kann die benötigte Menge Material genau berechnen.
+BackExample2::: Он может точно рассчитать необходимое количество материала.
+Tags:::  chatgpt 
+guid::: F-Ym_jl_1y

@@ -1,6 +1,5 @@
 Word::: duschen
-WordTranslation::: <ul>
-<li>принимать душ</li><li>поливать как из ведра</li>
+WordTranslation::: <ul><li>принимать душ</li><li>поливать как из ведра</li>
 </ul>
 DrittenPerson::: duscht
 Perfekt::: haben geduscht

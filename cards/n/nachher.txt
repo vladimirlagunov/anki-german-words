@@ -1,0 +1,9 @@
+Word::: nachher
+WordTranslation::: после (чего-то)
+Explanation::: <ul><li><div><strong class="spoiler">Nachher</strong>&nbsp;- это слово чаще всего используется для обозначения времени, следующего сразу за каким-то событием или действием. Оно означает "после этого", "позже", но с акцентом на близость по времени. Например:</div></li><ul><li>"Wir gehen jetzt einkaufen und nachher ins Kino." (Мы сейчас пойдем в магазин, а потом в кино.)</li></ul><li><div><strong class="spoiler">nachdem</strong>&nbsp;— это союз, который используется для связи двух предложений, показывая, что одно действие следует после другого. Этот союз требует, чтобы глагол в придаточном предложении стоял в прошедшем времени. Пример:</div><ul><li>"Nachdem ich gegessen hatte, ging ich spazieren." (После того как я поел, я пошел гулять.)</li></ul></li><li><div><strong class="spoiler">Später</strong>&nbsp;- это слово охватывает более широкий диапазон времени и может быть использовано для обозначения чего-то, что произойдет в более отдаленном будущем. Оно переводится как "позже", "позднее". Примеры:</div><ul><li>"Ich werde später Arzt." (Я стану врачом позже.)</li><li>"Kannst du mich später anrufen?" (Можешь позвонить мне позже?)</li></ul></li></ul>
+FrontExample::: Er wollte nachher noch einkaufen gehen.
+BackExample::: Он хотел потом ещё сходить за покупками.
+FrontExample2::: Nachher gehen wir ins Kino.
+BackExample2::: Потом мы пойдём в кино.
+Tags:::  chatgpt 
+guid::: C1]8^pTJ.-

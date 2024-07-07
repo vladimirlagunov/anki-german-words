@@ -1,6 +1,5 @@
 Word::: Unterkunft
-WordTranslation::: <ul>
-<li></li><li>убежище</li><li>проживание</li><ul>
+WordTranslation::: <ul><li></li><li>убежище</li><li>проживание</li><ul>
 </ul>
 </ul>
 DerDieDas::: die

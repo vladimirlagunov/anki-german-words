@@ -1,0 +1,10 @@
+Word::: irgendwo
+WordTranslation::: где-то, где-нибудь
+FrontExample::: Ich habe meinen Schlüssel irgendwo verloren.
+BackExample::: Я где-то потерял свой ключ.
+FrontExample2::: Können wir uns irgendwo treffen?
+BackExample2::: Можем ли мы встретиться где-нибудь?
+FrontExample3::: Er wohnt irgendwo in der Stadt.
+BackExample3::: Он живет где-то в городе.
+Tags:::  chatgpt 
+guid::: Nu}0Gz`!([

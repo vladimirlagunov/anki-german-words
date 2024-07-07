@@ -1,15 +1,12 @@
 Word::: wiederholen
 WordTranslation::: <ul><li>повторять (фразу, действие)</li><li>возвращать на место, приносить обратно</li></ul>
-DrittenPerson::: <ul>
-<li>wiederholt – повторять (фразу, действие)</li>
+DrittenPerson::: <ul><li>wiederholt – повторять (фразу, действие)</li>
 <li>holt wieder – возвращать на место, приносить обратно</li>
 </ul>
-Perfekt::: <ul>
-<li>haben wiederholt – повторять (фразу, действие)</li>
+Perfekt::: <ul><li>haben wiederholt – повторять (фразу, действие)</li>
 <li>haben wiedergeholt – возвращать на место, приносить обратно</li>
 </ul>
-Präteritum::: <ul>
-<li>wiederholte – повторять (фразу, действие)</li>
+Präteritum::: <ul><li>wiederholte – повторять (фразу, действие)</li>
 <li>holte wieder – возвращать на место, приносить обратно</li>
 </ul>
 FrontExample::: Können Sie das bitte wiederholen?

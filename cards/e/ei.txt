@@ -1,4 +1,4 @@
-Word::: Ei 
+Word::: Ei
 WordTranslation::: яйцо
 DerDieDas::: das
 Plural::: Eier

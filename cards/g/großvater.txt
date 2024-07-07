@@ -1,6 +1,5 @@
 Word::: Großvater
-WordTranslation::: <ul>
-<li>дед, дедушка<br></li>
+WordTranslation::: <ul><li>дед, дедушка<br></li>
 <li>старичок</li>
 </ul>
 DerDieDas::: der

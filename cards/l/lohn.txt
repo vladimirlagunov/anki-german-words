@@ -1,6 +1,5 @@
 Word::: Lohn
-WordTranslation::: зарплата, вознаграждение<br><ul>
-</ul>
+WordTranslation::: зарплата, вознаграждение<br><ul></ul>
 DerDieDas::: der
 Plural::: Löhne
 Tags::: 

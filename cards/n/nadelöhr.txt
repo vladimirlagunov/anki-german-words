@@ -1,0 +1,10 @@
+Word::: Nadelöhr
+WordTranslation::: игольное ушко
+DerDieDas::: das
+Plural::: Nadelöhre
+FrontExample::: Dieses Nadelöhr verursacht täglich Verkehrsstaus.
+BackExample::: Это узкое место вызывает ежедневные пробки.
+FrontExample2::: Wir müssen das Nadelöhr optimieren, um die Effizienz zu steigern.
+BackExample2::: Мы должны оптимизировать узкое место, чтобы повысить эффективность.
+Tags:::  chatgpt 
+guid::: z`KQ_b<DpL

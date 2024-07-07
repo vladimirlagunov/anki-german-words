@@ -1,6 +1,5 @@
 Word::: Tüte
-WordTranslation::: пакет, кулёк<br><ul>
-</ul>
+WordTranslation::: пакет, кулёк<br><ul></ul>
 DerDieDas::: die
 Plural::: Tüten
 FrontExample::: Er hat eine Tüte mit Süßigkeiten gekauft.

@@ -1,6 +1,5 @@
 Word::: Grund
-WordTranslation::: <ul>
-<li>основание, причина, повод</li><li>почва<br></li>
+WordTranslation::: <ul><li>основание, причина, повод</li><li>почва<br></li>
 </ul>
 DerDieDas::: der
 Plural::: Gründe

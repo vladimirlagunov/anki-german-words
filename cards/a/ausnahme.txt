@@ -1,6 +1,5 @@
 Word::: Ausnahme
-WordTranslation::: исключение, отступление, изъятие<br><ul>
-</ul>
+WordTranslation::: исключение, отступление, изъятие<br><ul></ul>
 DerDieDas::: die
 Plural::: Ausnahmen
 FrontExample::: Normalerweise muss ich am Wochenende arbeiten. Aber heute ist eine Ausnahme.

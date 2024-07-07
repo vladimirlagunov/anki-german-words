@@ -1,6 +1,5 @@
 Word::: Kette
-WordTranslation::: цепочка, ожерелье<br><ul>
-</ul><div>цепь</div>
+WordTranslation::: цепочка, ожерелье<br><ul></ul><div>цепь</div>
 DerDieDas::: die
 Plural::: Ketten
 Tags::: 

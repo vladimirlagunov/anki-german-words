@@ -3,10 +3,8 @@ WordTranslation::: крик, шум
 DerDieDas::: das
 Plural::: wird nur im Singular verwendet
 FrontExample::: Das Geschrei der Kinder im Spielplatz war fröhlich und lebhaft.
-
 BackExample::: Крик детей на детской площадке был радостным и живым.
 FrontExample2::: Das Geschrei der Möwen begleitete die Fischerboote auf dem Meer.
-
 BackExample2::: Крик чаек сопровождал рыбацкие лодки на море.
 Tags:::  chatgpt 
 guid::: iwR0l%Kp+5

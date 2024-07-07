@@ -1,6 +1,5 @@
 Word::: Adresse
-WordTranslation::: адрес<br><ul>
-</ul>
+WordTranslation::: адрес<br><ul></ul>
 DerDieDas::: die
 Plural::: Adressen
 FrontExample::: Können Sie mir seine Adresse sagen?

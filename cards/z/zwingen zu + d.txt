@@ -1,6 +1,5 @@
 Word::: zwingen zu + D
-WordTranslation::: заставлять, принуждать<br><ul>
-</ul>
+WordTranslation::: заставлять, принуждать<br><ul></ul>
 DrittenPerson::: zwingt
 Perfekt::: haben gezwungen
 Präteritum::: zwang

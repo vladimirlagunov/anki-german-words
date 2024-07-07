@@ -1,15 +1,12 @@
 Word::: hängen
-WordTranslation::: <ul>
-<li>висеть</li>
+WordTranslation::: <ul><li>висеть</li>
 <li>вешать<br></li>
 </ul>
 DrittenPerson::: hängt
-Perfekt::: <ul>
-<li>haben gehangen – висеть</li>
+Perfekt::: <ul><li>haben gehangen – висеть</li>
 <li>haben gehängt – вешать</li>
 </ul>
-Präteritum::: <ul>
-<li>hing – висеть</li>
+Präteritum::: <ul><li>hing – висеть</li>
 <li>hängte – вешать</li>
 </ul>
 FrontExample::: Die Bilder hingen bereits an der Wand.

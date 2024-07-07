@@ -1,16 +1,12 @@
 Word::: Umsatz
-WordTranslation::: <ul>
-<li>оборот, товарооборот</li>
+WordTranslation::: <ul><li>оборот, товарооборот</li>
 <li>обмен</li>
 </ul>
 DerDieDas::: der
 Plural::: Umsätze
 FrontExample::: Ich will 10 % vom Umsatz.
-
 BackExample::: Я хочу 10% от оборота.
-
 FrontExample2::: Sie generieren pro Jahr einen Umsatz von 14 Millionen $.
-
 BackExample2::: Их оборот составляет 14 миллионов долларов в год.
 Tags::: 
 guid::: wr.{(u9~3D

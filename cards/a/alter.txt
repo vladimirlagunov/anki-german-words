@@ -1,6 +1,5 @@
 Word::: Alter
-WordTranslation::: <ul>
-<li>возраст</li>
+WordTranslation::: <ul><li>возраст</li>
 <li>старость</li>
 </ul>
 DerDieDas::: das

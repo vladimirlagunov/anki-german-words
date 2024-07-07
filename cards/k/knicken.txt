@@ -1,0 +1,9 @@
+Word::: knicken
+WordTranslation::: сломать, сгибать, заламывать, складывать
+DrittenPerson::: knickt
+Perfekt::: haben geknickt
+Präteritum::: knickte
+FrontExample::: Die Blumen im Garten sind nach dem Sturm geknickt.
+BackExample::: Цветы в саду сломались после шторма.
+Tags:::  chatgpt 
+guid::: uog(XxLhEZ

@@ -1,6 +1,5 @@
 Word::: sich erholen von + D
-WordTranslation::: отдыхать от, восстанавливаться от<br><ul>
-</ul>
+WordTranslation::: отдыхать от, восстанавливаться от<br><ul></ul>
 DrittenPerson::: erholt
 Perfekt::: haben erholt
 Präteritum::: erholte

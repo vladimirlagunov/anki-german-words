@@ -1,0 +1,10 @@
+Word::: Rausch
+WordTranslation::: <ul><li>опьянение</li><li>экстаз, восторг, возбуждение</li></ul>
+DerDieDas::: der
+Plural::: Räusche
+FrontExample::: Der Rausch des Sieges war überwältigend.
+BackExample::: Опьянение от победы было ошеломляющим.
+FrontExample2::: Der starke Alkohol führte zu einem tiefen Rausch.
+BackExample2::: Сильный алкоголь привел к глубокому опьянению.
+Tags:::  chatgpt 
+guid::: hoiZe3a>E.

@@ -1,18 +1,13 @@
 Word::: leiden
-WordTranslation::: <ul>
-<li>терпеть</li>
+WordTranslation::: <ul><li>терпеть</li>
 <li>страдать</li>
 </ul>
 DrittenPerson::: leidet
 Perfekt::: haben gelitten
 Präteritum::: litt
 FrontExample::: Sie leidet unter starken Kopfschmerzen.
-
 BackExample::: Она страдает от сильной головной боли.
-
 FrontExample2::: Ich kann es nicht ertragen, wenn Tiere leiden.
-
 BackExample2::: Я не могу выносить, когда животные страдают.
-
 Tags:::  chatgpt 
 guid::: z;}fw;fy>u

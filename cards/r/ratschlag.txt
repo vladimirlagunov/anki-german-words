@@ -1,6 +1,5 @@
 Word::: Ratschlag
-WordTranslation::: совет (указание, предложение)<br><ul>
-</ul>
+WordTranslation::: совет (указание, предложение)<br><ul></ul>
 DerDieDas::: der
 Plural::: Ratschläge
 Tags::: 

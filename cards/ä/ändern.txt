@@ -1,6 +1,5 @@
 Word::: ändern
-WordTranslation::: <ul>
-<li>поменять</li>
+WordTranslation::: <ul><li>поменять</li>
 <li>измениться</li>
 </ul>
 DrittenPerson::: ändert

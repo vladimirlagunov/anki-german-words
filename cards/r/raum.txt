@@ -1,6 +1,5 @@
 Word::: Raum
-WordTranslation::: <ul>
-<li>помещение</li>
+WordTranslation::: <ul><li>помещение</li>
 <li>пространство</li>
 <li>район</li>
 <li>космос</li>

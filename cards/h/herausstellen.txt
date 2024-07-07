@@ -1,0 +1,11 @@
+Word::: herausstellen
+WordTranslation::: <ul><li>оказываться, выясняться</li><li>выделять, выставлять</li></ul>
+DrittenPerson::: stellt heraus
+Perfekt::: haben herausgestellt
+Präteritum::: stellte heraus
+FrontExample::: Es stellte sich heraus, dass er recht hatte.
+BackExample::: Оказалось, что он был прав.
+FrontExample2::: Es wird sich bald herausstellen, ob die Maßnahmen erfolgreich waren.
+BackExample2::: Скоро выяснится, были ли меры успешны.
+Tags:::  chatgpt 
+guid::: pPH3L5:f!P

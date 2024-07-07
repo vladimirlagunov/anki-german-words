@@ -1,6 +1,5 @@
 Word::: Bereich
-WordTranslation::: <ul>
-<li>диапазон</li>
+WordTranslation::: <ul><li>диапазон</li>
 <li>область, сфера</li>
 </ul>
 Plural::: Bereiche

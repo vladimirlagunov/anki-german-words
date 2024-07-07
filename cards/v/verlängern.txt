@@ -1,12 +1,8 @@
 Word::: verlängern
 WordTranslation::: продлить, увеличить
 FrontExample::: Ich möchte meinen Vertrag verlängern.
-
 BackExample::: Я хочу продлить свой контракт.
-
 FrontExample2::: Die Bahnstrecke wird verlängert.
-
 BackExample2::: Железнодорожный маршрут будет продлен.
-
 Tags::: 
 guid::: d[(8?KqoB.

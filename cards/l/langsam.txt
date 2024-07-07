@@ -1,6 +1,5 @@
 Word::: langsam
-WordTranslation::: <ul>
-<li>медленный</li>
+WordTranslation::: <ul><li>медленный</li>
 <li>затяжный</li>
 <li>нерасторопный</li>
 </ul>

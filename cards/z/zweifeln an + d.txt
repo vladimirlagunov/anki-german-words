@@ -1,6 +1,5 @@
 Word::: zweifeln an + D
-WordTranslation::: <ul>
-<li>недоумевать</li>
+WordTranslation::: <ul><li>недоумевать</li>
 <li>сомневаться</li>
 </ul>
 DrittenPerson::: zweifelt

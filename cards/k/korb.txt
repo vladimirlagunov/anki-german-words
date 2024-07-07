@@ -1,0 +1,9 @@
+Word::: Korb
+WordTranslation::: <ul>
+<li>корзинка</li>
+<li>короб</li>
+</ul>
+DerDieDas::: der
+Plural::: Körbe
+Tags::: 
+guid::: tu%z+5(E0}

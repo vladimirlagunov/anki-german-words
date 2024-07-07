@@ -1,10 +1,8 @@
 Word::: Viertel
-WordTranslation::: <ul>
-<li>квартал</li>
+WordTranslation::: <ul><li>квартал</li>
 <li>четверть</li>
 </ul>
-DerDieDas::: <ul>
-<li>das – in Deutchland, in Österreich</li>
+DerDieDas::: <ul><li>das – in Deutchland, in Österreich</li>
 <li>der – in der Schweiz</li>
 </ul>
 Plural::: Viertel

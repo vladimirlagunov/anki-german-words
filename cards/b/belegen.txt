@@ -1,6 +1,5 @@
 Word::: belegen
-WordTranslation::: <ul>
-<li>покрывать</li>
+WordTranslation::: <ul><li>покрывать</li>
 <li>подтверждать</li>
 <li>занимать</li>
 </ul>
@@ -12,7 +11,6 @@ BackExample::: Криминальные сериалы занимают втор
 FrontExample2::: Sie konnte ihre Aussage mit Fakten belegen.
 BackExample2::: Она смогла подтвердить свои утверждения фактами.
 FrontExample3::: Ich möchte mein Brot mit Käse belegen.
-
 BackExample3::: Я хочу положить на хлеб сыр.
 Tags:::  chatgpt 
 guid::: iJh]g}ZJ<g

@@ -1,6 +1,5 @@
 Word::: jagen
-WordTranslation::: охотиться, преследовать<br><ul>
-</ul>
+WordTranslation::: охотиться, преследовать<br><ul></ul>
 DrittenPerson::: jagt
 Perfekt::: haben gejagt
 Präteritum::: jagte

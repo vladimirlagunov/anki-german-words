@@ -1,0 +1,10 @@
+Word::: Müdigkeit
+WordTranslation::: усталость
+DerDieDas::: die
+Plural::: —
+FrontExample::: Müdigkeit überkam ihn nach einem langen Arbeitstag.
+BackExample::: Усталость настигла его после долгого рабочего дня.
+FrontExample2::: Das Medikament kann als Nebenwirkung Müdigkeit verursachen.
+BackExample2::: Лекарство может вызвать усталость как побочный эффект.
+Tags:::  chatgpt 
+guid::: zj4q8gxZsv

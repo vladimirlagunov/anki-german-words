@@ -1,6 +1,5 @@
 Word::: Theater
-WordTranslation::: театр<br><ul>
-</ul>
+WordTranslation::: театр<br><ul></ul>
 DerDieDas::: das
 Plural::: Theater
 Tags::: 

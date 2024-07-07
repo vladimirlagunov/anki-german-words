@@ -1,6 +1,5 @@
 Word::: retten
-WordTranslation::: спасать<br><ul>
-</ul>
+WordTranslation::: спасать<br><ul></ul>
 DrittenPerson::: rettet
 Perfekt::: haben gerettet
 Präteritum::: rettete

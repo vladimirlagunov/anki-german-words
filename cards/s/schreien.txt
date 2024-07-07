@@ -1,6 +1,5 @@
 Word::: schreien
-WordTranslation::: кричать<br><ul>
-</ul>
+WordTranslation::: кричать<br><ul></ul>
 DrittenPerson::: schreit
 Perfekt::: haben geschrien
 Präteritum::: schrie

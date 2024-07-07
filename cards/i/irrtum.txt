@@ -4,7 +4,6 @@ Explanation::: <div>"Irrtum" обычно используется для обо
 DerDieDas::: der
 Plural::: Irrtümer
 FrontExample::: Bitte entschuldigen Sie den Irrtum in der Rechnung, es wird korrigiert.
-
 BackExample::: Пожалуйста, извините за ошибку в счете, она будет исправлена.
 Tags:::  chatgpt 
 guid::: rgW?{_=D5J

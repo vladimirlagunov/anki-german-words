@@ -1,6 +1,5 @@
 Word::: Geschäft
-WordTranslation::: <ul>
-<li>бизнес</li>
+WordTranslation::: <ul><li>бизнес</li>
 <li>магазин</li>
 </ul>
 DerDieDas::: das

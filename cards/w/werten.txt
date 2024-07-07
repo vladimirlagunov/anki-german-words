@@ -1,6 +1,5 @@
 Word::: werten
-WordTranslation::: <ul>
-<li>оценивать</li>
+WordTranslation::: <ul><li>оценивать</li>
 <li>рассматривать</li>
 </ul>
 Explanation::: Syn: wertvoll, lieb, sinnvoll
@@ -10,7 +9,6 @@ Präteritum::: wertete
 FrontExample::: Experten werten die neuesten Statistiken aus.
 BackExample::: Эксперты анализируют последние статистические данные.
 FrontExample2::: Die Kritiker werteten den Film als Meisterwerk.
-BackExample2::: 
-Критики оценили фильм как шедевр.
+BackExample2::: Критики оценили фильм как шедевр.
 Tags:::  chatgpt 
 guid::: D*k]o-`=2<

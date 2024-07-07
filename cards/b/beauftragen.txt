@@ -1,6 +1,5 @@
 Word::: beauftragen
-WordTranslation::: <ul>
-<li>поручать</li>
+WordTranslation::: <ul><li>поручать</li>
 <li>нанимать</li>
 </ul>
 Explanation::: Syn: übertragen, einstellen, betrauen

@@ -1,6 +1,5 @@
 Word::: überraschen
-WordTranslation::: <ul>
-<li>удивлять, делать сюрприз<br></li>
+WordTranslation::: <ul><li>удивлять, делать сюрприз<br></li>
 <li>ошеломлять</li>
 </ul>
 DrittenPerson::: überrascht

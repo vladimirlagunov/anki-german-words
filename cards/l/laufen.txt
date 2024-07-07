@@ -1,6 +1,5 @@
 Word::: laufen
-WordTranslation::: <ul>
-<li>бежать, идти</li>
+WordTranslation::: <ul><li>бежать, идти</li>
 <li>работать<br></li>
 <li>течь (о реке)</li>
 </ul>

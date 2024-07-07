@@ -1,6 +1,5 @@
 Word::: Muster
-WordTranslation::: <ul>
-<li>образец</li>
+WordTranslation::: <ul><li>образец</li>
 <li>узор</li><li>схема, закономерность, паттерн</li>
 </ul>
 DerDieDas::: das

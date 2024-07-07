@@ -4,7 +4,7 @@ FrontExample::: Das Geschäft liegt direkt gegenüber der Post.
 BackExample::: Магазин находится прямо напротив почты.
 FrontExample2::: Rauchen ist gegenüber dem Gast unhöflich.
 BackExample2::: Курение невежливо по отношению к гостю.
-FrontExample3::: Das Café liegt gegenüber vom Bahnhof. 
+FrontExample3::: Das Café liegt gegenüber vom Bahnhof.
 BackExample3::: Кафе находится напротив железнодорожного вокзала.
 Tags::: 
 guid::: L9,b@mg.6E

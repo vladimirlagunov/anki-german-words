@@ -1,6 +1,5 @@
 Word::: Autowerkstatt
-WordTranslation::: авторемонтная мастерская, станция техобслуживания<br><ul>
-</ul>
+WordTranslation::: авторемонтная мастерская, станция техобслуживания<br><ul></ul>
 DerDieDas::: die
 Plural::: Autowerkstätten
 Tags::: 

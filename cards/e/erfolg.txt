@@ -1,6 +1,5 @@
 Word::: Erfolg
-WordTranslation::: <ul>
-<li>удача</li>
+WordTranslation::: <ul><li>удача</li>
 <li>успех</li>
 </ul>
 DerDieDas::: der

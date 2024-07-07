@@ -1,11 +1,9 @@
 Word::: Gehalt
 WordTranslation::: <ul><li>зарплата</li><li>содержание, концентрация</li></ul>
-DerDieDas::: <ul>
-<li>der – содержание</li>
+DerDieDas::: <ul><li>der – содержание</li>
 <li>der/das – зарплата</li>
 </ul>
-Plural::: <ul>
-<li>Gehalte – содержание</li>
+Plural::: <ul><li>Gehalte – содержание</li>
 <li>Gehälter – зарплата</li>
 </ul>
 FrontExample::: Der Gehalt dieses Jobs ist sehr attraktiv.

@@ -1,6 +1,5 @@
 Word::: Schütze
-WordTranslation::: <ul>
-<li>Стрелец (созвездие)</li>
+WordTranslation::: <ul><li>Стрелец (созвездие)</li>
 <li>стрелок</li>
 </ul>
 DerDieDas::: der

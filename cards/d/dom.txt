@@ -1,6 +1,5 @@
 Word::: Dom
-WordTranslation::: кафедральный собор<br><ul>
-</ul>
+WordTranslation::: кафедральный собор<br><ul></ul>
 DerDieDas::: der
 Plural::: Dome
 FrontExample::: Der Dom in Köln ist sehr berühmt.

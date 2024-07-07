@@ -2,10 +2,8 @@ Word::: erregt; aufgeregt
 WordTranslation::: взволнованный
 Explanation::: Отличие между этими словами заключается в контексте их использования и типе эмоций, которые они описывают. "Erregt" обычно указывает на сильное чувство эмоций, которое может быть как положительным, так и отрицательным, в то время как "aufgeregt" фокусируется на волнении или нервозности, которые могут быть связаны с будущими событиями.
 FrontExample::: Der Gewinner war so erregt, dass er vor Freude weinte.
-
 BackExample::: Победитель был настолько взволнован, что заплакал от радости.
 FrontExample2::: Ich bin aufgeregt, weil ich morgen meine Familie wiedersehen werde.
-
 BackExample2::: Я взволнован, потому что завтра увижу свою семью снова.
 Tags:::  chatgpt 
 guid::: OCqF`UYa5>

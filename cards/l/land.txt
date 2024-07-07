@@ -1,6 +1,5 @@
 Word::: Land
-WordTranslation::: <ul>
-<li>земля</li>
+WordTranslation::: <ul><li>земля</li>
 <li>страна</li>
 <li>суша</li>
 </ul>

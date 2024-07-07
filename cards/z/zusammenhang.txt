@@ -1,6 +1,5 @@
 Word::: Zusammenhang
-WordTranslation::: связь, контекст, взаимосвязь<br><ul>
-</ul>
+WordTranslation::: связь, контекст, взаимосвязь<br><ul></ul>
 DerDieDas::: der
 Plural::: Zusammenhänge
 FrontExample::: Es gibt einen klaren Zusammenhang zwischen Ernährung und Gesundheit.

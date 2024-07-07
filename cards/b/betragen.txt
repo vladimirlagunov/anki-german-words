@@ -1,6 +1,5 @@
 Word::: betragen
-WordTranslation::: <ul>
-<li>составлять сумму</li>
+WordTranslation::: <ul><li>составлять сумму</li>
 <li>вести себя<br></li>
 </ul>
 DrittenPerson::: beträgt

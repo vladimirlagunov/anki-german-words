@@ -1,6 +1,5 @@
 Word::: handeln
-WordTranslation::: <ul>
-<li>действовать</li>
+WordTranslation::: <ul><li>действовать</li>
 <li>повествовать</li><li>поступать</li>
 <li>торговать</li>
 </ul>

@@ -1,11 +1,9 @@
 Word::: Gift
 WordTranslation::: яд
-DerDieDas::: <ul>
-<li>das – яд<br></li>
+DerDieDas::: <ul><li>das – яд<br></li>
 <li>die – подарок</li>
 </ul>
-Plural::: <ul>
-<li>das Gift – Giften<br></li>
+Plural::: <ul><li>das Gift – Giften<br></li>
 <li>die Gift – Gifte</li>
 </ul>
 FrontExample::: Er starb durch das Gift einer Schlange.

@@ -1,6 +1,5 @@
 Word::: Kuli
-WordTranslation::: <ul>
-<li>шариковая ручка</li>
+WordTranslation::: <ul><li>шариковая ручка</li>
 <li>чернорабочий (жарг)</li>
 </ul>
 DerDieDas::: der

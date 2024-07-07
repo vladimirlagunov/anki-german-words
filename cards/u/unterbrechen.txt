@@ -1,6 +1,5 @@
 Word::: unterbrechen
-WordTranslation::: <ul>
-<li>перебивать</li>
+WordTranslation::: <ul><li>перебивать</li>
 <li>прерывать</li>
 </ul>
 DrittenPerson::: unterbricht

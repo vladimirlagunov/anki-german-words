@@ -1,11 +1,10 @@
 Word::: einreichen
 WordTranslation::: подавать (документы)
 Explanation::: <ul><li><div><strong class="spoiler">Einreichen</strong> - обычно используется в контексте официальной подачи документов, заявлений или писем. Например, можно "einreichen" документы для визы или налоговую декларацию. Глагол подчеркивает формальность и официальность процесса.</div></li><li><div><strong class="spoiler">Unterbreiten</strong> - этот глагол часто используется, когда речь идет о предложении идей, планов или предложений. Он подразумевает некоторый уровень предварительной работы или предложение, которое должно быть рассмотрено другими. Например, можно "unterbreiten" предложение по проекту.</div></li><li><div><strong class="spoiler">Vorlegen</strong> - глагол используется в контекстах, когда нужно предъявить документы, доказательства или информацию для проверки или рассмотрения. Например, "vorlegen" доказательства в суде или "vorlegen" документы при регистрации в учреждении.</div></li><li><div><strong class="spoiler">Beantragen</strong> - этот глагол означает подачу заявления или запроса на получение чего-то, например, разрешения, лицензии, визы и т.п. Это технический термин, который часто встречается в административном и юридическом языке.</div></li></ul>
-Perfekt::: hat eingereicht 
+Perfekt::: hat eingereicht
 FrontExample::: Sie müssen Ihre Steuererklärung bis zum 31. Juli einreichen.
 BackExample::: Вы должны подать свою налоговую декларацию до 31 июля.
 FrontExample2::: Bitte reichen Sie die Dokumente an der Rezeption ein.
-
 BackExample2::: Пожалуйста, сдайте документы в приёмной.
 FrontExample3::: Auch Künstler wurden zur Ordensverleihung eingereicht.
 BackExample3::: На церемонию награждения также были представлены художники.

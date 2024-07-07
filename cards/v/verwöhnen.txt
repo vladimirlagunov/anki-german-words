@@ -1,6 +1,5 @@
 Word::: verwöhnen
-WordTranslation::: <ul>
-<li>ублажать</li>
+WordTranslation::: <ul><li>ублажать</li>
 <li>баловать</li>
 </ul>
 Explanation::: Syn: verhätscheln, hätscheln, verderben, zerstören

@@ -3,7 +3,6 @@ WordTranslation::: знак, отметка
 DerDieDas::: das
 Plural::: Zeichen
 FrontExample::: Die Wolken am Himmel waren ein Zeichen für das bevorstehende Unwetter.
-
 BackExample::: Облака на небе были признаком грядущей бури.
 FrontExample2::: Ich habe ein Stück Papier als Zeichen in das Buch gelegt.
 BackExample2::: Я положил лист бумаги в книгу в качестве знака.

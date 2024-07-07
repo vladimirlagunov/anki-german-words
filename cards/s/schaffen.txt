@@ -1,13 +1,10 @@
 Word::: schaffen
-WordTranslation::: <ul>
-<li>справиться, суметь, сделать</li><li>создать, сотворить (объект искусства или ремесла)</li>
+WordTranslation::: <ul><li>справиться, суметь, сделать</li><li>создать, сотворить (объект искусства или ремесла)</li>
 </ul>
 DrittenPerson::: schafft
-Perfekt::: <ul>
-<li>haben geschafft – справиться, суметь, сделать<br></li><li>haben geschaffen – создать, сотворить (объект искусства или ремесла)</li>
+Perfekt::: <ul><li>haben geschafft – справиться, суметь, сделать<br></li><li>haben geschaffen – создать, сотворить (объект искусства или ремесла)</li>
 </ul>
-Präteritum::: <ul>
-<li>schaffte&nbsp;&nbsp;– справиться, суметь, сделать</li><li>schuf&nbsp;– создать, сотворить (объект искусства или ремесла)</li>
+Präteritum::: <ul><li>schaffte&nbsp;&nbsp;– справиться, суметь, сделать</li><li>schuf&nbsp;– создать, сотворить (объект искусства или ремесла)</li>
 </ul>
 FrontExample::: Sie schafft es immer pünktlich zur Arbeit zu kommen.
 BackExample::: Она всегда успевает приходить на работу вовремя.

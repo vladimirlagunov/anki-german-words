@@ -1,6 +1,5 @@
 Word::: Schlange
-WordTranslation::: <ul>
-<li>змея</li>
+WordTranslation::: <ul><li>змея</li>
 <li>очередь (разг.)</li>
 </ul>
 DerDieDas::: die

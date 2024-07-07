@@ -1,6 +1,5 @@
 Word::: ergeben
-WordTranslation::: <ul>
-<li>давать (в итоге), составлять</li>
+WordTranslation::: <ul><li>давать (в итоге), составлять</li>
 <li>сдаваться</li>
 </ul>
 DrittenPerson::: ergibt

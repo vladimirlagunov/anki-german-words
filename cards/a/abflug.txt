@@ -1,6 +1,5 @@
 Word::: Abflug
-WordTranslation::: <ul>
-<li>взлёт</li>
+WordTranslation::: <ul><li>взлёт</li>
 <li>вылет</li>
 </ul>
 DerDieDas::: der

@@ -3,9 +3,7 @@ WordTranslation::: соответственно, в каждом случае
 FrontExample::: Hören Sie und sprechen Sie jeweils die Antwort nach.
 BackExample::: Прослушайте и повторите ответ в каждом случае.
 FrontExample2::: Ich kann jeweils nur einen Ihrer Fehler beheben.
-
 BackExample2::: Я могу исправлять только по одной вашей ошибке за раз.
-
 FrontExample3::: In den zwei Klassen waren jeweils 20 Schüler anwesend.
 BackExample3::: В каждом из двух классов присутствовало по 20 учащихся.
 Tags:::  chatgpt 

@@ -1,6 +1,5 @@
 Word::: nämlich
-WordTranslation::: <ul>
-<li>то же, те же</li>
+WordTranslation::: <ul><li>то же, те же</li>
 <li>а именно</li>
 <li>поскольку</li>
 </ul>

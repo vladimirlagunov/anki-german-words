@@ -5,7 +5,6 @@ Plural::: Tassen
 FrontExample::: Die Tasse ist aus Porzellan und hat ein schönes Blumenmuster.
 BackExample::: Чашка [сделана] из фарфора и имеет красивый цветочный узор.
 FrontExample2::: Die Tasse ist noch heiß, sei vorsichtig!
-
 BackExample2::: Чашка еще горячая, будь осторожен!
 Tags::: 
 guid::: QSC&eLu&[.

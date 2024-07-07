@@ -1,13 +1,10 @@
 Word::: während + G
 WordTranslation::: во время, в то время как
 FrontExample::: Während des Sommers verbringen wir viel Zeit am Strand.
-
 BackExample::: Во время лета мы проводим много времени на пляже.
 FrontExample2::: Während der Vorlesung habe ich viele Notizen gemacht.
-
 BackExample2::: Во время лекции я сделал много записей.
 FrontExample3::: Während meiner Reise habe ich viele interessante Orte besucht.
-
 BackExample3::: Во время моей поездки я посетил много интересных мест.
 Tags::: 
 guid::: wHF;m?<%E]

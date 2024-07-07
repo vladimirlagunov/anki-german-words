@@ -1,6 +1,5 @@
 Word::: verbinden
-WordTranslation::: <ul>
-<li>связывать, соединять<br></li><li>бинтовать, перевязывать</li>
+WordTranslation::: <ul><li>связывать, соединять<br></li><li>бинтовать, перевязывать</li>
 </ul>
 DrittenPerson::: verbindet
 Perfekt::: haben verbunden

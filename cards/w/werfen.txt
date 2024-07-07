@@ -1,6 +1,5 @@
 Word::: werfen
-WordTranslation::: <ul>
-<li>бросать</li>
+WordTranslation::: <ul><li>бросать</li>
 <li>рожать</li>
 <li>кидать</li>
 </ul>

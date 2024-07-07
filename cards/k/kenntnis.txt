@@ -3,10 +3,8 @@ WordTranslation::: знание, ознакомление, понимание
 DerDieDas::: die
 Plural::: Kenntnisse
 FrontExample::: Die Kenntnis von Fremdsprachen kann bei der Jobsuche von Vorteil sein.
-
 BackExample::: Знание иностранных языков может быть полезным при поиске работы.
 FrontExample2::: Seine Kenntnisse in Mathematik haben ihm geholfen, das Problem zu lösen.
-
 BackExample2::: Его знания в математике помогли ему решить проблему.
 Tags:::  chatgpt 
 guid::: v/x/S5ch*X

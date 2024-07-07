@@ -1,6 +1,5 @@
 Word::: Schiff
-WordTranslation::: корабль, судно<br><ul>
-</ul>
+WordTranslation::: корабль, судно<br><ul></ul>
 DerDieDas::: das
 Plural::: Schiffe
 FrontExample::: Das Schiff wird morgen den Hafen verlassen.

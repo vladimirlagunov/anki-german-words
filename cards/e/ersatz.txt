@@ -1,0 +1,10 @@
+Word::: Ersatz
+WordTranslation::: <ul><li>замена, резервный человек/предмет</li><li>суррогат</li></ul>
+DerDieDas::: der
+Plural::: Ersätze
+FrontExample::: Ersatzteile für das Auto sind in der Werkstatt angekommen.
+BackExample::: Запчасти для автомобиля прибыли в мастерскую.
+FrontExample2::: Der Ersatz des kaputten Fensters dauert zwei Tage.
+BackExample2::: Замена разбитого окна займет два дня.
+Tags:::  chatgpt 
+guid::: gqR}|m<ny5

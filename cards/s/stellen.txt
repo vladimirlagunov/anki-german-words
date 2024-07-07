@@ -1,6 +1,5 @@
 Word::: stellen
-WordTranslation::: <ul><li>(по)ставить</li><li>задержать</li>
-</ul>
+WordTranslation::: <ul><li>(по)ставить</li><li>задержать</li></ul>
 DrittenPerson::: stellt
 Perfekt::: haben gestellt
 Präteritum::: stellte

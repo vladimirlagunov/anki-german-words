@@ -1,6 +1,5 @@
 Word::: Widder
-WordTranslation::: <ul>
-<li>баран</li>
+WordTranslation::: <ul><li>баран</li>
 <li>овен</li>
 </ul>
 DerDieDas::: der

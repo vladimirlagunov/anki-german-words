@@ -1,6 +1,6 @@
 Word::: allein
 WordTranslation::: в одиночку
-FrontExample::: Bei uns sitzen Sie nicht allein am Tisch. 
+FrontExample::: Bei uns sitzen Sie nicht allein am Tisch.
 BackExample::: С нами вы не сидите в одиночестве за столом.
 Tags:::  A1 
 guid::: o}|>tSX27w

@@ -1,6 +1,5 @@
 Word::: Herkunft
-WordTranslation::: <ul>
-<li>происхождение</li>
+WordTranslation::: <ul><li>происхождение</li>
 <li>этимология</li>
 </ul>
 DerDieDas::: die

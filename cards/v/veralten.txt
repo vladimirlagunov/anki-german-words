@@ -1,6 +1,5 @@
 Word::: veralten
-WordTranslation::: устареть, выйти из употребления<br><ul>
-</ul>
+WordTranslation::: устареть, выйти из употребления<br><ul></ul>
 DrittenPerson::: veraltet
 Perfekt::: sein veraltet
 Präteritum::: veraltete

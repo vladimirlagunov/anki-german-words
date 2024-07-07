@@ -1,0 +1,13 @@
+Word::: verschieben
+WordTranslation::: <ul><li>перемещать, переносить, сдвигать</li><li>откладывать</li></ul>
+DrittenPerson::: verschiebt
+Perfekt::: haben verschoben
+Präteritum::: verschob
+FrontExample::: Wir müssen das Meeting auf nächste Woche verschieben.
+BackExample::: Мы должны перенести встречу на следующую неделю.
+FrontExample2::: Der Zug wurde wegen Schnee um eine Stunde verschoben.
+BackExample2::: Поезд был отложен на час из-за снега.
+FrontExample3::: Kannst du den Termin auf einen anderen Tag verschieben?
+BackExample3::: Можешь перенести встречу на другой день?
+Tags:::  chatgpt 
+guid::: OF9ZJk#b3g

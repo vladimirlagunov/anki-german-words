@@ -4,7 +4,7 @@ DrittenPerson::: steht
 Perfekt::: haben gestanden
 Präteritum::: stand
 FrontExample::: Ich glaube es nicht, aber es steht in der Zeitung.
-BackExample::: Я не верю этому, но это написано в газете. 
+BackExample::: Я не верю этому, но это написано в газете.
 FrontExample2::: Der Bus steht schon an der Haltestelle.
 BackExample2::: Автобус уже стоит на остановке.
 Tags:::  A1 

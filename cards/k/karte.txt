@@ -1,6 +1,5 @@
 Word::: Karte
-WordTranslation::: <ul>
-<li>билет</li>
+WordTranslation::: <ul><li>билет</li>
 <li>карта</li>
 <li>меню</li>
 </ul>

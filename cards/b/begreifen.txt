@@ -1,0 +1,11 @@
+Word::: begreifen
+WordTranslation::: понимать, осознавать, воспринимать
+DrittenPerson::: begreift
+Perfekt::: haben begriffen
+Präteritum::: begriff
+FrontExample::: Sie begann langsam, die Wahrheit zu begreifen.
+BackExample::: Она начала медленно осознавать правду.
+FrontExample2::: Es ist schwer zu begreifen, warum das passiert ist.
+BackExample2::: Трудно понять, почему это произошло.
+Tags:::  chatgpt 
+guid::: yWe-KrTT%g

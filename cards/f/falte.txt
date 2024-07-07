@@ -1,6 +1,5 @@
 Word::: Falte
-WordTranslation::: <ul>
-<li>морщина</li>
+WordTranslation::: <ul><li>морщина</li>
 <li>складка</li>
 </ul>
 DerDieDas::: die

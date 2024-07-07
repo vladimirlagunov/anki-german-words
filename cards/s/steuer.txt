@@ -1,14 +1,11 @@
 Word::: Steuer
-WordTranslation::: <ul>
-<li>налог</li>
+WordTranslation::: <ul><li>налог</li>
 <li>руль, штурвал</li>
 </ul>
-DerDieDas::: <ul>
-<li>das – руль, штурвал</li>
+DerDieDas::: <ul><li>das – руль, штурвал</li>
 <li>die – налог</li>
 </ul>
-Plural::: <ul>
-<li>Steuer – руль, штурвал</li>
+Plural::: <ul><li>Steuer – руль, штурвал</li>
 <li>Steuern – налог</li>
 </ul>
 FrontExample::: Er hat seine Steuererklärung noch nicht abgegeben.

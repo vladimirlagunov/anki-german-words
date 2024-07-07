@@ -1,6 +1,5 @@
 Word::: Mann
-WordTranslation::: <ul>
-<li>мужчина<br></li>
+WordTranslation::: <ul><li>мужчина<br></li>
 <li>муж, супруг</li>
 </ul>
 DerDieDas::: der

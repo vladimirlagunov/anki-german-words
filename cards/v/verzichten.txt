@@ -1,8 +1,6 @@
 Word::: verzichten
-WordTranslation::: отказываться, обходиться, жертвовать<br><ul>
-</ul>
-Explanation::: Syn: aufgeben, unterlassen<br><br><ol><li><div><strong class="spoiler">Verzichten</strong>
-"Verzichten" переводится как "отказываться". Оно чаще всего используется, чтобы выразить добровольный отказ от чего-либо, например, от какого-то объекта или действия. Пример:</div><ul><li>Ich verzichte auf Schokolade. (Я отказываюсь от шоколада.)</li></ul></li><li><div><strong class="spoiler">Aufgeben</strong>
+WordTranslation::: отказываться, обходиться, жертвовать<br><ul></ul>
+Explanation::: Syn: aufgeben, unterlassen<br><br><ol><li><div><strong class="spoiler">Verzichten</strong>"Verzichten" переводится как "отказываться". Оно чаще всего используется, чтобы выразить добровольный отказ от чего-либо, например, от какого-то объекта или действия. Пример:</div><ul><li>Ich verzichte auf Schokolade. (Я отказываюсь от шоколада.)</li></ul></li><li><div><strong class="spoiler">Aufgeben</strong>
 "Aufgeben" обычно переводится как "сдаваться" или "отказываться от чего-то" в контексте усталости, невозможности продолжать или трудности. Это может относиться к действию, задаче или намерению. Пример:</div><ul><li>Ich gebe das Rätsel auf. (Я сдаюсь, не могу решить эту загадку.)</li></ul><div>Также "aufgeben" может использоваться в контексте отправления посылки:</div><ul><li>Ich gebe das Paket auf der Post auf. (Я отправляю посылку на почте.)</li></ul></li><li><div><strong class="spoiler">Unterlassen</strong>
 "Unterlassen" переводится как "воздерживаться" и используется, чтобы выразить прекращение действия или избегание чего-либо. Пример:</div><ul><li>Bitte unterlassen Sie das Rauchen. (Пожалуйста, воздержитесь от курения.)</li></ul></li></ol>
 DrittenPerson::: verzichtet

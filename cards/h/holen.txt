@@ -1,6 +1,5 @@
 Word::: holen
-WordTranslation::: <ul>
-<li>приносить, приводить</li><li>забирать</li><li>доставать</li><li>снимать (с полки и т.п)<br></li>
+WordTranslation::: <ul><li>приносить, приводить</li><li>забирать</li><li>доставать</li><li>снимать (с полки и т.п)<br></li>
 </ul>
 DrittenPerson::: holt
 Perfekt::: haben geholt

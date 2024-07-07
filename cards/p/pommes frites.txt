@@ -1,4 +1,4 @@
-Word::: Pommes frites 
+Word::: Pommes frites
 WordTranslation::: картофель фри
 DerDieDas::: Pl.
 Plural::: Pommes frites

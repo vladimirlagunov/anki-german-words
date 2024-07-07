@@ -2,10 +2,8 @@ Word::: sagen zu
 WordTranslation::: сказать что-то по поводу чего-либо
 Explanation::: <ul><li><strong class="spoiler">sagen zu</strong>: сказать что-то по поводу чего-либо.</li><li><strong class="spoiler">sagen + Akkusativ</strong>: сказать что-либо.</li></ul>
 FrontExample::: Was hast du dazu zu sagen?
-
 BackExample::: Что ты скажешь по этому поводу?
 FrontExample2::: Ich habe nicht viel dazu zu sagen.
-
 BackExample2::: Мне по этому поводу сказать нечего.
 Tags:::  chatgpt 
 guid::: p_OP3-.v(6

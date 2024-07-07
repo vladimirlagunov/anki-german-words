@@ -1,6 +1,5 @@
 Word::: wachen
-WordTranslation::: <ul>
-<li>охранять, наблюдать, следить</li><li>бодрствовать</li>
+WordTranslation::: <ul><li>охранять, наблюдать, следить</li><li>бодрствовать</li>
 </ul>
 DrittenPerson::: wacht
 Perfekt::: haben gewacht

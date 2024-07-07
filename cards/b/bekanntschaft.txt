@@ -2,7 +2,6 @@ Word::: Bekanntschaft
 WordTranslation::: знакомство
 Plural::: Bekanntschaften
 FrontExample::: Unsere Bekanntschaft begann auf einer Party vor ein paar Jahren.
-
 BackExample::: Наше знакомство началось на вечеринке пару лет назад.
 Tags:::  chatgpt 
 guid::: )8hN[bdW4

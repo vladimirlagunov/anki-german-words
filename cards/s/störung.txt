@@ -1,0 +1,10 @@
+Word::: Störung
+WordTranslation::: помеха, нарушение, сбой
+DerDieDas::: die
+Plural::: Störungen
+FrontExample::: Es gab eine Störung im Zugverkehr.
+BackExample::: Произошел сбой в движении поездов.
+FrontExample2::: Durch die Störung konnte der Fernseher nicht richtig funktionieren.
+BackExample2::: Из-за помех телевизор не мог нормально работать.
+Tags:::  chatgpt 
+guid::: kWy{1b#Y;$

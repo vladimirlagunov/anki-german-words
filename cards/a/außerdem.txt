@@ -1,6 +1,5 @@
 Word::: außerdem
-WordTranslation::: также, кроме того, к тому же<br><ul>
-</ul>
+WordTranslation::: также, кроме того, к тому же<br><ul></ul>
 FrontExample::: Und außerdem schuldet sie mir eine Menge Geld.
 BackExample::: К тому же, она осталась должна мне еще кучу денег.
 Tags::: 

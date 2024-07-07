@@ -3,7 +3,6 @@ WordTranslation::: использование, применение, употр�
 DerDieDas::: der
 Plural::: Gebräuche
 FrontExample::: Die Gebrauchsanweisung erklärt, wie man das Gerät richtig verwendet.
-
 BackExample::: Инструкция по использованию объясняет, как правильно использовать это устройство.
 FrontExample2::: Использование мобильных телефонов во время полета запрещено.
 BackExample2::: Der Gebrauch von Mobiltelefonen während des Fluges ist nicht gestattet.

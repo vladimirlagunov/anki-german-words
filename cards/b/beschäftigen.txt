@@ -1,6 +1,5 @@
 Word::: beschäftigen
-WordTranslation::: <ul><li>занимать(ся)
-</li><li>трудоустраивать</li></ul>
+WordTranslation::: <ul><li>занимать(ся)</li><li>трудоустраивать</li></ul>
 DrittenPerson::: beschäftigt
 Perfekt::: haben beschäftigt
 Präteritum::: beschäftigte

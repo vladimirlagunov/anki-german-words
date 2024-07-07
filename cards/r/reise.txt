@@ -1,6 +1,5 @@
 Word::: Reise
-WordTranslation::: <ul>
-<li>поездка</li>
+WordTranslation::: <ul><li>поездка</li>
 <li>путешествие</li>
 </ul>
 DerDieDas::: die

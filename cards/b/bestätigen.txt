@@ -1,6 +1,5 @@
 Word::: bestätigen
-WordTranslation::: подтверждать; удостоверять<br><ul>
-</ul>
+WordTranslation::: подтверждать; удостоверять<br><ul></ul>
 DrittenPerson::: bestätigt
 Perfekt::: haben bestätigt
 Präteritum::: bestätigte

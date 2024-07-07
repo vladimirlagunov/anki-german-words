@@ -1,6 +1,5 @@
 Word::: zuerst
-WordTranslation::: сначала; прежде всего, сперва<br><ul>
-</ul>
+WordTranslation::: сначала; прежде всего, сперва<br><ul></ul>
 FrontExample::: Zuerst wollte ich nicht gehen, aber dann habe ich es doch getan.
 BackExample::: Сначала я не хотел идти, но потом всё-таки пошел.
 FrontExample2::: Sie müssen zuerst die Anleitung lesen, bevor Sie das Gerät benutzen.

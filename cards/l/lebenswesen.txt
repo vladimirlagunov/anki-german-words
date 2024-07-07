@@ -4,7 +4,6 @@ Explanation::: "Lebenswesen" - это общий термин, который в
 DerDieDas::: das
 Plural::: wird nur im Singular verwendet
 FrontExample::: Die Wissenschaftler untersuchen die Vielfalt der Lebenswesen in diesem Ökosystem.
-
 BackExample::: Ученые изучают разнообразие живых существ в этой экосистеме.
 Tags:::  chatgpt 
 guid::: j1*=}Af1D<

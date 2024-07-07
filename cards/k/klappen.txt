@@ -1,6 +1,5 @@
 Word::: klappen
-WordTranslation::: сработать, получиться<br><ul>
-</ul>
+WordTranslation::: сработать, получиться<br><ul></ul>
 DrittenPerson::: klappt
 Perfekt::: haben geklappt
 Präteritum::: klappte

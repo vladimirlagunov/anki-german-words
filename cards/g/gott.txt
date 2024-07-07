@@ -1,6 +1,5 @@
 Word::: Gott
-WordTranslation::: бог<br><ul>
-</ul>
+WordTranslation::: бог<br><ul></ul>
 DerDieDas::: der
 Plural::: Götter
 FrontExample::: Gott sei Dank!

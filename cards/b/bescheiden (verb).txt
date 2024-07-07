@@ -1,6 +1,5 @@
 Word::: bescheiden (Verb)
-WordTranslation::: <ul><li>скромничать
-</li><li>занижать, ограничиваться</li></ul>
+WordTranslation::: <ul><li>скромничать</li><li>занижать, ограничиваться</li></ul>
 DrittenPerson::: bescheidet
 Perfekt::: haben beschieden
 Präteritum::: beschied
