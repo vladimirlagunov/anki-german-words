@@ -70,10 +70,28 @@ def _export_note_type(note_type, path):
             f.write('\n')
 
         with open(os.path.join(template_dir, "question_format.html"), "w") as f:
-            f.write(template['qfmt'])
+            f.write(_add_js(template['qfmt']))
 
         with open(os.path.join(template_dir, "answer_format.html"), "w") as f:
-            f.write(template['afmt'])
+            f.write(_add_js(template['afmt']))
+
+
+with open("universal_german_cards.js") as f:
+    UNIVERSAL_GERMAN_CARDS_SCRIPT = f.read(1024 * 1024)
+
+
+def _add_js(text: str) -> str:
+    # bs4 corrupts html
+    import re
+    script_tag = f"<script id='universal_german_cards'>\n{UNIVERSAL_GERMAN_CARDS_SCRIPT}</script>"
+    if m := re.search("<script id='universal_german_cards'>(?:.*?)</script>", text):
+        return (
+                text[:m.start()] +
+                script_tag +
+                text[m.end():]
+        )
+    else:
+        return script_tag + '\n' + text
 
 
 def export_cards(note_ids: Sequence[NoteId]) -> None:
