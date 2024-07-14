@@ -22,19 +22,23 @@
         document.getElementById(spoilerId).classList.add("spoiler-open");
     }
 
-    document.getElementsByTagName("body").item(0).addEventListener("click", (event) => {
-        if (!event.target.id || !event.target.classList.contains("spoiler")) {
-            return;
-        }
+    function hideOrShow(event) {
+        // if (!event.target.id || !event.target.classList.contains("spoiler")) {
+        //     return;
+        // }
         event.stopPropagation();
         if (event.target.classList.contains("spoiler-open")) {
             hide(event.target.id);
         } else {
             show(event.target.id);
         }
-    });
+    }
+
+    //document.getElementsByTagName("body").item(0).addEventListener("click", hideOrShow);
 
     let spoilerIdCounter = 0;
+
+    let knownSpoilers = {};
 
     function generateSpoilers() {
         for (let spoiler of document.getElementsByClassName("spoiler")) {
@@ -42,6 +46,10 @@
                 spoiler.id = "spoiler-" + (spoilerIdCounter++);
                 hide(spoiler.id);
             }
+            spoiler.removeEventListener("click", hideOrShow);
+            spoiler.removeEventListener("touchstart", hideOrShow);
+            spoiler.addEventListener("click", hideOrShow);
+            spoiler.addEventListener("touchstart", hideOrShow);
         }
     }
 
