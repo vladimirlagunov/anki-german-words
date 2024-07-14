@@ -1,38 +1,51 @@
-function loadSpoilers() {
-    console.log('Load Spoilers');
-    let spoilerIdCounter = 0;
-    for (let spoiler of document.getElementsByClassName("spoiler")) {
-        let parent = spoiler.parentElement;
-        let spoilerId = spoiler.id;
-        if (!spoilerId) {
-            spoilerId = "spoiler-" + (spoilerIdCounter++);
-            spoiler.id = spoilerId;
+(() => {
+    let hiddenParentHtml = {};
+
+    function hide(spoilerId) {
+        let spoiler = document.getElementById(spoilerId);
+        if (hiddenParentHtml[spoiler.id]) {
+            return;
         }
-        const oldHtml = parent.innerHTML;
-        let hide = () => {
-            parent.innerHTML = spoiler.outerHTML;
-            document.getElementById(spoilerId).classList.remove("spoiler-open");
-        };
-        let show = () => {
-            parent.innerHTML = oldHtml;
-            document.getElementById(spoilerId).classList.add("spoiler-open");
-        };
-        let hideShow = function (event) {
-            let clickedElement = document.elementFromPoint(event.x, event.y);
-            while (clickedElement) {
-                if (clickedElement.id == spoilerId) {
-                    if (clickedElement.classList.contains("spoiler-open")) {
-                        hide();
-                    } else {
-                        show();
-                    }
-                    break;
-                }
-                clickedElement = clickedElement.parentElement;
-            }
-        };
-        hide();
-        parent.onclick = hideShow;
+        spoiler.classList.remove("spoiler-open");
+        let parent = spoiler.parentElement;
+        hiddenParentHtml[spoiler.id] = parent.innerHTML;
+        parent.innerHTML = spoiler.outerHTML;
     }
-}
-addEventListener("load", loadSpoilers);
+
+    function show(spoilerId) {
+        if (!hiddenParentHtml[spoilerId]) {
+            return;
+        }
+        let parent = document.getElementById(spoilerId).parentElement;
+        parent.innerHTML = hiddenParentHtml[spoilerId];
+        delete hiddenParentHtml[spoilerId];
+        document.getElementById(spoilerId).classList.add("spoiler-open");
+    }
+
+    document.getElementsByTagName("body").item(0).addEventListener("click", (event) => {
+        if (!event.target.id || !event.target.classList.contains("spoiler")) {
+            return;
+        }
+        event.stopPropagation();
+        if (event.target.classList.contains("spoiler-open")) {
+            hide(event.target.id);
+        } else {
+            show(event.target.id);
+        }
+    });
+
+    let spoilerIdCounter = 0;
+
+    function generateSpoilers() {
+        for (let spoiler of document.getElementsByClassName("spoiler")) {
+            if (!spoiler.id) {
+                spoiler.id = "spoiler-" + (spoilerIdCounter++);
+                hide(spoiler.id);
+            }
+        }
+    }
+
+    const observer = new MutationObserver(generateSpoilers);
+    observer.observe(document.getElementsByTagName("body").item(0), {childList: true, subtree: true});
+    generateSpoilers();
+})();
