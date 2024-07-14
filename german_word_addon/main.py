@@ -85,7 +85,7 @@ def main():
 
         _import_notes(col, deck, note_type, args.path)
 
-        #col.media.add_file("universal_german_cards.js")
+        col.media.add_file("_universal_german_cards.js")
 
         col.export_anki_package(
             out_path=os.path.join(args.path, 'export.apkg'),

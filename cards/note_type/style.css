@@ -40,9 +40,7 @@ table.artikel-small td.artikel-small {
 }
 .spoiler:before {
     content: "▶️ ";
-	  font-size: 0.75em;
 }
 .spoiler.spoiler-open:before {
     content: "🔽 ";
-	  font-size: 0.75em;
 }
