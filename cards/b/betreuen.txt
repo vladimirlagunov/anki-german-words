@@ -1,5 +1,6 @@
 Word::: betreuen
 WordTranslation::: <ul><li>опекать, руководить</li><li>ухаживать, заботиться</li><li>обслуживать</li></ul>
+Explanation::: <div><span class="spoiler" style="display: inline">Глагол&nbsp;<strong>betreuen</strong>&nbsp;в немецком языке обычно используется без предлогов</span>, когда речь идет о непосредственном уходе или заботе. Например:<ul><li><strong>Ich betreue meine Großmutter.</strong>&nbsp;(Я забочусь о своей бабушке.)</li></ul></div><div><strong class="spoiler">betreuen bei</strong>: Однако, если нужно уточнить контекст или специфику ухода, может использоваться предлог&nbsp;<strong>bei</strong>&nbsp;с дативом, чтобы указать на конкретную область или аспект ухода:<ul><li><strong>Ich betreue ihn bei seinen Hausaufgaben.</strong>&nbsp;(Я помогаю ему с домашними заданиями.)</li></ul></div>
 DrittenPerson::: betreut
 Perfekt::: haben betreut
 Präteritum::: betreute

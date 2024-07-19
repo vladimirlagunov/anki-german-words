@@ -1,0 +1,12 @@
+Word::: Falle
+WordTranslation::: ловушка, западня, капкан
+DerDieDas::: die
+Plural::: Fallen
+FrontExample::: Das war eine Falle.
+BackExample::: Это была ловушка.
+FrontExample2::: Er tappte in die Falle.
+BackExample2::: Он попался в ловушку.
+FrontExample3::: Die Falle schnappte zu.
+BackExample3::: Ловушка захлопнулась.
+Tags:::  chatgpt 
+guid::: ju;SbuK3,W

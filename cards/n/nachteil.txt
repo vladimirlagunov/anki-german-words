@@ -1,0 +1,8 @@
+Word::: Nachteil
+WordTranslation::: недостаток, вред, минус
+DerDieDas::: der
+Plural::: Nachteile
+FrontExample::: Ein Nachteil dieses Plans ist, dass er sehr teuer ist.
+BackExample::: Недостаток этого плана в том, что он очень дорогой.
+Tags:::  chatgpt 
+guid::: w)Lt4wm>fA

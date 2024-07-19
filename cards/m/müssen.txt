@@ -1,0 +1,11 @@
+Word::: müssen
+WordTranslation::: быть должным, быть обязанным
+DrittenPerson::: muss
+Perfekt::: haben gemusst
+Präteritum::: musste
+FrontExample::: Ich muss jeden Tag von 8 Uhr bis 18 Uhr arbeiten.
+BackExample::: Я должен каждый день работать с 8 до 18 часов.
+FrontExample2::: Du musst deine Hausaufgaben machen.
+BackExample2::: Тебе нужно делать свою домашнюю работу.
+Tags:::  A1 chatgpt 
+guid::: u)E@}3yFd3

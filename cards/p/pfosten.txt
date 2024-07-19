@@ -1,0 +1,12 @@
+Word::: Pfosten
+WordTranslation::: столб, стойка
+DerDieDas::: der
+Plural::: Pfosten
+FrontExample::: Die Pfosten der Brücke wurden neu gestrichen.
+BackExample::: Столбы моста были заново покрашены.
+FrontExample2::: Der Ball prallte gegen den Pfosten.
+BackExample2::: Мяч ударился о штангу.
+FrontExample3::: Er befestigte das Schild an einem Holzpfosten.
+BackExample3::: Он прикрепил знак к деревянному столбу.
+Tags:::  chatgpt 
+guid::: n_!^8oFadv

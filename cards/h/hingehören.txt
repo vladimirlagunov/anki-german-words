@@ -1,0 +1,12 @@
+Word::: hingehören
+WordTranslation::: принадлежать, относиться, подходить
+Explanation::: <ul><li><div><strong class="spoiler">gehören</strong>&nbsp;- этот глагол используется для выражения принадлежности. Он может относиться к владению или присвоению. Например, если вы говорите "Das Buch gehört mir" (Эта книга принадлежит мне), это значит, что книга является вашей собственностью.&nbsp;<strong>gehören</strong>&nbsp;может также использоваться для выражения принадлежности к категории или группе, например, "Das gehört zum guten Ton" (Это относится к хорошему тону).</div></li><li><div><strong class="spoiler">hingehören</strong>&nbsp;- этот глагол используется для указания на то, где что-то должно находиться или быть расположено. Он подчеркивает правильное место для чего-то или кого-то. Например, "Die Tasse gehört in den Schrank hin" (Чашка должна стоять в шкафу). В этих примерах&nbsp;<strong>hingehören&nbsp;</strong>подчеркивает, где вещи должны находиться согласно правилам или общепринятому порядку.</div></li></ul>
+DrittenPerson::: gehört hin
+Perfekt::: haben hingehört
+Präteritum::: gehörte hin
+FrontExample::: Die Gewürze hingehören in die Nähe des Herdes, damit man sie beim Kochen schnell zur Hand hat.
+BackExample::: Специи должны находиться рядом с плитой, чтобы их было удобно использовать во время готовки.
+FrontExample2::: Jeder sollte wissen, wo er hingehört.
+BackExample2::: Каждый должен знать свое место.
+Tags:::  chatgpt 
+guid::: D4A}ZM]fsw

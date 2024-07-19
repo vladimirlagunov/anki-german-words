@@ -1,0 +1,10 @@
+Word::: solch
+WordTranslation::: такой, подобный
+FrontExample::: Solch ein schönes Haus haben wir noch nie gesehen.
+BackExample::: Мы никогда не видели такого красивого дома.
+FrontExample2::: Solche Freunde wünscht sich jeder.
+BackExample2::: Таких друзей желает себе каждый.
+FrontExample3::: Solche Probleme sollten nicht ignoriert werden.
+BackExample3::: Такие проблемы не должны игнорироваться.
+Tags:::  chatgpt 
+guid::: Kp4wky*neK

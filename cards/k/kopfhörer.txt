@@ -1,0 +1,8 @@
+Word::: Kopfhörer
+WordTranslation::: наушник
+DerDieDas::: der
+Plural::: Kopfhörer
+FrontExample::: Ich habe meine Kopfhörer zu Hause vergessen.
+BackExample::: Я забыл свои наушники дома.
+Tags:::  chatgpt 
+guid::: k/kRCag;gb

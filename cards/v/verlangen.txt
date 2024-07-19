@@ -1,0 +1,14 @@
+Word::: verlangen
+WordTranslation::: требовать
+Explanation::: Todo synonyms
+DrittenPerson::: verlangt
+Perfekt::: haben verlangt
+Präteritum::: verlangte
+FrontExample::: Er verlangte eine Erklärung.
+BackExample::: Он потребовал объяснения.
+FrontExample2::: Diese Arbeit verlangt viel Geduld.
+BackExample2::: Эта работа требует много терпения. (Todo подходит ли слово?)
+FrontExample3::: Sie verlangen einen höheren Lohn.
+BackExample3::: Они требуют более высокой зарплаты.
+Tags:::  chatgpt 
+guid::: v~P~qFE:`?

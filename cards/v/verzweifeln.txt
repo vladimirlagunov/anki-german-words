@@ -1,0 +1,14 @@
+Word::: verzweifeln
+WordTranslation::: отчаиваться
+Explanation::: <div>Глагол&nbsp;<strong>verzweifeln</strong>&nbsp;в немецком языке управляется предлогом&nbsp;<strong>an</strong>&nbsp;с дативом, когда речь идет о причине отчаяния. Например:&nbsp;Ich <strong class="spoiler">verzweifle an</strong> meiner Arbeit.&nbsp;(Я отчаиваюсь из-за своей работы.) Такое употребление подразумевает, что причина отчаяния или трудности заключается в чём-то конкретном.</div>
+DrittenPerson::: verzweifelt
+Perfekt::: sein verzweifelt
+Präteritum::: verzweifelte
+FrontExample::: Er begann an seiner Entscheidung zu verzweifeln.
+BackExample::: Он начал сомневаться в своем решении.
+FrontExample2::: Die Menschen verzweifeln an der Ungerechtigkeit der Welt.
+BackExample2::: Люди отчаиваются из-за несправедливости в мире.
+FrontExample3::: Du darfst nicht verzweifeln, egal wie schwer es wird.
+BackExample3::: Ты не должен отчаиваться, как бы тяжело ни было.
+Tags:::  chatgpt 
+guid::: FdiIH{y:UV

@@ -1,0 +1,11 @@
+Word::: ungewöhnlich
+WordTranslation::: необычный, необыкновенный, странный
+Explanation::: <ul><li><div><strong class="spoiler">Ungewöhnlich</strong>&nbsp;переводится как "необычный" и чаще всего указывает на отклонение от нормы или ожиданий, но не обязательно в негативном смысле. Это слово подчеркивает отсутствие обыденности или общепринятости в чем-то.</div></li><li><div><strong class="spoiler">Merkwürdig</strong>&nbsp;ближе по значению к "замечательный" или "странный". Это слово может нести более сильную эмоциональную окраску, указывая на то, что что-то вызывает удивление или недоумение из-за своей необычности.</div></li><li><div><strong class="spoiler">Seltsam</strong>&nbsp;переводится как "странный" и часто используется для описания чего-то, что не только отличается от обычного, но и кажется немного чужеродным или не соответствующим обычным ожиданиям, что может вызвать дискомфорт или недоумение.</div></li><li><strong class="spoiler">Eigenartig</strong>&nbsp;— также переводится как "странно", с близким к "seltsam" значением, но с акцентом на уникальность или особенность.<div></div></li><li><strong class="spoiler">Kurios</strong>&nbsp;— это слово часто используется для описания чего-то странного, интересного и необычного, порой в легком и забавном контексте.</li><li><strong class="spoiler">Befremdlich</strong>&nbsp;— указывает на то, что что-то вызывает чувство дискомфорта или чуждости.</li><li><strong class="spoiler">Skurril</strong>&nbsp;— обычно описывает крайне необычные, эксцентричные и причудливые ситуации или объекты.<br></li></ul>
+FrontExample::: Das ist ein ungewöhnliches Phänomen.
+BackExample::: Это необычное явление.
+FrontExample2::: Sein Verhalten war sehr ungewöhnlich.
+BackExample2::: Его поведение было очень необычным.
+FrontExample3::: Das Gebäude hat eine ungewöhnliche Architektur.
+BackExample3::: У здания необычная архитектура.
+Tags:::  chatgpt 
+guid::: jq24R%V=Hr

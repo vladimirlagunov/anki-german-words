@@ -1,0 +1,8 @@
+Word::: Vorteil
+WordTranslation::: преимущество, достоинство, плюс
+DerDieDas::: der
+Plural::: Vorteile
+FrontExample::: Wir müssen alle Vorteile und Nachteile sorgfältig abwägen.
+BackExample::: Нам нужно тщательно взвесить все преимущества и недостатки.
+Tags:::  chatgpt 
+guid::: hT}z#U}G~M

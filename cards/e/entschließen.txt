@@ -1,0 +1,14 @@
+Word::: entschließen
+WordTranslation::: решиться, принять решение
+Explanation::: <ul><li><div><strong class="spoiler">entschließen</strong>&nbsp;- это рефлексивный глагол (<strong>sich entschließen</strong>), который означает принять решение или решиться на что-то после размышлений. Он больше связан с внутренним процессом принятия решения, когда человек, возможно, колеблется или взвешивает разные варианты перед тем, как решиться. Например:<ul><li>Ich habe mich nach langem Überlegen dazu entschlossen, die Stelle anzunehmen. (После долгих размышлений я решил принять предложение о работе.)</li></ul></div></li><li><div><strong class="spoiler">beschließen</strong>&nbsp;- этот глагол обозначает принятие решения, часто в более формальном или коллективном контексте, например в управлении или в законодательных органах. Он также может использоваться в более общем смысле просто как решение что-то сделать. Например:<ul><li>Der Vorstand beschloss, die Fabrik zu schließen. (Совет директоров принял решение закрыть завод.)</li><li>Wir haben beschlossen, nächstes Jahr nach Japan zu reisen. (Мы решили поехать в Японию в следующем году.)</li></ul></li> </div></ul>
+DrittenPerson::: entschließt
+Perfekt::: haben entschlossen
+Präteritum::: entschloss
+FrontExample::: Ich habe mich entschlossen, Deutsch zu lernen.
+BackExample::: Я решил учить немецкий язык.
+FrontExample2::: Sie entschloss sich, ihr eigenes Geschäft zu gründen.
+BackExample2::: Она решила открыть свой собственный бизнес.
+FrontExample3::: Wir haben uns entschlossen, dieses Jahr nicht in den Urlaub zu fahren.
+BackExample3::: Мы решили в этом году не ехать в отпуск.
+Tags:::  chatgpt 
+guid::: f*u`OWTFLi

@@ -1,0 +1,13 @@
+Word::: überqueren
+WordTranslation::: переходить
+DrittenPerson::: überquert
+Perfekt::: haben überquert
+Präteritum::: überquerte
+FrontExample::: Wir müssen die Straße überqueren.
+BackExample::: Нам нужно перейти дорогу.
+FrontExample2::: Er überquerte den Fluss mit einem Boot.
+BackExample2::: Он пересек реку на лодке.
+FrontExample3::: Sie überqueren die Grenze bei Nacht.
+BackExample3::: Они пересекают границу ночью.
+Tags:::  chatgpt 
+guid::: puk!]>t|qV

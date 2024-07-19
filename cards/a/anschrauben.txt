@@ -1,0 +1,11 @@
+Word::: anschrauben
+WordTranslation::: прикручивать, привинчивать
+DrittenPerson::: schraubt an
+Perfekt::: haben angeschraubt
+Präteritum::: schraubte an
+FrontExample::: Er musste das Regal an die Wand anschrauben.
+BackExample::: Ему пришлось прикрутить полку к стене.
+FrontExample2::: Sie hat den Haken an die Tür angeschraubt.
+BackExample2::: Она прикрутила крючок к двери.
+Tags:::  chatgpt 
+guid::: o!ztf^oXT@

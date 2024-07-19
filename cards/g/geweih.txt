@@ -1,0 +1,9 @@
+Word::: Geweih
+WordTranslation::: олений рог
+Explanation::: ein Geweih – рога одного оленя, Geweihe – рога нескольких оленей
+DerDieDas::: das
+Plural::: Geweihe
+FrontExample::: Jedes Jahr wirft der Hirsch sein Geweih ab und es wächst ein neues.
+BackExample::: Каждый год олень сбрасывает свои рога, и у него вырастают новые.
+Tags:::  chatgpt 
+guid::: mZQDQ1crc&

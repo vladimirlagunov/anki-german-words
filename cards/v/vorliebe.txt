@@ -1,0 +1,10 @@
+Word::: Vorliebe
+WordTranslation::: предпочтение, склонность
+DerDieDas::: die
+Plural::: Vorlieben
+FrontExample::: Er hat eine ausgesprochene Vorliebe für klassische Musik.
+BackExample::: У него выраженная склонность к классической музыке.
+FrontExample2::: Ich kenne deine Vorliebe für diesen jungen Mann.
+BackExample2::: Я знаю твою склонность к этому молодому человеку.
+Tags:::  chatgpt 
+guid::: h6yMBIbvF2

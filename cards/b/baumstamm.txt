@@ -1,0 +1,8 @@
+Word::: Baumstamm
+WordTranslation::: ствол дерева
+DerDieDas::: der
+Plural::: Baumstämme
+FrontExample::: Der Baumstamm war so dick, dass zwei Menschen ihn nicht umarmen konnten.
+BackExample::: Ствол дерева был таким толстым, что два человека не могли его обхватить.
+Tags:::  chatgpt 
+guid::: oaKizk5u|H

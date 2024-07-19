@@ -1,0 +1,9 @@
+Word::: reinpassen
+WordTranslation::: подходить, вмещаться
+Explanation::: <ul><li><div><strong class="spoiler">passen</strong>&nbsp;– Это самое общее слово из перечисленных, означающее "подходить" или "соответствовать". Оно может использоваться в различных контекстах, например, чтобы сказать, что одежда подходит по размеру, или что планы соответствуют вашим возможностям. Пример: "Die Jeans passt mir gut" (Эти джинсы мне хорошо подходят).</div></li><li><div><span class="spoiler"><strong>reinpassen</strong>&nbsp;и&nbsp;<strong>hereinpassen</strong></span>&nbsp;– Эти слова являются вариациями слова "passen", но с добавлением префиксов "rein-" и "herein-", указывающих на направление движения (внутрь). "Reinpassen" используется для описания ситуации, когда что-то помещается внутрь чего-то, как правило, в пространственном смысле. Пример: "Der Schlüssel passt nicht in das Schloss rein" (Ключ не подходит к этому замку). "Hereinpassen" тоже указывает на то, что что-то помещается или подходит внутрь, но чаще используется, когда речь идет о входе в здание или комнату. Пример: "Wie viele Leute passen in diesen Raum herein?" (Сколько людей поместится в эту комнату?).<br></div></li></ul>
+FrontExample::: Das passt nicht in die Schublade rein.
+BackExample::: Это не помещается в ящик.
+FrontExample2::: Ich glaube, die Schuhe passen nicht in meinen Koffer rein.
+BackExample2::: Думаю, эти туфли не поместятся в мой чемодан.
+Tags:::  chatgpt 
+guid::: BD:]KZwM7D

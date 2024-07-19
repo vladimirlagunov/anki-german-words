@@ -1,0 +1,6 @@
+Word::: Konnektor
+WordTranslation::: <ul><li>соединитель, связующее звено</li><li>союз (часть речи)</li></ul>
+DerDieDas::: der
+Plural::: Konnektoren
+Tags:::  chatgpt 
+guid::: B)1`nzA;E_

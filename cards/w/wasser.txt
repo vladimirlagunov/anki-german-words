@@ -1,0 +1,10 @@
+Word::: Wasser
+WordTranslation::: вода
+DerDieDas::: das
+Plural::: Wässer, Wasser
+FrontExample::: Ein Glas Wasser, bitte.
+BackExample::: Стакан воды, пожалуйста.
+FrontExample2::: Ich trinke Wasser.
+BackExample2::: Я пью воду.
+Tags:::  A1 chatgpt 
+guid::: HY)Z79Du:y

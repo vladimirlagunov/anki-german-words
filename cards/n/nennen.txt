@@ -1,5 +1,6 @@
 Word::: nennen
 WordTranslation::: называть, указывать, именовать
+Explanation::: Todo benennen
 DrittenPerson::: nennt
 Perfekt::: haben genannt
 Präteritum::: nannte

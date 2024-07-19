@@ -1,0 +1,10 @@
+Word::: von
+WordTranslation::: (предлог) от, из
+FrontExample::: Das Auto von Felix ist kaputt.&nbsp;
+BackExample::: Машина Феликса сломана.
+FrontExample2::: Er kommt gerade von zu Hause.
+BackExample2::: Он только что пришел из дома.
+FrontExample3::: Das ist das Buch von Maria.
+BackExample3::: Это книга Марии.
+Tags:::  A1 chatgpt 
+guid::: Ay[rdF`Y#x

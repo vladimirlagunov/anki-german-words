@@ -1,0 +1,14 @@
+Word::: verbringen
+WordTranslation::: проводить, тратить
+Explanation::: <ul><li><div><strong class="spoiler">Verbringen</strong>&nbsp;означает "проводить время" или "провести время где-то". Это слово используется, когда речь идет о том, как кто-то проводит время в определенном месте или ситуации. Например: "Ich verbringe meine Ferien am Meer" (Я провожу свои каникулы на море).</div></li><li><div><strong class="spoiler">Verschwenden</strong>&nbsp;переводится как "тратить впустую", "растрачивать". Это слово используется, когда речь идет о неэффективном или нецелесообразном использовании ресурсов, таких как время, деньги или энергия. Например: "Er verschwendet seine Zeit mit sinnlosen Aktivitäten" (Он тратит своё время на бессмысленные занятия).</div></li><li><div><strong class="spoiler">Vertreiben</strong>&nbsp;имеет несколько значений, в том числе "прогонять", "изгонять", а также "проводить время, отвлекаясь". В контексте времени это слово часто используется для описания действий, направленных на то, чтобы скоротать время или отвлечься. Например: "Wir vertreiben uns die Zeit mit Kartenspielen" (Мы коротаем время, играя в карточные игры).</div></li></ul>
+DrittenPerson::: verbringt
+Perfekt::: haben verbracht
+Präteritum::: verbrachte
+FrontExample::: Ich möchte den Sommer am Meer verbringen.
+BackExample::: Я хочу провести лето у моря.
+FrontExample2::: Wir haben den ganzen Nachmittag im Park verbracht.
+BackExample2::: Мы провели весь день в парке.
+FrontExample3::: Er verbrachte seine Ferien bei seinen Großeltern.
+BackExample3::: Он провел свои каникулы у своих бабушки и дедушки.
+Tags:::  chatgpt 
+guid::: b~hc+jrt_H

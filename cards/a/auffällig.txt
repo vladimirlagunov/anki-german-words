@@ -1,0 +1,8 @@
+Word::: auffällig
+WordTranslation::: броский, заметный, выделяющийся
+FrontExample::: Sein auffälliges Verhalten erregte die Aufmerksamkeit aller.
+BackExample::: Его броское поведение привлекло внимание всех.
+FrontExample2::: Sie trug eine auffällige rote Jacke, die sofort ins Auge fiel.
+BackExample2::: Она носила заметную красную куртку, которая сразу бросалась в глаза.
+Tags:::  chatgpt 
+guid::: kF?rbu](FE

@@ -1,0 +1,10 @@
+Word::: willkommen
+WordTranslation::: <ul><li>добро пожаловать</li><li>желанный, приветствуемый</li></ul>
+FrontExample::: Herzlich willkommen!
+BackExample::: Сердечно приветствуем!
+FrontExample2::: Willkommen zu Hause!
+BackExample2::: Добро пожаловать домой!
+FrontExample3::: Ein willkommener Gast
+BackExample3::: Желанный гость
+Tags:::  A1 chatgpt 
+guid::: nx7.]`YBj0

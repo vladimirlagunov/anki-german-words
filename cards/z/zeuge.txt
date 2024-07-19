@@ -1,0 +1,10 @@
+Word::: Zeuge
+WordTranslation::: свидетель
+DerDieDas::: der
+Plural::: Zeugen
+FrontExample::: Er war der einzige Zeuge des Unfalls.
+BackExample::: Он был единственным свидетелем аварии.
+FrontExample2::: Die Polizei sucht dringend nach einem Zeugen.
+BackExample2::: Полиция срочно ищет свидетеля.
+Tags:::  chatgpt 
+guid::: t%G*lK6]&3

@@ -1,13 +1,12 @@
-Word::: kosten
-WordTranslation::: стоить
-DrittenPerson::: kostet
-Perfekt::: haben gekostet
-Präteritum::: kostete
-FrontExample::: Wie viel kostet das? – 10 Euro.
-BackExample::: Сколько это стоит? – 10 евро.
-FrontExample2::: Kann ich das Eis kosten?
-BackExample2::: Могу ли я попробовать это мороженое?
-FrontExample3::: Das Buch kostet 5 Euro.
-BackExample3::: Эта книга стоит 5 евро.
-Tags:::  A1 chatgpt 
-guid::: iyp5[H//xA
+Word::: Kosten
+WordTranslation::: издержки, расходы
+DerDieDas::: Pl.
+Plural::: Kosten
+FrontExample::: Die Kosten für das neue Stadion sind enorm.
+BackExample::: Затраты на новый стадион огромны.
+FrontExample2::: Er trägt alle Kosten für die Reparatur.
+BackExample2::: Он несет все расходы на ремонт.
+FrontExample3::: Können wir die genauen Kosten berechnen?
+BackExample3::: Можем ли мы рассчитать точные издержки?
+Tags:::  chatgpt 
+guid::: ueswI`XsHd

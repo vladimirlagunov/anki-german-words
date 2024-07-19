@@ -1,7 +1,7 @@
-Word::: sich erinnern
+Word::: erinnern
 WordTranslation::: помнить, вспоминать
-DrittenPerson::: erinnert sich
-Perfekt::: haben sich erinnert
+DrittenPerson::: erinnert
+Perfekt::: haben erinnert
 FrontExample::: Meine Großmutter erinnert sich oft an ihre Kindheit.
 BackExample::: Моя бабушка часто вспоминает свое детство.
 FrontExample2::: Ich erinnere mich an meinen ersten Schultag.

@@ -1,0 +1,8 @@
+Word::: dorthin
+WordTranslation::: туда
+FrontExample::: Ich werde dorthin gehen.
+BackExample::: Я пойду туда.
+FrontExample2::: Kannst du dorthin fahren?
+BackExample2::: Можешь поехать туда?
+Tags:::  chatgpt 
+guid::: x6i)Ux0jXg

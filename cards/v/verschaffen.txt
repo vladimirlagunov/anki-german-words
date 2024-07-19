@@ -1,10 +1,8 @@
 Word::: verschaffen
-WordTranslation::: <ul><li>добывать, доставать</li><li>обеспечивать, предоставлять</li></ul>
+WordTranslation::: добывать, доставать, обеспечить
 DrittenPerson::: verschafft
 Perfekt::: haben verschafft
 Präteritum::: verschaffte
-FrontExample::: Er wollte sich einen Überblick über die Situation verschaffen.
-BackExample::: Он хотел получить общее представление о ситуации.
 FrontExample2::: Der Erfolg hat ihm respekt verschafft.
 BackExample2::: Успех принес ему уважение.
 Tags:::  chatgpt 

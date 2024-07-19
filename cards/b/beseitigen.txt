@@ -1,5 +1,6 @@
 Word::: beseitigen
 WordTranslation::: устранять, удалять
+Explanation::: TODO различия с синонимами
 DrittenPerson::: beseitigt
 Perfekt::: haben beseitigt
 Präteritum::: beseitigte

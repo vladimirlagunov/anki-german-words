@@ -1,0 +1,10 @@
+Word::: Moos
+WordTranslation::: <ul><li>мох</li><li>бабки, деньги</li></ul>
+DerDieDas::: das
+Plural::: <div>Moose</div>
+FrontExample::: Das Auto hat viel Moos gekostet.
+BackExample::: Машина стоила много бабла.
+FrontExample2::: Im Wald wächst überall Moos.
+BackExample2::: В лесу повсюду растет мох.
+Tags:::  chatgpt 
+guid::: J{,BCQ+bn?

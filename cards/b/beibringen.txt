@@ -1,0 +1,14 @@
+Word::: beibringen
+WordTranslation::: преподавать, учить, обучать
+Explanation::: <ul><li><div><strong class="spoiler">lehren</strong>&nbsp;– Этот глагол переводится как "преподавать" или "учить". Он обычно относится к более формальному или академическому процессу обучения, когда один человек (преподаватель) передает знания другому (ученику или студенту). Пример использования: «Er lehrt Mathematik an der Universität» (Он преподает математику в университете).</div></li><li><div><strong class="spoiler">unterrichten</strong>&nbsp;– Этот глагол также означает "преподавать", но он шире по своему применению по сравнению с "lehren" и может использоваться для обозначения обучения в школах, университетах или даже в неформальных условиях. Пример использования: «Sie unterrichtet Englisch in einer Schule» (Она преподает английский в школе).</div></li><li><div><strong class="spoiler">beibringen</strong>&nbsp;– Этот глагол переводится как "научить" и чаще используется в контексте передачи умений, навыков или знаний в более неформальной или индивидуальной манере. Это может быть обучение какому-либо конкретному навыку или занятие. Пример использования: «Ich bringe ihm das Klavierspielen bei» (Я учу его игре на пианино).</div></li></ul>
+DrittenPerson::: bringt bei
+Perfekt::: haben beigebracht
+Präteritum::: brachte bei
+FrontExample::: Sie wollte ihm das Klavierspielen beibringen
+BackExample::: Она хотела научить его играть на пианино
+FrontExample2::: Er hat mir das Tanzen beigebracht
+BackExample2::: Он научил меня танцевать
+FrontExample3::: Wie kann ich ihr das beibringen?
+BackExample3::: Как я могу объяснить ей это?
+Tags:::  chatgpt 
+guid::: EL&40JA<EV

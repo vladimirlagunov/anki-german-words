@@ -1,0 +1,8 @@
+Word::: Lastenfahrrad
+WordTranslation::: грузовой велосипед
+DerDieDas::: das
+Plural::: Lastenfahrräder
+FrontExample::: Mit dem Lastenfahrrad kann ich meine Einkäufe bequem transportieren.
+BackExample::: С помощью грузового велосипеда я могу с удобством перевезти свои покупки.
+Tags:::  chatgpt 
+guid::: G{~*MNLYR

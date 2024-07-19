@@ -1,0 +1,8 @@
+Word::: Liege
+WordTranslation::: кушетка, лежак
+DerDieDas::: die
+Plural::: Liegen
+FrontExample::: Ich habe eine bequeme Liege am Strand gefunden.
+BackExample::: Я нашёл удобный шезлонг на пляже.
+Tags:::  chatgpt 
+guid::: F?V#Jdx}GP

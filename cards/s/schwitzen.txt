@@ -1,0 +1,11 @@
+Word::: schwitzen
+WordTranslation::: потеть
+DrittenPerson::: schwitzt
+Perfekt::: haben geschwitzt
+Präteritum::: schwitzte
+FrontExample::: Ich habe während des Trainings viel geschwitzt.
+BackExample::: Я сильно потел во время тренировки.
+FrontExample3::: Es ist so heiß, dass alle im Büro schwitzen.
+BackExample3::: Так жарко, что все в офисе потеют.
+Tags:::  chatgpt 
+guid::: M912]1/!K^

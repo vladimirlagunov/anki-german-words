@@ -1,0 +1,8 @@
+Word::: innen
+WordTranslation::: внутри
+FrontExample::: Das Licht ist innen heller.
+BackExample::: Свет внутри ярче.
+FrontExample2::: Innen im Raum war es warm.
+BackExample2::: Внутри комнаты было тепло.
+Tags:::  chatgpt 
+guid::: }lj{>P<FG

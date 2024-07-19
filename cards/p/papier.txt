@@ -1,0 +1,8 @@
+Word::: Papier
+WordTranslation::: бумага
+DerDieDas::: das
+Plural::: Papiere
+FrontExample::: Hier sind Papier und Bleistift.
+BackExample::: Вот бумага и карандаш.
+Tags:::  A1 chatgpt 
+guid::: IQ`{o(!{;U

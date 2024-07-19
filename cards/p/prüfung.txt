@@ -1,0 +1,19 @@
+Word::: Prüfung
+WordTranslation::: <ul>
+<li>испытание</li>
+<li>экзамен</li>
+<li><ul>
+<li>испытание</li>
+<li>экзамен</li>
+</ul></li>
+</ul>
+DerDieDas::: die
+Plural::: Prüfungen
+FrontExample::: Die Prüfung ist am Montag um 8.00 Uhr.
+BackExample::: Экзамен в понедельник в 8:00.
+FrontExample2::: Ich habe morgen eine Prüfung.
+BackExample2::: Завтра у меня экзамен.
+FrontExample3::: Wir haben nächste Woche eine wichtige Prüfung.
+BackExample3::: На следующей неделе у нас важный экзамен.
+Tags:::  A1 chatgpt 
+guid::: wtD<Lf+Kh&

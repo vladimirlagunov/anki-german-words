@@ -1,0 +1,10 @@
+Word::: Kofferraum
+WordTranslation::: багажник
+DerDieDas::: der
+Plural::: Kofferräume
+FrontExample::: Könntest du bitte deinen Koffer in den Kofferraum legen?
+BackExample::: Можешь, пожалуйста, положить свой чемодан в багажник?
+FrontExample2::: Im Kofferraum ist genug Platz für das Gepäck aller Passagiere.
+BackExample2::: В багажнике достаточно места для багажа всех пассажиров.
+Tags:::  chatgpt 
+guid::: HO`!.%E6J,

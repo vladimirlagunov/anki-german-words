@@ -1,0 +1,10 @@
+Word::: dauerhaft
+WordTranslation::: <ul><li>длительный</li><li>прочный, долговечный</li></ul>
+FrontExample::: Dieses Material ist besonders dauerhaft.
+BackExample::: Этот материал особенно долговечен.
+FrontExample2::: Wir suchen nach einer dauerhaften Lösung für das Problem.
+BackExample2::: Мы ищем долговременное решение для проблемы.
+FrontExample3::: Dauerhafte Beziehungen sind wichtig für unsere mentale Gesundheit.
+BackExample3::: Долговременные отношения важны для нашего психического здоровья.
+Tags:::  chatgpt 
+guid::: C%WP)hAAZ>

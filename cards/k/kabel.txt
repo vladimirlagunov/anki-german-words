@@ -1,0 +1,9 @@
+Word::: Kabel
+WordTranslation::: <ul>
+<li>кабель</li>
+<li>трос</li>
+</ul>
+DerDieDas::: das
+Plural::: Kabel
+Tags:::  chatgpt 
+guid::: zzb]0cY&=W

@@ -1,0 +1,8 @@
+Word::: Mischung
+WordTranslation::: смесь, смешение, сочетание
+DerDieDas::: die
+Plural::: Mischungen
+FrontExample::: Sie trank eine Mischung aus Orangensaft und Mineralwasser.
+BackExample::: Она выпила смесь апельсинового сока и минеральной воды.
+Tags:::  chatgpt 
+guid::: OC33>./**(

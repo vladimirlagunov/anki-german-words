@@ -1,0 +1,7 @@
+Word::: dementsprechend
+WordTranslation::: соответственно, следовательно
+Explanation::: <ul><li><div><strong class="spoiler">deshalb</strong>&nbsp;— это слово, которое переводится как "поэтому" или "следовательно". Оно используется для прямого выражения причинно-следственной связи, обычно в более обыденных или разговорных контекстах. Например:<ul><li>Es regnet, deshalb bleibe ich zu Hause. (Идет дождь, поэтому я остаюсь дома.)</li></ul></div></li><li><div><strong class="spoiler">somit</strong>&nbsp;— также означает "следовательно" или "таким образом", но обычно используется в более формальном или научном контексте. Это слово часто встречается в академических или логически строгих аргументациях.<ul><li>Die Ergebnisse sind eindeutig, somit ist die Hypothese bestätigt. (Результаты однозначны, следовательно, гипотеза подтверждена.)</li></ul></div></li><li><div><strong class="spoiler">dementsprechend</strong>&nbsp;— переводится как "соответственно" или "в соответствии с этим". Это слово используется для указания на то, что действия или состояния соответствуют упомянутым условиям или обстоятельствам.<ul><li>Die Anforderungen sind hoch, dementsprechend sind die Prüfungen schwierig. (Требования высоки, соответственно, экзамены сложные.)</li></ul></div></li></ul>
+FrontExample::: Die Nachfrage ist hoch, dementsprechend haben wir die Produktion erhöht.
+BackExample::: Спрос высок, соответственно, мы увеличили производство.
+Tags:::  chatgpt 
+guid::: rI?G}(y8N$

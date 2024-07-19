@@ -1,0 +1,10 @@
+Word::: über
+WordTranslation::: (предлог) над, поверх, через
+FrontExample::: Gehen Sie hier über die Straße.
+BackExample::: Перейдите здесь через улицу.
+FrontExample2::: Er wohnt im zweiten Stock über Familie Meier.&nbsp;
+BackExample2::: Er wohnt im zweiten Stock über Familie Meier.
+FrontExample3::: Sind Sie über 18?
+BackExample3::: Вам больше 18 лет?
+Tags:::  A1 chatgpt 
+guid::: uv{}KC?e2A

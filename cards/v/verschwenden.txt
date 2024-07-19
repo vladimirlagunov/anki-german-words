@@ -1,0 +1,12 @@
+Word::: verschwenden
+WordTranslation::: тратить впустую
+Explanation::: <ul><li><div><strong class="spoiler">Verbringen</strong>&nbsp;означает "проводить время" или "провести время где-то". Это слово используется, когда речь идет о том, как кто-то проводит время в определенном месте или ситуации. Например: "Ich verbringe meine Ferien am Meer" (Я провожу свои каникулы на море).</div></li><li><div><strong class="spoiler">Verschwenden</strong>&nbsp;переводится как "тратить впустую", "растрачивать". Это слово используется, когда речь идет о неэффективном или нецелесообразном использовании ресурсов, таких как время, деньги или энергия. Например: "Er verschwendet seine Zeit mit sinnlosen Aktivitäten" (Он тратит своё время на бессмысленные занятия).</div></li><li><div><strong class="spoiler">Vertreiben</strong>&nbsp;имеет несколько значений, в том числе "прогонять", "изгонять", а также "проводить время, отвлекаясь". В контексте времени это слово часто используется для описания действий, направленных на то, чтобы скоротать время или отвлечься. Например: "Wir vertreiben uns die Zeit mit Kartenspielen" (Мы коротаем время, играя в карточные игры).</div></li></ul>
+DrittenPerson::: verschwendet
+Perfekt::: haben verschwendet
+Präteritum::: verschwendete
+FrontExample::: Er verschwendet sein Geld für nutzlose Dinge.
+BackExample::: Он тратит свои деньги на бесполезные вещи.
+FrontExample2::: Wir sollten keine Zeit verschwenden.
+BackExample2::: Мы не должны тратить время попусту.
+Tags:::  chatgpt 
+guid::: jDgaQ20TBx

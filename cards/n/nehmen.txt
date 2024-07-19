@@ -1,0 +1,13 @@
+Word::: nehmen
+WordTranslation::: брать, взять
+DrittenPerson::: nimmt
+Perfekt::: haben genommen
+Präteritum::: nahm
+FrontExample::: Ich nehme den Bus.
+BackExample::: Я еду на автобусе.
+FrontExample2::: Wir nehmen die Bücher.
+BackExample2::: Мы берем книги.
+FrontExample3::: Ich nehme eine Tasse Tee.
+BackExample3::: Я возьму чашку чая.
+Tags:::  A1 chatgpt 
+guid::: EyR.&xc!B#

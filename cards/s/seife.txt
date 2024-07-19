@@ -1,0 +1,10 @@
+Word::: Seife
+WordTranslation::: мыло
+DerDieDas::: die
+Plural::: Seifen
+FrontExample::: Bitte gib mir die Seife.
+BackExample::: Пожалуйста, дай мне мыло.
+FrontExample2::: Die Seife duftet nach Lavendel.
+BackExample2::: Мыло пахнет лавандой.
+Tags:::  chatgpt 
+guid::: Q+MosX=8@+

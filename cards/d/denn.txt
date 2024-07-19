@@ -1,0 +1,11 @@
+Word::: denn
+WordTranslation::: потому что
+Explanation::: <ul><li><div><strong class="spoiler">Denn</strong>&nbsp;— это союз, который используется для введения причины или обоснования и переводится как "потому что". Особенностью&nbsp;<strong>denn</strong>&nbsp;является то, что он не вызывает изменения порядка слов в предложении, следующем за ним. Например:</div><ul><li>Ich gehe jetzt,&nbsp;<strong>denn</strong>&nbsp;ich bin müde. (Я иду сейчас, потому что я устал.)</li></ul></li><li><div><strong class="spoiler">Weil</strong>&nbsp;— также союз, указывающий на причину или обоснование, и он также переводится как "потому что". В отличие от&nbsp;<strong>denn</strong>,&nbsp;<strong>weil</strong>&nbsp;требует, чтобы глагол в следующем за ним придаточном предложении стоял в конце:</div><ul><li>Ich gehe jetzt,&nbsp;<strong>weil</strong>&nbsp;ich müde bin. (Я иду сейчас, потому что я устал.)</li></ul></li><li><div><strong class="spoiler">Da</strong>&nbsp;— ещё один союз для выражения причины, но он чаще используется в начале предложения или когда причина является более очевидной или уже известной слушающему:</div><ul><li><strong>Da</strong>&nbsp;ich müde bin, gehe ich jetzt. (Так как я устал, я иду сейчас.)</li></ul></li><li><div><strong class="spoiler">Obwohl</strong>&nbsp;— это союз, который вводит противопоставление или противоречие, и переводится как "хотя" или "несмотря на то что". Подобно&nbsp;<strong>weil</strong>, он требует, чтобы глагол в придаточном предложении находился в конце:</div><ul><li>Ich gehe jetzt,&nbsp;<strong>obwohl</strong>&nbsp;ich nicht müde bin. (Я иду сейчас, хотя я не устал.)</li></ul></li></ul>
+FrontExample::: Ich kann nicht kommen, denn ich bin krank.
+BackExample::: Я не могу прийти, потому что я болен.
+FrontExample2::: Ich bin müde, denn ich habe wenig geschlafen.
+BackExample2::: Я устал, потому что я мало спал.
+FrontExample3::: Er isst nicht, denn er hat keinen Hunger.
+BackExample3::: Он не ест, потому что он не голоден.
+Tags:::  A1 chatgpt 
+guid::: yhAiL7MiIV

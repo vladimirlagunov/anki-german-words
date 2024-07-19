@@ -1,0 +1,10 @@
+Word::: Strandpromenade
+WordTranslation::: набережная
+DerDieDas::: die
+Plural::: Strandpromenaden
+FrontExample::: Wir gingen abends auf der Strandpromenade spazieren.
+BackExample::: Мы вечером гуляли по набережной.
+FrontExample2::: Auf der Strandpromenade gibt es viele Restaurants und Cafés.
+BackExample2::: На набережной много ресторанов и кафе.
+Tags:::  chatgpt 
+guid::: NW]Dk9ibB^

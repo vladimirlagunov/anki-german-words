@@ -1,0 +1,9 @@
+Word::: blöd, blöde
+WordTranslation::: глупый, тупой, дурацкий
+Explanation::: <ul><li><div><strong class="spoiler">Dumm</strong>&nbsp;- это более общее и прямое слово для описания отсутствия ума или умственных способностей. Оно может использоваться как в серьезном, так и в легком тоне, в зависимости от контекста.</div></li><li><div><strong class="spoiler">Blöd</strong>&nbsp;- это более разговорное и часто используемое слово, которое также может обозначать глупость, но часто с более сильной эмоциональной окраской или даже с элементом раздражения. "Blöd" может также означать нечто нелепое или иррациональное.</div></li></ul>
+FrontExample::: Das ist eine blöde Idee.
+BackExample::: Это тупая идея.
+FrontExample2::: Er hat sich blöd benommen.
+BackExample2::: Он вел себя тупо.
+Tags:::  chatgpt 
+guid::: d`&uBGeSTe

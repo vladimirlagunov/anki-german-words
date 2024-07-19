@@ -1,0 +1,12 @@
+Word::: Alm
+WordTranslation::: альпийский луг, пастбище
+DerDieDas::: die
+Plural::: Almen
+FrontExample::: Wir verbrachten den Sommer auf der Alm.
+BackExample::: Мы провели лето на альпийском пастбище.
+FrontExample2::: Die Kühe grasen friedlich auf der Alm.
+BackExample2::: Коровы мирно пасутся на альпийском лугу.
+FrontExample3::: Er wuchs auf einer abgelegenen Alm auf.
+BackExample3::: Он вырос на отдаленном альпийском лугу.
+Tags:::  chatgpt 
+guid::: N^!KLI-1pC

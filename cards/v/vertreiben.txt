@@ -1,0 +1,14 @@
+Word::: vertreiben
+WordTranslation::: прогонять, изгонять
+Explanation::: <ul><li><div><strong class="spoiler">Verbringen</strong>&nbsp;означает "проводить время" или "провести время где-то". Это слово используется, когда речь идет о том, как кто-то проводит время в определенном месте или ситуации. Например: "Ich verbringe meine Ferien am Meer" (Я провожу свои каникулы на море).</div></li><li><div><strong class="spoiler">Verschwenden</strong>&nbsp;переводится как "тратить впустую", "растрачивать". Это слово используется, когда речь идет о неэффективном или нецелесообразном использовании ресурсов, таких как время, деньги или энергия. Например: "Er verschwendet seine Zeit mit sinnlosen Aktivitäten" (Он тратит своё время на бессмысленные занятия).</div></li><li><div><strong class="spoiler">Vertreiben</strong>&nbsp;имеет несколько значений, в том числе "прогонять", "изгонять", а также "проводить время, отвлекаясь". В контексте времени это слово часто используется для описания действий, направленных на то, чтобы скоротать время или отвлечься. Например: "Wir vertreiben uns die Zeit mit Kartenspielen" (Мы коротаем время, играя в карточные игры).</div></li></ul>
+DrittenPerson::: vertreibt
+Perfekt::: haben vertrieben
+Präteritum::: vertrieb
+FrontExample::: Er versucht, seine Angst zu vertreiben.
+BackExample::: Он пытается прогнать свой страх.
+FrontExample2::: Das Unternehmen vertreibt seine Produkte weltweit.
+BackExample2::: Компания продает свою продукцию по всему миру.
+FrontExample3::: Sie vertrieb sich die Zeit mit Lesen.
+BackExample3::: Она коротала время за чтением.
+Tags:::  chatgpt 
+guid::: yS4kUH{{UL

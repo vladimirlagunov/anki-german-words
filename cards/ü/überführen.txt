@@ -1,0 +1,13 @@
+Word::: überführen
+WordTranslation::: <ul><li>перевозить, передавать, переводить</li><li>уличать, изобличать</li></ul>
+DrittenPerson::: überführt
+Perfekt::: haben überführt
+Präteritum::: überführte
+FrontExample::: Die Polizei konnte den Verbrecher überführen.
+BackExample::: Полиция смогла уличить преступника.
+FrontExample2::: Die Firma überführt ihre Waren mit dem LKW.
+BackExample2::: Компания перевозит свои товары на грузовике.
+FrontExample3::: Der Verdächtige wurde durch die Beweise überführt.
+BackExample3::: Подозреваемого уличили благодаря доказательствам.
+Tags:::  chatgpt 
+guid::: C)!QWn,*uA

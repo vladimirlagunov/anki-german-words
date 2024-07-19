@@ -1,0 +1,13 @@
+Word::: verführen
+WordTranslation::: соблазнять, искушать
+DrittenPerson::: verführt
+Perfekt::: haben verführt
+Präteritum::: verführte
+FrontExample::: Er hat versucht, sie mit seinem Charme zu verführen.
+BackExample::: Он пытался соблазнить её своим обаянием.
+FrontExample2::: Die Werbung verführte die Kunden, mehr zu kaufen.
+BackExample2::: Реклама соблазнила клиентов купить больше.
+FrontExample3::: Das neue Restaurant hat uns mit köstlichen Gerichten verführt.
+BackExample3::: Новый ресторан соблазнил нас вкусными блюдами.
+Tags:::  chatgpt 
+guid::: Hb0vK=x~qX

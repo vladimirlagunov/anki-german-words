@@ -1,0 +1,12 @@
+Word::: verwittern
+WordTranslation::: выветриваться, разрушаться
+Explanation::: <ul><li><div><strong class="spoiler">verwittern</strong>&nbsp;— Это слово означает "источиться" или "разрушаться под воздействием атмосферных факторов", часто используется для описания естественных процессов, таких как эрозия камней или металлов. Подразумевает медленное и постепенное разрушение под влиянием внешних природных факторов.</div></li><li><div><strong class="spoiler">brechen</strong>&nbsp;— Слово переводится как "ломать". Это может применяться в буквальном смысле, когда что-то физически разламывается на части, например, ветка дерева или кусок материала. Также слово может использоваться в переносном значении, например, об обрыве отношений или нарушении правил.</div></li><li><div><strong class="spoiler">zerstören</strong>&nbsp;— Это слово означает "разрушать". Оно имеет более сильное и агрессивное звучание по сравнению с&nbsp;<strong>brechen</strong>&nbsp;и&nbsp;<strong>verwittern</strong>&nbsp;и чаще всего применяется для описания полного уничтожения объекта или структуры, будь то здание, транспортное средство или другие объекты. Это слово подразумевает действие, приводящее к необратимым изменениям.</div></li></ul>
+DrittenPerson::: verwittert
+Perfekt::: sein verwittert
+Präteritum::: verwitterte
+FrontExample::: Holzstrukturen müssen regelmäßig gepflegt werden, da sie sonst verwittern.
+BackExample::: Деревянные конструкции нужно регулярно обслуживать, иначе они разрушатся.
+FrontExample2::: Die Felsen verwittern im Laufe der Jahrhunderte.
+BackExample2::: Скалы разрушаются в течение веков.
+Tags:::  chatgpt 
+guid::: DshO<x3(PC

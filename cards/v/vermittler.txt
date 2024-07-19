@@ -1,0 +1,8 @@
+Word::: Vermittler
+WordTranslation::: посредник, агент
+DerDieDas::: der
+Plural::: Vermittler
+FrontExample::: Ein guter Vermittler hilft beiden Seiten, eine faire Lösung zu finden.
+BackExample::: Хороший посредник помогает обеим сторонам найти справедливое решение.
+Tags:::  chatgpt 
+guid::: JaO:Yvp%mV

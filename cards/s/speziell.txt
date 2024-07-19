@@ -1,0 +1,8 @@
+Word::: speziell
+WordTranslation::: специальный, особый, специфический
+FrontExample::: Diese Aufgabe ist speziell für dich.
+BackExample::: Это задание специально для тебя.
+FrontExample2::: Er hat sehr spezielle Interessen.
+BackExample2::: У него очень специфические интересы.
+Tags:::  chatgpt 
+guid::: IyfY5q|GI*

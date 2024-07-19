@@ -1,0 +1,22 @@
+Word::: wiegen
+WordTranslation::: <ul>
+<li>весить (иметь вес)</li><li>взвешивать</li>
+<li>качать, укачивать</li>
+</ul>
+DrittenPerson::: wiegt
+Perfekt::: <ul>
+<li>haben  gewogen – весить, взвешивать</li>
+<li>haben gewiegt – качать, покачивать</li>
+</ul>
+Präteritum::: <ul>
+<li>wog – весить, взвешивать</li>
+<li>wiegte – качать, покачивать</li>
+</ul>
+FrontExample::: Das Baby wiegt fünf Kilogramm.
+BackExample::: Младенец весит пять килограммов.
+FrontExample2::: Kannst du bitte das Obst wiegen?
+BackExample2::: Можешь взвесить фрукты, пожалуйста?
+FrontExample3::: Die Mutter wiegt das Baby. 
+BackExample3::: Мать укачивает ребенка.
+Tags:::  chatgpt 
+guid::: lzqInMlXcr

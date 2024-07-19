@@ -1,0 +1,6 @@
+Word::: Austausch
+WordTranslation::: обмен, замена
+DerDieDas::: der
+Plural::: Austausche
+Tags:::  chatgpt 
+guid::: kvBuN]G8~8

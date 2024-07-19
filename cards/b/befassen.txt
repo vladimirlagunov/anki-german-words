@@ -1,0 +1,13 @@
+Word::: befassen
+WordTranslation::: заниматься проблемой, рассматривать
+DrittenPerson::: befasst
+Perfekt::: haben befasst
+Präteritum::: befasste
+FrontExample::: Wir müssen uns mit diesem Problem befassen.
+BackExample::: Нам нужно заняться этой проблемой.
+FrontExample2::: Das Komitee wird sich nächste Woche damit befassen.
+BackExample2::: Комитет займётся этим на следующей неделе.
+FrontExample3::: Er befasst sich schon lange mit dieser Theorie.
+BackExample3::: Он давно занимается этой теорией.
+Tags:::  chatgpt 
+guid::: OGI6a397X6

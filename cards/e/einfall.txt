@@ -1,0 +1,8 @@
+Word::: Einfall
+WordTranslation::: идея, внезапная мысль
+DerDieDas::: der
+Plural::: Einfälle
+FrontExample::: Plötzlich hatte er einen Einfall, wie das Problem zu lösen war.
+BackExample::: Вдруг у него возникла идея, как решить проблему.
+Tags:::  chatgpt 
+guid::: A;av|HeFv;

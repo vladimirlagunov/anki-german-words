@@ -1,0 +1,10 @@
+Word::: ungestört
+WordTranslation::: беспрепятственно
+FrontExample::: Ich möchte ungestört arbeiten.
+BackExample::: Я хочу работать без помех.
+FrontExample2::: Das Kind spielt ungestört im Garten.
+BackExample2::: Ребенок беспрепятственно играет в саду.
+FrontExample3::: Wir haben uns ungestört unterhalten.
+BackExample3::: Мы спокойно болтали.
+Tags:::  chatgpt 
+guid::: s:axu@/O]t

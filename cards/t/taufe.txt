@@ -1,0 +1,8 @@
+Word::: Taufe
+WordTranslation::: крещение
+DerDieDas::: die
+Plural::: Taufen
+FrontExample::: Die Taufe fand in einer kleinen Kirche statt.
+BackExample::: Крещение прошло в маленькой церкви.
+Tags:::  chatgpt 
+guid::: r`OxWrY(b_

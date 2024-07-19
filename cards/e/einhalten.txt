@@ -1,0 +1,13 @@
+Word::: einhalten
+WordTranslation::: соблюдать, придерживаться, выполнять, укладываться
+DrittenPerson::: hält ein
+Perfekt::: haben eingehalten
+Präteritum::: hielt ein
+FrontExample::: Ich musste das Versprechen einhalten.
+BackExample::: Мне пришлось сдержать обещание.
+FrontExample2::: Er konnte die Frist nicht einhalten.
+BackExample2::: Он не смог соблюсти срок.
+FrontExample3::: Bitte die Vorschriften einhalten.
+BackExample3::: Пожалуйста, соблюдайте правила.
+Tags:::  chatgpt 
+guid::: bd&c!e=4rT

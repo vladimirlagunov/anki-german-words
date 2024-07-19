@@ -1,10 +1,11 @@
 Word::: anzünden
 WordTranslation::: заставить что-то гореть; поджечь что-то
-Explanation::: Syn: zünden, entzünden, entflammen<br><br><ol><li><div><strong class="spoiler">Anzünden</strong>:</div><ul><li>Это слово часто используется в контексте зажигания чего-то, например, свечи или костра: "eine Kerze anzünden" (зажечь свечу).</li></ul></li><li><div><strong class="spoiler">Zünden</strong>:</div><ul><li>"Zünden" может использоваться в более общем смысле, чем "anzünden". Оно может означать "зажигать", но также используется в различных технических или специализированных контекстах. Например, в автомобильной отрасли: "der Motor zündet nicht" (двигатель не запускается/не зажигается).</li></ul></li><li><div><strong class="spoiler">Entzünden</strong>:</div><ul><li>"Entzünden" часто связано с процессом самовозгорания или процессом, который происходит естественно или автоматически. В медицинском контексте это слово также может означать "воспаляться": "Die Wunde hat sich entzündet" (Рана воспалилась).</li></ul></li><li><div><strong class="spoiler">Entflammen</strong>:</div><ul><li>"Entflammen" может иметь буквальное значение "вспыхивать" или "разгораться", но оно также часто используется в переносном смысле, чтобы описать страстное или эмоциональное "возгорание" чего-либо: "für eine Idee entflammen" (возгореться идеей).</li></ul></li></ol>
+Explanation::: Syn: zünden, entzünden, entflammen
+
 DrittenPerson::: zündet an
 Perfekt::: haben angezündet
 Präteritum::: zündete an
 FrontExample::: Er zündete das Streichholz an.
-BackExample::: Он зажёг спичку.
-Tags:::  A1 chatgpt 
-guid::: vQ(4rF*QTY
+BackExample::: Он поджег спичку.
+Tags:::  A1 
+guid::: y6N4Wg9-:^

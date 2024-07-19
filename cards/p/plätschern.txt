@@ -1,0 +1,11 @@
+Word::: plätschern
+WordTranslation::: плескаться, журчать, булькать
+DrittenPerson::: plätschert
+Perfekt::: sein geplätschert
+Präteritum::: plätscherte
+FrontExample::: Der Bach plätschert leise im Wald.
+BackExample::: Ручей тихо журчит в лесу.
+FrontExample2::: Die Kinder hörten dem Plätschern des Brunnens zu.
+BackExample2::: Дети слушали журчание фонтана.
+Tags:::  chatgpt 
+guid::: e.~tmXx#:H

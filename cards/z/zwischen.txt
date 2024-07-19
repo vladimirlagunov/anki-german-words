@@ -1,0 +1,10 @@
+Word::: zwischen
+WordTranslation::: (союз) между, посреди
+FrontExample::: Heidelberg liegt zwischen Frankfurt und Stuttgart.
+BackExample::: Гейдельберг находится между Франкфуртом и Штутгартом.
+FrontExample2::: Ich sitze zwischen Anna und Tom
+BackExample2::: Я сижу между Анной и Томом.
+FrontExample3::: Zwischen 8 und 10 Uhr bin ich zu Hause.
+BackExample3::: Между 8 и 10 часами я дома.
+Tags:::  A1 chatgpt 
+guid::: H75#VjKwGv

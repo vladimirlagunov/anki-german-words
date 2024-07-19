@@ -1,0 +1,8 @@
+Word::: oder
+WordTranslation::: или, либо
+FrontExample::: Wann können Sie kommen – heute oder morgen?
+BackExample::: Когда вы можете прийти – сегодня или завтра?
+FrontExample2::: Möchtest du Tee oder Kaffee?
+BackExample2::: Ты хочешь чай или кофе?
+Tags:::  A1 chatgpt 
+guid::: P=~Z=z.!r!

@@ -1,0 +1,10 @@
+Word::: hingegen
+WordTranslation::: тогда как, при этом, в то же время
+FrontExample::: Das Wetter heute ist sonnig, gestern hingegen hat es geregnet.
+BackExample::: Сегодня погода солнечная, тогда как вчера шел дождь.
+FrontExample2::: Ich mag Kaffee, meine Schwester hingegen bevorzugt Tee.
+BackExample2::: Я люблю кофе, тогда как моя сестра предпочитает чай.
+FrontExample3::: Der Film war spannend, das Buch hingegen war langweilig.
+BackExample3::: Фильм был захватывающим, в то время как книга была скучной.
+Tags:::  chatgpt 
+guid::: n/$X_P>c{e

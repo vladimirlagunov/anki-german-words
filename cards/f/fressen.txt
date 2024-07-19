@@ -1,0 +1,10 @@
+Word::: fressen
+WordTranslation::: жрать, пожирать, есть
+Explanation::: Глагол "fressen" в немецком языке обозначает "есть" в отношении животных. Его использование в отношении человека может быть грубым или уничижительным, так как подразумевается, что человек ест как животное, без манер или излишне жадно.
+DrittenPerson::: frisst
+Perfekt::: haben gefressen
+Präteritum::: fraß
+FrontExample::: Die Mäuse fressen den Käse in der Speisekammer.
+BackExample::: Мыши жрут сыр в кладовке.
+Tags:::  chatgpt 
+guid::: qq>~Z9kpiM

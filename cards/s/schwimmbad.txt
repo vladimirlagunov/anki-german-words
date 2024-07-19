@@ -1,0 +1,12 @@
+Word::: Schwimmbad
+WordTranslation::: бассейн
+DerDieDas::: das
+Plural::: Schwimmbäder
+FrontExample::: Kommst du mit ins Schwimmbad?
+BackExample::: Ты пойдешь с нами в бассейн?
+FrontExample2::: Wir gehen heute ins Schwimmbad.
+BackExample2::: Сегодня мы идем в бассейн.
+FrontExample3::: Das Schwimmbad ist am Wochenende geöffnet.
+BackExample3::: Бассейн открыт по выходным.
+Tags:::  A1 chatgpt 
+guid::: EnkIVI&nez

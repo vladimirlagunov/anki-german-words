@@ -1,0 +1,10 @@
+Word::: Abwechslung
+WordTranslation::: разнообразие, чередование
+DerDieDas::: die
+Plural::: Abwechslungen
+FrontExample::: Ein Spaziergang im Park bringt etwas Abwechslung in den Alltag.
+BackExample::: Прогулка в парке вносит разнообразие в повседневную жизнь.
+FrontExample2::: Wir brauchen mehr Abwechslung in unserem Leben.
+BackExample2::: Нам нужно больше разнообразия в нашей жизни.
+Tags:::  chatgpt 
+guid::: r)E%oJnWEK

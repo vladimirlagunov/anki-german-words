@@ -1,5 +1,6 @@
 Word::: Sache
 WordTranslation::: предмет, вещь, дело
+Explanation::: <ul><li><div><strong class="spoiler">Zeug</strong>&nbsp;— это слово часто используется для обозначения вещей в общем и неопределенном смысле, особенно когда речь идет о различных предметах или инструментах. Также&nbsp;<strong>Zeug</strong>&nbsp;может использоваться в составе словосочетаний, описывающих материалы или оборудование, например,&nbsp;<strong>Werkzeug</strong>&nbsp;(инструмент),&nbsp;<strong>Spielzeug</strong>(игрушка).</div></li><li><div><strong class="spoiler">Sache</strong>&nbsp;— слово, обозначающее дело, предмет или вопрос в более абстрактном смысле. Оно может относиться к конкретному объекту или же к абстрактной концепции или идее. Например, в фразе "Das ist eine heikle Sache" (Это деликатный вопрос).</div></li><li><div><strong class="spoiler">Ding</strong>&nbsp;— более универсальное слово для обозначения объекта или предмета. Это может быть что угодно от физического объекта до абстрактной идеи, и оно имеет широкий диапазон использования. В отличие от&nbsp;<strong>Sache</strong>,&nbsp;<strong>Ding</strong>&nbsp;чаще используется для указания на физические объекты.</div></li></ul>
 DerDieDas::: die
 Plural::: Sachen
 FrontExample::: Das ist nicht meine Sache.

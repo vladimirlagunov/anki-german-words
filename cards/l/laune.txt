@@ -1,8 +1,13 @@
 Word::: Laune
-WordTranslation::: настроение
+WordTranslation::: настроение, прихоть
+Explanation::: <ul><li><div><strong class="spoiler">Stimmung</strong>&nbsp;— Это слово переводится как "настроение" или "атмосфера". Оно может относиться как к внутреннему состоянию человека, так и к общей атмосфере в группе или на мероприятии. Например, можно говорить о хорошей или плохой "Stimmung" на вечеринке.</div></li><li><div><strong class="spoiler">Laune</strong>&nbsp;— Это слово ближе к "причуде" или "капризу" и чаще всего используется для описания более изменчивого и мимолётного настроения. "Laune" может быстро меняться и часто зависит от внешних обстоятельств или внутренних переживаний человека.</div></li></ul>
 DerDieDas::: die
 Plural::: Launen
 FrontExample::: Ich lasse mir nicht die Laune verderben.
 BackExample::: Я не позволю испортить себе настроение.
-Tags::: 
+FrontExample2::: Ich habe heute gute Laune.
+BackExample2::: У меня сегодня хорошее настроение.
+FrontExample3::: Seine Laune ändert sich ständig.
+BackExample3::: Его настроение постоянно меняется.
+Tags:::  chatgpt 
 guid::: g7]TSVH%NA

@@ -1,0 +1,6 @@
+Word::: Libelle
+WordTranslation::: стрекоза
+DerDieDas::: die
+Plural::: Libellen
+Tags:::  chatgpt 
+guid::: M3KB;3r46i

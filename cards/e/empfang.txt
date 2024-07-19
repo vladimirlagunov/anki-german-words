@@ -1,0 +1,10 @@
+Word::: Empfang
+WordTranslation::: <ul><li>приём, получение</li><li>ресепшн</li><li>встреча</li></ul>
+DerDieDas::: der
+Plural::: Empfänge
+FrontExample::: Bitte warten Sie am Empfang, der Chef ist gleich da.
+BackExample::: Пожалуйста, подождите на ресепшене, начальник скоро будет.
+FrontExample2::: Der Empfang beim Hotel war sehr freundlich.
+BackExample2::: Прием в отеле был очень дружелюбным.
+Tags:::  chatgpt 
+guid::: H~SUdFs~!v

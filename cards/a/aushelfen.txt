@@ -1,0 +1,12 @@
+Word::: aushelfen
+WordTranslation::: выручать, подменять
+Explanation::: <ul><li><div><strong class="spoiler">helfen</strong>&nbsp;(помогать) — это более общий глагол, который используется для описания помощи в широком смысле. Он может относиться к любому типу помощи, будь то физическая, эмоциональная, техническая и так далее. Примеры:</div><ul><li>Ich helfe dir bei den Hausaufgaben. (Я помогаю тебе с домашним заданием.)</li><li>Kannst du mir helfen, diesen Koffer zu tragen? (Можешь помочь мне нести этот чемодан?)</li></ul></li><li><div><strong class="spoiler">aushelfen</strong>&nbsp;— этот глагол чаще используется в контексте временной или случайной помощи, особенно когда речь идет о работе или выполнении каких-либо задач, которые обычно выполняет кто-то другой. Это может быть связано с заменой кого-то или поддержкой в определённой ситуации. Примеры:</div><ul><li>Kannst du morgen im Laden aushelfen? (Можешь завтра помочь в магазине?)</li><li>Wir brauchen jemanden, der kurzfristig aushilft. (Нам нужен кто-то, кто сможет помочь на короткое время.)</li></ul></li></ul>
+DrittenPerson::: hilft aus
+Perfekt::: haben ausgeholfen
+Präteritum::: half aus
+FrontExample::: Ich kann dir heute Abend im Restaurant aushelfen.
+BackExample::: Я могу подменить тебя сегодня вечером в ресторане.
+FrontExample2::: Ich habe letzte Woche in der Bäckerei ausgeholfen.
+BackExample2::: На прошлой неделе я помогал в пекарне.
+Tags:::  chatgpt 
+guid::: OZHTQy&X`V

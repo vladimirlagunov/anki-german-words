@@ -1,0 +1,11 @@
+Word::: abschleppen
+WordTranslation::: <ul><li>буксировать, эвакуировать</li><li>(при)тащить</li></ul>
+DrittenPerson::: schleppt ab
+Perfekt::: haben abgeschleppt
+Präteritum::: schleppte ab
+FrontExample::: Das Auto wurde vom Parkplatz abgeschleppt.
+BackExample::: Машину эвакуировали с парковки.
+FrontExample2::: Meine Freunde haben mich betrunken nach Hause abgeschleppt.
+BackExample2::: Мои друзья притащили меня домой пьяным.
+Tags:::  chatgpt 
+guid::: QrZpL7~4m`
