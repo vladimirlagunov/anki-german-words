@@ -33,10 +33,7 @@ table.artikel-small td.artikel-small {
 
 .spoiler {
     display: inline-block;
-    border: 1px dotted rgba(0.5, 0.5, 0.5, 0.25);
-    border-radius: 10px;
-    padding: 2px;
-    margin-right: 5px;
+    background: rgba(0.5, 0.5, 0.5, 0.03);
 }
 .spoiler:before {
     content: "▶️ ";
