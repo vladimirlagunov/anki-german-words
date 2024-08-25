@@ -934,16 +934,23 @@ def add_my_buttons(buttons, editor):
 
     buttons.append(editor.addButton(
         icon=None,
-        cmd="googleTranslate",
+        cmd="chatgptExamples",
         func=lambda s=editor: fill_card_with_chatgpt(s, "gpt-3.5-turbo"),
         label="ChatGPT examples",
     ))
 
     buttons.append(editor.addButton(
         icon=None,
-        cmd="googleTranslate",
+        cmd="gpt4Examples",
         func=lambda s=editor: fill_card_with_chatgpt(s, "gpt-4o"),
         label="GPT-4 examples",
+    ))
+
+    buttons.append(editor.addButton(
+        icon=None,
+        cmd="gpt4Examples",
+        func=lambda s=editor: fill_card_explanation_with_chatgpt(s, "gpt-4o"),
+        label="GPT-4 explanation",
     ))
 
     buttons.append(editor.addButton(
@@ -978,7 +985,7 @@ def fill_card_with_chatgpt(editor: 'aqt.editor.Editor', gpt_model: str):
         request = (f'Опиши краткий перевод немецкого слова {note["Word"]} на русский язык.'
                    f' Только перевод слова, никаких дополнительных текстов. Если слово имеет много значений,'
                    f' то перечисли переводы через запятую.')
-        response = list(get_chatgpt_responses_texts(_chatgpt_request(request, gpt_model)))
+        response = list(get_chatgpt_responses_texts(_chatgpt_request(request)))
         if response:
             note['WordTranslation'] = response[0]
         del request
@@ -1024,7 +1031,30 @@ def fill_card_with_chatgpt(editor: 'aqt.editor.Editor', gpt_model: str):
             request += '* ' + note[f'FrontExample{s}'] + '\n'
 
     if request:
-        response = _chatgpt_request(request, gpt_model)
+        params = {
+            "model": gpt_model,
+            "messages": [
+                {
+                    "role": "system",
+                    "content": textwrap.dedent("""
+                        Когда перечисляешь примеры слов, выводи их в формате JSON со схемой:
+                        [
+                          {
+                            "de": "Das Beispiel auf Deutsch",
+                            "ru": "Пример на русском языке"
+                          },
+                          ...
+                        ]
+                    """),
+                },
+                {
+                    "role": "user",
+                    "content": request,
+                }
+            ]
+        }
+
+        response = _chatgpt_request(params)
 
         if response:
             for de_example, ru_example in converter.examples_from_chatgpt_responses(response):
@@ -1045,14 +1075,13 @@ def fill_card_with_chatgpt(editor: 'aqt.editor.Editor', gpt_model: str):
     editor.loadNote()
 
 
-def _chatgpt_request(text: str, gpt_model: str) -> Optional[Dict]:
-    token_file_name = os.path.expanduser("~/.anki-german-words-chatgpt-token.txt")
-    try:
-        with open(token_file_name) as f:
-            token = f.read().strip()
-    except Exception:
-        showWarning("Get the token there: https://platform.openai.com/account/api-keys\n"
-                    f"and put the token there: {token_file_name}")
+def fill_card_explanation_with_chatgpt(editor: 'aqt.editor.Editor', gpt_model: str):
+    note = editor.note
+
+    request = note['Explanation']
+    word = note['Word']
+
+    if not request or not word:
         return
 
     params = {
@@ -1061,22 +1090,104 @@ def _chatgpt_request(text: str, gpt_model: str) -> Optional[Dict]:
             {
                 "role": "system",
                 "content": textwrap.dedent("""
-                    Когда перечисляешь примеры слов, выводи их в формате JSON со схемой:
-                    [
-                      {
-                        "de": "Das Beispiel auf Deutsch",
-                        "ru": "Пример на русском языке"
-                      },
-                      ...
-                    ]
+                    Если ты описываешь различие в словах, выводи их в формате JSON со следующей схемой:
+                    json
+                    {
+                      "synonyms": [
+                        {
+                          "word": "слово на немецком языке. Существительные начинаются с заглавной буквы, остальные части речи с маленькой",
+                          "explanation": "Описание на русском языке, можно использовать HTML"
+                        }
+                      ]
+                    }
+                    
+                    
+                    Если ты описываешь управляющие предлоги у глаголов, выводи их в формате JSON со следующей схемой:
+                    json
+                    {
+                      "prepositions": [
+                        {
+                          "preposition": "предлог + падеж",
+                          "explanation": "Описание на русском языке, можно использовать HTML"
+                        }
+                      ]
+                    }
                 """),
             },
             {
                 "role": "user",
-                "content": text,
+                "content": f'Приведи следующую информацию для немецкого слова {word}\n{request}',
             }
         ]
     }
+
+    response = _chatgpt_request(params)
+
+    if response:
+        import json
+        content: str = ''
+
+        json_content: str = ''
+
+        for part in get_chatgpt_responses_texts(response):
+            is_json_now = False
+            for line in part.split('\n'):
+                if line.startswith('```'):
+                    if is_json_now:
+                        content += _render_json_from_chatgpt_card_explanation(json_content)
+                    is_json_now = not is_json_now
+                    json_content = ''
+                elif is_json_now:
+                    json_content += line
+                else:
+                    content += line
+
+        note['Explanation'] = content
+
+    if 'chatgpt' not in note.tags:
+        note.tags.append('chatgpt')
+    editor.loadNote()
+
+
+def _render_json_from_chatgpt_card_explanation(json_content: str) -> str:
+    import json
+    document = json.loads(json_content)
+
+    content = ''
+    if document.get('synonyms'):
+        content += (
+            '<div><b>Похожие слова:</b><ul><li>' +
+            '</li><li>'.join(
+                f'<strong class="spoiler">{word}</strong>: {explanation}'
+                for element in document['synonyms']
+                for word, explanation in [(element['word'], element['explanation'])]
+            ) +
+            '</li></ul></div>'
+        )
+
+    if document.get('prepositions'):
+        content += (
+            '<div><b>Предлоги:</b><ul><li>' +
+            '</li><li>'.join(
+                f'<strong class="spoiler">{preposition}</strong>: {explanation}'
+                for element in document['synonyms']
+                for preposition, explanation in [(element['preposition'], element['explanation'])]
+            ) +
+            '</li></ul></div>'
+        )
+
+    return content
+
+
+def _chatgpt_request(params) -> Optional[Dict]:
+    token_file_name = os.path.expanduser("~/.anki-german-words-chatgpt-token.txt")
+    try:
+        with open(token_file_name) as f:
+            token = f.read().strip()
+    except Exception:
+        showWarning("Get the token there: https://platform.openai.com/account/api-keys\n"
+                    f"and put the token there: {token_file_name}")
+        return
 
     req = urllib.request.Request(
         'https://api.openai.com/v1/chat/completions',

@@ -212,8 +212,7 @@ def get_chatgpt_responses_texts(responses: Dict) -> Iterable[str]:
 
 
 def examples_from_chatgpt_responses(responses: Dict) -> Iterable[Tuple[str, str]]:
-    import csv, io, json
-    flags = re.UNICODE | re.IGNORECASE | re.MULTILINE | re.DOTALL
+    import json
     for content in get_chatgpt_responses_texts(responses):
         content: str
         if content.startswith('```'):
@@ -221,18 +220,3 @@ def examples_from_chatgpt_responses(responses: Dict) -> Iterable[Tuple[str, str]
         document = json.loads(content)
         for element in document:
             yield element["de"], element["ru"]
-        # csv_tables = re.findall('```csv(.+?)```', content, flags)
-        # if csv_tables:
-        #     for table in csv_tables:
-        #         for row in csv.reader(io.StringIO(table.strip()), skipinitialspace=True):
-        #             yield tuple(row)
-        # else:
-        #     content = content.replace("**", "")
-        #     for groups in re.findall(r'(?:\s*(?:deutsch|beispiel):\s*[-"\']*\s*)?([a-züöäß][^а-я]*)(?:\s*(?:русский|перевод):\s*[-"\']*\s*)?([а-я][^\na-züöäß]*)', content, flags):
-        #         l = []
-        #         for g in groups:
-        #             if m := re.match(r'''^\s*["']?\s*(.*?)\s*["']?\s*-?\s*["']?\s*$''', g, flags):
-        #                 l.append(m.group(1))
-        #             else:
-        #                 l.append(g)
-        #         yield tuple(l)
