@@ -948,7 +948,7 @@ def add_my_buttons(buttons, editor):
 
     buttons.append(editor.addButton(
         icon=None,
-        cmd="gpt4Examples",
+        cmd="gpt4Explanation",
         func=lambda s=editor: fill_card_explanation_with_chatgpt(s, "gpt-4o"),
         label="GPT-4 explanation",
     ))
@@ -982,13 +982,24 @@ def fill_card_with_chatgpt(editor: 'aqt.editor.Editor', gpt_model: str):
     note = editor.note
 
     if note["Word"] and not note['WordTranslation']:
-        request = (f'Опиши краткий перевод немецкого слова {note["Word"]} на русский язык.'
-                   f' Только перевод слова, никаких дополнительных текстов. Если слово имеет много значений,'
-                   f' то перечисли переводы через запятую.')
-        response = list(get_chatgpt_responses_texts(_chatgpt_request(request)))
+        params = {
+            "model": gpt_model,
+            "messages": [
+                {
+                    "role": "user",
+                    "content": (
+                        f'Опиши краткий перевод немецкого слова {note["Word"]} на русский язык.'
+                        f' Только перевод слова, никаких дополнительных текстов. Если слово имеет много значений,'
+                        f' то перечисли переводы через запятую.'
+                    ),
+                }
+            ]
+        }
+
+        response = list(get_chatgpt_responses_texts(_chatgpt_request(params)))
         if response:
             note['WordTranslation'] = response[0]
-        del request
+        del params
         del response
 
     suffixes_to_fill = []
@@ -1091,7 +1102,7 @@ def fill_card_explanation_with_chatgpt(editor: 'aqt.editor.Editor', gpt_model: s
                 "role": "system",
                 "content": textwrap.dedent("""
                     Если ты описываешь различие в словах, выводи их в формате JSON со следующей схемой:
-                    json
+                    ```json
                     {
                       "synonyms": [
                         {
@@ -1100,10 +1111,10 @@ def fill_card_explanation_with_chatgpt(editor: 'aqt.editor.Editor', gpt_model: s
                         }
                       ]
                     }
-                    
+                    ```
                     
                     Если ты описываешь управляющие предлоги у глаголов, выводи их в формате JSON со следующей схемой:
-                    json
+                    ```json
                     {
                       "prepositions": [
                         {
@@ -1112,6 +1123,7 @@ def fill_card_explanation_with_chatgpt(editor: 'aqt.editor.Editor', gpt_model: s
                         }
                       ]
                     }
+                    ```
                 """),
             },
             {
@@ -1156,24 +1168,24 @@ def _render_json_from_chatgpt_card_explanation(json_content: str) -> str:
     content = ''
     if document.get('synonyms'):
         content += (
-            '<div><b>Похожие слова:</b><ul><li>' +
-            '</li><li>'.join(
-                f'<strong class="spoiler">{word}</strong>: {explanation}'
-                for element in document['synonyms']
-                for word, explanation in [(element['word'], element['explanation'])]
-            ) +
-            '</li></ul></div>'
+                '<div><b>Похожие слова:</b><ul><li>' +
+                '</li><li>'.join(
+                    f'<strong class="spoiler">{word}</strong>: {explanation}'
+                    for element in document['synonyms']
+                    for word, explanation in [(element['word'], element['explanation'])]
+                ) +
+                '</li></ul></div>'
         )
 
     if document.get('prepositions'):
         content += (
-            '<div><b>Предлоги:</b><ul><li>' +
-            '</li><li>'.join(
-                f'<strong class="spoiler">{preposition}</strong>: {explanation}'
-                for element in document['prepositions']
-                for preposition, explanation in [(element['preposition'], element['explanation'])]
-            ) +
-            '</li></ul></div>'
+                '<div><b>Предлоги:</b><ul><li>' +
+                '</li><li>'.join(
+                    f'<strong class="spoiler">{preposition}</strong>: {explanation}'
+                    for element in document['prepositions']
+                    for preposition, explanation in [(element['preposition'], element['explanation'])]
+                ) +
+                '</li></ul></div>'
         )
 
     return content
