@@ -5,6 +5,7 @@ import json
 import os.path
 import pprint
 import re
+import textwrap
 import urllib.parse
 import urllib.request
 import webbrowser
@@ -997,8 +998,11 @@ def fill_card_with_chatgpt(editor: 'aqt.editor.Editor', gpt_model: str):
     request = ''
     if suffixes_to_fill:
         if word := note['Word']:
-            request += f"Приведи {len(suffixes_to_fill)} пример(а) использования немецкого слова \"{word}\"" \
-                        " и переводы примеров на русский язык. Только примеры с переводами, без вводных текстов."
+            request += (
+                f"Приведи {len(suffixes_to_fill)} пример(а) использования немецкого слова \"{word}\""
+                " и переводы примеров на русский язык. Только примеры с переводами, без вводных текстов."
+                " Если у слова несколько смыслов или омонимов, приведи примеры использования в разных смыслах."
+            )
             for level in ['A1', 'A2', 'B1', 'B2']:
                 if level in note.tags or level.lower() in note.tags:
                     break
@@ -1020,8 +1024,6 @@ def fill_card_with_chatgpt(editor: 'aqt.editor.Editor', gpt_model: str):
             request += '* ' + note[f'FrontExample{s}'] + '\n'
 
     if request:
-        request += ('\nПримеры должны быть выведены в формате csv, в виде таблицы из двух столбцов без заголовков, где'
-                    ' первый столбец это фраза на немецком языке, а второй столбец это фраза на русском языке.')
         response = _chatgpt_request(request, gpt_model)
 
         if response:
@@ -1056,6 +1058,19 @@ def _chatgpt_request(text: str, gpt_model: str) -> Optional[Dict]:
     params = {
         "model": gpt_model,
         "messages": [
+            {
+                "role": "system",
+                "content": textwrap.dedent("""
+                    Когда перечисляешь примеры слов, выводи их в формате JSON со схемой:
+                    [
+                      {
+                        "de": "Das Beispiel auf Deutsch",
+                        "ru": "Пример на русском языке"
+                      },
+                      ...
+                    ]
+                """),
+            },
             {
                 "role": "user",
                 "content": text,
