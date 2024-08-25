@@ -1170,7 +1170,7 @@ def _render_json_from_chatgpt_card_explanation(json_content: str) -> str:
             '<div><b>Предлоги:</b><ul><li>' +
             '</li><li>'.join(
                 f'<strong class="spoiler">{preposition}</strong>: {explanation}'
-                for element in document['synonyms']
+                for element in document['prepositions']
                 for preposition, explanation in [(element['preposition'], element['explanation'])]
             ) +
             '</li></ul></div>'
