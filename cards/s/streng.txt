@@ -1,0 +1,8 @@
+Word::: streng
+WordTranslation::: строгий, суровый
+FrontExample::: Der Lehrer ist sehr streng.
+BackExample::: Учитель очень строгий.
+FrontExample2::: Sie folgt streng den Regeln.
+BackExample2::: Она строго соблюдает правила.
+Tags:::  chatgpt 
+guid::: z~Kb|0$I!?

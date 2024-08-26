@@ -1,0 +1,14 @@
+Word::: bekommen
+WordTranslation::: получать
+Explanation::: <ul><li><div><strong class="spoiler">bekommen</strong>&nbsp;переводится как "получить" и чаще всего используется в повседневной речи, чтобы описать получение чего-либо в результате запроса или как реакцию на действия. Например, "Ich habe ein Geschenk bekommen" означает "Я получил подарок".</div></li><li><div><strong class="spoiler">erhalten</strong>&nbsp;также переводится как "получить", но подчеркивает процесс сохранения статуса, качества или получения чего-то в сохранённом или неизменном виде. Это слово часто используется в формальных или юридических контекстах. Например, "Er hat die Erlaubnis erhalten" означает "Он получил разрешение".</div></li><li><div><strong class="spoiler">bewahren</strong>&nbsp;переводится как "сохранять" и используется для описания действия по защите или поддержанию чего-либо в первоначальном состоянии или безопасности. Это слово имеет коннотацию активного сохранения или защиты. Например, "Er bewahrt die Ruhe" означает "Он сохраняет спокойствие".</div></li></ul>
+DrittenPerson::: bekommt
+Perfekt::: haben bekommen
+Präteritum::: bekam
+FrontExample::: Haben Sie meinen Brief bekommen?&nbsp;&nbsp;
+BackExample::: Вы получили моё письмо?
+FrontExample2::: Was bekommen Sie?
+BackExample2::: Что вы получаете?
+FrontExample3::: Dieses Medikament bekommen Sie in der Apotheke.
+BackExample3::: Это лекарство вы получите в аптеке.
+Tags:::  A1 chatgpt 
+guid::: D5|@8I5|8?

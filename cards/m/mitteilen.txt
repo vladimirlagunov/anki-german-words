@@ -1,0 +1,13 @@
+Word::: mitteilen
+WordTranslation::: сообщить
+DrittenPerson::: teilt mit
+Perfekt::: haben mitgeteilt
+Präteritum::: teilte mit
+FrontExample::: Er hat mir die Neuigkeiten mitgeteilt.
+BackExample::: Он сообщил мне новости.
+FrontExample2::: Ich werde dir die Neuigkeiten mitteilen.
+BackExample2::: Я сообщу тебе новости.
+FrontExample3::: Sie hat ihm ihre Entscheidung mitgeteilt.
+BackExample3::: Она сообщила ему о своём решении.
+Tags:::  chatgpt 
+guid::: AeU]We%)-b

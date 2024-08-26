@@ -1,0 +1,10 @@
+Word::: einerseits
+WordTranslation::: с одной стороны, ...
+FrontExample::: Einerseits haben wir viele Aufgaben, andererseits haben wir wenig Zeit.
+BackExample::: С одной стороны у нас много задач, с другой стороны у нас мало времени.
+FrontExample2::: Einerseits mag er die Stadt, andererseits vermisst er das Landleben.
+BackExample2::: С одной стороны ему нравится город, с другой стороны он скучает по деревенской жизни.
+FrontExample3::: Einerseits ist es gemütlich, andererseits ist es teuer.
+BackExample3::: С одной стороны это уютно, с другой стороны это дорого.
+Tags:::  chatgpt 
+guid::: gZ;}Yq,:+;

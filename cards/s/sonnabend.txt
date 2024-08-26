@@ -1,0 +1,6 @@
+Word::: Sonnabend
+WordTranslation::: суббота (устар.)
+DerDieDas::: der
+Plural::: Sonnabende
+Tags:::  chatgpt 
+guid::: HmXM%-s0BE

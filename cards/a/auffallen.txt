@@ -1,0 +1,11 @@
+Word::: auffallen
+WordTranslation::: бросаться в глаза, привлекать внимание
+DrittenPerson::: fällt auf
+Perfekt::: sein aufgefallen
+Präteritum::: fiel auf
+FrontExample::: Mir ist aufgefallen, dass du heute sehr ruhig bist.
+BackExample::: Я заметил, что ты сегодня очень тихий.
+FrontExample2::: Das neue Logo fällt sofort auf.
+BackExample2::: Новое лого сразу же бросается в глаза.
+Tags:::  chatgpt 
+guid::: $R8.^KeJF

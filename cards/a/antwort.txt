@@ -1,0 +1,10 @@
+Word::: Antwort
+WordTranslation::: ответ
+DerDieDas::: die
+Plural::: Antworten
+FrontExample::: Er gibt leider keine Antwort.
+BackExample::: Она не дала ответа к сожалению.
+FrontExample2::: Ich warte auf deine Antwort.
+BackExample2::: Я жду твоего ответа.
+Tags:::  A1 chatgpt 
+guid::: C)p%0o!n,+

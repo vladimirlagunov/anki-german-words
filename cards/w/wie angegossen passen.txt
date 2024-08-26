@@ -1,0 +1,6 @@
+Word::: wie angegossen passen
+WordTranslation::: подходить как влитой
+FrontExample::: Der Anzug passt ihm wie angegossen,
+BackExample::: Этот костюм сидит на нём как влитой.
+Tags:::  chatgpt 
+guid::: f~@dJ&OX)

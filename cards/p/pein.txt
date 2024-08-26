@@ -1,0 +1,13 @@
+Word::: Pein
+WordTranslation::: <div>(архаичное)</div><ul><li>страдание, мука, боль</li><li>стыд, смущение</li></ul>
+Explanation::: <ul><li><strong class="spoiler">Schmerzen</strong>&nbsp;— это слово, обычно используемое для обозначения физической боли или дискомфорта. Оно может использоваться как в единственном, так и во множественном числе (der Schmerz, die Schmerzen) и является стандартным термином в медицинском и обыденном языке. Например:<ul><li>Ich habe starke Schmerzen im Rücken. (У меня сильные боли в спине.)</li></ul></li><li><strong class="spoiler">Pein</strong>&nbsp;— это более архаичное или литературное слово, которое может использоваться для описания как физической, так и эмоциональной боли. Оно также может нести в себе оттенок стыда, мучения или смущения. Это слово чаще всего встречается в поэтических или высоких литературных текстах. Примеры использования:<ul><li>Sie ertrug die Pein mit stoischer Ruhe. (Она терпела муку с стоическим спокойствием.)</li><li>Die Pein der unerwiderten Liebe. (Мука неразделённой любви.)</li></ul></li></ul>
+DerDieDas::: die
+Plural::: Peinen
+FrontExample::: Er litt unter großer Pein.
+BackExample::: Он страдал от сильной боли.
+FrontExample2::: Die seelische Pein war unerträglich.
+BackExample2::: Душевная боль была невыносима.
+FrontExample3::: Sie fühlte eine tief sitzende Pein.
+BackExample3::: Она чувствовала глубокую боль.
+Tags:::  chatgpt 
+guid::: DbD~JH&2L)

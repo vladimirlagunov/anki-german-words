@@ -1,5 +1,6 @@
-Word::: während + G
+Word::: während
 WordTranslation::: во время, в то время как
+Explanation::: während + Genitiv
 FrontExample::: Während des Sommers verbringen wir viel Zeit am Strand.
 BackExample::: Во время лета мы проводим много времени на пляже.
 FrontExample2::: Während der Vorlesung habe ich viele Notizen gemacht.

@@ -1,0 +1,10 @@
+Word::: Haltung
+WordTranslation::: <ul><li>поза, осанка</li><li>отношение, поведение, позиция.</li></ul>
+DerDieDas::: die
+Plural::: Haltungen
+FrontExample::: Seine Haltung gegenüber neuen Ideen ist sehr offen.
+BackExample::: Его отношение к новым идеям очень открытое.
+FrontExample2::: Er musste eine aufrechte Haltung während des gesamten Gesprächs beibehalten.
+BackExample2::: Он должен был сохранять прямую осанку на протяжении всего разговора.
+Tags:::  chatgpt 
+guid::: fh(f6#^ZnX

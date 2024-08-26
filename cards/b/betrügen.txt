@@ -1,0 +1,11 @@
+Word::: betrügen
+WordTranslation::: <ul><li>обманывать, мошенничать</li><li>изменять</li></ul>
+DrittenPerson::: betrügt
+Perfekt::: haben betrogen
+Präteritum::: betrog
+FrontExample::: Er hat seine Freunde betrogen.
+BackExample::: Он обманул своих друзей.
+FrontExample2::: Betrüge mich nicht, sonst verliere ich das Vertrauen in dich.
+BackExample2::: Не обманывай меня, иначе я потеряю к тебе доверие.
+Tags:::  chatgpt 
+guid::: [YF]l+@W$

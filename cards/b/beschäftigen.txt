@@ -6,7 +6,7 @@ Präteritum::: beschäftigte
 FrontExample::: Er beschäftigt sich zurzeit intensiv mit der französischen Sprache.
 BackExample::: Он в настоящее время активно занимается изучением французского языка.
 FrontExample2::: Das Unternehmen beschäftigt über 1000 Mitarbeiter.
-BackExample2::: Компания имеет более 1000 сотрудников.
+BackExample2::: Компания имеет[даёт занятие] более 1000 сотрудников.
 FrontExample3::: Ich muss mich heute noch mit der Vorbereitung meines Vortrags beschäftigen.
 BackExample3::: Сегодня мне ещё предстоит заняться подготовкой моего доклада.
 Tags:::  chatgpt 

@@ -1,0 +1,9 @@
+Word::: versetzen
+WordTranslation::: переводить (в другое место), пересаживать
+DrittenPerson::: versetzt
+Perfekt::: haben versetzt
+Präteritum::: versetzte
+FrontExample::: Er wurde in eine andere Abteilung versetzt.
+BackExample::: Он был переведен в другой отдел.
+Tags:::  chatgpt 
+guid::: Lu58-v~9h?

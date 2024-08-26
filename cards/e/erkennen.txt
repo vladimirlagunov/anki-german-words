@@ -1,0 +1,12 @@
+Word::: erkennen
+WordTranslation::: <div>узнавать (что-то знакомое), разпознавать</div>
+Explanation::: <div><ul><li><strong class="spoiler">wissen</strong>&nbsp;— этот глагол означает "знать" в смысле наличия фактической информации или знаний о чём-то. Используется для выражения знания конкретных фактов или данных. Например:&nbsp;<em>Ich weiß, dass Berlin die Hauptstadt von Deutschland ist.</em>&nbsp;(Я знаю, что Берлин — столица Германии).</li><li><strong class="spoiler">kennen</strong>&nbsp;— этот глагол означает "знать" в смысле быть знакомым с кем-то или чем-то. Обычно относится к знанию или опыту, связанному с людьми, местами, вещами и так далее. Например:&nbsp;<em>Ich kenne ihn gut.</em>&nbsp;(Я хорошо его знаю).</li><li><strong class="spoiler">erkennen</strong>&nbsp;— означает "узнавать" или "распознавать". Используется тогда, когда речь идёт о процессе опознания чего-то на основе внешних признаков или приобретённых знаний. Например:&nbsp;<em>Kannst du diesen Mann auf dem Foto erkennen?</em>&nbsp;(Ты можешь узнать этого человека на фото?).</li><li><strong class="spoiler">verstehen</strong>&nbsp;— переводится как "понимать". Этот глагол используется для выражения понимания смысла или значения чего-то, обычно относится к языку, тексту или сложным концепциям. Например:&nbsp;<em>Ich verstehe, was du meinst.</em>&nbsp;(Я понимаю, что ты имеешь в виду).</li></ul></div><div></div>
+DrittenPerson::: erkennt
+Perfekt::: haben erkannt
+Präteritum::: erkannte
+FrontExample::: Ich konnte ihn in der Menge sofort erkennen.
+BackExample::: Я сразу смог его узнать в толпе.
+FrontExample2::: Er konnte das Zeichen an der Straße nicht sofort erkennen.
+BackExample2::: Он не смог сразу распознать знак на дороге.
+Tags:::  chatgpt 
+guid::: GdX%$RW+w)

@@ -13,7 +13,7 @@ Präteritum::: <ul>
 <li>wiegte – качать, покачивать</li>
 </ul>
 FrontExample::: Das Baby wiegt fünf Kilogramm.
-BackExample::: Младенец весит пять килограммов.
+BackExample::: Младенец весит пять килограмм.
 FrontExample2::: Kannst du bitte das Obst wiegen?
 BackExample2::: Можешь взвесить фрукты, пожалуйста?
 FrontExample3::: Die Mutter wiegt das Baby. 

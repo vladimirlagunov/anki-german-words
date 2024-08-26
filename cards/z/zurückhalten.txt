@@ -1,0 +1,11 @@
+Word::: zurückhalten
+WordTranslation::: сдерживать, удерживать, задерживать, воздерживаться
+DrittenPerson::: hält zurück
+Perfekt::: haben zurückgehalten
+Präteritum::: hielt zurück
+FrontExample::: Er konnte seine Tränen nicht zurückhalten.
+BackExample::: Он не мог сдержать свои слёзы.
+FrontExample2::: Die Polizei musste die Menge zurückhalten.
+BackExample2::: Полиция должна была сдерживать толпу.
+Tags:::  chatgpt 
+guid::: uGdx{Ij{%>

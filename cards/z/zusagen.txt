@@ -1,0 +1,13 @@
+Word::: zusagen
+WordTranslation::: <ul><li>соглашаться, обещать</li><li>нравиться</li></ul>
+DrittenPerson::: sagt zu
+Perfekt::: haben zugesagt
+Präteritum::: sagte zu
+FrontExample::: Ich muss dir leider absagen, obwohl ich zuerst zugesagt habe.
+BackExample::: К сожалению, я должен тебе отказать, хотя сначала я согласился.
+FrontExample2::: Der Manager hat mir für das Projekt zugesagt.
+BackExample2::: Менеджер дал своё согласие на проект.
+FrontExample3::: Kannst du mir bis morgen zusagen?
+BackExample3::: Можешь дать мне ответ до завтра?
+Tags:::  chatgpt 
+guid::: d/d)igJMk%

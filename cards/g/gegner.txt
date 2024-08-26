@@ -1,0 +1,8 @@
+Word::: Gegner
+WordTranslation::: противник
+DerDieDas::: der
+Plural::: Gegner
+FrontExample::: Der Gegner war stark und gut vorbereitet.
+BackExample::: Противник был сильным и хорошо подготовленным.
+Tags:::  chatgpt 
+guid::: dMQzEW=,@9

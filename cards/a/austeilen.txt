@@ -1,0 +1,11 @@
+Word::: austeilen
+WordTranslation::: <ul><li>раздавать, распределять, выдавать</li><li>наносить удары, драться, давать сдачи (неформ.)</li></ul>
+DrittenPerson::: teilt aus
+Perfekt::: haben ausgeteilt
+Präteritum::: teilte aus
+FrontExample::: Er begann, die Karten auszuteilen.
+BackExample::: Он начал раздавать карты.
+FrontExample2::: Der Boxer kann harte Schläge austeilen.
+BackExample2::: Боксер может раздавать сильные удары.
+Tags:::  chatgpt 
+guid::: ju;Ax!nPcs

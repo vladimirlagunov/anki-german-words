@@ -2,6 +2,7 @@ Word::: an
 WordTranslation::: на, при (предлог)
 Explanation::: <strong>am</strong> = an + dem
 FrontExample::: Fahren Sie an der nächsten Straße nach rechts.&nbsp;&nbsp;
+BackExample::: Поезжайте на следующей улице направо.&nbsp;
 FrontExample2::: Wir treffen uns am Bahnhof.
 BackExample2::: Мы встретимся на вокзале.
 FrontExample3::: Am nächsten Montag geht es leider nicht.

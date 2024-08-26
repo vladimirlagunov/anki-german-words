@@ -1,0 +1,11 @@
+Word::: weshalb
+WordTranslation::: отчего, почему, зачем, для чего (форм., книжн.)
+Explanation::: <ul><li><div><strong class="spoiler">Warum</strong>&nbsp;— это наиболее универсальное и распространённое слово для вопросов о причинах. Это слово может использоваться в любом контексте, будь то неформальный разговор или более формальное обсуждение.</div></li><li><div><strong class="spoiler">Weshalb</strong>&nbsp;— более формальный и книжный вариант. Оно также переводится как "почему", но может использоваться для придания вашему вопросу более официального или уточнённого оттенка.</div></li></ul>
+FrontExample::: Weshalb bist du zu spät gekommen?
+BackExample::: Отчего ты опоздал?
+FrontExample2::: Ich verstehe nicht, weshalb er das getan hat.
+BackExample2::: Я не понимаю, отчего он это сделал.
+FrontExample3::: Sie fragte ihn, weshalb er so traurig war.
+BackExample3::: Она спросила его, отчего он такой грустный.
+Tags:::  chatgpt 
+guid::: n)Ig6^Tn|h

@@ -1,0 +1,13 @@
+Word::: wickeln
+WordTranslation::: <ul><li>заворачивать</li><li>пеленать</li><li>наматывать</li></ul>
+DrittenPerson::: wickelt
+Perfekt::: haben gewickelt
+Präteritum::: wickelte
+FrontExample::: Um den Finger wickeln
+BackExample::: Обвести вокруг пальца
+FrontExample2::: Sie musste das Geschenk mit Papier wickeln.
+BackExample2::: Ей пришлось завернуть подарок в бумагу.
+FrontExample3::: Er wickelt das Kabel ordentlich zusammen.
+BackExample3::: Он аккуратно сматывает кабель.
+Tags:::  chatgpt 
+guid::: gE;Z}U{~zG

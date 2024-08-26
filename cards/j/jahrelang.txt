@@ -1,0 +1,8 @@
+Word::: jahrelang
+WordTranslation::: годами, на протяжении множества лет
+FrontExample::: Er hat jahrelang in dieser Firma gearbeitet.
+BackExample::: Он годами работал в этой компании.
+FrontExample2::: Das alte Haus stand jahrelang leer.
+BackExample2::: Этот старый дом стоял пустым годами.
+Tags:::  chatgpt 
+guid::: K:f)$XShUo

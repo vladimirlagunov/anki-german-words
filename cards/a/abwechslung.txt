@@ -1,5 +1,6 @@
 Word::: Abwechslung
-WordTranslation::: разнообразие, чередование
+WordTranslation::: чередование, разнообразие деятельности
+Explanation::: <ul><li><strong class="spoiler">Abwechslung</strong>&nbsp;— это слово обычно относится к изменению, разнообразию в какой-то деятельности, ситуации или рутине. Это означает введение чего-то нового для предотвращения монотонности. Например, "Ich brauche Abwechslung in meinem Alltag" означает, что человеку нужно разнообразие в его повседневной жизни, чтобы она не казалась однообразной.</li><li><strong class="spoiler">Vielfältigkeit</strong>&nbsp;— это слово указывает на многообразие, различие видов, форм или идей. Это может касаться разнообразия в более обширном и общем смысле, например, культурное разнообразие или биологическое разнообразие. Пример употребления: "Die Vielfältigkeit der Kulturen ist beeindruckend", что означает, что разнообразие культур поражает.</li></ul>
 DerDieDas::: die
 Plural::: Abwechslungen
 FrontExample::: Ein Spaziergang im Park bringt etwas Abwechslung in den Alltag.

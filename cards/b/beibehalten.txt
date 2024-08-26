@@ -1,0 +1,9 @@
+Word::: beibehalten
+WordTranslation::: удерживать, сохранять
+DrittenPerson::: behält bei
+Perfekt::: haben beibehalten
+Präteritum::: behielt bei
+FrontExample::: Sie beschlossen, ihren ursprünglichen Plan beizubehalten.
+BackExample::: Они решили придерживаться своего первоначального плана.
+Tags:::  chatgpt 
+guid::: cu6`3tL6yD

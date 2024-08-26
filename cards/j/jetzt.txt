@@ -1,0 +1,7 @@
+Word::: jetzt
+WordTranslation::: сейчас
+Explanation::: <ul><li><strong class="spoiler">jetzt</strong>&nbsp;переводится как "сейчас" или "теперь" и указывает на текущий момент времени. Это слово употребляется для обозначения настоящего момента в самом широком смысле. Пример: Ich mache das jetzt. (Я делаю это сейчас.)</li><li><strong class="spoiler">gerade</strong>&nbsp;означает "именно сейчас" или "как раз в этот момент" и подчеркивает, что действие происходит в точный момент речи. Пример: Ich lese gerade ein Buch. (Я как раз читаю книгу.)</li><li><strong class="spoiler">eben</strong>&nbsp;чаще всего используется для указания на очень недавнее прошлое, что-то что только что произошло. Оно может также подчеркивать очевидность или неизбежность утверждения. Пример: Sie hat eben angerufen. (Она только что позвонила.)</li></ul>
+FrontExample::: Jetzt machen wir eine Pause.
+BackExample::: Теперь мы делаем перерыв.
+Tags:::  A1 chatgpt 
+guid::: eoVuk-TVZw

@@ -1,0 +1,8 @@
+Word::: Rohr
+WordTranslation::: <ul><li>труба</li><li>тростник</li></ul>
+DerDieDas::: das
+Plural::: Rohre
+FrontExample::: Das Rohr ist verstopft.
+BackExample::: Труба засорилась.
+Tags:::  chatgpt 
+guid::: xE)v19`Bt9

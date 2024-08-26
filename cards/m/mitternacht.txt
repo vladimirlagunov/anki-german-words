@@ -1,0 +1,10 @@
+Word::: Mitternacht
+WordTranslation::: полночь
+DerDieDas::: die
+Plural::: Mitternächte
+FrontExample::: Wir treffen uns um Mitternacht.
+BackExample::: Мы встречаемся в полночь.
+FrontExample2::: Es war bereits Mitternacht, als ich nach Hause kam.
+BackExample2::: Была уже полночь, когда я пришел домой.
+Tags:::  chatgpt 
+guid::: zWXk&?;(yE

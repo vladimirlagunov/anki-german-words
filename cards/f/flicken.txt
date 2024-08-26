@@ -1,0 +1,11 @@
+Word::: flicken
+WordTranslation::: латать, зашивать, штопать
+DrittenPerson::: flickt
+Perfekt::: haben geflickt
+Präteritum::: flickte
+FrontExample::: Ich muss meine Hose flicken
+BackExample::: Мне нужно заштопать штаны
+FrontExample2::: Er flickte den alten Fahrradreifen.
+BackExample2::: Он залатал старую шину велосипеда.
+Tags:::  chatgpt 
+guid::: tHn{`9^Z0Z

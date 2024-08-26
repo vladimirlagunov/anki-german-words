@@ -1,11 +1,12 @@
 Word::: leisten
-WordTranslation::: достигать, выполнять, осуществлять
+WordTranslation::: <ul><li>позволять себе</li><li>добиваться,&nbsp;достигать</li><li>выполнять, совершать</li></ul>
+Explanation::: <ul><li><strong class="spoiler">leisten</strong>&nbsp;переводится как "достигать" или "осуществлять". Это слово часто используется для обозначения выполнения какой-либо работы или действия, а также для выражения возможности чего-то сделать. Например, "sich etwas leisten" означает "позволить себе что-то" в смысле материальной возможности.</li><li><strong class="spoiler">erlauben</strong>&nbsp;значит "разрешать". Это слово используется, когда речь идет о предоставлении разрешения на что-либо. Например, "Rauchen erlaubt" означает "Курение разрешено".</li><li><strong class="spoiler">erreichen</strong>&nbsp;означает "достигать", но в контексте достижения цели, места или уровня. Это слово используется, когда говорят о завершении чего-то или о том, что кто-то или что-то становится доступным или понятным. Например, "ein Ziel erreichen" означает "достичь цели".</li></ul>
 DrittenPerson::: leistet
 Perfekt::: haben geleistet
 Präteritum::: leistete
 FrontExample::: Er kann sich einen neuen Computer nicht leisten.
 BackExample::: Он не может себе позволить новый компьютер.
-FrontExample2::: Diese Sportlerin hat eine außergewöhnliche Leistung vollbracht.
-BackExample2::: Эта спортсменка добилась исключительного результата.
+FrontExample2::: Sie hat den ganzen Tag gute Arbeit geleistet.
+BackExample2::: Она проделала хорошую работу весь день.
 Tags:::  chatgpt 
 guid::: wqEBQoAM$Y

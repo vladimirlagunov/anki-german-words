@@ -1,0 +1,12 @@
+Word::: Fliege
+WordTranslation::: <ul><li>муха</li><li>галстук-бабочка</li></ul>
+DerDieDas::: die
+Plural::: Fliegen
+FrontExample::: Eine Fliege sitzt auf dem Tisch.
+BackExample::: Муха сидит на столе.
+FrontExample2::: Er trägt eine schwarze Fliege zu seinem Anzug.
+BackExample2::: Он носит черный галстук-бабочку к своему костюму.
+FrontExample3::: Ich habe eine Fliege in meiner Suppe gefunden.
+BackExample3::: Я нашел муху в своем супе.
+Tags:::  chatgpt 
+guid::: Br|-;}!<Ou

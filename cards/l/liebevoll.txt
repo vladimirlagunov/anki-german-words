@@ -1,0 +1,8 @@
+Word::: liebevoll
+WordTranslation::: любя, ласково, нежно
+FrontExample::: Sie pflegte ihn liebevoll, als er krank war.
+BackExample::: Она заботилась о нем с любовью, когда он был болен.
+FrontExample2::: Er schrieb seiner Frau einen liebevollen Brief.
+BackExample2::: Он написал своей жене любовное письмо.
+Tags:::  chatgpt 
+guid::: jbA2.1?rd5

@@ -1,0 +1,11 @@
+Word::: schnurren
+WordTranslation::: мурлыкать, урчать
+DrittenPerson::: schnurrt
+Perfekt::: haben geschnurrt
+Präteritum::: schnurrte
+FrontExample::: Die Katze schnurrt zufrieden.
+BackExample::: Кошка довольно мурлычет.
+FrontExample2::: Der Motor schnurrt leise.
+BackExample2::: Мотор тихо урчит.
+Tags:::  chatgpt 
+guid::: M7Tqkba3vx

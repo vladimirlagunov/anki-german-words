@@ -1,6 +1,6 @@
 Word::: beseitigen
-WordTranslation::: устранять, удалять
-Explanation::: TODO различия с синонимами
+WordTranslation::: ликвидировать, устранять, удалять
+Explanation::: <ul><li><strong class="spoiler">entfernen</strong>&nbsp;означает "удалять", "устранять" что-то откуда-то. Чаще всего используется в значении физического удаления предметов или людей из какого-либо места. Примеры:<ul><li>"Ich muss den Fleck von meinem Hemd entfernen." (Я должен удалить пятно с рубашки.)</li><li>"Er wurde aus dem Raum entfernt." (Его удалили из комнаты.)</li></ul></li><li><strong class="spoiler">beseitigen</strong>&nbsp;также означает "удалять", но с оттенком "ликвидировать", "устранять", "избавляться". Используется в более широком контексте, включая устранение проблем, барьеров или даже улик. Примеры:<ul><li>"Wir müssen die Hindernisse beseitigen." (Нам нужно устранить препятствия.)</li><li>"Die Polizei konnte die Beweise beseitigen." (Полиция смогла ликвидировать улики.)</li></ul></li><li><div><strong class="spoiler">abschaffen</strong>: означает "отменить", "упразднить", часто используется в отношении законов или правил. Пример: "Die Regierung hat das Gesetz abgeschafft." (Правительство упразднило закон.)</div></li><li><div><strong class="spoiler">befreien</strong>: означает "освобождать", используется в контексте освобождения от чего-либо или кого-либо. Пример: "Er wurde aus der Gefangenschaft befreit." (Его освободили из плена.)</div></li></ul>
 DrittenPerson::: beseitigt
 Perfekt::: haben beseitigt
 Präteritum::: beseitigte

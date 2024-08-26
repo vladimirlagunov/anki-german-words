@@ -1,0 +1,10 @@
+Word::: mittlerweile
+WordTranslation::: тем временем, между тем
+FrontExample::: Er hat sich mittlerweile an die neue Stadt gewöhnt.
+BackExample::: Он тем временем привык к новому городу.
+FrontExample2::: Wir haben mittlerweile alle notwendigen Dokumente.
+BackExample2::: Мы тем временем получили все необходимые документы.
+FrontExample3::: Mittlerweile hat sie den Fehler eingesehen.
+BackExample3::: Она тем временем поняла свою ошибку.
+Tags:::  chatgpt 
+guid::: sh3GWG;1(-

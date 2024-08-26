@@ -1,5 +1,6 @@
 Word::: beteiligen
 WordTranslation::: <ul><li>участвовать, принимать участие</li><li>вносить вклад</li></ul>
+Explanation::: <div><b>Похожие слова:</b><ul><li><strong class="spoiler">beteiligen</strong>: Принимать участие, быть вовлечённым в какое-то дело или процесс. Может также подразумевать внесение вклада.</li><li><strong class="spoiler">mitmachen</strong>: Принимать участие, присоединяться к какому-либо действию или мероприятию. Чаще используется в разговорной речи.</li><li><strong class="spoiler">teilnehmen</strong>: Участвовать в мероприятии или событии. Подразумевает физическое присутствие или участие в каком-либо конкретном действии.</li></ul></div>
 DrittenPerson::: beteiligt
 Perfekt::: haben beteiligt
 Präteritum::: beteiligte

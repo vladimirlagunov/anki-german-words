@@ -1,0 +1,22 @@
+Word::: überschlagen
+WordTranslation::: <ul><li>перепрыгнуть</li><li>перевернуть</li><li>приблизительно посчитать, прикинуть</li><li>(наречие) тёплый</li></ul>
+DrittenPerson::: <ul>
+<li>überschlägt – перевернуть, прикинуть</li>
+<li>schlägt über – перепрыгнуть</li>
+</ul>
+Perfekt::: <ul>
+<li>haben überschlagen – перевернуть, прикинуть</li>
+<li>haben/sein übergeschlagen – перепрыгнуть</li>
+</ul>
+Präteritum::: <ul>
+<li>überschlug – перевернуть, прикинуть</li>
+<li>schlug über – перепрыгнуть</li>
+</ul>
+FrontExample::: Er überschlug die Kosten im Kopf.
+BackExample::: Он прикинул затраты в уме.
+FrontExample2::: Das Boot wurde von einer Welle überschlagen.
+BackExample2::: Лодку перевернула волна.
+FrontExample3::: Sie nahm überschlagenes Wasser zum Waschen.
+BackExample3::: Она использовала тёплую воду для стирки.
+Tags:::  chatgpt 
+guid::: FnH6L)k;SD

@@ -1,5 +1,6 @@
 Word::: überflüssig
-WordTranslation::: лишний, избыточный, ненужный
+WordTranslation::: чрезмерный, излишний
+Explanation::: <ul><li><strong class="spoiler">überflüssig</strong>&nbsp;чаще означает что-то избыточное, то, чего слишком много или что превышает норму или потребность. Это слово подразумевает наличие чего-то сверх необходимого. Например: "Diese Information ist überflüssig" (Эта информация избыточна).</li><li><strong class="spoiler">unnötig</strong>&nbsp;подразумевает нечто абсолютно ненужное, не приносящее пользы или значение в конкретной ситуации. Это слово скорее подчеркивает полное отсутствие необходимости в чем-либо. Например: "Es war unnötig, so früh zu kommen" (Было ненужно приходить так рано).</li><li><strong class="spoiler">entbehrlich</strong>&nbsp;— что-то, без чего можно обойтись, что не является обязательным.</li><li><strong class="spoiler">überzählig</strong>&nbsp;— лишний, превышающий нужное количество.</li></ul>
 FrontExample::: Diese Information ist völlig überflüssig.
 BackExample::: Эта информация полностью лишняя.
 FrontExample2::: Für das einfache Rezept sind viele Gewürze einfach überflüssig.

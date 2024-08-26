@@ -1,0 +1,10 @@
+Word::: Selbstbewusstsein
+WordTranslation::: уверенность в себе, самоуверенность
+DerDieDas::: das
+Plural::: —
+FrontExample::: Selbstbewusstsein ist der Schlüssel zum Erfolg.
+BackExample::: Уверенность в себе – ключ к успеху.
+FrontExample2::: Er arbeitet daran, sein Selbstbewusstsein zu stärken.
+BackExample2::: Он работает над тем, чтобы укрепить свою уверенность в себе.
+Tags:::  chatgpt 
+guid::: g4v@eSuy?m

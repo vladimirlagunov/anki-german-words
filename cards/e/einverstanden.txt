@@ -1,0 +1,10 @@
+Word::: einverstanden
+WordTranslation::: согласный с чем-то
+FrontExample::: Ich bin mit diesem Vorschlag einverstanden.
+BackExample::: Я согласен с этим предложением.
+FrontExample2::: Sind Sie damit einverstanden, das Meeting zu verschieben?
+BackExample2::: Вы согласны с тем, чтобы перенести встречу?
+FrontExample3::: Wenn alle einverstanden sind, können wir anfangen.
+BackExample3::: Если все согласны, мы можем начать.
+Tags:::  chatgpt 
+guid::: Nj4eaU|S|d

@@ -1,0 +1,8 @@
+Word::: seit kurzem
+WordTranslation::: с недавнего времени, недавно
+FrontExample::: Ich arbeite seit kurzem in diesem Unternehmen.
+BackExample::: Я недавно работаю в этой компании.
+FrontExample2::: Wir haben seit kurzem ein neues Auto.
+BackExample2::: У нас недавно появилась новая машина.
+Tags:::  chatgpt 
+guid::: m|AFP!RmE]

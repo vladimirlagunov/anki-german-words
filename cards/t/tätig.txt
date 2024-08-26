@@ -1,0 +1,6 @@
+Word::: tätig
+WordTranslation::: активный, деятельный, работающий
+FrontExample::: Sie war früher in der Politik tätig.
+BackExample::: Ранее она была занята в политике.
+Tags:::  chatgpt 
+guid::: z*:c2B`IYn

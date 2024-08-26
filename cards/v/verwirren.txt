@@ -1,0 +1,13 @@
+Word::: verwirren
+WordTranslation::: запутывать
+DrittenPerson::: verwirrt
+Perfekt::: haben verwirrt
+Präteritum::: verwirrte
+FrontExample::: Die komplizierte Erklärung hat mich völlig verwirrt.
+BackExample::: Сложное объяснение совершенно меня запутало.
+FrontExample2::: Er wollte sie nicht verwirren, aber die Situation war kompliziert.
+BackExample2::: Он не хотел её запутывать, но ситуация была сложной.
+FrontExample3::: Die unterschiedlichen Informationen verwirrten die Teilnehmer.
+BackExample3::: Разные сведения запутали участников.
+Tags:::  chatgpt 
+guid::: CYUidBbaML

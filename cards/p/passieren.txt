@@ -1,0 +1,14 @@
+Word::: passieren
+WordTranslation::: <ul><li>происходить, случаться</li></ul>
+Explanation::: <ul><li><strong class="spoiler">Passieren</strong>&nbsp;— это глагол, который обычно используется для описания событий, которые случаются с кем-то или как результат действий. Это может быть что-то случайное или неожиданное. Например:<ul><li><strong>Das kann jedem passieren.</strong>&nbsp;(Это может случиться с каждым.)</li><li><strong>Was ist passiert?</strong>&nbsp;(Что произошло?)</li></ul><p>Также,&nbsp;<strong>passieren</strong>&nbsp;иногда используется в значении "проходить мимо" или "пересекать", что не характерно для&nbsp;<b>geschehen</b>.</p></li><li><strong class="spoiler">Geschehen</strong>&nbsp;— этот глагол чаще используется для описания более серьёзных, значимых или общих событий, которые происходят без чьего-то намерения или влияния. Это слово имеет более формальный или литературный оттенок.<ul><li><strong>Es ist ein Unglück geschehen.</strong>&nbsp;(Произошло несчастье.)</li><li><strong>Was darf nie geschehen?</strong>&nbsp;(Что никогда не должно произойти?)</li></ul></li></ul>
+DrittenPerson::: passiert
+Perfekt::: <ul><li>ist passiert – происходить, случаться</li></ul>
+Präteritum::: passierte
+FrontExample::: <div>Das kann doch jedem mal passieren.</div>
+BackExample::: Это может случиться с кем угодно.
+FrontExample2::: Mir ist etwas Schreckliches passiert.
+BackExample2::: Со мной произошло что-то ужасное.
+FrontExample3::: Was ist passiert?
+BackExample3::: Что случилось?
+Tags:::  chatgpt 
+guid::: Q9b%@b#RKk

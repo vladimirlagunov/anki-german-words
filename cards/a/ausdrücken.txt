@@ -1,0 +1,13 @@
+Word::: ausdrücken
+WordTranslation::: <ul><li>выразить, формулировать</li><li>выжать</li></ul>
+DrittenPerson::: drückt aus
+Perfekt::: haben ausgedrückt
+Präteritum::: drückte aus
+FrontExample::: Ich möchte meine Gefühle ausdrücken.
+BackExample::: Я хочу выразить свои чувства.
+FrontExample2::: Es ist schwer, diesen Gedanken in Worte zu ausdrücken.
+BackExample2::: Трудно выразить эту мысль словами.
+FrontExample3::: Kannst du mir helfen, den Saft aus der Orange zu ausdrücken?
+BackExample3::: Можешь помочь мне выжать сок из апельсина?
+Tags:::  chatgpt 
+guid::: l*X?T(gVEq

@@ -1,0 +1,8 @@
+Word::: sozusagen
+WordTranslation::: так сказать
+FrontExample::: Er ist sozusagen der Kopf des Teams.
+BackExample::: Он, так сказать, является головой команды.
+FrontExample2::: Sie ist sozusagen die Seele der Gruppe.
+BackExample2::: Она, так сказать, душа группы.
+Tags:::  chatgpt 
+guid::: PB2,VbDu.C

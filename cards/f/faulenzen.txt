@@ -1,0 +1,13 @@
+Word::: faulenzen
+WordTranslation::: бездельничать, лентяйничать
+DrittenPerson::: faulenzt
+Perfekt::: haben gefaulenzt
+Präteritum::: faulenzte
+FrontExample::: Am Wochenende liebe ich es zu faulenzen.
+BackExample::: В выходные я люблю бездельничать.
+FrontExample2::: Die Schüler faulenzen während der Sommerferien.
+BackExample2::: Ученики бездельничают во время летних каникул.
+FrontExample3::: Nach dem anstrengenden Arbeitstag möchte er nur noch faulenzen.
+BackExample3::: После утомительного рабочего дня он хочет только бездельничать.
+Tags:::  chatgpt 
+guid::: sK>eG}0*We

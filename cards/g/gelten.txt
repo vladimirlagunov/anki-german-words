@@ -1,0 +1,13 @@
+Word::: gelten
+WordTranslation::: <ul><li>считаться кем-то/чем-то, относиться к чему-то</li><li>иметь силу, считаться действительным</li></ul>
+DrittenPerson::: gilt
+Perfekt::: haben gegolten
+Präteritum::: galt
+FrontExample::: Diese Regel gilt für alle
+BackExample::: Это правило действует для всех.
+FrontExample2::: Er gilt als einer der besten Sänger.
+BackExample2::: Его считают одним из лучших певцов.
+FrontExample3::: Der Pass gilt drei Jahre.
+BackExample3::: Паспорт действителен три года.
+Tags:::  chatgpt 
+guid::: G>VT$(/HAt

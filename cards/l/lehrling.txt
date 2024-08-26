@@ -1,0 +1,10 @@
+Word::: Lehrling
+WordTranslation::: ученик, подмастерье
+DerDieDas::: der
+Plural::: Lehrlinge
+FrontExample::: Der Lehrling begann seine Ausbildung im August.
+BackExample::: Ученик начал свое обучение в августе.
+FrontExample2::: Der Lehrling zeigte großes Interesse an handwerklichen Tätigkeiten.
+BackExample2::: Ученик показал большой интерес к ручному ремеслу.
+Tags:::  chatgpt 
+guid::: yF$2WINHD<

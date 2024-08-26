@@ -1,0 +1,8 @@
+Word::: Urteil
+WordTranslation::: приговор
+DerDieDas::: das
+Plural::: Urteile
+FrontExample::: Das Urteil des Richters war sehr streng.
+BackExample::: Приговор судьи был очень строгим.
+Tags:::  chatgpt 
+guid::: nf$A[/S!U$

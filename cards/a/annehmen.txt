@@ -1,5 +1,5 @@
 Word::: annehmen
-WordTranslation::: принимать, предполагать, допускать
+WordTranslation::: <ul><li>принимать</li><li>предполагать, допускать</li></ul>
 DrittenPerson::: nimmt an
 Perfekt::: haben angenommen
 Präteritum::: nahm an

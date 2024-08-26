@@ -1,0 +1,9 @@
+Word::: verschütten
+WordTranslation::: пролить, просыпать, залить
+DrittenPerson::: verschüttet
+Perfekt::: haben verschüttet
+Präteritum::: verschüttete
+FrontExample::: Ich habe meinen Kaffee verschüttet.
+BackExample::: Я пролил свой кофе.
+Tags:::  chatgpt 
+guid::: qEPgrfqyak

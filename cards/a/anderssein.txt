@@ -1,0 +1,8 @@
+Word::: Anderssein
+WordTranslation::: инакость, отличие (от других)
+DerDieDas::: das
+Plural::: wird nur im Singular verwendet
+FrontExample::: Viele Menschen fürchten sich vor dem Anderssein.
+BackExample::: Многие люди боятся быть другими.
+Tags:::  chatgpt 
+guid::: yjHg?mN>mv

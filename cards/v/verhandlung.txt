@@ -1,0 +1,10 @@
+Word::: Verhandlung
+WordTranslation::: <ul><li>слушание дела, заседание суда</li><li>переговор</li></ul>
+DerDieDas::: die
+Plural::: Verhandlungen
+FrontExample::: Die Verhandlung wurde auf nächste Woche verschoben.
+BackExample::: Слушание было перенесено на следующую неделю.
+FrontExample2::: Die Verhandlungen dauern schon seit Stunden.
+BackExample2::: Переговоры продолжаются уже несколько часов.
+Tags:::  chatgpt 
+guid::: OjF7f>,OSa

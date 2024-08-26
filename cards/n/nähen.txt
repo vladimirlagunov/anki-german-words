@@ -1,0 +1,13 @@
+Word::: nähen
+WordTranslation::: шить
+DrittenPerson::: näht
+Perfekt::: haben genäht
+Präteritum::: nähte
+FrontExample::: Ich nähe ein Kleid.
+BackExample::: Я шью платье.
+FrontExample2::: Er nähte die Tasche per Hand.
+BackExample2::: Он сшил сумку вручную.
+FrontExample3::: Wir haben die Vorhänge selbst genäht.
+BackExample3::: Мы сами сшили шторы.
+Tags:::  chatgpt 
+guid::: zNoGXFrG?q

@@ -1,0 +1,10 @@
+Word::: es scheint so
+WordTranslation::: (мне) кажется, что ...
+FrontExample::: Es scheint so, als ob es heute regnen wird.
+BackExample::: Мне кажется, что сегодня пойдет дождь.
+FrontExample2::: Es scheint so, dass er die Nachricht nicht bekommen hat.
+BackExample2::: Похоже, он не получил сообщение.
+FrontExample3::: Es scheint so, als ob sie die Prüfung bestanden hat.
+BackExample3::: Похоже, она сдала экзамен.
+Tags:::  chatgpt 
+guid::: hJ22v5GTux

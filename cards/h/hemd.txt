@@ -1,0 +1,15 @@
+Word::: Hemd
+WordTranslation::: <ul>
+<li>рубашка</li>
+<li>сорочка</li>
+</ul>
+DerDieDas::: das
+Plural::: Hemden
+FrontExample::: Hast du dein neues Hemd schon anprobiert?
+BackExample::: Ты уже примерил свою новую рубашку?
+FrontExample2::: Er hat einen Fleck auf seinem Hemd.
+BackExample2::: У него пятно на рубашке.
+FrontExample3::: Ich brauche ein weißes Hemd für die Hochzeit.
+BackExample3::: Мне нужна белая рубашка для свадьбы.
+Tags:::  chatgpt 
+guid::: d+I1H<{e{q

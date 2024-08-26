@@ -1,0 +1,11 @@
+Word::: unterschätzen
+WordTranslation::: недооценивать
+DrittenPerson::: unterschätzt
+Perfekt::: haben unterschätzt
+Präteritum::: unterschätzte
+FrontExample::: Wir dürfen seine Fähigkeiten nicht unterschätzen.
+BackExample::: Мы не должны недооценивать его способности.
+FrontExample2::: Sie hat das Risiko völlig unterschätzt.
+BackExample2::: Она полностью недооценила риск.
+Tags:::  chatgpt 
+guid::: g!Mr~gX!=<

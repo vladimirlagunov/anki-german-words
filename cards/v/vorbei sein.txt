@@ -1,0 +1,10 @@
+Word::: vorbei sein
+WordTranslation::: закончиться, пройти, миновать
+FrontExample::: Der Sommer ist vorbei.
+BackExample::: Лето прошло.
+FrontExample2::: Endlich ist die Wartezeit vorbei.
+BackExample2::: Наконец-то время ожидания закончилось.
+FrontExample3::: Die Gefahr scheint vorbei zu sein.
+BackExample3::: Кажется, опасность миновала.
+Tags:::  chatgpt 
+guid::: O>w/O[sB,}

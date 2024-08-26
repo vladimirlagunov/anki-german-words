@@ -1,0 +1,11 @@
+Word::: losschrauben
+WordTranslation::: отвинчивать, раскручивать
+DrittenPerson::: schraubt los
+Perfekt::: haben losgeschraubt
+Präteritum::: schraubte los
+FrontExample::: Sie versuchten, das alte Rohr von der Wand loszuschrauben.
+BackExample::: Они пытались открутить старую трубу от стены.
+FrontExample2::: Du musst die Schrauben an der Halterung losschrauben.
+BackExample2::: Тебе нужно открутить болты на креплении.
+Tags:::  chatgpt 
+guid::: oGD>TY/%q,

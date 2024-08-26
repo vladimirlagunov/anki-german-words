@@ -1,0 +1,9 @@
+Word::: endlich
+WordTranslation::: наконец-то
+Explanation::: <ul><li><div><strong class="spoiler">endlich</strong>&nbsp;используется, чтобы выразить чувство облегчения или удовлетворения по поводу завершения чего-то, что долго ожидалось или вызывало нетерпение. Это слово подчеркивает, что что-то произошло после долгого ожидания.&nbsp;Пример:&nbsp;"Endlich habe ich meinen Führerschein!" (Наконец, я получил свои водительские права!)</div></li><li><div><strong class="spoiler">schließlich</strong>&nbsp;используется для обозначения заключительного пункта в ряду событий или аргументов, подводя итог или заключение. Оно чаще всего употребляется в значении "в конце концов" или "в итоге".&nbsp;Пример:&nbsp;"Wir haben lange diskutiert, und schließlich haben wir uns geeinigt." (Мы долго обсуждали, и в конце концов мы пришли к соглашению.)</div></li></ul>
+FrontExample::: Endlich ist das Wochenende da!
+BackExample::: Наконец-то наступили выходные!
+FrontExample2::: Nach einer langen Reise sind wir endlich angekommen.
+BackExample2::: После долгого путешествия мы наконец-то прибыли.
+Tags:::  chatgpt 
+guid::: m$W$($p3<m

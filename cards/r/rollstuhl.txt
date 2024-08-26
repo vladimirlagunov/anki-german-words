@@ -1,0 +1,8 @@
+Word::: Rollstuhl
+WordTranslation::: кресло-каталка
+DerDieDas::: der
+Plural::: Rollstühle
+FrontExample::: Er sitzt im Rollstuhl.
+BackExample::: Он сидит в инвалидной коляске.
+Tags:::  chatgpt 
+guid::: M.p/GaKO[N

@@ -1,0 +1,10 @@
+Word::: reif
+WordTranslation::: зрелый, спелый, готовый, выдержанный
+FrontExample::: Die Äpfel sind endlich reif.
+BackExample::: Яблоки наконец-то созрели.
+FrontExample2::: Er ist nicht reif genug für solche Verantwortung.
+BackExample2::: Он не достаточно зрел для такой ответственности.
+FrontExample3::: Der Käse ist jetzt perfekt reif.
+BackExample3::: Сыр теперь идеально зрелый.
+Tags:::  chatgpt 
+guid::: v<]dy@*3l+

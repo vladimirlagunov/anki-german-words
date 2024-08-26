@@ -1,0 +1,13 @@
+Word::: loslassen
+WordTranslation::: отпускать, освобождать
+DrittenPerson::: lässt los
+Perfekt::: haben losgelassen
+Präteritum::: ließ los
+FrontExample::: Ich muss meine Ängste loslassen.
+BackExample::: Мне нужно отпустить свои страхи.
+FrontExample2::: Er konnte ihre Hand nicht loslassen.
+BackExample2::: Он не мог отпустить её руку.
+FrontExample3::: Sie lernte, die Vergangenheit loszulassen.
+BackExample3::: Она научилась отпускать прошлое.
+Tags:::  chatgpt 
+guid::: b;&S5qd!`(

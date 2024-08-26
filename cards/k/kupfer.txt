@@ -1,0 +1,6 @@
+Word::: Kupfer
+WordTranslation::: медь
+DerDieDas::: das
+Plural::: Kupfer
+Tags::: 
+guid::: zuT+Jt>wYy

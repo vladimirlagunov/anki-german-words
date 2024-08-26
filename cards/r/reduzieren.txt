@@ -1,0 +1,14 @@
+Word::: reduzieren
+WordTranslation::: сокращать, уменьшать, снижать
+Explanation::: <ul><li><div><strong class="spoiler">reduzieren</strong>&nbsp;— Этот глагол часто используется в контексте количественного уменьшения, особенно когда речь идёт о числах, стоимости, размерах, уровне и т. д. Например, уменьшение расходов, сокращение количества чего-либо, уменьшение размера.</div></li><li><div><strong class="spoiler">ermäßigen</strong>&nbsp;— Этот глагол также означает уменьшение, но чаще всего он используется в более ограниченных контекстах, таких как снижение цен, налогов, тарифов или других ставок. Это слово также может использоваться в более формальном или официальном контексте.</div></li></ul>
+DrittenPerson::: reduziert
+Perfekt::: haben reduziert
+Präteritum::: reduzierte
+FrontExample::: Wir müssen die Ausgaben reduzieren.
+BackExample::: Мы должны сократить расходы.
+FrontExample2::: Wir müssen die Betriebskosten reduzieren.
+BackExample2::: Нам нужно сократить эксплуатационные расходы.
+FrontExample3::: Er konnte die Anzahl der Fehler deutlich reduzieren.
+BackExample3::: Он смог значительно сократить количество ошибок.
+Tags:::  chatgpt 
+guid::: IqE:S0W>2P

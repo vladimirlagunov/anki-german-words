@@ -1,0 +1,10 @@
+Word::: Schaum
+WordTranslation::: пена, пузырьки
+DerDieDas::: der
+Plural::: Schäume
+FrontExample::: Пена на пиве была идеальной.
+BackExample::: Пена выходит из бутылки
+FrontExample2::: Ich liebe es, mich mit Schaum zu baden.
+BackExample2::: Я люблю принимать ванну с пеной.
+Tags:::  chatgpt 
+guid::: hf/uiT=?ti

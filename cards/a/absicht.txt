@@ -1,0 +1,10 @@
+Word::: Absicht
+WordTranslation::: намерение, умысел
+DerDieDas::: der
+Plural::: Äbte
+FrontExample::: Er hat die Absicht, Deutsch zu lernen.
+BackExample::: Он намеревается выучить немецкий.
+FrontExample2::: Ihre Absicht war es, jemanden zu überraschen.
+BackExample2::: Её намерением было кого-то удивить.
+Tags:::  chatgpt 
+guid::: FL9Y{Yaa<-

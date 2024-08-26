@@ -1,0 +1,10 @@
+Word::: Mantel
+WordTranslation::: пальто
+DerDieDas::: der
+Plural::: Mäntel
+FrontExample::: Mantel aufhängen, bitte.
+BackExample::: Повесьте пальто, пожалуйста.
+FrontExample2::: Ich habe meinen Mantel vergessen.
+BackExample2::: Я забыл своё пальто.
+Tags:::  chatgpt 
+guid::: Hj@oQMVt+D

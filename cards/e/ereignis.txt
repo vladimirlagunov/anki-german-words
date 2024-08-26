@@ -1,0 +1,8 @@
+Word::: Ereignis
+WordTranslation::: событие
+DerDieDas::: das
+Plural::: Ereignisse
+FrontExample::: Die Hochzeit war das schönste Ereignis des Jahres.
+BackExample::: Свадьба была самым красивым событием года.
+Tags:::  chatgpt 
+guid::: Fl{#|3uxyN

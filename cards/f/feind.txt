@@ -3,9 +3,7 @@ WordTranslation::: враг
 DerDieDas::: der
 Plural::: Feinde
 FrontExample::: Er betrachtete ihn als seinen größten Feind.
-BackExample::: Он считал его своим злейшим врагом.
-FrontExample2::: Der Feind rückte näher.
-BackExample2::: Враг приближался.
+BackExample::: Он считал его своим величайшем врагом.
 FrontExample3::: Man soll den Feind nicht unterschätzen.
 BackExample3::: Не стоит недооценивать врага.
 Tags:::  chatgpt 

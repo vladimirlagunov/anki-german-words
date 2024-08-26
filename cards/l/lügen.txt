@@ -1,0 +1,12 @@
+Word::: lügen
+WordTranslation::: лгать, врать
+Explanation::: <ul><li><div><strong class="spoiler">lügen</strong>&nbsp;— это общий глагол, который переводится как "лгать". Это слово описывает акт лжи в целом, без указания на конкретный контекст или обстоятельства. Пример употребления: "Er lügt, wenn er sagt, dass er das Buch gelesen hat." (Он лжет, говоря, что прочитал книгу.)</div></li><li><div><strong class="spoiler">vorlügen</strong>&nbsp;— это более специфический глагол, который можно перевести как "соврать, лгать кому-то в лицо". Этот глагол используется, когда кто-то лжет, обманывая другого человека непосредственно и умышленно. Пример употребления: "Sie hat ihm vorgelogen, dass sie krank war, um das Treffen zu vermeiden." (Она соврала ему, что болеет, чтобы избежать встречи.)</div></li></ul>
+DrittenPerson::: lügt
+Perfekt::: haben gelogen
+Präteritum::: log
+FrontExample::: Er lügt ständig.
+BackExample::: Он постоянно лжёт.
+FrontExample2::: Warum musst du immer lügen?
+BackExample2::: Почему ты всегда должен лгать?
+Tags:::  chatgpt 
+guid::: P81d|!-Y*K

@@ -1,0 +1,9 @@
+Word::: vorbeigehen
+WordTranslation::: проходить мимо
+DrittenPerson::: geht vorbei
+Perfekt::: sein  vorbeigegangen
+Präteritum::: ging vorbei
+FrontExample::: Ich sehe, wie du an meinem Haus vorbeigehst.
+BackExample::: Я вижу, как ты проходишь мимо моего дома.
+Tags:::  chatgpt 
+guid::: zB_J8E+e+M

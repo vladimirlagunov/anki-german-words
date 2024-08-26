@@ -1,0 +1,11 @@
+Word::: prallen
+WordTranslation::: <ul><li>столкнуться, удариться, налететь</li><li>отскочить</li></ul>
+DrittenPerson::: prallt
+Perfekt::: sein geprallt
+Präteritum::: prallte
+FrontExample::: Der Ball prallt gegen die Wand.
+BackExample::: Мяч отскакивает от стены.
+FrontExample2::: Das Auto prallte gegen den Baum.
+BackExample2::: Машина врезалась в дерево.
+Tags:::  chatgpt 
+guid::: rsSuFF-C<u

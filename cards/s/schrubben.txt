@@ -1,0 +1,13 @@
+Word::: schrubben
+WordTranslation::: драить, скрести, тереть
+DrittenPerson::: schrubbt
+Perfekt::: haben geschrubbt
+Präteritum::: schrubbte
+FrontExample::: Ich muss den Boden schrubben.
+BackExample::: Мне нужно выдраить пол.
+FrontExample2::: Er schrubbte den Rost vom alten Fahrrad.
+BackExample2::: Он счистил ржавчину со старого велосипеда.
+FrontExample3::: Sie schrubbte die Pfannen bis sie glänzten.
+BackExample3::: Она драила кастрюли, пока они не заблестели.
+Tags:::  chatgpt 
+guid::: q?m*F<e:|b

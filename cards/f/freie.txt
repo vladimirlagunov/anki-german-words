@@ -1,0 +1,8 @@
+Word::: Freie
+WordTranslation::: свежий воздух, улица, свобода
+DerDieDas::: das
+Plural::: –
+FrontExample::: Wir treffen uns am Wochenende im Freien.
+BackExample::: Мы встречаемся на выходных на свежем воздухе.
+Tags:::  chatgpt 
+guid::: fzb.GR{>^=

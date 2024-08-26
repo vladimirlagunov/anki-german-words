@@ -1,14 +1,12 @@
 Word::: verlangen
 WordTranslation::: требовать
-Explanation::: Todo synonyms
+Explanation::: <ul><li><div><strong class="spoiler">benötigen</strong>&nbsp;— Это слово означает "нуждаться" или "требовать". Оно часто используется в контексте, когда что-то необходимо или требуется для выполнения задачи или достижения цели.</div></li><li><div><strong class="spoiler">brauchen</strong>&nbsp;— Это наиболее общее слово, соответствующее английскому "need". Оно используется, когда что-то необходимо или требуется в широком смысле.</div></li><li><div><strong class="spoiler">bedürfen</strong>&nbsp;— Этот глагол более формальный и чаще используется в письменной речи. Он означает "нуждаться" или "требовать", обычно в контексте более серьезной необходимости или законного требования.</div></li><li><div><strong class="spoiler">erfordern</strong>&nbsp;— Это слово означает "требовать" или "потребовать" в смысле необходимости выполнения определенных условий или стандартов. Оно часто используется в более формальных или технических контекстах.</div></li><li><div><strong class="spoiler">verlangen</strong>&nbsp;— Это слово означает "требовать" или "просить", часто с некоторой степенью настойчивости или власти. Оно может использоваться в контексте запроса или требования чего-то от кого-то.</div></li></ul>
 DrittenPerson::: verlangt
 Perfekt::: haben verlangt
 Präteritum::: verlangte
 FrontExample::: Er verlangte eine Erklärung.
 BackExample::: Он потребовал объяснения.
-FrontExample2::: Diese Arbeit verlangt viel Geduld.
-BackExample2::: Эта работа требует много терпения. (Todo подходит ли слово?)
-FrontExample3::: Sie verlangen einen höheren Lohn.
-BackExample3::: Они требуют более высокой зарплаты.
+FrontExample2::: Sie verlangen einen höheren Lohn.
+BackExample2::: Они требуют более высокую зарплату.
 Tags:::  chatgpt 
 guid::: v~P~qFE:`?

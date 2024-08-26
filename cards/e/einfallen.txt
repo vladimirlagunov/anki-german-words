@@ -1,0 +1,13 @@
+Word::: einfallen
+WordTranslation::: прийти в голову, вспомниться
+DrittenPerson::: fällt ein
+Perfekt::: sein eingefallen
+Präteritum::: fiel ein
+FrontExample::: Mir fällt einfach nichts ein.
+BackExample::: Мне просто ничего не приходит в голову.
+FrontExample2::: Eine neue Idee ist ihm eingefallen.
+BackExample2::: Ему пришла в голову новая идея.
+FrontExample3::: Wie konnte dir so etwas Blödes einfallen?
+BackExample3::: Как тебе могла прийти в голову такая тупость?
+Tags:::  chatgpt 
+guid::: cHW7c*[.[]

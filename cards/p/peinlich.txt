@@ -1,0 +1,10 @@
+Word::: peinlich
+WordTranslation::: неловкий, неприятный, мучительный, стыдный
+FrontExample::: Das war eine peinliche Situation.
+BackExample::: Это была неловкая ситуация
+FrontExample2::: Er hat sich peinlich benommen.
+BackExample2::: Он вел себя неловко
+FrontExample3::: Es ist mir peinlich, das zuzugeben.
+BackExample3::: Мне неловко это признать.
+Tags:::  chatgpt 
+guid::: EwY->[w^BW

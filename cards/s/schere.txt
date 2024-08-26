@@ -1,0 +1,12 @@
+Word::: Schere
+WordTranslation::: <ul><li>ножницы</li><li>трещина, расселина, разрыв</li></ul>
+DerDieDas::: die
+Plural::: Scheren
+FrontExample::: Die Schere liegt auf dem Tisch.
+BackExample::: Ножницы лежат на столе.
+FrontExample2::: Er schnitt das Papier mit einer Schere.
+BackExample2::: Он разрезал бумагу ножницами.
+FrontExample3::: Die Schere zwischen Arm und Reich wird größer.
+BackExample3::: Разрыв между бедными и богатыми становится больше.
+Tags:::  chatgpt 
+guid::: f:0ExxB,LG

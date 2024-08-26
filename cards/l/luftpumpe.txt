@@ -1,0 +1,6 @@
+Word::: Luftpumpe
+WordTranslation::: воздушный насос
+DerDieDas::: die
+Plural::: Luftpumpen
+Tags:::  chatgpt 
+guid::: qJU5v@Td>d

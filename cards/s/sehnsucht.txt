@@ -1,0 +1,12 @@
+Word::: Sehnsucht
+WordTranslation::: тоска, страстное желание, стремление
+DerDieDas::: die
+Plural::: Sehnsüchte
+FrontExample::: Ich verspüre eine tiefe Sehnsucht nach meiner Heimat.
+BackExample::: Я чувствую глубокую тоску по родине.
+FrontExample2::: Seine Sehnsucht nach dem Meer war unstillbar.
+BackExample2::: Его тоска по морю была неутолимой.
+FrontExample3::: Die Sehnsucht in ihren Augen war deutlich zu sehen.
+BackExample3::: Тоска в её глазах была явно видна.
+Tags:::  chatgpt 
+guid::: e7)SJ|JGjH

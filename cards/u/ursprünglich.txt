@@ -1,0 +1,10 @@
+Word::: ursprünglich
+WordTranslation::: <ul><li>первоначальный</li><li>коренной</li></ul>
+FrontExample::: Das Gebäude war ursprünglich eine Schule.
+BackExample::: Здание изначально было школой.
+FrontExample2::: Ursprünglich hatten sie geplant, im September zu heiraten.
+BackExample2::: Изначально они планировали пожениться в сентябре.
+FrontExample3::: Dieses Rezept stammt ursprünglich aus Italien.
+BackExample3::: Этот рецепт изначально из Италии.
+Tags:::  chatgpt 
+guid::: I<k0E.BUU%

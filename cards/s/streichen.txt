@@ -1,5 +1,6 @@
 Word::: streichen
 WordTranslation::: <ul><li>красить, мазать, штриховать</li><li>вычеркивать, отменять</li></ul>
+Explanation::: <div><b>Похожие слова:</b><ul><li><strong class="spoiler">zeichnen</strong>: Рисовать или чертить с использованием линий, обычно с помощью карандаша, ручки или угля.</li><li><strong class="spoiler">malen</strong>: Рисовать или раскрашивать с использованием красок или других цветных материалов. Чаще всего это касается художественных работ.</li><li><strong class="spoiler">streichen</strong>: Покрывать поверхность краской или другим веществом. Часто используется в строительстве и ремонте.</li></ul></div>
 DrittenPerson::: streicht
 Perfekt::: haben gestrichen
 Präteritum::: strich

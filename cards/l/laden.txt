@@ -1,0 +1,11 @@
+Word::: laden
+WordTranslation::: грузить, заряжать, накладывать
+DrittenPerson::: lädt
+Perfekt::: haben geladen
+Präteritum::: lud
+FrontExample::: Ich lade die Kisten ins Auto.
+BackExample::: Я загружаю ящики в машину.
+FrontExample2::: Er lädt den Akku seines Handys.
+BackExample2::: Он заряжает аккумулятор своего телефона.
+Tags:::  chatgpt 
+guid::: sbQrRT5REx

@@ -1,0 +1,8 @@
+Word::: Labor
+WordTranslation::: лаборатория
+DerDieDas::: das
+Plural::: <div>Labore, Labors</div>
+FrontExample::: Wir haben im Labor erstaunliche Ergebnisse erzielt.
+BackExample::: Мы достигли удивительных результатов в лаборатории.
+Tags:::  chatgpt 
+guid::: Jg:rRs^:P,

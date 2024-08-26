@@ -1,0 +1,12 @@
+Word::: Hebel
+WordTranslation::: рычаг, рукоятка
+DerDieDas::: der
+Plural::: Hebel
+FrontExample::: Er drückte den Hebel, um die Maschine zu starten.
+BackExample::: Он нажал на рычаг, чтобы запустить машину.
+FrontExample2::: Der Hebel der Bremse ist gebrochen.
+BackExample2::: Рычаг тормоза сломан.
+FrontExample3::: Setze den Hebel in die richtige Position.
+BackExample3::: Установи рычаг в правильное положение.
+Tags:::  chatgpt 
+guid::: Ho.{yGM4;&

@@ -1,0 +1,9 @@
+Word::: streiken
+WordTranslation::: <div>бастовать</div>
+DrittenPerson::: streikt
+Perfekt::: haben gestreikt
+Präteritum::: streikte
+FrontExample::: Die Arbeiter streiken für bessere Löhne.
+BackExample::: Рабочие бастуют за лучшие зарплаты.
+Tags:::  chatgpt 
+guid::: x}V0SYJ>)d

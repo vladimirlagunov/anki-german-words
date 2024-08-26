@@ -1,0 +1,14 @@
+Word::: engagieren
+WordTranslation::: привлечь, нанять
+Explanation::: <ul><li><div><strong class="spoiler">engagieren</strong>&nbsp;часто используется в смысле "нанимать" или "привлекать". Это слово может применяться для описания процесса найма артиста, специалиста или иного исполнителя для выполнения определённой работы или участия в проекте. Например, нанимать музыканта для концерта или актёра для роли в театре. Пример использования: Wir haben einen Fotografen für die Hochzeit&nbsp;<strong>engagiert</strong>. (Мы наняли фотографа на свадьбу.)</div></li><li><div><strong class="spoiler">beauftragen</strong>&nbsp;означает "поручать" или "давать задание", это слово обычно применяется, когда кто-то поручает выполнение определённой работы или проекта. Это может быть официальное поручение или заказ услуги. Пример использования: Ich habe ein Unternehmen&nbsp;<strong>beauftragt</strong>, die Reparaturarbeiten durchzuführen. (Я поручил компании выполнить ремонтные работы.)</div></li><li><strong class="spoiler">anstellen</strong>&nbsp;— означает "нанимать на работу", обычно используется в контексте формального трудоустройства.</li><li><strong class="spoiler">verpflichten</strong>&nbsp;— также может означать "нанимать" или "обязывать", часто употребляется в юридических или формальных контекстах, например, когда кто-то обязуется выполнить определённые действия.</li><li><strong class="spoiler">auftragen</strong>&nbsp;— может использоваться в смысле "давать задание", близко по значению к "beauftragen".</li></ul><div></div>
+DrittenPerson::: engagiert
+Perfekt::: haben engagiert
+Präteritum::: engagierte
+FrontExample::: Wir sollten Spezialisten für dieses Projekt engagieren.
+BackExample::: Мы должны нанять специалистов для этого проекта.
+FrontExample2::: Er engagierte sich ehrenamtlich bei der Tafel.
+BackExample2::: Он добровольно работал в продовольственном банке.
+FrontExample3::: Die Firma engagiert sich stark im Umweltschutz.
+BackExample3::: Компания активно занимается охраной окружающей среды.
+Tags:::  chatgpt 
+guid::: B#%mFV:gpQ

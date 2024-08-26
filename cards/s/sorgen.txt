@@ -1,0 +1,16 @@
+Word::: sorgen
+WordTranslation::: <div>беспокоиться</div>
+Explanation::: <ul><li><div><strong class="spoiler">sorgen für A</strong>&nbsp;- заботиться о ком-то/чём-то, обеспечивать что-то.</div></li><li><div><strong class="spoiler">sich sorgen um A</strong>&nbsp;- беспокоиться о ком-то/чём-то.</div></li><li><div><strong class="spoiler">sorgen mit D</strong>&nbsp;- обеспокоить кого-то чем-то.</div></li></ul>
+
+<ul><li><div><strong class="spoiler">pflegen</strong>&nbsp;— Этот глагол чаще всего используется в контексте ухода за кем-то или чем-то, особенно когда речь идет о медицинском уходе или заботе о больных. Также&nbsp;<strong>pflegen</strong>&nbsp;может употребляться в смысле "поддерживать" или "соблюдать", например, традиции.</div></li><li><div><strong class="spoiler">sorgen</strong>&nbsp;— Глагол означает заботу в широком смысле, включая предоставление или обеспечение того, что необходимо для благополучия кого-то или чего-то. Он также может использоваться в контексте беспокойства или волнения.</div></li><li><div><strong class="spoiler">kümmern</strong>&nbsp;— Этот глагол более специфичен и часто используется с предлогом&nbsp;<strong>um</strong>, что означает активную заботу или внимание к кому-то или чему-то. Он подчеркивает непосредственное участие в процессе ухода или помощи.</div></li></ul>
+DrittenPerson::: sorgt
+Perfekt::: haben gesorgt
+Präteritum::: sorgte
+FrontExample::: Sie sorgt für ihre kranke Mutter.
+BackExample::: Она заботится о своей больной матери.
+FrontExample2::: Er sorgt sich um die Zukunft seiner Kinder.
+BackExample2::: Он беспокоится о будущем своих детей.
+FrontExample3::: Er sorgte mit seinen Bemerkungen für Unruhe.
+BackExample3::: Он вызвал беспокойство своими замечаниями.
+Tags:::  chatgpt 
+guid::: NesY>ap5OE

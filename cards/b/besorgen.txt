@@ -1,0 +1,9 @@
+Word::: besorgen
+WordTranslation::: приобретать, позаботиться о покупке чего-то
+DrittenPerson::: besorgt
+Perfekt::: haben besorgt
+Präteritum::: besorgte
+FrontExample::: Kannst du die Tickets für uns besorgen?
+BackExample::: Ты можешь раздобыть(=купить) для нас билеты?
+Tags:::  chatgpt 
+guid::: GUXsx.z|Z0

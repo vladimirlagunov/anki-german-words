@@ -1,0 +1,8 @@
+Word::: gemütlich
+WordTranslation::: уютный, комфортный
+FrontExample::: Das Zimmer ist sehr gemütlich.
+BackExample::: Комната очень уютная.
+FrontExample2::: Er fühlte sich in dem kleinen Café sehr gemütlich.
+BackExample2::: Он чувствовал себя очень уютно в маленьком кафе.
+Tags:::  chatgpt 
+guid::: E!4UVUk8{n

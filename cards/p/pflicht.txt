@@ -1,0 +1,10 @@
+Word::: Pflicht
+WordTranslation::: обязанность, долг
+DerDieDas::: die
+Plural::: Pflichten
+FrontExample::: Es ist unsere Pflicht, der Umwelt zu helfen.
+BackExample::: Это наш долг помогать окружающей среде.
+FrontExample2::: Die Erfüllung seiner Pflicht ist für ihn sehr wichtig.
+BackExample2::: Выполнение своего долга для него очень важно.
+Tags:::  chatgpt 
+guid::: MULl(L!(?S

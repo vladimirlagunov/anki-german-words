@@ -1,0 +1,11 @@
+Word::: teilen
+WordTranslation::: <div>поделиться</div>
+DrittenPerson::: teilt
+Perfekt::: haben geteilt
+Präteritum::: teilte
+FrontExample::: Ich möchte meinen Kuchen mit dir teilen.
+BackExample::: Я хочу поделиться с тобой своим тортом.
+FrontExample2::: Teilen Sie Ihre Gedanken mit uns.
+BackExample2::: Поделитесь своими мыслями с нами.
+Tags:::  chatgpt 
+guid::: t_#BU4mn,Z

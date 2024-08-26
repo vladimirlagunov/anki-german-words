@@ -1,0 +1,8 @@
+Word::: Mut
+WordTranslation::: vужество, храбрость
+DerDieDas::: der
+Plural::: —
+FrontExample::: Er hat den Mut gefunden, die Wahrheit zu sagen.
+BackExample::: Он нашел в себе мужество сказать правду.
+Tags:::  chatgpt 
+guid::: F95~|AYKps

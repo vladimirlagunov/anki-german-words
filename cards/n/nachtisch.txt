@@ -1,0 +1,8 @@
+Word::: Nachtisch
+WordTranslation::: десерт
+DerDieDas::: der
+Plural::: Nachtische
+FrontExample::: Was gibt es zum Nachtisch?
+BackExample::: Что на десерт?
+Tags:::  chatgpt 
+guid::: b=Xm}gBn]s

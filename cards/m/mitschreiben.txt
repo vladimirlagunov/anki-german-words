@@ -1,5 +1,6 @@
 Word::: mitschreiben
 WordTranslation::: делать записи
+Explanation::: <ul><li><strong class="spoiler">Schreiben</strong>: Основное значение: писать. Пример:<ul><li>Ich schreibe einen Brief. (Я пишу письмо.)</li></ul></li><li><strong class="spoiler">Ausschreiben</strong>: Основное значение: писать что-то полностью, целиком или официально объявлять. Примеры:<ul><li>Sie hat das ganze Wort ausgeschrieben. (Она написала все слово целиком.)</li><li>Die Stelle wurde offiziell ausgeschrieben. (Вакансия была официально объявлена.)</li></ul></li><li><strong class="spoiler">Aufschreiben</strong>: Основное значение: записывать что-то, фиксировать на бумаге. Пример: Ich muss mir deine Telefonnummer aufschreiben. (Мне нужно записать твой номер телефона.)</li><li><strong class="spoiler">Mitschreiben</strong>: Основное значение: записывать что-то вместе с кем-то или параллельно с чем-то (например, на лекции). Пример: Während der Vorlesung mitschreiben. (Записывать во время лекции.)</li></ul>
 DrittenPerson::: schreibt mit
 Perfekt::: haben mitgeschrieben
 Präteritum::: schrieb mit

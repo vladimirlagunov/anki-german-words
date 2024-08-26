@@ -1,0 +1,12 @@
+Word::: Versehen
+WordTranslation::: недосмотр, неосторожность
+DerDieDas::: das
+Plural::: Versehen
+FrontExample::: Das war ein Versehen.
+BackExample::: Это было недоразумение.
+FrontExample2::: Entschuldigen Sie bitte das Versehen.
+BackExample2::: Пожалуйста, извините за ошибку.
+FrontExample3::: Das war aus Versehen.
+BackExample3::: Это было по неосторожности.
+Tags:::  chatgpt 
+guid::: H6SNE@mS6o

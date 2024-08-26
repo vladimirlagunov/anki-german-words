@@ -1,5 +1,6 @@
 Word::: gelangen
 WordTranslation::: достигать, добираться
+Explanation::: <ul><li><div><b class="spoiler">erreichen</b>&nbsp;—&nbsp;это слово обычно используется для выражения достижения какой-либо цели, места или уровня. Оно подходит для конкретных, измеримых достижений.</div></li><li><div><b class="spoiler">gelangen</b>&nbsp;— Это слово чаще всего используется в контексте достижения места или состояния, часто с намёком на процесс или путешествие.</div></li><li><strong class="spoiler">ankommen</strong>&nbsp;— обычно используется для указания на прибытие в место или достижение цели, но с акцентом на завершение путешествия или процесса.</li><li><strong class="spoiler">erzielen</strong>&nbsp;— используется, когда речь идёт о достижении результатов, особенно в спорте или в других областях, где результаты можно измерить.</li></ul>
 DrittenPerson::: gelangt
 Perfekt::: sein gelangt
 Präteritum::: gelangte
@@ -8,6 +9,6 @@ BackExample::: Как мне добраться до вокзала?
 FrontExample2::: Nach vielen Jahren harter Arbeit ist es ihm gelungen, sein eigenes Unternehmen zu gründen.
 BackExample2::: После многих лет упорной работы ему удалось основать собственную компанию.
 FrontExample3::: Die vertraulichen Dokumente sollten nicht in falsche Hände gelangen.
-BackExample3::: Конфиденциальные документы не должны попасть в чужие руки.
+BackExample3::: Конфиденциальные документы не должны достигнуть чужих рук.&nbsp;
 Tags:::  chatgpt 
 guid::: Hk}f$`baA;

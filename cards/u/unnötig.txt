@@ -1,0 +1,11 @@
+Word::: unnötig
+WordTranslation::: ненужный, излишний
+Explanation::: <ul><li><strong class="spoiler">überflüssig</strong>&nbsp;чаще означает что-то избыточное, то, чего слишком много или что превышает норму или потребность. Это слово подразумевает наличие чего-то сверх необходимого. Например: "Diese Information ist überflüssig" (Эта информация избыточна).</li><li><strong class="spoiler">unnötig</strong>&nbsp;подразумевает нечто абсолютно ненужное, не приносящее пользы или значение в конкретной ситуации. Это слово скорее подчеркивает полное отсутствие необходимости в чем-либо. Например: "Es war unnötig, so früh zu kommen" (Было ненужно приходить так рано).</li><li><strong class="spoiler">entbehrlich</strong>&nbsp;— что-то, без чего можно обойтись, что не является обязательным.</li><li><strong class="spoiler">überzählig</strong>&nbsp;— лишний, превышающий нужное количество.</li></ul>
+FrontExample::: Das war eine unnötige Ausgabe.
+BackExample::: Это была ненужная трата.
+FrontExample2::: Er hat viele unnötige Details hinzugefügt.
+BackExample2::: Он добавил много ненужных деталей.
+FrontExample3::: Mach dir keine unnötigen Sorgen.
+BackExample3::: Не беспокойся без нужды.
+Tags:::  chatgpt 
+guid::: u}{nk/8z*c

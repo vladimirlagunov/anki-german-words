@@ -1,0 +1,8 @@
+Word::: Tagesablauf
+WordTranslation::: распорядок дня, режим дня
+DerDieDas::: der
+Plural::: Tagesabläufe
+FrontExample::: Im Urlaub habe ich keinen festen Tagesablauf.
+BackExample::: В отпуске у меня нет фиксированного распорядка дня.
+Tags:::  chatgpt 
+guid::: PZ2z^D&LU#

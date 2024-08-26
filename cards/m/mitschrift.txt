@@ -1,0 +1,12 @@
+Word::: Mitschrift
+WordTranslation::: <ul><li>конспект</li><li>протокол</li></ul>
+DerDieDas::: die
+Plural::: Mitschriften
+FrontExample::: Die Studenten verglichen ihre Mitschrift nach dem Vortrag.
+BackExample::: Студенты сверили свои конспекты после лекции.
+FrontExample2::: Die Mitschrift des Protokolls ist unerlässlich.
+BackExample2::: Запись протокола необходима.
+FrontExample3::: Sie fertigte eine genaue Mitschrift der Sitzung an.
+BackExample3::: Она составила подробный конспект заседания.
+Tags:::  chatgpt 
+guid::: D6x])n0nhs

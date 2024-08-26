@@ -1,0 +1,11 @@
+Word::: auskennen
+WordTranslation::: разбираться
+DrittenPerson::: kennt aus
+Perfekt::: haben ausgekannt
+Präteritum::: kannte aus
+FrontExample::: Er kennt sich gut in der Stadt aus.
+BackExample::: Он хорошо ориентируется в городе.
+FrontExample2::: Sie kennt sich mit Computern aus.
+BackExample2::: Она разбирается в компьютерах.
+Tags:::  chatgpt 
+guid::: jE!y64Cg@K

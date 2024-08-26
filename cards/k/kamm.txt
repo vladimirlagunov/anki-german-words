@@ -1,0 +1,10 @@
+Word::: Kamm
+WordTranslation::: <div><ul><li>расчёска</li><li>гребень</li></ul></div>
+DerDieDas::: der
+Plural::: Kämme
+FrontExample::: Ich brauche einen Kamm, um meine Haare zu kämmen.
+BackExample::: Мне нужен гребень, чтобы причесать волосы.
+FrontExample2::: Der Hahn stolzierte mit buntem Kamm über den Hof.
+BackExample2::: Петух горделиво ходил по двору с пестрым гребнем.
+Tags:::  chatgpt 
+guid::: z<_*z`2;5[

@@ -1,0 +1,6 @@
+Word::: Windschutzscheibe
+WordTranslation::: лобовое стекло
+DerDieDas::: die
+Plural::: Windschutzscheiben
+Tags:::  chatgpt 
+guid::: Ir`19{dr{=

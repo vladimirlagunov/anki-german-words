@@ -1,5 +1,6 @@
 Word::: erreichen
 WordTranslation::: <ul><li>достигать, добираться, получать</li><li>дозваниваться по телефону</li></ul>
+Explanation::: <ul><li><div><b class="spoiler">erreichen</b>&nbsp;—&nbsp;это слово обычно используется для выражения достижения какой-либо цели, места или уровня. Оно подходит для конкретных, измеримых достижений.</div></li><li><div><b class="spoiler">gelangen</b>&nbsp;— Это слово чаще всего используется в контексте достижения места или состояния, часто с намёком на процесс или путешествие.</div></li><li><strong class="spoiler">ankommen</strong>&nbsp;— обычно используется для указания на прибытие в место или достижение цели, но с акцентом на завершение путешествия или процесса.</li><li><strong class="spoiler">erzielen</strong>&nbsp;— используется, когда речь идёт о достижении результатов, особенно в спорте или в других областях, где результаты можно измерить.</li></ul>
 FrontExample::: Du kannst mich unter dieser Nummer erreichen.
 BackExample::: Ты можешь связаться со мной по этому номеру.
 FrontExample2::: Ich habe mein Ziel erreicht.

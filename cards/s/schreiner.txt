@@ -1,0 +1,12 @@
+Word::: Schreiner
+WordTranslation::: <div>столяр, плотник</div>
+DerDieDas::: der
+Plural::: Schreiner
+FrontExample::: Der Schreiner hat einen neuen Tisch für uns gemacht.
+BackExample::: Плотник сделал для нас новый стол.
+FrontExample2::: Ich brauche einen Schreiner, um meine Fensterrahmen zu reparieren.
+BackExample2::: Мне нужен плотник, чтобы починить оконные рамы.
+FrontExample3::: Mein Bruder arbeitet als Schreiner in einer Möbelfabrik.
+BackExample3::: Мой брат работает плотником на мебельной фабрике.
+Tags:::  chatgpt 
+guid::: x!7nr-#E)q

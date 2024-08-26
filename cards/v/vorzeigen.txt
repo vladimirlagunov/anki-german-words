@@ -6,6 +6,6 @@ Präteritum::: zeigte vor
 FrontExample::: Bitte Ihren Ausweis vorzeigen.
 BackExample::: Пожалуйста, предъявите ваш удостоверение личности.
 FrontExample2::: Sie müssen Ihre Eintrittskarte vorzeigen.
-BackExample2::: Вы должны показать ваш билет.
+BackExample2::: Вы должны показать ваш входной билет.
 Tags:::  chatgpt 
 guid::: tzu+.<;Pli

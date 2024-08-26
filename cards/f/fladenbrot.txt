@@ -1,0 +1,8 @@
+Word::: Fladenbrot
+WordTranslation::: лепёшка, лаваш
+DerDieDas::: das
+Plural::: Fladenbrote
+FrontExample::: Wir haben Fladenbrot beim Picknick gegessen.
+BackExample::: Мы ели лепешку на пикнике.
+Tags:::  chatgpt 
+guid::: jA00tIz<4`

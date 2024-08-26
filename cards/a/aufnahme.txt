@@ -1,0 +1,12 @@
+Word::: Aufnahme
+WordTranslation::: <ul><li>съёмка, запись, заметка</li><li>приёмная, ресепшн</li><li>приём гостя, проживание</li><li>принятие чего-то нового, реакция на что-то новое</li><li>начало</li></ul>
+DerDieDas::: die
+Plural::: Aufnahmen
+FrontExample::: Aufnahme ins Krankenhaus war dringend notwendig.
+BackExample::: Госпитализация была срочно необходима.
+FrontExample2::: Die Aufnahme des neuen Mitarbeiters verlief reibungslos.
+BackExample2::: Принятие нового сотрудника прошло гладко.
+FrontExample3::: Die Aufnahme des Konzerts hat eine hervorragende Qualität.
+BackExample3::: Запись концерта имеет отличное качество.
+Tags:::  chatgpt 
+guid::: Q0jj@{M,@E

@@ -1,0 +1,13 @@
+Word::: bergen
+WordTranslation::: <ul><li>спасать</li><li>скрывать в себе содержать</li></ul>
+DrittenPerson::: birgt
+Perfekt::: haben geborgen
+Präteritum::: barg
+FrontExample::: Der Bergungstrupp konnte das verschüttete Dorf bergen.
+BackExample::: Спасательная группа смогла спасти засыпанную деревню.
+FrontExample2::: Das alte Schloss birgt viele Geheimnisse.
+BackExample2::: Старый замок скрывает много тайн.
+FrontExample3::: In den Höhlen können sich seltene Tierarten bergen.
+BackExample3::: В пещерах могут находиться редкие виды животных.
+Tags:::  chatgpt 
+guid::: EsZ`tr&8fv

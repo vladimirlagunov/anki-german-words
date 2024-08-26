@@ -1,0 +1,10 @@
+Word::: sowas
+WordTranslation::: что-то вроде того, что-то подобное, такое
+FrontExample::: Ich habe noch nie sowas gesehen.
+BackExample::: Я никогда не видел ничего подобного.
+FrontExample2::: Sowas gefällt mir.
+BackExample2::: Такое мне нравится.
+FrontExample3::: Warum machst du immer sowas?
+BackExample3::: Почему ты всегда делаешь такое?
+Tags:::  chatgpt 
+guid::: pA~lrXul9;

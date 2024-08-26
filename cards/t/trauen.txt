@@ -1,0 +1,14 @@
+Word::: trauen
+WordTranslation::: <ul><li>осмеливаться</li><li>венчаться, доверяться друг другу</li></ul>
+Explanation::: <div><b>Осмеливаться:</b></div><div><ul><li><strong class="spoiler">trauen</strong>&nbsp;– это глагол, который часто используется в значении "доверять" или "верить". Однако, в другом контексте, "sich trauen" означает "осмелиться" или "поощрять себя что-то сделать", подразумевая преодоление внутренних сомнений или страхов. Например, "Ich traue mich nicht, das zu tun" переводится как "Я не осмеливаюсь это сделать".</li><li><strong class="spoiler">wagen</strong>&nbsp;– этот глагол используется в более общем смысле "рисковать" или "осмеливаться". Это слово подразумевает предприятие действий с возможным риском или неопределённостью. Например, "Er wagte es, gegen den Chef zu sprechen" переводится как "Он осмелился высказаться против начальника".</li></ul></div><div><b><br></b></div><div><b>Доверять:</b></div><ul><li><strong class="spoiler">trauen</strong>&nbsp;— это глагол, который означает "доверять", но в более узком смысле, чем&nbsp;<strong>vertrauen</strong>. Он чаще всего используется в контексте бракосочетания, где переводится как "венчать" или "женить". Например, "Sie trauen sich morgen" переводится как "Они женятся завтра". Также&nbsp;<strong>trauen</strong>&nbsp;может употребляться в значении "осмеливаться" или "решаться". Например, "Er traut sich nicht, es zu machen" — "Он не осмеливается это сделать".</li><li><strong class="spoiler">vertrauen</strong>&nbsp;— это глагол, означающий "доверять" в более широком смысле. Он используется для выражения доверия к кому-то или чему-то в целом. Например, "Ich vertraue dir" переводится как "Я тебе доверяю". Этот глагол также может употребляться с предлогом&nbsp;<strong>auf</strong>&nbsp;в значении "полагаться на". Например, "Ich vertraue auf seine Hilfe" — "Я полагаюсь на его помощь".</li></ul>
+DrittenPerson::: traut
+Perfekt::: haben getraut
+Präteritum::: traute
+FrontExample::: Ich kann ihm nicht trauen.
+BackExample::: Я не могу ему доверять.
+FrontExample2::: Wir haben beschlossen, bald zu heiraten und uns gegenseitig zu trauen.
+BackExample2::: Мы решили скоро пожениться и довериться друг другу.
+FrontExample3::: Traue dich und mache den ersten Schritt!
+BackExample3::: Дерзай и сделай первый шаг!
+Tags:::  chatgpt 
+guid::: dB!BmA^3Xs

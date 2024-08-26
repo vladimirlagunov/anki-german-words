@@ -1,0 +1,10 @@
+Word::: Tag
+WordTranslation::: <ul><li>день</li><li>сутки</li></ul>
+DerDieDas::: der
+Plural::: Tage
+FrontExample::: Ich wünsche dir einen schönen Tag.
+BackExample::: Желаю тебе хорошего дня.
+FrontExample2::: Ich komme für den ganzen Tag.
+BackExample2::: Я приду на весь день.
+Tags:::  chatgpt 
+guid::: Fvk^QM?n:E

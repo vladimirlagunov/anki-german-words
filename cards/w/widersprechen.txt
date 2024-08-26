@@ -1,0 +1,13 @@
+Word::: widersprechen
+WordTranslation::: противоречить, перечить, возражать
+DrittenPerson::: widerspricht
+Perfekt::: haben widersprochen
+Präteritum::: widersprach
+FrontExample::: Er hat mir sofort widersprochen.
+BackExample::: Он сразу же мне возразил.
+FrontExample2::: Ich muss dir widersprechen, das stimmt einfach nicht.
+BackExample2::: Я должен тебе возразить, это просто не так.
+FrontExample3::: Es ist gefährlich, dem Chef zu widersprechen.
+BackExample3::: Опасно возражать начальнику.
+Tags:::  chatgpt 
+guid::: LCOAdGpc6+

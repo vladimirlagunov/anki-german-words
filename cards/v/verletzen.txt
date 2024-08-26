@@ -1,8 +1,8 @@
 Word::: verletzen
-WordTranslation::: <ul><li>ранить</li>
-<li>навредить, обидеть, ранить</li>
-<li>нарушать</li>
+WordTranslation::: <ul><li>ранить, травмировать</li>
+<li>обидеть</li>
 </ul>
+Explanation::: <li><strong class="spoiler">verletzen an</strong>&nbsp;(чаще в физическом контексте, например, "sich an etwas verletzen" — пораниться о что-то)</li><li><strong class="spoiler">verletzen&nbsp;</strong><strong>durch</strong>&nbsp;(обычно указывает на причину, например, "verletzt durch einen Unfall" — раненный в результате аварии)</li><li><strong class="spoiler">verletzen&nbsp;</strong><strong>in</strong>&nbsp;(выражает эмоциональную рану, например, "in seinen Gefühlen verletzt" — обижен в своих чувствах)</li>
 DrittenPerson::: verletzt
 Perfekt::: haben verletzt
 Präteritum::: verletzte

@@ -1,0 +1,13 @@
+Word::: schiefgehen
+WordTranslation::: идти наперекосяк, не получаться
+DrittenPerson::: geht schief
+Perfekt::: sein schiefgegangen
+Präteritum::: ging schief
+FrontExample::: Der Plan ist schiefgegangen.
+BackExample::: План пошел наперекосяк.
+FrontExample2::: Was kann schiefgehen, wird schiefgehen.
+BackExample2::: Что может пойти не так, пойдет не так.
+FrontExample3::: Das Experiment ist schiefgegangen.
+BackExample3::: Эксперимент провалился.
+Tags:::  chatgpt 
+guid::: D~kNg]Wxr<

@@ -1,0 +1,11 @@
+Word::: Inhalt
+WordTranslation::: содержание, содержимое
+DerDieDas::: der
+Plural::: Inhalte
+FrontExample::: Der Inhalt der Flasche ist Wasser.
+BackExample::: Содержимое бутылки – вода.
+FrontExample2::: Ich habe den Inhalt der E-Mail nicht verstanden.
+
+BackExample2::: Я не понял содержание электронного письма.
+Tags:::  chatgpt 
+guid::: id&Ebl)/}U

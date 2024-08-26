@@ -1,0 +1,13 @@
+Word::: übergeben
+WordTranslation::: <ul><li>передавать, вручать, доверять, вверять</li><li>тошнить</li></ul>
+DrittenPerson::: übergibt
+Perfekt::: haben übergeben
+Präteritum::: übergab
+FrontExample::: Er hat das Geschenk an seine Freundin übergeben.
+BackExample::: Он передал подарок своей девушке.
+FrontExample2::: Die Kontrolle wurde gestern offiziell übergeben.
+BackExample2::: Контроль был официально передан вчера.
+FrontExample3::: Ich habe übergeben.
+BackExample3::: Меня стошнило.
+Tags:::  chatgpt 
+guid::: mX7H-f}eE(

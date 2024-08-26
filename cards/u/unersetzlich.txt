@@ -1,0 +1,6 @@
+Word::: unersetzlich
+WordTranslation::: незаменимый, бесценный
+FrontExample::: Deine Unterstützung war unersetzlich.
+BackExample::: Твоя поддержка была незаменима.
+Tags:::  chatgpt 
+guid::: L.?_Z>!]*Q

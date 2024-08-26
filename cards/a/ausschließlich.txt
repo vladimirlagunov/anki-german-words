@@ -1,0 +1,8 @@
+Word::: ausschließlich
+WordTranslation::: исключительно
+FrontExample::: Das Restaurant serviert ausschließlich vegetarische Gerichte.
+BackExample::: Ресторан подает исключительно вегетарианские блюда.
+FrontExample2::: Dieser Bereich ist ausschließlich für Mitarbeiter zugänglich.
+BackExample2::: Эта зона доступна исключительно для сотрудников.
+Tags:::  chatgpt 
+guid::: m|U+)?<|PZ

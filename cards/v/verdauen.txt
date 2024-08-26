@@ -1,0 +1,11 @@
+Word::: verdauen
+WordTranslation::: переваривать, усваивать (еду, информацию)
+DrittenPerson::: verdaut
+Perfekt::: haben verdaut
+Präteritum::: verdaute
+FrontExample::: Er braucht Zeit, um das Essen zu verdauen.
+BackExample::: Ему нужно время, чтобы переварить еду.
+FrontExample2::: Es ist schwer, diese traurigen Nachrichten zu verdauen.
+BackExample2::: Трудно переварить эти печальные новости.
+Tags:::  chatgpt 
+guid::: G)|(1>I_u*

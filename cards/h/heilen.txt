@@ -1,0 +1,11 @@
+Word::: heilen
+WordTranslation::: лечить, исцелять
+DrittenPerson::: heilt
+Perfekt::: haben geheilt
+Präteritum::: heilte
+FrontExample::: Die Salbe hilft, die Wunde schneller zu heilen.
+BackExample::: Мазь помогает ране быстрее заживать.
+FrontExample2::: Der Arzt konnte ihn von seiner Krankheit heilen.
+BackExample2::: Врач смог вылечить его от болезни.
+Tags:::  chatgpt 
+guid::: ooU`E/d^AT

@@ -1,0 +1,13 @@
+Word::: klopfen
+WordTranslation::: <ul><li>стучать</li><li>хлопать</li><li>выбивать, колотить,&nbsp;толкать</li></ul>
+DrittenPerson::: klopft
+Perfekt::: haben geklopft
+Präteritum::: klopfte
+FrontExample::: Er klopfte an die Tür.
+BackExample::: Он постучал в дверь.
+FrontExample2::: Mein Herz klopft schnell.
+BackExample2::: Моё сердце быстро стучит.
+FrontExample3::: Warum klopfst du auf den Tisch?
+BackExample3::: Зачем ты стучишь по столу?
+Tags:::  chatgpt 
+guid::: xq>BgJ8WZ)

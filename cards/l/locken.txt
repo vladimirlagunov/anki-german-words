@@ -1,0 +1,13 @@
+Word::: locken
+WordTranslation::: <ul><li>завивать</li><li>манить, привлекать</li></ul>
+DrittenPerson::: lockt
+Perfekt::: haben gelockt
+Präteritum::: lockte
+FrontExample::: Das Angebot lockte viele Kunden an.
+BackExample::: Предложение привлекло много клиентов.
+FrontExample2::: Der Duft von frisch gebackenem Brot lockte ihn in die Bäckerei.
+BackExample2::: Запах свежевыпеченного хлеба заманил его в пекарню.
+FrontExample3::: Die Aussicht auf ein Abenteuer lockte ihn in die Ferne.
+BackExample3::: Возможность приключения заманила его в дальние края.
+Tags:::  chatgpt 
+guid::: D^R{.(Jmb0

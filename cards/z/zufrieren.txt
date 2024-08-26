@@ -1,0 +1,11 @@
+Word::: zufrieren
+WordTranslation::: замерзать
+DrittenPerson::: friert zu
+Perfekt::: sein zugefroren
+Präteritum::: fror zu
+FrontExample::: Die Rohre können zufrieren, wenn es sehr kalt ist.
+BackExample::: Трубы могут замерзнуть, если очень холодно.
+FrontExample2::: Im Winter kann die Windschutzscheibe des Autos zufrieren.
+BackExample2::: Зимой лобовое стекло автомобиля может замерзнуть
+Tags:::  chatgpt 
+guid::: qs.w4_]M$n

@@ -1,5 +1,5 @@
 Word::: zahlreich
-WordTranslation::: Многочисленные
+WordTranslation::: многочисленный
 FrontExample::: Die Gäste sind zahlreich gekommen.
 BackExample::: Гости пришли в большом количестве.
 FrontExample2::: Es gibt zahlreiche Beispiele für gute Zusammenarbeit.

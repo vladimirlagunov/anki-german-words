@@ -1,0 +1,10 @@
+Word::: Nesthocker
+WordTranslation::: домосед (уничижительно)
+DerDieDas::: der
+Plural::: Nesthocker
+FrontExample::: Viele Nesthocker bleiben bis ins hohe Alter bei ihren Eltern wohnen.
+BackExample::: Многие домоседы остаются жить у своих родителей до преклонного возраста.
+FrontExample2::: In unserer Gesellschaft gibt es immer mehr Nesthocker.
+BackExample2::: В нашем обществе появляется все больше домоседов.
+Tags:::  chatgpt 
+guid::: O-Gd^K2;T.

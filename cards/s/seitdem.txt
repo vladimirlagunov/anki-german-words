@@ -1,0 +1,6 @@
+Word::: seitdem
+WordTranslation::: с тех пор, с того времени
+FrontExample::: Er lebt in Berlin, seitdem er die Schule abgeschlossen hat.
+BackExample::: Он живет в Берлине с тех пор, как он закончил школу.
+Tags:::  chatgpt 
+guid::: w-zfEG#(u]

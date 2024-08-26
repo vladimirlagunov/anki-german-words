@@ -1,0 +1,10 @@
+Word::: gegen
+WordTranslation::: <ul><li>против</li><li>напротив</li><li>около указанного времени</li></ul>
+FrontExample::: Fahr nicht gegen den Baum!
+BackExample::: Не врезайся в дерево!
+FrontExample2::: Wer spielt gegen wen?
+BackExample2::: Кто играет против кого?
+FrontExample3::: Wir treffen uns gegen Mittag.
+BackExample3::: Мы встречаемся около полудня.
+Tags:::  A1 chatgpt 
+guid::: O`ng3qnz}@

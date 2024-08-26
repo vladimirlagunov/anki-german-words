@@ -1,0 +1,11 @@
+Word::: ehren
+WordTranslation::: чтить, уважать, почитать
+DrittenPerson::: ehrt
+Perfekt::: haben geehrt
+Präteritum::: ehrte
+FrontExample::: Wir ehren unsere Lehrer für ihre harte Arbeit.
+BackExample::: Мы чтим наших учителей за их усердный труд.
+FrontExample2::: Das Denkmal wurde errichtet, um den Helden des Krieges zu ehren.
+BackExample2::: Памятник был воздвигнут, чтобы почтить героев войны.
+Tags:::  chatgpt 
+guid::: K#;{kriZ?A

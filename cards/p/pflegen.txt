@@ -1,7 +1,12 @@
 Word::: pflegen
 WordTranslation::: ухаживать
+Explanation::: <ul><li><div><strong class="spoiler">pflegen</strong>&nbsp;— Этот глагол чаще всего используется в контексте ухода за кем-то или чем-то, особенно когда речь идет о медицинском уходе или заботе о больных. Также&nbsp;<strong>pflegen</strong>&nbsp;может употребляться в смысле "поддерживать" или "соблюдать", например, традиции.</div></li><li><div><strong class="spoiler">sorgen</strong>&nbsp;— Глагол означает заботу в широком смысле, включая предоставление или обеспечение того, что необходимо для благополучия кого-то или чего-то. Он также может использоваться в контексте беспокойства или волнения.</div></li><li><div><strong class="spoiler">kümmern</strong>&nbsp;— Этот глагол более специфичен и часто используется с предлогом&nbsp;<strong>um</strong>, что означает активную заботу или внимание к кому-то или чему-то. Он подчеркивает непосредственное участие в процессе ухода или помощи.</div></li></ul>
 DrittenPerson::: pflegt
 Perfekt::: haben gepflegt
 Präteritum::: pflegte
-Tags::: 
+FrontExample::: Ich pflege meinen Garten regelmäßig.
+BackExample::: Я регулярно ухаживаю за своим садом.
+FrontExample2::: Sie pflegt ihre kranke Mutter zu Hause.
+BackExample2::: Она ухаживает за своей больной матерью дома.
+Tags:::  chatgpt 
 guid::: J7<E^=O-N4

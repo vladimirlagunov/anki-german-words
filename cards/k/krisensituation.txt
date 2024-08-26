@@ -1,0 +1,6 @@
+Word::: Krisensituation
+WordTranslation::: кризисная ситуация
+DerDieDas::: die
+Plural::: Krisensituationen
+Tags:::  chatgpt 
+guid::: rqV=(^@vM.

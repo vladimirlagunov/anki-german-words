@@ -1,0 +1,8 @@
+Word::: Grenze
+WordTranslation::: граница
+DerDieDas::: die
+Plural::: Grenzen
+FrontExample::: Die Grenze zwischen den Ländern ist gut bewacht.
+BackExample::: Граница между странами хорошо охраняется.
+Tags:::  chatgpt 
+guid::: K<1RG]QPl*

@@ -1,0 +1,8 @@
+Word::: Rentner
+WordTranslation::: пенсионер
+DerDieDas::: der
+Plural::: Rentner
+FrontExample::: Die Rentner in unserer Stadt bekommen eine gute Rente.
+BackExample::: Пенсионеры в нашем городе получают хорошую пенсию.
+Tags:::  chatgpt 
+guid::: w~qGGiV@lT

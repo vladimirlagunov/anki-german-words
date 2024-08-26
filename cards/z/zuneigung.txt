@@ -1,0 +1,8 @@
+Word::: Zuneigung
+WordTranslation::: привязанность, симпатия, любовь
+DerDieDas::: die
+Plural::: Zuneigungen
+FrontExample::: Er zeigte seine Zuneigung zu ihr durch kleine Aufmerksamkeiten.
+BackExample::: Он проявлял свою привязанность к ней через мелкие знаки внимания.
+Tags:::  chatgpt 
+guid::: B756?V-%:c

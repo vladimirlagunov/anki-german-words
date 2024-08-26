@@ -1,0 +1,11 @@
+Word::: miauen
+WordTranslation::: мяукать
+DrittenPerson::: miaut
+Perfekt::: haben miaut
+Präteritum::: miaute
+FrontExample::: Die Katze miaut jeden Morgen.
+BackExample::: Кошка мяукает каждое утро.
+FrontExample2::: Wenn sie hungrig ist, beginnt sie laut zu miauen.
+BackExample2::: Когда она голодна, она начинает громко мяукать.
+Tags:::  chatgpt 
+guid::: Q!s}mR.GhI

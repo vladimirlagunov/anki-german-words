@@ -1,0 +1,10 @@
+Word::: Griff
+WordTranslation::: рукоятка, ручка, хват
+DerDieDas::: der
+Plural::: Griffe
+FrontExample::: Er hat den Griff der Tür festgehalten.
+BackExample::: Он крепко держал дверную ручку.
+FrontExample2::: Sie verlor den Griff ihrer Handtasche.
+BackExample2::: Она потеряла ручку своей сумочки.
+Tags:::  chatgpt 
+guid::: QZn}k%tTda

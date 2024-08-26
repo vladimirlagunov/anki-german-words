@@ -1,0 +1,8 @@
+Word::: heruntermachen
+WordTranslation::: обругать, унизить
+FrontExample::: Er hat mich vor allen Leuten heruntergemacht.
+BackExample::: Он меня при всех унизил.
+FrontExample2::: Sie fühlte sich verletzt, als ihr Chef sie heruntergemacht hat.
+BackExample2::: Она почувствовала себя оскорбленной, когда её начальник её обругал.
+Tags:::  chatgpt 
+guid::: OBE,)L1|;[

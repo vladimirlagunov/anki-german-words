@@ -1,0 +1,11 @@
+Word::: anbauen
+WordTranslation::: <ul><li>выращивать, возделывать</li><li>пристраивать</li></ul>
+DrittenPerson::: baut an
+Perfekt::: haben angebaut
+Präteritum::: baute an
+FrontExample::: Wir wollen nächsten Frühling Gemüse im Garten anbauen.
+BackExample::: Мы хотим следующей весной выращивать овощи в саду.
+FrontExample2::: Sie haben beschlossen, ein zusätzliches Zimmer an das Haus anzubauen.
+BackExample2::: Они решили пристроить дополнительную комнату к дому.
+Tags:::  chatgpt 
+guid::: AQJPFxgx_B

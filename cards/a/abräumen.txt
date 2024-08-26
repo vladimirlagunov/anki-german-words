@@ -1,0 +1,14 @@
+Word::: abräumen
+WordTranslation::: <ul><li>убирать посуду</li><li>расчищать, убирать лишние предметы</li><li>выиграть приз (разг.)</li></ul>
+Explanation::: Обычно используется при описании уборки еды со стола.
+DrittenPerson::: räumt ab
+Perfekt::: haben abgeräumt
+Präteritum::: räumte ab
+FrontExample::: Ich werde den Tisch nach dem Essen abräumen.
+BackExample::: Я уберу со стола после еды.
+FrontExample2::: Er hat alle Preise bei dem Wettbewerb abgeräumt.
+BackExample2::: Он забрал(обчистил) все призы на конкурсе.
+FrontExample3::: Nach der Party mussten wir die Reste vom Buffet abräumen.
+BackExample3::: После вечеринки нам пришлось убирать остатки с фуршета.
+Tags:::  chatgpt 
+guid::: dYp7UXG7y(

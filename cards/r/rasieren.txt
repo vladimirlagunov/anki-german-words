@@ -1,0 +1,11 @@
+Word::: rasieren
+WordTranslation::: <div>брить</div>
+DrittenPerson::: rasiert
+Perfekt::: haben rasiert
+Präteritum::: rasierte
+FrontExample::: Ich rasiere mich jeden Morgen.
+BackExample::: Я бреюсь каждое утро.
+FrontExample2::: Er lässt sich im Friseursalon rasieren.
+BackExample2::: Он бреется в парикмахерской.
+Tags:::  chatgpt 
+guid::: r*d7q:UP{^

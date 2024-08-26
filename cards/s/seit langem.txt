@@ -1,0 +1,10 @@
+Word::: seit langem
+WordTranslation::: с давних пор
+FrontExample::: Ich habe dich seit langem nicht gesehen.
+BackExample::: Я давно тебя не видел.
+FrontExample2::: Wir planen diese Reise seit langem.
+BackExample2::: Мы давно планируем это путешествие.
+FrontExample3::: Sie arbeitet seit langem in dieser Firma.
+BackExample3::: Она давно работает в этой компании.
+Tags:::  chatgpt 
+guid::: OTi5yl,lBN

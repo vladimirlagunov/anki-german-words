@@ -1,0 +1,9 @@
+Word::: föhnen
+WordTranslation::: сушить феном
+DrittenPerson::: föhnt
+Perfekt::: haben geföhnt
+Präteritum::: föhnte
+FrontExample::: Ich föhne mir jeden Morgen die Haare.
+BackExample::: Я сушу волосы феном каждое утро.
+Tags:::  chatgpt 
+guid::: L$jYdSP(;$

@@ -1,0 +1,6 @@
+Word::: Zentrale
+WordTranslation::: головной офис
+DerDieDas::: die
+Plural::: Zentralen
+Tags::: 
+guid::: e%xW7sp}5P

@@ -1,0 +1,10 @@
+Word::: heimlich
+WordTranslation::: тайный, скрытый, секретный
+FrontExample::: Er hat heimlich das Haus verlassen.
+BackExample::: Он тайно покинул дом.
+FrontExample2::: Sie trafen sich heimlich im Park.
+BackExample2::: Они встретились тайком в парке.
+FrontExample3::: Das Kind naschte heimlich Schokolade.
+BackExample3::: Ребенок тайком ел шоколад.
+Tags:::  chatgpt 
+guid::: coa]B!fhZz

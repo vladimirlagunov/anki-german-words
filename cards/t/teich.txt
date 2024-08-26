@@ -1,0 +1,12 @@
+Word::: Teich
+WordTranslation::: пруд
+DerDieDas::: der
+Plural::: Teiche
+FrontExample::: Ein Frosch sprang in den Teich.
+BackExample::: Лягушка прыгнула в пруд.
+FrontExample2::: Wir gehen oft am Teich spazieren.
+BackExample2::: Мы часто гуляем у пруда.
+FrontExample3::: Im Winter friert der Teich zu.
+BackExample3::: Зимой пруд замерзает.
+Tags:::  chatgpt 
+guid::: esz^*yk2-y

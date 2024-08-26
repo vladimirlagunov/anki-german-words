@@ -1,0 +1,8 @@
+Word::: Asche
+WordTranslation::: пепел
+DerDieDas::: die
+Plural::: Aschen
+FrontExample::: Asche ist das, was vom Feuer übrig bleibt.
+BackExample::: Пепел — это то, что остается от огня.
+Tags:::  chatgpt 
+guid::: L%f/[fl4AV

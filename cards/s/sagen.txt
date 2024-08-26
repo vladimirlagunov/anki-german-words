@@ -1,0 +1,14 @@
+Word::: sagen
+WordTranslation::: <ul>
+<li>говорить</li>
+<li>сказать</li>
+</ul>
+DrittenPerson::: sagt
+Perfekt::: haben gesagt
+Präteritum::: sagte
+FrontExample::: Sag mal, wie geht es dir denn?
+BackExample::: Скажи, как у тебя дела?
+FrontExample2::: Ich sage meinen Eltern "Guten Morgen".
+BackExample2::: Я говорю своим родителям "Доброе утро".
+Tags:::  A1 chatgpt 
+guid::: sl%P8HQ089

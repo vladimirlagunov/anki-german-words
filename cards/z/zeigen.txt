@@ -1,15 +1,15 @@
 Word::: zeigen
-WordTranslation::: <ul><li>показывать, указывать</li>
-<li>продемонстрировать</li>
-</ul>
+WordTranslation::: <ul><li>показывать, указывать</li><li>проявлять,&nbsp;демонстрировать</li></ul>
 DrittenPerson::: zeigt
 Perfekt::: haben gezeigt
 Präteritum::: zeigte
-FrontExample::: Zeig mir bitte deine Hausaufgaben.
-BackExample::: Покажи мне свою домашнюю работу, пожалуйста.
-FrontExample2::: Der Bahnhof ist nicht weit entfernt. Ich zeige Ihnen den Weg.
-BackExample2::: Вокзал находится недалеко. Я покажу вам дорогу.
-FrontExample3::: Der Film wurde gezeigt.
-BackExample3::: Фильм был показан.
-Tags::: 
-guid::: uXwCD)US=k
+FrontExample::: Darf ich Ihnen meine Briefmarkensammlung zeigen?
+BackExample::: Могу я показать вам свою коллекцию марок?
+FrontExample2::: Untersuchungen aus China zeigen, dass Raucher auch häufiger schwer an Covid-19 erkranken.
+
+BackExample2::: Исследования, проведенные в Китае, показывают, что курильщики также чаще серьезно болеют Covid-19.
+
+FrontExample3::: Sie zeigte auf die Stelle, wo der Reifen ein Loch hatte.
+BackExample3::: Она указала на место, где прокололась шина.
+Tags:::  chatgpt 
+guid::: 9.B50p#EW

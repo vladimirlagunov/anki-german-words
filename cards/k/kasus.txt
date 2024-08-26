@@ -1,0 +1,11 @@
+Word::: Kasus
+WordTranslation::: <ul>
+<li>падеж</li>
+<li>происшествие</li>
+</ul>
+DerDieDas::: der
+Plural::: Kasus
+FrontExample::: Im Deutschen gibt es vier Kasus: Nominativ, Genitiv, Dativ und Akkusativ.
+BackExample::: В немецком языке существует четыре падежа: именительный, родительный, дательный и винительный.
+Tags:::  chatgpt 
+guid::: NoqiOrf~_@

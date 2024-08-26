@@ -1,0 +1,9 @@
+Word::: kauen
+WordTranslation::: жевать
+DrittenPerson::: kaut
+Perfekt::: haben gekaut
+Präteritum::: kaute
+FrontExample::: Ich kaue langsam, um mein Essen besser zu verdauen.
+BackExample::: Я жую медленно, чтобы лучше переваривать еду.
+Tags:::  chatgpt 
+guid::: h>V>y|OkQw

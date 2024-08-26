@@ -1,0 +1,11 @@
+Word::: abstempeln
+WordTranslation::: <ul><li>ставить штамп</li><li>клеймить</li></ul>
+DrittenPerson::: stempelt ab
+Perfekt::: haben abgestempelt
+Präteritum::: stempelte ab
+FrontExample::: Das Dokument wurde abgestempelt.
+BackExample::: Документ был проштампован.
+FrontExample2::: Sie stempeln ihn als faul ab.
+BackExample2::: Они заклеймили его как ленивого.
+Tags:::  chatgpt 
+guid::: kyALYe@t|O

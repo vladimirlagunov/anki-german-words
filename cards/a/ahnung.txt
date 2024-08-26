@@ -1,0 +1,12 @@
+Word::: Ahnung
+WordTranslation::: догадка, предчувствие
+DerDieDas::: die
+Plural::: Ahnungen
+FrontExample::: Ich habe keine Ahnung, wo mein Schlüssel ist.
+BackExample::: Я не имею ни малейшего понятия, где мой ключ.
+FrontExample2::: Er hat eine Ahnung, was passiert sein könnte.
+BackExample2::: У него есть предположение, что могло произойти.
+FrontExample3::: Sie hatte eine dunkle Ahnung, dass etwas nicht stimmte.
+BackExample3::: У нее было смутное предчувствие, что что-то не так.
+Tags:::  chatgpt 
+guid::: OX1Z6Q?@`/

@@ -1,0 +1,13 @@
+Word::: daheimbleiben
+WordTranslation::: остаться дома
+DrittenPerson::: bleibt daheim
+Perfekt::: sein daheimgeblieben
+Präteritum::: blieb daheim
+FrontExample::: Ich wollte heute daheimbleiben, weil ich krank bin.
+BackExample::: Я хотел сегодня остаться дома, потому что я болен.
+FrontExample2::: Manchmal ist es besser, einfach daheimzubleiben und zu entspannen.
+BackExample2::: Иногда лучше просто остаться дома и расслабиться.
+FrontExample3::: Wenn das Wetter schlecht ist, bleibe ich lieber daheim.
+BackExample3::: Когда погода плохая, я предпочитаю оставаться дома.
+Tags:::  chatgpt 
+guid::: bbnz+&Qp2+

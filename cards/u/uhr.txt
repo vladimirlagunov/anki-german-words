@@ -1,5 +1,5 @@
 Word::: Uhr
-WordTranslation::: час
+WordTranslation::: <ul><li>час</li><li>часы (наручные, настенные, ...)</li></ul>
 DerDieDas::: die
 Plural::: Uhren
 FrontExample::: Es ist 3 Uhr nachmittags.

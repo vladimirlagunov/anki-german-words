@@ -1,0 +1,13 @@
+Word::: vergessen
+WordTranslation::: забыть, забывать
+DrittenPerson::: vergisst
+Perfekt::: haben vergessen
+Präteritum::: vergaß
+FrontExample::: Ich habe den Termin vergessen.
+BackExample::: Я забыл о встрече.
+FrontExample2::: Vergiss nicht, das Licht auszuschalten.
+BackExample2::: Не забудь выключить свет.
+FrontExample3::: Er hat seine Schlüssel zu Hause vergessen.
+BackExample3::: Он забыл свои ключи дома.
+Tags:::  chatgpt 
+guid::: B!I)5L?QM8

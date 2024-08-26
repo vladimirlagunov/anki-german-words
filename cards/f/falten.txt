@@ -6,6 +6,6 @@ Präteritum::: faltete
 FrontExample::: Er kann ein Papierflugzeug falten.
 BackExample::: Он умеет складывать бумажный самолётик.
 FrontExample2::: Die Oma kann wegen der Arthritis ihre Hände nicht mehr richtig falten.
-BackExample2::: Бабушка из-за артрита не может правильно сгибать руки.
+BackExample2::: Бабушка из-за артрита больше не может правильно сгибать руки.
 Tags:::  chatgpt 
 guid::: L+)vJD+@<N

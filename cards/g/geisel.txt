@@ -1,6 +1,6 @@
 Word::: Geisel
 WordTranslation::: заложник
-DerDieDas::: der – заложник<br>die – заложница
+DerDieDas::: der/die
 Plural::: Geisel – заложницы<br>Geiseln – заложники
 FrontExample::: Die Terroristen nahmen mehrere Geiseln in der Botschaft.
 BackExample::: Террористы захватили несколько заложников в посольстве.

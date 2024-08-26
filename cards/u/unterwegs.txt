@@ -1,0 +1,8 @@
+Word::: unterwegs
+WordTranslation::: в пути, в дороге
+FrontExample::: Ich bin gerade unterwegs nach Hause.
+BackExample::: Я сейчас в пути домой.
+FrontExample2::: Unterwegs kann man viele tolle Gelegenheiten entdecken.
+BackExample2::: В дороге можно обнаружить много отличных возможностей.
+Tags:::  chatgpt 
+guid::: e;Jl}_QfAY

@@ -1,0 +1,8 @@
+Word::: Wirbelsäule
+WordTranslation::: <div>позвоночник</div>
+DerDieDas::: die
+Plural::: Wirbelsäulen
+FrontExample::: Die Yoga-Übungen stärken die Muskeln um die Wirbelsäule herum.
+BackExample::: Упражнения йоги укрепляют мышцы вокруг позвоночника.
+Tags:::  chatgpt 
+guid::: vNHeeH^EjW

@@ -1,0 +1,13 @@
+Word::: stürzen
+WordTranslation::: <ul><li>падать</li><li>набрасываться</li><li>свергать</li></ul>
+DrittenPerson::: stürzt
+Perfekt::: sein gestürzt
+Präteritum::: stürzte
+FrontExample::: Er stürzte von der Leiter.
+BackExample::: Он упал с лестницы.
+FrontExample2::: Die Regierung wurde gestürzt.
+BackExample2::: Правительство было свергнуто.
+FrontExample3::: Der Adler stürzte auf seine Beute herab.
+BackExample3::: Орёл стремительно набросился на свою добычу.
+Tags:::  chatgpt 
+guid::: vc<.0JRR,/

@@ -1,0 +1,13 @@
+Word::: aufheben
+WordTranslation::: <ul><li>поднимать</li><li>отменять</li></ul>
+DrittenPerson::: hebt auf
+Perfekt::: haben aufgehoben
+Präteritum::: hob auf
+FrontExample::: Wir müssen das Papier vom Boden aufheben.
+BackExample::: Нам нужно поднять бумагу с пола.
+FrontExample2::: Der Vertrag wurde offiziell aufgehoben.
+BackExample2::: Договор был официально расторгнут.
+FrontExample3::: Er kann die schwere Kiste leicht aufheben.
+BackExample3::: Он может легко поднять тяжелый ящик.
+Tags:::  chatgpt 
+guid::: vy~zKVd{BX

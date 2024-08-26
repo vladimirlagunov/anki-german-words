@@ -1,0 +1,11 @@
+Word::: gefallen
+WordTranslation::: нравиться, прийтись по душе
+DrittenPerson::: gefällt
+Perfekt::: haben gefallen
+Präteritum::: gefiel
+FrontExample::: Das gefällt mir.
+BackExample::: Мне нравится это.
+FrontExample2::: Die Musik hat ihm sehr gefallen.
+BackExample2::: Музыка ему очень понравилась.
+Tags:::  A1 chatgpt 
+guid::: faOQ^<+%`@

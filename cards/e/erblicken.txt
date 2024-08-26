@@ -1,0 +1,13 @@
+Word::: erblicken
+WordTranslation::: увидеть, заметить, обнаружить
+DrittenPerson::: erblickt
+Perfekt::: haben erblickt
+Präteritum::: erblickte
+FrontExample::: Als sie das Schloss erblickte, war sie sprachlos.
+BackExample::: Когда она увидела замок, она потеряла дар речи.
+FrontExample2::: Er konnte kaum glauben, was er in der Ferne erblickte.
+BackExample2::: Он едва мог поверить в то, что увидел вдали.
+FrontExample3::: Im Licht der Morgensonne habe ich einen Hirsch erblickt.
+BackExample3::: В свете утреннего солнца я увидел оленя.
+Tags:::  chatgpt 
+guid::: Lgz9{r~VCL

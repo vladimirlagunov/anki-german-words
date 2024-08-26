@@ -1,0 +1,8 @@
+Word::: fit
+WordTranslation::: <ul><li>в форме, подтянутый</li><li>способный, пригодный</li></ul>
+FrontExample::: Ich fühle mich fit.
+BackExample::: Я чувствую себя в форме.
+FrontExample2::: Um Marathon zu laufen, muss man fit sein.
+BackExample2::: Чтобы пробежать марафон, нужно быть в форме.
+Tags:::  chatgpt 
+guid::: r}cb?C`S*6

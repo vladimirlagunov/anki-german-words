@@ -1,0 +1,10 @@
+Word::: Tomate
+WordTranslation::: <div>помидор, томат</div>
+DerDieDas::: die
+Plural::: Tomaten
+FrontExample::: Die Tomate ist noch grün.
+BackExample::: Помидор еще зелёный.
+FrontExample2::: Ich kaufe eine Tomate.
+BackExample2::: Я покупаю помидор.
+Tags:::  A1 chatgpt 
+guid::: bw/`3c|k#[

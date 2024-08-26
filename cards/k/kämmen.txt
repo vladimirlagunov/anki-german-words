@@ -1,0 +1,9 @@
+Word::: kämmen
+WordTranslation::: расчесывать
+DrittenPerson::: kämmt
+Perfekt::: haben gekämmt
+Präteritum::: kämmte
+FrontExample::: Ich kämme mir jeden Morgen die Haare.
+BackExample::: Я расчёсываю волосы каждое утро.
+Tags:::  chatgpt 
+guid::: rL@fLEWF-{

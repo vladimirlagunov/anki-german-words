@@ -1,0 +1,8 @@
+Word::: Gebühr
+WordTranslation::: <div>плата, пошлина, сбор</div>
+DerDieDas::: die
+Plural::: Gebühren
+FrontExample::: Die Gebühr für die Mitgliedschaft beträgt 50 Euro pro Jahr.
+BackExample::: Плата за членство составляет 50 евро в год.
+Tags:::  chatgpt 
+guid::: npmhnVY0j+

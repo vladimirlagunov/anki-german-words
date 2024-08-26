@@ -1,0 +1,8 @@
+Word::: fair
+WordTranslation::: справедливый, честный, порядочный
+FrontExample::: Das ist ein fairer Handel.
+BackExample::: Это честная сделка.
+FrontExample2::: Er hat fair gespielt.
+BackExample2::: Он играл по-честному.
+Tags:::  chatgpt 
+guid::: E^p2B]L%c2

@@ -1,0 +1,10 @@
+Word::: Haken
+WordTranslation::: <ul><li>крюк</li><li>уступ</li><li>подвох, загвоздка</li></ul>
+DerDieDas::: der
+Plural::: Haken
+FrontExample::: Hast du den Haken gesehen?
+BackExample::: Ты видел крюк?
+FrontExample2::: Es gibt einen Haken an dem Vertrag.
+BackExample2::: В этом контракте есть подвох.
+Tags:::  chatgpt 
+guid::: or2dGI5^Ty

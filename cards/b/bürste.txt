@@ -1,0 +1,12 @@
+Word::: Bürste
+WordTranslation::: щетка, кисть
+DerDieDas::: die
+Plural::: Bürsten
+FrontExample::: Bürste, die, den Teppich sauber macht.
+BackExample::: Щетка, которая чистит ковер.
+FrontExample2::: Ich habe eine neue Zahnbürste gekauft.
+BackExample2::: Я купил новую зубную щетку.
+FrontExample3::: Er benutzt eine weiche Bürste für sein Haar.
+BackExample3::: Он пользуется мягкой щеткой для волос.
+Tags:::  chatgpt 
+guid::: gO-xklD+at

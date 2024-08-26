@@ -5,7 +5,7 @@ Plural::: Fächer
 FrontExample::: Er ist Professor im Fach Mathematik.
 BackExample::: Он профессор по специальности математика.
 FrontExample2::: Bitte legen Sie die Unterlagen in das richtige Fach.
-BackExample2::: Пожалуйста, положите документы в соответствующую ячейку.
+BackExample2::: Пожалуйста, положите документы в правильную ячейку.
 FrontExample3::: Er spielt die Hauptrolle in einem Fach, das perfekt zu ihm passt.
 BackExample3::: Он играет главную роль в жанре, который ему идеально подходит.
 Tags:::  chatgpt 

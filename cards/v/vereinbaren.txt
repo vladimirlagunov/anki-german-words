@@ -1,5 +1,6 @@
 Word::: vereinbaren
 WordTranslation::: договариваться, согласовывать
+Explanation::: <ul><li><strong class="spoiler">verabreden</strong>&nbsp;- это договориться о встрече, обычно в неформальном контексте. Это слово используется, когда два человека или группа друзей договариваются о встрече для общения, похода в кино, на ужин и т.д. Например: "Wir haben uns verabredet, um ins Kino zu gehen" (Мы договорились пойти в кино).</li><li><strong class="spoiler">vereinbaren</strong>&nbsp;- более формальный термин для описания договорённости или установления условий соглашения. Это слово часто используется в деловой среде или когда требуется чёткая договорённость. Например: "Wir haben ein Treffen für nächste Woche vereinbart" (Мы договорились о встрече на следующую неделю).</li></ul>
 DrittenPerson::: vereinbart
 Perfekt::: haben vereinbart
 Präteritum::: vereinbarte

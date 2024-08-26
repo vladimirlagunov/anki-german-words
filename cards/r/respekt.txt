@@ -1,0 +1,10 @@
+Word::: Respekt
+WordTranslation::: уважение
+DerDieDas::: der
+Plural::: —
+FrontExample::: Er zeigte Respekt vor den älteren Menschen.
+BackExample::: Он проявил уважение к пожилым людям.
+FrontExample2::: Respekt muss man sich verdienen.
+BackExample2::: Уважение нужно заслужить.
+Tags:::  chatgpt 
+guid::: D[G(%#^1p

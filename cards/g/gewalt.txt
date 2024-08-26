@@ -1,0 +1,12 @@
+Word::: Gewalt
+WordTranslation::: насилие, власть, сила
+DerDieDas::: die
+Plural::: Gewalten
+FrontExample::: Er verurteilt jegliche Form von Gewalt.
+BackExample::: Он осуждает любую форму насилия.
+FrontExample2::: Die Gewalt in der Stadt nimmt zu.
+BackExample2::: Насилие в городе растет.
+FrontExample3::: Er hat seine Probleme ohne Gewalt gelöst.
+BackExample3::: Он решил свои проблемы без насилия.
+Tags:::  chatgpt 
+guid::: QZ_(a4|ak8

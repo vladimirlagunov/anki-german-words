@@ -1,0 +1,10 @@
+Word::: Anliegen
+WordTranslation::: <ul><li>дело</li><li>запрос, обращение, просьба</li></ul>
+DerDieDas::: das
+Plural::: Anliegen
+FrontExample::: Ich habe ein wichtiges Anliegen.
+BackExample::: У меня есть важное дело.
+FrontExample2::: Könnten Sie mir bei meinem Anliegen helfen?
+BackExample2::: Могли бы вы помочь мне с моим делом?
+Tags:::  chatgpt 
+guid::: GsL]lpq{zr

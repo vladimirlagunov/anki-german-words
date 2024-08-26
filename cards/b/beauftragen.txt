@@ -2,7 +2,7 @@ Word::: beauftragen
 WordTranslation::: <ul><li>поручать</li>
 <li>нанимать</li>
 </ul>
-Explanation::: Syn: übertragen, einstellen, betrauen
+Explanation::: <ul><li><div><strong class="spoiler">engagieren</strong>&nbsp;часто используется в смысле "нанимать" или "привлекать". Это слово может применяться для описания процесса найма артиста, специалиста или иного исполнителя для выполнения определённой работы или участия в проекте. Например, нанимать музыканта для концерта или актёра для роли в театре. Пример использования: Wir haben einen Fotografen für die Hochzeit&nbsp;<strong>engagiert</strong>. (Мы наняли фотографа на свадьбу.)</div></li><li><div><strong class="spoiler">beauftragen</strong>&nbsp;означает "поручать" или "давать задание", это слово обычно применяется, когда кто-то поручает выполнение определённой работы или проекта. Это может быть официальное поручение или заказ услуги. Пример использования: Ich habe ein Unternehmen&nbsp;<strong>beauftragt</strong>, die Reparaturarbeiten durchzuführen. (Я поручил компании выполнить ремонтные работы.)</div></li><li><strong class="spoiler">anstellen</strong>&nbsp;— означает "нанимать на работу", обычно используется в контексте формального трудоустройства.</li><li><strong class="spoiler">verpflichten</strong>&nbsp;— также может означать "нанимать" или "обязывать", часто употребляется в юридических или формальных контекстах, например, когда кто-то обязуется выполнить определённые действия.</li><li><strong class="spoiler">auftragen</strong>&nbsp;— может использоваться в смысле "давать задание", близко по значению к "beauftragen".</li></ul><div></div>
 DrittenPerson::: beauftragt
 Perfekt::: haben beauftragt
 Präteritum::: beauftragte

@@ -1,5 +1,5 @@
 Word::: erscheinen
-WordTranslation::: появляться, казаться, публиковаться, выходить (о книге, журнале)
+WordTranslation::: <ul><li>появляться</li><li>казаться</li><li>публиковаться, выходить (о книге, журнале)</li></ul>
 DrittenPerson::: erscheint
 Perfekt::: sein erschienen
 Präteritum::: erschien

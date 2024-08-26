@@ -1,0 +1,10 @@
+Word::: Begriff
+WordTranslation::: <ul><li>термин</li><li>понимание, представление, понятие</li></ul>
+DerDieDas::: der
+Plural::: Begriffe
+FrontExample::: Wir müssen den Begriff genau definieren.
+BackExample::: Мы должны точно определить этот термин.
+FrontExample2::: Sie hat keinen Begriff davon, wie schwierig das ist.
+BackExample2::: Она не имеет никакого представления о том, насколько это сложно.
+Tags:::  chatgpt 
+guid::: hT{f@Yiy7f

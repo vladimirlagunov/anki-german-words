@@ -1,0 +1,8 @@
+Word::: hinterher
+WordTranslation::: <ul><li>позади</li><li>следом</li></ul>
+FrontExample::: Er rannte ihr hinterher.
+BackExample::: Он побежал за ней.
+FrontExample2::: Wir gehen alle zusammen, und du kommst dann hinterher.
+BackExample2::: Мы идем все вместе, а потом ты придешь следом.
+Tags:::  chatgpt 
+guid::: /l)L&UG|z

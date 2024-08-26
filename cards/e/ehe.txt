@@ -1,0 +1,8 @@
+Word::: Ehe
+WordTranslation::: <div>брак, супружество</div>
+DerDieDas::: die
+Plural::: Ehen
+FrontExample2::: Unsere Ehe war voller Höhen und Tiefen.
+BackExample2::: Наш брак был полон взлетов и падений.
+Tags:::  chatgpt 
+guid::: y@gP*&brg=

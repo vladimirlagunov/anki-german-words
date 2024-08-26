@@ -1,0 +1,13 @@
+Word::: trümmern
+WordTranslation::: разрушать, громить, превращать в груду обломков
+DrittenPerson::: trümmert
+Perfekt::: haben getrümmert
+Präteritum::: trümmerte
+FrontExample::: Die Gebäude wurden in Schutt und Asche getrümmert.
+BackExample::: Здания были разрушены в пух и прах.
+FrontExample2::: Er hat das alte Auto zu einem Haufen Metallschrott getrümmert.
+BackExample2::: Он раздробил старую машину в груду металлолома.
+FrontExample3::: Nach dem Erdbeben war die Stadt völlig getrümmert.
+BackExample3::: После землетрясения город был полностью разрушен
+Tags:::  chatgpt 
+guid::: bjN*5qRSYl

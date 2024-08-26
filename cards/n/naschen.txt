@@ -1,0 +1,13 @@
+Word::: naschen
+WordTranslation::: лакомиться, есть сладости
+DrittenPerson::: nascht
+Perfekt::: haben genascht
+Präteritum::: naschte
+FrontExample::: Er nascht gerne heimlich Schokolade.
+BackExample::: Он любит тайком лакомиться шоколадом.
+FrontExample2::: Sie konnte nicht widerstehen und naschte einige Kekse.
+BackExample2::: Она не смогла устоять и съела несколько печений.
+FrontExample3::: Die Kinder naschen an den Süßigkeiten.
+BackExample3::: Дети лакомятся сладостями.
+Tags:::  chatgpt 
+guid::: RcfotTM!p(

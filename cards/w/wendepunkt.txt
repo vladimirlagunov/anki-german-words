@@ -1,0 +1,8 @@
+Word::: Wendepunkt
+WordTranslation::: переломный момент
+DerDieDas::: der
+Plural::: Wendepunkte
+FrontExample::: Das Buch erreichte seinen Wendepunkt, als der Protagonist die Wahrheit entdeckte.
+BackExample::: Книга достигла своей переломной точки, когда главный герой раскрыл правду.
+Tags:::  chatgpt 
+guid::: F$t4V}i|,T
